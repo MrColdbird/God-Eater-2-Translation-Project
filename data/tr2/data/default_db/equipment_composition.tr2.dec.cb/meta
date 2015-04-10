@@ -1,0 +1,10 @@
+FILE_START,0x0002,0x07DF,equipment_composition
+ARRAY,0,equipment_composition_prize_id,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,1,equipment_composition_article_flag,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,2,equipment_composition_anagura_progress_and,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,3,equipment_composition_anagura_progress_or,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,4,equipment_composition_price,,,0x07DF,INT32,00000000,0001046C,000C007F
+ARRAY,5,equipment_composition_input_article_id,,,0x07DF,INT16,00000000,00050473,000C007F
+ARRAY,6,equipment_composition_input_article_num,,,0x07DF,INT8,00000000,00050463,000C007F
+ARRAY,7,equipment_composition_prize_new_flag,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,8,equipment_composition_is_strict_rules,,,0x07DF,INT8,00000000,00010463,000C007F

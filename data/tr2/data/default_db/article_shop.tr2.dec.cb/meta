@@ -1,0 +1,5 @@
+FILE_START,0x0002,0x07DF,article_shop
+ARRAY,0,article_shop_anagura_progress,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,1,article_shop_purchase_cost,,,0x07DF,INT32,00000000,0001046C,000C007F
+ARRAY,2,article_shop_sort_order,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,3,article_shop_prize_new_flag,,,0x07DF,INT16,00000000,00010473,000C007F

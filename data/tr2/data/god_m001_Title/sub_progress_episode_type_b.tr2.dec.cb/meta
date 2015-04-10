@@ -1,0 +1,10 @@
+FILE_START,0x0002,0x07DF,sub_progress_episode_type_b
+ARRAY,0,sub_progress_episode_type_b_npc_id,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,1,sub_progress_episode_type_b_main_progress,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,2,sub_progress_episode_type_b_open_type,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,3,sub_progress_episode_type_b_open_times,,,0x07DF,UINT16,00000000,00010453,000C007F
+ARRAY,4,sub_progress_episode_type_b_open_param,,,0x07DF,UINT16,00000000,00010453,000C007F
+ARRAY,5,sub_progress_episode_type_b_mission_before_poly_,,,0x07DF,UINT32,00000000,0001044C,000C007F
+ARRAY,6,sub_progress_episode_type_b_mission_after_poly_i,,,0x07DF,UINT32,00000000,0001044C,000C007F
+ARRAY,7,sub_progress_episode_type_b_anagura_progress,,,0x07DF,UINT32,00000000,0001044C,000C007F
+ARRAY,8,sub_progress_episode_type_b_npc_id_array,,,0x07DF,UINT16,00000000,00020453,000C007F

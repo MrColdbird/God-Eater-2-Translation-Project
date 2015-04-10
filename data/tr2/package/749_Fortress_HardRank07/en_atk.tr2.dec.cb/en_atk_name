@@ -1,0 +1,390 @@
+msgid ""
+"2_OgreTail_Default"
+
+msgstr ""
+"2_OgreTail_Default"
+
+msgid ""
+"2_OgreTail_Oracle_ShotNeedle"
+
+msgstr ""
+"2_OgreTail_Oracle_ShotNeedle"
+
+msgid ""
+"2_OgreTail_Oracle_LobShotNeedle"
+
+msgstr ""
+"2_OgreTail_Oracle_LobShotNeedle"
+
+msgid ""
+"2_OgreTail_Cling_Base"
+
+msgstr ""
+"2_OgreTail_Cling_Base"
+
+msgid ""
+"2_OgreTail_RightTailAttack_Base"
+
+msgstr ""
+"2_OgreTail_RightTailAttack_Base"
+
+msgid ""
+"2_OgreTail_Pounce_Base"
+
+msgstr ""
+"2_OgreTail_Pounce_Base"
+
+msgid ""
+"2_OgreTail_LeftTailAttack_Base"
+
+msgstr ""
+"2_OgreTail_LeftTailAttack_Base"
+
+msgid ""
+"2_OgreTail_Oracle_TailAttackShotNeedle"
+
+msgstr ""
+"2_OgreTail_Oracle_TailAttackShotNeedle"
+
+msgid ""
+"3_CocoonMaiden_Default"
+
+msgstr ""
+"3_CocoonMaiden_Default"
+
+msgid ""
+"3_CocoonMaiden_Oracle_ShotNeedle"
+
+msgstr ""
+"3_CocoonMaiden_Oracle_ShotNeedle"
+
+msgid ""
+"3_CocoonMaiden_Oracle_Beam"
+
+msgstr ""
+"3_CocoonMaiden_Oracle_Beam"
+
+msgid ""
+"3_CocoonMaiden_Oracle_ShotNeedle_Allround"
+
+msgstr ""
+"3_CocoonMaiden_Oracle_ShotNeedle_Allround"
+
+msgid ""
+"3_CocoonMaiden_Oracle_ReflactBeam"
+
+msgstr ""
+"3_CocoonMaiden_Oracle_ReflactBeam"
+
+msgid ""
+"4_AngelEgg_Default"
+
+msgstr ""
+"4_AngelEgg_Default"
+
+msgid ""
+"4_AngelEgg_Oracle_WindShot"
+
+msgstr ""
+"4_AngelEgg_Oracle_WindShot"
+
+msgid ""
+"4_AngelEgg_Oracle_StinkGas"
+
+msgstr ""
+"4_AngelEgg_Oracle_StinkGas"
+
+msgid ""
+"4_AngelEgg_Oracle_StinkGasLob"
+
+msgstr ""
+"4_AngelEgg_Oracle_StinkGasLob"
+
+msgid ""
+"4_AngelEgg_Cling_Base"
+
+msgstr ""
+"4_AngelEgg_Cling_Base"
+
+msgid ""
+"4_AngelEgg_Tackle_Base"
+
+msgstr ""
+"4_AngelEgg_Tackle_Base"
+
+msgid ""
+"5_ManmosMan_Default"
+
+msgstr ""
+"5_ManmosMan_Default"
+
+msgid ""
+"5_ManmosMan_Oracle_Missile_Dash"
+
+msgstr ""
+"5_ManmosMan_Oracle_Missile_Dash"
+
+msgid ""
+"5_ManmosMan_Oracle_Stamp"
+
+msgstr ""
+"5_ManmosMan_Oracle_Stamp"
+
+msgid ""
+"5_ManmosMan_Oracle_Missile_Stamp"
+
+msgstr ""
+"5_ManmosMan_Oracle_Missile_Stamp"
+
+msgid ""
+"5_ManmosMan_Oracle_Tomahawk"
+
+msgstr ""
+"5_ManmosMan_Oracle_Tomahawk"
+
+msgid ""
+"5_ManmosMan_Oracle_Concentration_Missile"
+
+msgstr ""
+"5_ManmosMan_Oracle_Concentration_Missile"
+
+msgid ""
+"5_ManmosMan_Oracle_Diffusion_Missile"
+
+msgstr ""
+"5_ManmosMan_Oracle_Diffusion_Missile"
+
+msgid ""
+"5_ManmosMan_Oracle_Black_Napalm"
+
+msgstr ""
+"5_ManmosMan_Oracle_Black_Napalm"
+
+msgid ""
+"5_ManmosMan_Oracle_Black_Napalm_Tomahawk"
+
+msgstr ""
+"5_ManmosMan_Oracle_Black_Napalm_Tomahawk"
+
+msgid ""
+"5_ManmosMan_Oracle_Homing_Missile"
+
+msgstr ""
+"5_ManmosMan_Oracle_Homing_Missile"
+
+msgid ""
+"5_ManmosMan_Dash_Base"
+
+msgstr ""
+"5_ManmosMan_Dash_Base"
+
+msgid ""
+"5_ManmosMan_Oracle_Shock_Wave"
+
+msgstr ""
+"5_ManmosMan_Oracle_Shock_Wave"
+
+msgid ""
+"5_ManmosMan_First_Dash_Base"
+
+msgstr ""
+"5_ManmosMan_First_Dash_Base"
+
+msgid ""
+"5_ManmosMan_Second_Dash_Base"
+
+msgstr ""
+"5_ManmosMan_Second_Dash_Base"
+
+msgid ""
+"5_ManmosMan_Long_Dash_Base"
+
+msgstr ""
+"5_ManmosMan_Long_Dash_Base"
+
+msgid ""
+"5_ManmosMan_Missile_Dash_Base"
+
+msgstr ""
+"5_ManmosMan_Missile_Dash_Base"
+
+msgid ""
+"5_ManmosMan_Back_Kick_Base"
+
+msgstr ""
+"5_ManmosMan_Back_Kick_Base"
+
+msgid ""
+"5_ManmosMan_Stamp_Base"
+
+msgstr ""
+"5_ManmosMan_Stamp_Base"
+
+msgid ""
+"5_ManmosMan_Missile_Stamp_Base"
+
+msgstr ""
+"5_ManmosMan_Missile_Stamp_Base"
+
+msgid ""
+"5_ManmosMan_Tomahawk_Base"
+
+msgstr ""
+"5_ManmosMan_Tomahawk_Base"
+
+msgid ""
+"5_ManmosMan_Concentration_Missile_Base"
+
+msgstr ""
+"5_ManmosMan_Concentration_Missile_Base"
+
+msgid ""
+"5_ManmosMan_Diffusion_Missile_Base"
+
+msgstr ""
+"5_ManmosMan_Diffusion_Missile_Base"
+
+msgid ""
+"5_ManmosMan_Black_Napalm_Tomahawk_Base"
+
+msgstr ""
+"5_ManmosMan_Black_Napalm_Tomahawk_Base"
+
+msgid ""
+"5_ManmosMan_Homing_Missile_Base"
+
+msgstr ""
+"5_ManmosMan_Homing_Missile_Base"
+
+msgid ""
+"5_ManmosMan_Oracle_Angry_Tomahawk"
+
+msgstr ""
+"5_ManmosMan_Oracle_Angry_Tomahawk"
+
+msgid ""
+"5_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
+
+msgstr ""
+"5_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
+
+msgid ""
+"5_ManmosMan_Oracle_Back_Slide_Missile"
+
+msgstr ""
+"5_ManmosMan_Oracle_Back_Slide_Missile"
+
+msgid ""
+"5_ManmosMan_Move_Default"
+
+msgstr ""
+"5_ManmosMan_Move_Default"
+
+msgid ""
+"5_ManmosMan_Oracle_Super_LongRange_Tomahawk"
+
+msgstr ""
+"5_ManmosMan_Oracle_Super_LongRange_Tomahawk"
+
+msgid ""
+"5_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
+
+msgstr ""
+"5_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
+
+msgid ""
+"6_Devil_Default"
+
+msgstr ""
+"6_Devil_Default"
+
+msgid ""
+"6_Devil_Oracle_StampShockWave"
+
+msgstr ""
+"6_Devil_Oracle_StampShockWave"
+
+msgid ""
+"6_Devil_Oracle_Diffusion_IceShot"
+
+msgstr ""
+"6_Devil_Oracle_Diffusion_IceShot"
+
+msgid ""
+"6_Devil_Oracle_Homing_IceShot"
+
+msgstr ""
+"6_Devil_Oracle_Homing_IceShot"
+
+msgid ""
+"6_Devil_Oracle_Local_IcePillar"
+
+msgstr ""
+"6_Devil_Oracle_Local_IcePillar"
+
+msgid ""
+"6_Devil_Oracle_WideRange_IcePillar_Burst"
+
+msgstr ""
+"6_Devil_Oracle_WideRange_IcePillar_Burst"
+
+msgid ""
+"6_Devil_Kick_Base"
+
+msgstr ""
+"6_Devil_Kick_Base"
+
+msgid ""
+"6_Devil_ArmDispel_Base"
+
+msgstr ""
+"6_Devil_ArmDispel_Base"
+
+msgid ""
+"6_Devil_ArmStamp_Base"
+
+msgstr ""
+"6_Devil_ArmStamp_Base"
+
+msgid ""
+"6_Devil_StampDash_Base"
+
+msgstr ""
+"6_Devil_StampDash_Base"
+
+msgid ""
+"6_Devil_Tackle_Base"
+
+msgstr ""
+"6_Devil_Tackle_Base"
+
+msgid ""
+"6_Devil_DoubleArmStamp_Base"
+
+msgstr ""
+"6_Devil_DoubleArmStamp_Base"
+
+msgid ""
+"6_Devil_WideRange_IcePillar_Stamp_Base"
+
+msgstr ""
+"6_Devil_WideRange_IcePillar_Stamp_Base"
+
+msgid ""
+"6_Devil_BackJump_Base"
+
+msgstr ""
+"6_Devil_BackJump_Base"
+
+msgid ""
+"6_Devil_Move_Base"
+
+msgstr ""
+"6_Devil_Move_Base"
+
+msgid ""
+"1_BoxFish_Default"
+
+msgstr ""
+"1_BoxFish_Default"
+

@@ -1,0 +1,2 @@
+FILE_START,0x0002,0x07DF,oracle_cell_name
+ARRAY,0,oracle_cell_name_name,,,0x07DF,UTF-8,00000000,00010255,000C007F

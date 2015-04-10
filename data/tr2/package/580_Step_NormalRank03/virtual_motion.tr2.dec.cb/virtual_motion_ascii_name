@@ -1,0 +1,936 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_Wani_N_Idle"
+
+msgstr ""
+"2_Wani_N_Idle"
+
+msgid ""
+"2_Wani_N_Walk"
+
+msgstr ""
+"2_Wani_N_Walk"
+
+msgid ""
+"2_Wani_N_JumpToUpland__H"
+
+msgstr ""
+"2_Wani_N_JumpToUpland__H"
+
+msgid ""
+"2_Wani_N_JumpToUpland__M"
+
+msgstr ""
+"2_Wani_N_JumpToUpland__M"
+
+msgid ""
+"2_Wani_N_JumpToUpland__T"
+
+msgstr ""
+"2_Wani_N_JumpToUpland__T"
+
+msgid ""
+"2_Wani_N_JumpFromUpland__H"
+
+msgstr ""
+"2_Wani_N_JumpFromUpland__H"
+
+msgid ""
+"2_Wani_N_JumpFromUpland__M"
+
+msgstr ""
+"2_Wani_N_JumpFromUpland__M"
+
+msgid ""
+"2_Wani_N_JumpFromUpland__T"
+
+msgstr ""
+"2_Wani_N_JumpFromUpland__T"
+
+msgid ""
+"2_Wani_N_TurnLeft"
+
+msgstr ""
+"2_Wani_N_TurnLeft"
+
+msgid ""
+"2_Wani_N_TurnRight"
+
+msgstr ""
+"2_Wani_N_TurnRight"
+
+msgid ""
+"2_Wani_N_LargeTurnLeft"
+
+msgstr ""
+"2_Wani_N_LargeTurnLeft"
+
+msgid ""
+"2_Wani_N_LargeTurnRight"
+
+msgstr ""
+"2_Wani_N_LargeTurnRight"
+
+msgid ""
+"2_Wani_N_Eat"
+
+msgstr ""
+"2_Wani_N_Eat"
+
+msgid ""
+"2_Wani_Appear"
+
+msgstr ""
+"2_Wani_Appear"
+
+msgid ""
+"2_Wani_B_Idle"
+
+msgstr ""
+"2_Wani_B_Idle"
+
+msgid ""
+"2_Wani_B_Dash__H"
+
+msgstr ""
+"2_Wani_B_Dash__H"
+
+msgid ""
+"2_Wani_B_Dash__M"
+
+msgstr ""
+"2_Wani_B_Dash__M"
+
+msgid ""
+"2_Wani_B_Dash__T"
+
+msgstr ""
+"2_Wani_B_Dash__T"
+
+msgid ""
+"2_Wani_B_MoveLongPath__H"
+
+msgstr ""
+"2_Wani_B_MoveLongPath__H"
+
+msgid ""
+"2_Wani_B_MoveLongPath__M"
+
+msgstr ""
+"2_Wani_B_MoveLongPath__M"
+
+msgid ""
+"2_Wani_B_MoveLongPath__T"
+
+msgstr ""
+"2_Wani_B_MoveLongPath__T"
+
+msgid ""
+"2_Wani_B_TurnLeft"
+
+msgstr ""
+"2_Wani_B_TurnLeft"
+
+msgid ""
+"2_Wani_B_TurnRight"
+
+msgstr ""
+"2_Wani_B_TurnRight"
+
+msgid ""
+"2_Wani_B_LargeTurnLeft"
+
+msgstr ""
+"2_Wani_B_LargeTurnLeft"
+
+msgid ""
+"2_Wani_B_LargeTurnRight"
+
+msgstr ""
+"2_Wani_B_LargeTurnRight"
+
+msgid ""
+"2_Wani_B_FindComminate"
+
+msgstr ""
+"2_Wani_B_FindComminate"
+
+msgid ""
+"2_Wani_B_AngryComminate"
+
+msgstr ""
+"2_Wani_B_AngryComminate"
+
+msgid ""
+"2_Wani_B_ChagrinComminate"
+
+msgstr ""
+"2_Wani_B_ChagrinComminate"
+
+msgid ""
+"2_Wani_B_Stagger"
+
+msgstr ""
+"2_Wani_B_Stagger"
+
+msgid ""
+"2_Wani_B_ArmDown__H"
+
+msgstr ""
+"2_Wani_B_ArmDown__H"
+
+msgid ""
+"2_Wani_B_ArmDown__M"
+
+msgstr ""
+"2_Wani_B_ArmDown__M"
+
+msgid ""
+"2_Wani_B_ArmDown__T"
+
+msgstr ""
+"2_Wani_B_ArmDown__T"
+
+msgid ""
+"2_Wani_B_BodyDown__H"
+
+msgstr ""
+"2_Wani_B_BodyDown__H"
+
+msgid ""
+"2_Wani_B_BodyDown__M"
+
+msgstr ""
+"2_Wani_B_BodyDown__M"
+
+msgid ""
+"2_Wani_B_BodyDown__T"
+
+msgstr ""
+"2_Wani_B_BodyDown__T"
+
+msgid ""
+"2_Wani_B_SympathyBind__H"
+
+msgstr ""
+"2_Wani_B_SympathyBind__H"
+
+msgid ""
+"2_Wani_B_SympathyBind__M"
+
+msgstr ""
+"2_Wani_B_SympathyBind__M"
+
+msgid ""
+"2_Wani_B_SympathyBind__T"
+
+msgstr ""
+"2_Wani_B_SympathyBind__T"
+
+msgid ""
+"2_Wani_B_Hold__H"
+
+msgstr ""
+"2_Wani_B_Hold__H"
+
+msgid ""
+"2_Wani_B_Hold__M"
+
+msgstr ""
+"2_Wani_B_Hold__M"
+
+msgid ""
+"2_Wani_B_Hold__T"
+
+msgstr ""
+"2_Wani_B_Hold__T"
+
+msgid ""
+"2_Wani_B_Giddy"
+
+msgstr ""
+"2_Wani_B_Giddy"
+
+msgid ""
+"2_Wani_Dead__H"
+
+msgstr ""
+"2_Wani_Dead__H"
+
+msgid ""
+"2_Wani_Dead__M"
+
+msgstr ""
+"2_Wani_Dead__M"
+
+msgid ""
+"2_Wani_Dead__T"
+
+msgstr ""
+"2_Wani_Dead__T"
+
+msgid ""
+"2_Wani_B_Cling"
+
+msgstr ""
+"2_Wani_B_Cling"
+
+msgid ""
+"2_Wani_B_Cling_Arms"
+
+msgstr ""
+"2_Wani_B_Cling_Arms"
+
+msgid ""
+"2_Wani_B_Cling_Dash_Dash__H"
+
+msgstr ""
+"2_Wani_B_Cling_Dash_Dash__H"
+
+msgid ""
+"2_Wani_B_Cling_Dash_Dash__M"
+
+msgstr ""
+"2_Wani_B_Cling_Dash_Dash__M"
+
+msgid ""
+"2_Wani_B_Cling_Dash_Cling"
+
+msgstr ""
+"2_Wani_B_Cling_Dash_Cling"
+
+msgid ""
+"2_Wani_B_Shot_SmallWaterBall__H"
+
+msgstr ""
+"2_Wani_B_Shot_SmallWaterBall__H"
+
+msgid ""
+"2_Wani_B_Shot_SmallWaterBall__M"
+
+msgstr ""
+"2_Wani_B_Shot_SmallWaterBall__M"
+
+msgid ""
+"2_Wani_B_Shot_SmallWaterBall__T"
+
+msgstr ""
+"2_Wani_B_Shot_SmallWaterBall__T"
+
+msgid ""
+"2_Wani_B_Splash_SmallWaterBall__H"
+
+msgstr ""
+"2_Wani_B_Splash_SmallWaterBall__H"
+
+msgid ""
+"2_Wani_B_Splash_SmallWaterBall__M"
+
+msgstr ""
+"2_Wani_B_Splash_SmallWaterBall__M"
+
+msgid ""
+"2_Wani_B_Go_Berserk__H"
+
+msgstr ""
+"2_Wani_B_Go_Berserk__H"
+
+msgid ""
+"2_Wani_B_Go_Berserk__M"
+
+msgstr ""
+"2_Wani_B_Go_Berserk__M"
+
+msgid ""
+"2_Wani_B_Go_Berserk__T"
+
+msgstr ""
+"2_Wani_B_Go_Berserk__T"
+
+msgid ""
+"2_Wani_B_Splash_AcidFog__H"
+
+msgstr ""
+"2_Wani_B_Splash_AcidFog__H"
+
+msgid ""
+"2_Wani_B_Splash_AcidFog__M"
+
+msgstr ""
+"2_Wani_B_Splash_AcidFog__M"
+
+msgid ""
+"2_Wani_B_BackStep__H"
+
+msgstr ""
+"2_Wani_B_BackStep__H"
+
+msgid ""
+"2_Wani_B_BackStep__M"
+
+msgstr ""
+"2_Wani_B_BackStep__M"
+
+msgid ""
+"2_Wani_B_BackStep__T"
+
+msgstr ""
+"2_Wani_B_BackStep__T"
+
+msgid ""
+"2_Wani_B_Splash_AcidFog_Local__H"
+
+msgstr ""
+"2_Wani_B_Splash_AcidFog_Local__H"
+
+msgid ""
+"2_Wani_B_Splash_AcidFog_Local__M"
+
+msgstr ""
+"2_Wani_B_Splash_AcidFog_Local__M"
+
+msgid ""
+"2_Wani_B_Splash_AcidFog_SmallScale"
+
+msgstr ""
+"2_Wani_B_Splash_AcidFog_SmallScale"
+
+msgid ""
+"2_Wani_B_Fumble"
+
+msgstr ""
+"2_Wani_B_Fumble"
+
+msgid ""
+"3_Crocodile_N_Idle"
+
+msgstr ""
+"3_Crocodile_N_Idle"
+
+msgid ""
+"3_Crocodile_N_Walk"
+
+msgstr ""
+"3_Crocodile_N_Walk"
+
+msgid ""
+"3_Crocodile_N_JumpToUpland__H"
+
+msgstr ""
+"3_Crocodile_N_JumpToUpland__H"
+
+msgid ""
+"3_Crocodile_N_JumpToUpland__M"
+
+msgstr ""
+"3_Crocodile_N_JumpToUpland__M"
+
+msgid ""
+"3_Crocodile_N_JumpToUpland__T"
+
+msgstr ""
+"3_Crocodile_N_JumpToUpland__T"
+
+msgid ""
+"3_Crocodile_N_JumpFromUpland__H"
+
+msgstr ""
+"3_Crocodile_N_JumpFromUpland__H"
+
+msgid ""
+"3_Crocodile_N_JumpFromUpland__M"
+
+msgstr ""
+"3_Crocodile_N_JumpFromUpland__M"
+
+msgid ""
+"3_Crocodile_N_JumpFromUpland__T"
+
+msgstr ""
+"3_Crocodile_N_JumpFromUpland__T"
+
+msgid ""
+"3_Crocodile_N_TurnLeft"
+
+msgstr ""
+"3_Crocodile_N_TurnLeft"
+
+msgid ""
+"3_Crocodile_N_TurnRight"
+
+msgstr ""
+"3_Crocodile_N_TurnRight"
+
+msgid ""
+"3_Crocodile_N_LargeTurnLeft"
+
+msgstr ""
+"3_Crocodile_N_LargeTurnLeft"
+
+msgid ""
+"3_Crocodile_N_LargeTurnRight"
+
+msgstr ""
+"3_Crocodile_N_LargeTurnRight"
+
+msgid ""
+"3_Crocodile_N_Eat"
+
+msgstr ""
+"3_Crocodile_N_Eat"
+
+msgid ""
+"3_Crocodile_Appear"
+
+msgstr ""
+"3_Crocodile_Appear"
+
+msgid ""
+"3_Crocodile_B_Idle"
+
+msgstr ""
+"3_Crocodile_B_Idle"
+
+msgid ""
+"3_Crocodile_B_Dash__H"
+
+msgstr ""
+"3_Crocodile_B_Dash__H"
+
+msgid ""
+"3_Crocodile_B_Dash__M"
+
+msgstr ""
+"3_Crocodile_B_Dash__M"
+
+msgid ""
+"3_Crocodile_B_Dash__T"
+
+msgstr ""
+"3_Crocodile_B_Dash__T"
+
+msgid ""
+"3_Crocodile_B_MoveLongPath__H"
+
+msgstr ""
+"3_Crocodile_B_MoveLongPath__H"
+
+msgid ""
+"3_Crocodile_B_MoveLongPath__M"
+
+msgstr ""
+"3_Crocodile_B_MoveLongPath__M"
+
+msgid ""
+"3_Crocodile_B_MoveLongPath__T"
+
+msgstr ""
+"3_Crocodile_B_MoveLongPath__T"
+
+msgid ""
+"3_Crocodile_B_TurnLeft"
+
+msgstr ""
+"3_Crocodile_B_TurnLeft"
+
+msgid ""
+"3_Crocodile_B_TurnRight"
+
+msgstr ""
+"3_Crocodile_B_TurnRight"
+
+msgid ""
+"3_Crocodile_B_LargeTurnLeft"
+
+msgstr ""
+"3_Crocodile_B_LargeTurnLeft"
+
+msgid ""
+"3_Crocodile_B_LargeTurnRight"
+
+msgstr ""
+"3_Crocodile_B_LargeTurnRight"
+
+msgid ""
+"3_Crocodile_B_FindComminate"
+
+msgstr ""
+"3_Crocodile_B_FindComminate"
+
+msgid ""
+"3_Crocodile_B_AngryComminate"
+
+msgstr ""
+"3_Crocodile_B_AngryComminate"
+
+msgid ""
+"3_Crocodile_B_ChagrinComminate"
+
+msgstr ""
+"3_Crocodile_B_ChagrinComminate"
+
+msgid ""
+"3_Crocodile_B_Stagger"
+
+msgstr ""
+"3_Crocodile_B_Stagger"
+
+msgid ""
+"3_Crocodile_B_Down_Foot__H"
+
+msgstr ""
+"3_Crocodile_B_Down_Foot__H"
+
+msgid ""
+"3_Crocodile_B_Down_Foot__M"
+
+msgstr ""
+"3_Crocodile_B_Down_Foot__M"
+
+msgid ""
+"3_Crocodile_B_Down_Foot__T"
+
+msgstr ""
+"3_Crocodile_B_Down_Foot__T"
+
+msgid ""
+"3_Crocodile_B_Hold__H"
+
+msgstr ""
+"3_Crocodile_B_Hold__H"
+
+msgid ""
+"3_Crocodile_B_Hold__M"
+
+msgstr ""
+"3_Crocodile_B_Hold__M"
+
+msgid ""
+"3_Crocodile_B_Hold__T"
+
+msgstr ""
+"3_Crocodile_B_Hold__T"
+
+msgid ""
+"3_Crocodile_B_Giddy"
+
+msgstr ""
+"3_Crocodile_B_Giddy"
+
+msgid ""
+"3_Crocodile_Dead__H"
+
+msgstr ""
+"3_Crocodile_Dead__H"
+
+msgid ""
+"3_Crocodile_Dead__M"
+
+msgstr ""
+"3_Crocodile_Dead__M"
+
+msgid ""
+"3_Crocodile_Dead__T"
+
+msgstr ""
+"3_Crocodile_Dead__T"
+
+msgid ""
+"3_Crocodile_Fumble"
+
+msgstr ""
+"3_Crocodile_Fumble"
+
+msgid ""
+"3_Crocodile_ShortDashBite"
+
+msgstr ""
+"3_Crocodile_ShortDashBite"
+
+msgid ""
+"3_Crocodile_TailHalfTurn"
+
+msgstr ""
+"3_Crocodile_TailHalfTurn"
+
+msgid ""
+"3_Crocodile_SlidingBiteTurn__H"
+
+msgstr ""
+"3_Crocodile_SlidingBiteTurn__H"
+
+msgid ""
+"3_Crocodile_SlidingBiteTurn__M"
+
+msgstr ""
+"3_Crocodile_SlidingBiteTurn__M"
+
+msgid ""
+"3_Crocodile_SlidingBiteTurn__T"
+
+msgstr ""
+"3_Crocodile_SlidingBiteTurn__T"
+
+msgid ""
+"3_Crocodile_SlidingBiteTurnFail__H"
+
+msgstr ""
+"3_Crocodile_SlidingBiteTurnFail__H"
+
+msgid ""
+"3_Crocodile_SlidingBiteTurnFail__M"
+
+msgstr ""
+"3_Crocodile_SlidingBiteTurnFail__M"
+
+msgid ""
+"3_Crocodile_SlidingBiteTurnFail__T"
+
+msgstr ""
+"3_Crocodile_SlidingBiteTurnFail__T"
+
+msgid ""
+"3_Crocodile_ThunderTornado"
+
+msgstr ""
+"3_Crocodile_ThunderTornado"
+
+msgid ""
+"3_Crocodile_ThunderTornadoSmall"
+
+msgstr ""
+"3_Crocodile_ThunderTornadoSmall"
+
+msgid ""
+"3_Crocodile_ElectricBite"
+
+msgstr ""
+"3_Crocodile_ElectricBite"
+
+msgid ""
+"3_Crocodile_Bite"
+
+msgstr ""
+"3_Crocodile_Bite"
+
+msgid ""
+"3_Crocodile_BackAway"
+
+msgstr ""
+"3_Crocodile_BackAway"
+
+msgid ""
+"3_Crocodile_AngryBackAway"
+
+msgstr ""
+"3_Crocodile_AngryBackAway"
+
+msgid ""
+"3_Crocodile_Lightning"
+
+msgstr ""
+"3_Crocodile_Lightning"
+
+msgid ""
+"3_Crocodile_SparkPounce__H"
+
+msgstr ""
+"3_Crocodile_SparkPounce__H"
+
+msgid ""
+"3_Crocodile_SparkPounce__M"
+
+msgstr ""
+"3_Crocodile_SparkPounce__M"
+
+msgid ""
+"3_Crocodile_SparkPounce__T"
+
+msgstr ""
+"3_Crocodile_SparkPounce__T"
+
+msgid ""
+"3_Crocodile_TailSlam"
+
+msgstr ""
+"3_Crocodile_TailSlam"
+

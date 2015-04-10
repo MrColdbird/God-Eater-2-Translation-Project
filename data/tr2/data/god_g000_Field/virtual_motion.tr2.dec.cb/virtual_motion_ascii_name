@@ -1,0 +1,5160 @@
+# 0
+msgid ""
+"Scorpion_N_Idle"
+
+# 0
+msgstr ""
+"Scorpion_N_Idle"
+
+# 1
+msgid ""
+"Scorpion_N_Walk"
+
+# 1
+msgstr ""
+"Scorpion_N_Walk"
+
+# 2
+msgid ""
+"Scorpion_N_JumpToUpland__H"
+
+# 2
+msgstr ""
+"Scorpion_N_JumpToUpland__H"
+
+# 3
+msgid ""
+"Scorpion_N_JumpToUpland__M"
+
+# 3
+msgstr ""
+"Scorpion_N_JumpToUpland__M"
+
+# 4
+msgid ""
+"Scorpion_N_JumpToUpland__T"
+
+# 4
+msgstr ""
+"Scorpion_N_JumpToUpland__T"
+
+# 5
+msgid ""
+"Scorpion_N_JumpFromUpland__H"
+
+# 5
+msgstr ""
+"Scorpion_N_JumpFromUpland__H"
+
+# 6
+msgid ""
+"Scorpion_N_JumpFromUpland__M"
+
+# 6
+msgstr ""
+"Scorpion_N_JumpFromUpland__M"
+
+# 7
+msgid ""
+"Scorpion_N_JumpFromUpland__T"
+
+# 7
+msgstr ""
+"Scorpion_N_JumpFromUpland__T"
+
+# 8
+msgid ""
+"Scorpion_N_TurnLeft"
+
+# 8
+msgstr ""
+"Scorpion_N_TurnLeft"
+
+# 9
+msgid ""
+"Scorpion_N_TurnRight"
+
+# 9
+msgstr ""
+"Scorpion_N_TurnRight"
+
+# 10
+msgid ""
+"Scorpion_N_LargeTurnLeft"
+
+# 10
+msgstr ""
+"Scorpion_N_LargeTurnLeft"
+
+# 11
+msgid ""
+"Scorpion_N_LargeTurnRight"
+
+# 11
+msgstr ""
+"Scorpion_N_LargeTurnRight"
+
+# 12
+msgid ""
+"Scorpion_N_Eat"
+
+# 12
+msgstr ""
+"Scorpion_N_Eat"
+
+# 13
+msgid ""
+"Scorpion_Appear"
+
+# 13
+msgstr ""
+"Scorpion_Appear"
+
+# 14
+msgid ""
+"Scorpion_B_Idle"
+
+# 14
+msgstr ""
+"Scorpion_B_Idle"
+
+# 15
+msgid ""
+"Scorpion_B_Dash__H"
+
+# 15
+msgstr ""
+"Scorpion_B_Dash__H"
+
+# 16
+msgid ""
+"Scorpion_B_Dash__M"
+
+# 16
+msgstr ""
+"Scorpion_B_Dash__M"
+
+# 17
+msgid ""
+"Scorpion_B_Dash__T"
+
+# 17
+msgstr ""
+"Scorpion_B_Dash__T"
+
+# 18
+msgid ""
+"Scorpion_B_JumpToBossUpland"
+
+# 18
+msgstr ""
+"Scorpion_B_JumpToBossUpland"
+
+# 19
+msgid ""
+"Scorpion_B_JumpFromBossUpland"
+
+# 19
+msgstr ""
+"Scorpion_B_JumpFromBossUpland"
+
+# 20
+msgid ""
+"Scorpion_B_MoveLongPath__H"
+
+# 20
+msgstr ""
+"Scorpion_B_MoveLongPath__H"
+
+# 21
+msgid ""
+"Scorpion_B_MoveLongPath__M"
+
+# 21
+msgstr ""
+"Scorpion_B_MoveLongPath__M"
+
+# 22
+msgid ""
+"Scorpion_B_MoveLongPath__T"
+
+# 22
+msgstr ""
+"Scorpion_B_MoveLongPath__T"
+
+# 23
+msgid ""
+"Scorpion_B_TurnLeft"
+
+# 23
+msgstr ""
+"Scorpion_B_TurnLeft"
+
+# 24
+msgid ""
+"Scorpion_B_TurnRight"
+
+# 24
+msgstr ""
+"Scorpion_B_TurnRight"
+
+# 25
+msgid ""
+"Scorpion_B_LargeTurnLeft"
+
+# 25
+msgstr ""
+"Scorpion_B_LargeTurnLeft"
+
+# 26
+msgid ""
+"Scorpion_B_LargeTurnRight"
+
+# 26
+msgstr ""
+"Scorpion_B_LargeTurnRight"
+
+# 27
+msgid ""
+"Scorpion_B_DriftLeft"
+
+# 27
+msgstr ""
+"Scorpion_B_DriftLeft"
+
+# 28
+msgid ""
+"Scorpion_B_DriftRight"
+
+# 28
+msgstr ""
+"Scorpion_B_DriftRight"
+
+# 29
+msgid ""
+"Scorpion_B_FindComminate"
+
+# 29
+msgstr ""
+"Scorpion_B_FindComminate"
+
+# 30
+msgid ""
+"Scorpion_B_AngryComminate"
+
+# 30
+msgstr ""
+"Scorpion_B_AngryComminate"
+
+# 31
+msgid ""
+"Scorpion_B_ChagrinComminate"
+
+# 31
+msgstr ""
+"Scorpion_B_ChagrinComminate"
+
+# 32
+msgid ""
+"Scorpion_B_Stagger"
+
+# 32
+msgstr ""
+"Scorpion_B_Stagger"
+
+# 33
+msgid ""
+"Scorpion_B_Forefoot__H"
+
+# 33
+msgstr ""
+"Scorpion_B_Forefoot__H"
+
+# 34
+msgid ""
+"Scorpion_B_Forefoot__M"
+
+# 34
+msgstr ""
+"Scorpion_B_Forefoot__M"
+
+# 35
+msgid ""
+"Scorpion_B_Forefoot__T"
+
+# 35
+msgstr ""
+"Scorpion_B_Forefoot__T"
+
+# 36
+msgid ""
+"Scorpion_B_Hindfoot__H"
+
+# 36
+msgstr ""
+"Scorpion_B_Hindfoot__H"
+
+# 37
+msgid ""
+"Scorpion_B_Hindfoot__M"
+
+# 37
+msgstr ""
+"Scorpion_B_Hindfoot__M"
+
+# 38
+msgid ""
+"Scorpion_B_Hindfoot__T"
+
+# 38
+msgstr ""
+"Scorpion_B_Hindfoot__T"
+
+# 39
+msgid ""
+"Scorpion_B_Hold__H"
+
+# 39
+msgstr ""
+"Scorpion_B_Hold__H"
+
+# 40
+msgid ""
+"Scorpion_B_Hold__M"
+
+# 40
+msgstr ""
+"Scorpion_B_Hold__M"
+
+# 41
+msgid ""
+"Scorpion_B_Hold__T"
+
+# 41
+msgstr ""
+"Scorpion_B_Hold__T"
+
+# 42
+msgid ""
+"Scorpion_B_Giddy"
+
+# 42
+msgstr ""
+"Scorpion_B_Giddy"
+
+# 43
+msgid ""
+"Scorpion_Dead__H"
+
+# 43
+msgstr ""
+"Scorpion_Dead__H"
+
+# 44
+msgid ""
+"Scorpion_Dead__M"
+
+# 44
+msgstr ""
+"Scorpion_Dead__M"
+
+# 45
+msgid ""
+"Scorpion_Dead__T"
+
+# 45
+msgstr ""
+"Scorpion_Dead__T"
+
+# 46
+msgid ""
+"Scorpion_B_Eat"
+
+# 46
+msgstr ""
+"Scorpion_B_Eat"
+
+# 47
+msgid ""
+"Scorpion_B_Spear"
+
+# 47
+msgstr ""
+"Scorpion_B_Spear"
+
+# 48
+msgid ""
+"Scorpion_B_Spear_Combo"
+
+# 48
+msgstr ""
+"Scorpion_B_Spear_Combo"
+
+# 49
+msgid ""
+"Scorpion_B_ClingPounce__H"
+
+# 49
+msgstr ""
+"Scorpion_B_ClingPounce__H"
+
+# 50
+msgid ""
+"Scorpion_B_ClingPounce__M"
+
+# 50
+msgstr ""
+"Scorpion_B_ClingPounce__M"
+
+# 51
+msgid ""
+"Scorpion_B_ClingPounce__T"
+
+# 51
+msgstr ""
+"Scorpion_B_ClingPounce__T"
+
+# 52
+msgid ""
+"Scorpion_B_Shot_Umbos__H"
+
+# 52
+msgstr ""
+"Scorpion_B_Shot_Umbos__H"
+
+# 53
+msgid ""
+"Scorpion_B_Shot_Umbos__M"
+
+# 53
+msgstr ""
+"Scorpion_B_Shot_Umbos__M"
+
+# 54
+msgid ""
+"Scorpion_B_Splash_Umbos__H"
+
+# 54
+msgstr ""
+"Scorpion_B_Splash_Umbos__H"
+
+# 55
+msgid ""
+"Scorpion_B_Splash_Umbos__M"
+
+# 55
+msgstr ""
+"Scorpion_B_Splash_Umbos__M"
+
+# 56
+msgid ""
+"Scorpion_B_Attack_Tail"
+
+# 56
+msgstr ""
+"Scorpion_B_Attack_Tail"
+
+# 57
+msgid ""
+"Scorpion_B_Spear_Wildly_TypeA"
+
+# 57
+msgstr ""
+"Scorpion_B_Spear_Wildly_TypeA"
+
+# 58
+msgid ""
+"Scorpion_B_Spear_Wildly_TypeB"
+
+# 58
+msgstr ""
+"Scorpion_B_Spear_Wildly_TypeB"
+
+# 59
+msgid ""
+"Scorpion_B_Defense__H"
+
+# 59
+msgstr ""
+"Scorpion_B_Defense__H"
+
+# 60
+msgid ""
+"Scorpion_B_Defense__M"
+
+# 60
+msgstr ""
+"Scorpion_B_Defense__M"
+
+# 61
+msgid ""
+"Scorpion_B_Defense__T"
+
+# 61
+msgstr ""
+"Scorpion_B_Defense__T"
+
+# 62
+msgid ""
+"Scorpion_B_DefDash_Def__H"
+
+# 62
+msgstr ""
+"Scorpion_B_DefDash_Def__H"
+
+# 63
+msgid ""
+"Scorpion_B_DefDash_Def__M"
+
+# 63
+msgstr ""
+"Scorpion_B_DefDash_Def__M"
+
+# 64
+msgid ""
+"Scorpion_B_DefDash_Dash__H"
+
+# 64
+msgstr ""
+"Scorpion_B_DefDash_Dash__H"
+
+# 65
+msgid ""
+"Scorpion_B_DefDash_Dash__M"
+
+# 65
+msgstr ""
+"Scorpion_B_DefDash_Dash__M"
+
+# 66
+msgid ""
+"Scorpion_B_DefDash_Dash__T"
+
+# 66
+msgstr ""
+"Scorpion_B_DefDash_Dash__T"
+
+# 67
+msgid ""
+"Scorpion_B_DefDash_Finish"
+
+# 67
+msgstr ""
+"Scorpion_B_DefDash_Finish"
+
+# 68
+msgid ""
+"Scorpion_B_DefSpear_Def__H"
+
+# 68
+msgstr ""
+"Scorpion_B_DefSpear_Def__H"
+
+# 69
+msgid ""
+"Scorpion_B_DefSpear_Def__M"
+
+# 69
+msgstr ""
+"Scorpion_B_DefSpear_Def__M"
+
+# 70
+msgid ""
+"Scorpion_B_DefSpear_Spear"
+
+# 70
+msgstr ""
+"Scorpion_B_DefSpear_Spear"
+
+# 71
+msgid ""
+"Scorpion_B_DefSpear_Finish"
+
+# 71
+msgstr ""
+"Scorpion_B_DefSpear_Finish"
+
+# 72
+msgid ""
+"Scorpion_B_DefShot_Def__H"
+
+# 72
+msgstr ""
+"Scorpion_B_DefShot_Def__H"
+
+# 73
+msgid ""
+"Scorpion_B_DefShot_Def__M"
+
+# 73
+msgstr ""
+"Scorpion_B_DefShot_Def__M"
+
+# 74
+msgid ""
+"Scorpion_B_DefShot_Shot__H"
+
+# 74
+msgstr ""
+"Scorpion_B_DefShot_Shot__H"
+
+# 75
+msgid ""
+"Scorpion_B_DefShot_Shot__M"
+
+# 75
+msgstr ""
+"Scorpion_B_DefShot_Shot__M"
+
+# 76
+msgid ""
+"Scorpion_B_DefShot_Finish"
+
+# 76
+msgstr ""
+"Scorpion_B_DefShot_Finish"
+
+# 77
+msgid ""
+"Scorpion_B_DefAttack_Def__H"
+
+# 77
+msgstr ""
+"Scorpion_B_DefAttack_Def__H"
+
+# 78
+msgid ""
+"Scorpion_B_DefAttack_Def__M"
+
+# 78
+msgstr ""
+"Scorpion_B_DefAttack_Def__M"
+
+# 79
+msgid ""
+"Scorpion_B_DefAttack_Attack"
+
+# 79
+msgstr ""
+"Scorpion_B_DefAttack_Attack"
+
+# 80
+msgid ""
+"Scorpion_B_DefAttack_Finish"
+
+# 80
+msgstr ""
+"Scorpion_B_DefAttack_Finish"
+
+# 81
+msgid ""
+"Scorpion_B_Shot_Umbos_Local__H"
+
+# 81
+msgstr ""
+"Scorpion_B_Shot_Umbos_Local__H"
+
+# 82
+msgid ""
+"Scorpion_B_Shot_Umbos_Local__M"
+
+# 82
+msgstr ""
+"Scorpion_B_Shot_Umbos_Local__M"
+
+# 83
+msgid ""
+"Scorpion_B_Fumble"
+
+# 83
+msgstr ""
+"Scorpion_B_Fumble"
+
+# 84
+msgid ""
+"Tiger_N_Idle"
+
+# 84
+msgstr ""
+"Tiger_N_Idle"
+
+# 85
+msgid ""
+"Tiger_N_Walk"
+
+# 85
+msgstr ""
+"Tiger_N_Walk"
+
+# 86
+msgid ""
+"Tiger_N_JumpToUpland__H"
+
+# 86
+msgstr ""
+"Tiger_N_JumpToUpland__H"
+
+# 87
+msgid ""
+"Tiger_N_JumpToUpland__M"
+
+# 87
+msgstr ""
+"Tiger_N_JumpToUpland__M"
+
+# 88
+msgid ""
+"Tiger_N_JumpToUpland__T"
+
+# 88
+msgstr ""
+"Tiger_N_JumpToUpland__T"
+
+# 89
+msgid ""
+"Tiger_N_JumpFromUpland__H"
+
+# 89
+msgstr ""
+"Tiger_N_JumpFromUpland__H"
+
+# 90
+msgid ""
+"Tiger_N_JumpFromUpland__M"
+
+# 90
+msgstr ""
+"Tiger_N_JumpFromUpland__M"
+
+# 91
+msgid ""
+"Tiger_N_JumpFromUpland__T"
+
+# 91
+msgstr ""
+"Tiger_N_JumpFromUpland__T"
+
+# 92
+msgid ""
+"Tiger_N_TurnLeft"
+
+# 92
+msgstr ""
+"Tiger_N_TurnLeft"
+
+# 93
+msgid ""
+"Tiger_N_TurnRight"
+
+# 93
+msgstr ""
+"Tiger_N_TurnRight"
+
+# 94
+msgid ""
+"Tiger_N_LargeTurnLeft"
+
+# 94
+msgstr ""
+"Tiger_N_LargeTurnLeft"
+
+# 95
+msgid ""
+"Tiger_N_LargeTurnRight"
+
+# 95
+msgstr ""
+"Tiger_N_LargeTurnRight"
+
+# 96
+msgid ""
+"Tiger_N_Eat"
+
+# 96
+msgstr ""
+"Tiger_N_Eat"
+
+# 97
+msgid ""
+"Tiger_Appear"
+
+# 97
+msgstr ""
+"Tiger_Appear"
+
+# 98
+msgid ""
+"Tiger_B_Idle"
+
+# 98
+msgstr ""
+"Tiger_B_Idle"
+
+# 99
+msgid ""
+"Tiger_B_Dash__H"
+
+# 99
+msgstr ""
+"Tiger_B_Dash__H"
+
+# 100
+msgid ""
+"Tiger_B_Dash__M"
+
+# 100
+msgstr ""
+"Tiger_B_Dash__M"
+
+# 101
+msgid ""
+"Tiger_B_Dash__T"
+
+# 101
+msgstr ""
+"Tiger_B_Dash__T"
+
+# 102
+msgid ""
+"Tiger_B_JumpToBossUpland"
+
+# 102
+msgstr ""
+"Tiger_B_JumpToBossUpland"
+
+# 103
+msgid ""
+"Tiger_B_JumpFromBossUpland"
+
+# 103
+msgstr ""
+"Tiger_B_JumpFromBossUpland"
+
+# 104
+msgid ""
+"Tiger_B_MoveLongPath__H"
+
+# 104
+msgstr ""
+"Tiger_B_MoveLongPath__H"
+
+# 105
+msgid ""
+"Tiger_B_MoveLongPath__M"
+
+# 105
+msgstr ""
+"Tiger_B_MoveLongPath__M"
+
+# 106
+msgid ""
+"Tiger_B_MoveLongPath__T"
+
+# 106
+msgstr ""
+"Tiger_B_MoveLongPath__T"
+
+# 107
+msgid ""
+"Tiger_B_TurnLeft"
+
+# 107
+msgstr ""
+"Tiger_B_TurnLeft"
+
+# 108
+msgid ""
+"Tiger_B_TurnRight"
+
+# 108
+msgstr ""
+"Tiger_B_TurnRight"
+
+# 109
+msgid ""
+"Tiger_B_LargeTurnLeft"
+
+# 109
+msgstr ""
+"Tiger_B_LargeTurnLeft"
+
+# 110
+msgid ""
+"Tiger_B_LargeTurnRight"
+
+# 110
+msgstr ""
+"Tiger_B_LargeTurnRight"
+
+# 111
+msgid ""
+"Tiger_B_DriftLeft"
+
+# 111
+msgstr ""
+"Tiger_B_DriftLeft"
+
+# 112
+msgid ""
+"Tiger_B_DriftRight"
+
+# 112
+msgstr ""
+"Tiger_B_DriftRight"
+
+# 113
+msgid ""
+"Tiger_B_FindComminate"
+
+# 113
+msgstr ""
+"Tiger_B_FindComminate"
+
+# 114
+msgid ""
+"Tiger_B_AngryComminate"
+
+# 114
+msgstr ""
+"Tiger_B_AngryComminate"
+
+# 115
+msgid ""
+"Tiger_B_ChagrinComminate"
+
+# 115
+msgstr ""
+"Tiger_B_ChagrinComminate"
+
+# 116
+msgid ""
+"Tiger_B_Stagger"
+
+# 116
+msgstr ""
+"Tiger_B_Stagger"
+
+# 117
+msgid ""
+"Tiger_B_ForefootDown__H"
+
+# 117
+msgstr ""
+"Tiger_B_ForefootDown__H"
+
+# 118
+msgid ""
+"Tiger_B_ForefootDown__M"
+
+# 118
+msgstr ""
+"Tiger_B_ForefootDown__M"
+
+# 119
+msgid ""
+"Tiger_B_ForefootDown__T"
+
+# 119
+msgstr ""
+"Tiger_B_ForefootDown__T"
+
+# 120
+msgid ""
+"Tiger_B_HindfootDown__H"
+
+# 120
+msgstr ""
+"Tiger_B_HindfootDown__H"
+
+# 121
+msgid ""
+"Tiger_B_HindfootDown__M"
+
+# 121
+msgstr ""
+"Tiger_B_HindfootDown__M"
+
+# 122
+msgid ""
+"Tiger_B_HindfootDown__T"
+
+# 122
+msgstr ""
+"Tiger_B_HindfootDown__T"
+
+# 123
+msgid ""
+"Tiger_B_Hold__H"
+
+# 123
+msgstr ""
+"Tiger_B_Hold__H"
+
+# 124
+msgid ""
+"Tiger_B_Hold__M"
+
+# 124
+msgstr ""
+"Tiger_B_Hold__M"
+
+# 125
+msgid ""
+"Tiger_B_Hold__T"
+
+# 125
+msgstr ""
+"Tiger_B_Hold__T"
+
+# 126
+msgid ""
+"Tiger_B_Giddy"
+
+# 126
+msgstr ""
+"Tiger_B_Giddy"
+
+# 127
+msgid ""
+"Tiger_Dead__H"
+
+# 127
+msgstr ""
+"Tiger_Dead__H"
+
+# 128
+msgid ""
+"Tiger_Dead__M"
+
+# 128
+msgstr ""
+"Tiger_Dead__M"
+
+# 129
+msgid ""
+"Tiger_Dead__T"
+
+# 129
+msgstr ""
+"Tiger_Dead__T"
+
+# 130
+msgid ""
+"Tiger_B_Eat"
+
+# 130
+msgstr ""
+"Tiger_B_Eat"
+
+# 131
+msgid ""
+"Tiger_B_Chop_Forefoot"
+
+# 131
+msgstr ""
+"Tiger_B_Chop_Forefoot"
+
+# 132
+msgid ""
+"Tiger_B_Chop_Forefoot_Thunder"
+
+# 132
+msgstr ""
+"Tiger_B_Chop_Forefoot_Thunder"
+
+# 133
+msgid ""
+"Tiger_B_Cling"
+
+# 133
+msgstr ""
+"Tiger_B_Cling"
+
+# 134
+msgid ""
+"Tiger_B_Pounce__H"
+
+# 134
+msgstr ""
+"Tiger_B_Pounce__H"
+
+# 135
+msgid ""
+"Tiger_B_Pounce__M"
+
+# 135
+msgstr ""
+"Tiger_B_Pounce__M"
+
+# 136
+msgid ""
+"Tiger_B_Pounce__T"
+
+# 136
+msgstr ""
+"Tiger_B_Pounce__T"
+
+# 137
+msgid ""
+"Tiger_B_DashPounce_Dash__H"
+
+# 137
+msgstr ""
+"Tiger_B_DashPounce_Dash__H"
+
+# 138
+msgid ""
+"Tiger_B_DashPounce_Dash__M"
+
+# 138
+msgstr ""
+"Tiger_B_DashPounce_Dash__M"
+
+# 139
+msgid ""
+"Tiger_B_DashPounce_Pounce__M"
+
+# 139
+msgstr ""
+"Tiger_B_DashPounce_Pounce__M"
+
+# 140
+msgid ""
+"Tiger_B_DashPounce_Pounce__T"
+
+# 140
+msgstr ""
+"Tiger_B_DashPounce_Pounce__T"
+
+# 141
+msgid ""
+"Tiger_B_DashPounce_Td_Dash__H"
+
+# 141
+msgstr ""
+"Tiger_B_DashPounce_Td_Dash__H"
+
+# 142
+msgid ""
+"Tiger_B_DashPounce_Td_Dash__M"
+
+# 142
+msgstr ""
+"Tiger_B_DashPounce_Td_Dash__M"
+
+# 143
+msgid ""
+"Tiger_B_DashPounce_Td_Pounce__M"
+
+# 143
+msgstr ""
+"Tiger_B_DashPounce_Td_Pounce__M"
+
+# 144
+msgid ""
+"Tiger_B_DashPounce_Td_Pounce__T"
+
+# 144
+msgstr ""
+"Tiger_B_DashPounce_Td_Pounce__T"
+
+# 145
+msgid ""
+"Tiger_B_DsPncCic_Dash__H"
+
+# 145
+msgstr ""
+"Tiger_B_DsPncCic_Dash__H"
+
+# 146
+msgid ""
+"Tiger_B_DsPncCic_Dash__M"
+
+# 146
+msgstr ""
+"Tiger_B_DsPncCic_Dash__M"
+
+# 147
+msgid ""
+"Tiger_B_DsPncCic_Pounce__M"
+
+# 147
+msgstr ""
+"Tiger_B_DsPncCic_Pounce__M"
+
+# 148
+msgid ""
+"Tiger_B_DsPncCic_Pounce__T"
+
+# 148
+msgstr ""
+"Tiger_B_DsPncCic_Pounce__T"
+
+# 149
+msgid ""
+"Tiger_B_Discharge_Allround__H"
+
+# 149
+msgstr ""
+"Tiger_B_Discharge_Allround__H"
+
+# 150
+msgid ""
+"Tiger_B_Discharge_Allround__M"
+
+# 150
+msgstr ""
+"Tiger_B_Discharge_Allround__M"
+
+# 151
+msgid ""
+"Tiger_B_OggSomersault_Attack__H"
+
+# 151
+msgstr ""
+"Tiger_B_OggSomersault_Attack__H"
+
+# 152
+msgid ""
+"Tiger_B_OggSomersault_Attack__M"
+
+# 152
+msgstr ""
+"Tiger_B_OggSomersault_Attack__M"
+
+# 153
+msgid ""
+"Tiger_B_OggSomersault_Attack__T"
+
+# 153
+msgstr ""
+"Tiger_B_OggSomersault_Attack__T"
+
+# 154
+msgid ""
+"Tiger_B_OggSomersault_Comminate"
+
+# 154
+msgstr ""
+"Tiger_B_OggSomersault_Comminate"
+
+# 155
+msgid ""
+"Tiger_B_Shot_BigThunderBall__H"
+
+# 155
+msgstr ""
+"Tiger_B_Shot_BigThunderBall__H"
+
+# 156
+msgid ""
+"Tiger_B_Shot_BigThunderBall__M"
+
+# 156
+msgstr ""
+"Tiger_B_Shot_BigThunderBall__M"
+
+# 157
+msgid ""
+"Tiger_B_Call_SmallThdrBall__H"
+
+# 157
+msgstr ""
+"Tiger_B_Call_SmallThdrBall__H"
+
+# 158
+msgid ""
+"Tiger_B_Call_SmallThdrBall__M"
+
+# 158
+msgstr ""
+"Tiger_B_Call_SmallThdrBall__M"
+
+# 159
+msgid ""
+"Tiger_B_Wdst_TdBall_Wildshot__H"
+
+# 159
+msgstr ""
+"Tiger_B_Wdst_TdBall_Wildshot__H"
+
+# 160
+msgid ""
+"Tiger_B_Wdst_TdBall_Wildshot__M"
+
+# 160
+msgstr ""
+"Tiger_B_Wdst_TdBall_Wildshot__M"
+
+# 161
+msgid ""
+"Tiger_B_Wdst_TdBall_Wildshot__T"
+
+# 161
+msgstr ""
+"Tiger_B_Wdst_TdBall_Wildshot__T"
+
+# 162
+msgid ""
+"Tiger_B_Wdst_TdBall_Comminate"
+
+# 162
+msgstr ""
+"Tiger_B_Wdst_TdBall_Comminate"
+
+# 163
+msgid ""
+"Tiger_B_BackJump__H"
+
+# 163
+msgstr ""
+"Tiger_B_BackJump__H"
+
+# 164
+msgid ""
+"Tiger_B_BackJump__M"
+
+# 164
+msgstr ""
+"Tiger_B_BackJump__M"
+
+# 165
+msgid ""
+"Tiger_B_BackJump__T"
+
+# 165
+msgstr ""
+"Tiger_B_BackJump__T"
+
+# 166
+msgid ""
+"Tiger_B_LocalDischarge__H"
+
+# 166
+msgstr ""
+"Tiger_B_LocalDischarge__H"
+
+# 167
+msgid ""
+"Tiger_B_LocalDischarge__M"
+
+# 167
+msgstr ""
+"Tiger_B_LocalDischarge__M"
+
+# 168
+msgid ""
+"Tiger_B_Fumble__M"
+
+# 168
+msgstr ""
+"Tiger_B_Fumble__M"
+
+# 169
+msgid ""
+"Tiger_B_Fumble__T"
+
+# 169
+msgstr ""
+"Tiger_B_Fumble__T"
+
+# 170
+msgid ""
+"ManmosMan_N_Idle"
+
+# 170
+msgstr ""
+"ManmosMan_N_Idle"
+
+# 171
+msgid ""
+"ManmosMan_N_Walk"
+
+# 171
+msgstr ""
+"ManmosMan_N_Walk"
+
+# 172
+msgid ""
+"ManmosMan_N_JumpToUpland__H"
+
+# 172
+msgstr ""
+"ManmosMan_N_JumpToUpland__H"
+
+# 173
+msgid ""
+"ManmosMan_N_JumpToUpland__M"
+
+# 173
+msgstr ""
+"ManmosMan_N_JumpToUpland__M"
+
+# 174
+msgid ""
+"ManmosMan_N_JumpToUpland__T"
+
+# 174
+msgstr ""
+"ManmosMan_N_JumpToUpland__T"
+
+# 175
+msgid ""
+"ManmosMan_N_JumpFromUpland__H"
+
+# 175
+msgstr ""
+"ManmosMan_N_JumpFromUpland__H"
+
+# 176
+msgid ""
+"ManmosMan_N_JumpFromUpland__M"
+
+# 176
+msgstr ""
+"ManmosMan_N_JumpFromUpland__M"
+
+# 177
+msgid ""
+"ManmosMan_N_JumpFromUpland__T"
+
+# 177
+msgstr ""
+"ManmosMan_N_JumpFromUpland__T"
+
+# 178
+msgid ""
+"ManmosMan_N_TurnLeft"
+
+# 178
+msgstr ""
+"ManmosMan_N_TurnLeft"
+
+# 179
+msgid ""
+"ManmosMan_N_TurnRight"
+
+# 179
+msgstr ""
+"ManmosMan_N_TurnRight"
+
+# 180
+msgid ""
+"ManmosMan_N_LargeTurnLeft"
+
+# 180
+msgstr ""
+"ManmosMan_N_LargeTurnLeft"
+
+# 181
+msgid ""
+"ManmosMan_N_LargeTurnRight"
+
+# 181
+msgstr ""
+"ManmosMan_N_LargeTurnRight"
+
+# 182
+msgid ""
+"ManmosMan_N_Eat"
+
+# 182
+msgstr ""
+"ManmosMan_N_Eat"
+
+# 183
+msgid ""
+"ManmosMan_Appear"
+
+# 183
+msgstr ""
+"ManmosMan_Appear"
+
+# 184
+msgid ""
+"ManmosMan_B_Idle"
+
+# 184
+msgstr ""
+"ManmosMan_B_Idle"
+
+# 185
+msgid ""
+"ManmosMan_B_Dash__H"
+
+# 185
+msgstr ""
+"ManmosMan_B_Dash__H"
+
+# 186
+msgid ""
+"ManmosMan_B_Dash__M"
+
+# 186
+msgstr ""
+"ManmosMan_B_Dash__M"
+
+# 187
+msgid ""
+"ManmosMan_B_Dash__T"
+
+# 187
+msgstr ""
+"ManmosMan_B_Dash__T"
+
+# 188
+msgid ""
+"ManmosMan_B_JumpToBossUpland"
+
+# 188
+msgstr ""
+"ManmosMan_B_JumpToBossUpland"
+
+# 189
+msgid ""
+"ManmosMan_B_JumpFromBossUpland"
+
+# 189
+msgstr ""
+"ManmosMan_B_JumpFromBossUpland"
+
+# 190
+msgid ""
+"ManmosMan_B_MoveLongPath__H"
+
+# 190
+msgstr ""
+"ManmosMan_B_MoveLongPath__H"
+
+# 191
+msgid ""
+"ManmosMan_B_MoveLongPath__M"
+
+# 191
+msgstr ""
+"ManmosMan_B_MoveLongPath__M"
+
+# 192
+msgid ""
+"ManmosMan_B_MoveLongPath__T"
+
+# 192
+msgstr ""
+"ManmosMan_B_MoveLongPath__T"
+
+# 193
+msgid ""
+"ManmosMan_B_TurnLeft"
+
+# 193
+msgstr ""
+"ManmosMan_B_TurnLeft"
+
+# 194
+msgid ""
+"ManmosMan_B_TurnRight"
+
+# 194
+msgstr ""
+"ManmosMan_B_TurnRight"
+
+# 195
+msgid ""
+"ManmosMan_B_LargeTurnLeft"
+
+# 195
+msgstr ""
+"ManmosMan_B_LargeTurnLeft"
+
+# 196
+msgid ""
+"ManmosMan_B_LargeTurnRight"
+
+# 196
+msgstr ""
+"ManmosMan_B_LargeTurnRight"
+
+# 197
+msgid ""
+"ManmosMan_B_DriftLeft"
+
+# 197
+msgstr ""
+"ManmosMan_B_DriftLeft"
+
+# 198
+msgid ""
+"ManmosMan_B_DriftRight"
+
+# 198
+msgstr ""
+"ManmosMan_B_DriftRight"
+
+# 199
+msgid ""
+"ManmosMan_B_FindComminate"
+
+# 199
+msgstr ""
+"ManmosMan_B_FindComminate"
+
+# 200
+msgid ""
+"ManmosMan_B_AngryComminate"
+
+# 200
+msgstr ""
+"ManmosMan_B_AngryComminate"
+
+# 201
+msgid ""
+"ManmosMan_B_ChagrinComminate"
+
+# 201
+msgstr ""
+"ManmosMan_B_ChagrinComminate"
+
+# 202
+msgid ""
+"ManmosMan_B_Stagger"
+
+# 202
+msgstr ""
+"ManmosMan_B_Stagger"
+
+# 203
+msgid ""
+"ManmosMan_B_ArmDown__H"
+
+# 203
+msgstr ""
+"ManmosMan_B_ArmDown__H"
+
+# 204
+msgid ""
+"ManmosMan_B_ArmDown__M"
+
+# 204
+msgstr ""
+"ManmosMan_B_ArmDown__M"
+
+# 205
+msgid ""
+"ManmosMan_B_ArmDown__T"
+
+# 205
+msgstr ""
+"ManmosMan_B_ArmDown__T"
+
+# 206
+msgid ""
+"ManmosMan_B_BodyDown__H"
+
+# 206
+msgstr ""
+"ManmosMan_B_BodyDown__H"
+
+# 207
+msgid ""
+"ManmosMan_B_BodyDown__M"
+
+# 207
+msgstr ""
+"ManmosMan_B_BodyDown__M"
+
+# 208
+msgid ""
+"ManmosMan_B_BodyDown__T"
+
+# 208
+msgstr ""
+"ManmosMan_B_BodyDown__T"
+
+# 209
+msgid ""
+"ManmosMan_B_Hold__H"
+
+# 209
+msgstr ""
+"ManmosMan_B_Hold__H"
+
+# 210
+msgid ""
+"ManmosMan_B_Hold__M"
+
+# 210
+msgstr ""
+"ManmosMan_B_Hold__M"
+
+# 211
+msgid ""
+"ManmosMan_B_Hold__T"
+
+# 211
+msgstr ""
+"ManmosMan_B_Hold__T"
+
+# 212
+msgid ""
+"ManmosMan_B_Giddy"
+
+# 212
+msgstr ""
+"ManmosMan_B_Giddy"
+
+# 213
+msgid ""
+"ManmosMan_Dead__H"
+
+# 213
+msgstr ""
+"ManmosMan_Dead__H"
+
+# 214
+msgid ""
+"ManmosMan_Dead__M"
+
+# 214
+msgstr ""
+"ManmosMan_Dead__M"
+
+# 215
+msgid ""
+"ManmosMan_Dead__T"
+
+# 215
+msgstr ""
+"ManmosMan_Dead__T"
+
+# 216
+msgid ""
+"ManmosMan_B_Eat"
+
+# 216
+msgstr ""
+"ManmosMan_B_Eat"
+
+# 217
+msgid ""
+"ManmosMan_B_Dash"
+
+# 217
+msgstr ""
+"ManmosMan_B_Dash"
+
+# 218
+msgid ""
+"ManmosMan_B_First_Dash"
+
+# 218
+msgstr ""
+"ManmosMan_B_First_Dash"
+
+# 219
+msgid ""
+"ManmosMan_B_Dash_TurnLeft"
+
+# 219
+msgstr ""
+"ManmosMan_B_Dash_TurnLeft"
+
+# 220
+msgid ""
+"ManmosMan_B_Dash_TurnRight"
+
+# 220
+msgstr ""
+"ManmosMan_B_Dash_TurnRight"
+
+# 221
+msgid ""
+"ManmosMan_B_Dash_LargeTurnLeft"
+
+# 221
+msgstr ""
+"ManmosMan_B_Dash_LargeTurnLeft"
+
+# 222
+msgid ""
+"ManmosMan_B_Dash_LargeTurnRight"
+
+# 222
+msgstr ""
+"ManmosMan_B_Dash_LargeTurnRight"
+
+# 223
+msgid ""
+"ManmosMan_B_Second_Dash"
+
+# 223
+msgstr ""
+"ManmosMan_B_Second_Dash"
+
+# 224
+msgid ""
+"ManmosMan_B_Long_Dash__H"
+
+# 224
+msgstr ""
+"ManmosMan_B_Long_Dash__H"
+
+# 225
+msgid ""
+"ManmosMan_B_Long_Dash__M"
+
+# 225
+msgstr ""
+"ManmosMan_B_Long_Dash__M"
+
+# 226
+msgid ""
+"ManmosMan_B_Long_Dash__T"
+
+# 226
+msgstr ""
+"ManmosMan_B_Long_Dash__T"
+
+# 227
+msgid ""
+"ManmosMan_B_Missile_Dash__H"
+
+# 227
+msgstr ""
+"ManmosMan_B_Missile_Dash__H"
+
+# 228
+msgid ""
+"ManmosMan_B_Missile_Dash__M"
+
+# 228
+msgstr ""
+"ManmosMan_B_Missile_Dash__M"
+
+# 229
+msgid ""
+"ManmosMan_B_Missile_Dash__T"
+
+# 229
+msgstr ""
+"ManmosMan_B_Missile_Dash__T"
+
+# 230
+msgid ""
+"ManmosMan_B_Back_Kick"
+
+# 230
+msgstr ""
+"ManmosMan_B_Back_Kick"
+
+# 231
+msgid ""
+"ManmosMan_B_Stamp__H"
+
+# 231
+msgstr ""
+"ManmosMan_B_Stamp__H"
+
+# 232
+msgid ""
+"ManmosMan_B_Stamp__M"
+
+# 232
+msgstr ""
+"ManmosMan_B_Stamp__M"
+
+# 233
+msgid ""
+"ManmosMan_B_Stamp__T"
+
+# 233
+msgstr ""
+"ManmosMan_B_Stamp__T"
+
+# 234
+msgid ""
+"ManmosMan_B_Missile_Stamp__H"
+
+# 234
+msgstr ""
+"ManmosMan_B_Missile_Stamp__H"
+
+# 235
+msgid ""
+"ManmosMan_B_Missile_Stamp__M"
+
+# 235
+msgstr ""
+"ManmosMan_B_Missile_Stamp__M"
+
+# 236
+msgid ""
+"ManmosMan_B_Missile_Stamp__T"
+
+# 236
+msgstr ""
+"ManmosMan_B_Missile_Stamp__T"
+
+# 237
+msgid ""
+"ManmosMan_B_Tomahawk__H"
+
+# 237
+msgstr ""
+"ManmosMan_B_Tomahawk__H"
+
+# 238
+msgid ""
+"ManmosMan_B_Tomahawk__M"
+
+# 238
+msgstr ""
+"ManmosMan_B_Tomahawk__M"
+
+# 239
+msgid ""
+"ManmosMan_B_Concent_Missile__H"
+
+# 239
+msgstr ""
+"ManmosMan_B_Concent_Missile__H"
+
+# 240
+msgid ""
+"ManmosMan_B_Concent_Missile__M"
+
+# 240
+msgstr ""
+"ManmosMan_B_Concent_Missile__M"
+
+# 241
+msgid ""
+"ManmosMan_B_Diff_Missile__H"
+
+# 241
+msgstr ""
+"ManmosMan_B_Diff_Missile__H"
+
+# 242
+msgid ""
+"ManmosMan_B_Diff_Missile__M"
+
+# 242
+msgstr ""
+"ManmosMan_B_Diff_Missile__M"
+
+# 243
+msgid ""
+"ManmosMan_B_Black_Napalm__H"
+
+# 243
+msgstr ""
+"ManmosMan_B_Black_Napalm__H"
+
+# 244
+msgid ""
+"ManmosMan_B_Black_Napalm__M"
+
+# 244
+msgstr ""
+"ManmosMan_B_Black_Napalm__M"
+
+# 245
+msgid ""
+"ManmosMan_B_Napalm_Tomahawk__H"
+
+# 245
+msgstr ""
+"ManmosMan_B_Napalm_Tomahawk__H"
+
+# 246
+msgid ""
+"ManmosMan_B_Napalm_Tomahawk__M"
+
+# 246
+msgstr ""
+"ManmosMan_B_Napalm_Tomahawk__M"
+
+# 247
+msgid ""
+"ManmosMan_B_Sonar"
+
+# 247
+msgstr ""
+"ManmosMan_B_Sonar"
+
+# 248
+msgid ""
+"ManmosMan_B_Homing_Missile__H"
+
+# 248
+msgstr ""
+"ManmosMan_B_Homing_Missile__H"
+
+# 249
+msgid ""
+"ManmosMan_B_Homing_Missile__M"
+
+# 249
+msgstr ""
+"ManmosMan_B_Homing_Missile__M"
+
+# 250
+msgid ""
+"ManmosMan_B_Fumble"
+
+# 250
+msgstr ""
+"ManmosMan_B_Fumble"
+
+# 251
+msgid ""
+"CocoonMaiden_N_Idle"
+
+# 251
+msgstr ""
+"CocoonMaiden_N_Idle"
+
+# 252
+msgid ""
+"CocoonMaiden_N_TurnLeft"
+
+# 252
+msgstr ""
+"CocoonMaiden_N_TurnLeft"
+
+# 253
+msgid ""
+"CocoonMaiden_N_TurnRight"
+
+# 253
+msgstr ""
+"CocoonMaiden_N_TurnRight"
+
+# 254
+msgid ""
+"CocoonMaiden_N_LargeTurnLeft"
+
+# 254
+msgstr ""
+"CocoonMaiden_N_LargeTurnLeft"
+
+# 255
+msgid ""
+"CocoonMaiden_N_LargeTurnRight"
+
+# 255
+msgstr ""
+"CocoonMaiden_N_LargeTurnRight"
+
+# 256
+msgid ""
+"CocoonMaiden_Appear"
+
+# 256
+msgstr ""
+"CocoonMaiden_Appear"
+
+# 257
+msgid ""
+"CocoonMaiden_B_Idle"
+
+# 257
+msgstr ""
+"CocoonMaiden_B_Idle"
+
+# 258
+msgid ""
+"CocoonMaiden_B_TurnLeft"
+
+# 258
+msgstr ""
+"CocoonMaiden_B_TurnLeft"
+
+# 259
+msgid ""
+"CocoonMaiden_B_TurnRight"
+
+# 259
+msgstr ""
+"CocoonMaiden_B_TurnRight"
+
+# 260
+msgid ""
+"CocoonMaiden_B_LargeTurnLeft"
+
+# 260
+msgstr ""
+"CocoonMaiden_B_LargeTurnLeft"
+
+# 261
+msgid ""
+"CocoonMaiden_B_LargeTurnRight"
+
+# 261
+msgstr ""
+"CocoonMaiden_B_LargeTurnRight"
+
+# 262
+msgid ""
+"CocoonMaiden_B_FindComminate"
+
+# 262
+msgstr ""
+"CocoonMaiden_B_FindComminate"
+
+# 263
+msgid ""
+"CocoonMaiden_B_ChagrinComminate"
+
+# 263
+msgstr ""
+"CocoonMaiden_B_ChagrinComminate"
+
+# 264
+msgid ""
+"CocoonMaiden_B_Stagger"
+
+# 264
+msgstr ""
+"CocoonMaiden_B_Stagger"
+
+# 265
+msgid ""
+"CocoonMaiden_B_Default__H"
+
+# 265
+msgstr ""
+"CocoonMaiden_B_Default__H"
+
+# 266
+msgid ""
+"CocoonMaiden_B_Default__M"
+
+# 266
+msgstr ""
+"CocoonMaiden_B_Default__M"
+
+# 267
+msgid ""
+"CocoonMaiden_B_Default__T"
+
+# 267
+msgstr ""
+"CocoonMaiden_B_Default__T"
+
+# 268
+msgid ""
+"CocoonMaiden_B_Hold__H"
+
+# 268
+msgstr ""
+"CocoonMaiden_B_Hold__H"
+
+# 269
+msgid ""
+"CocoonMaiden_B_Hold__M"
+
+# 269
+msgstr ""
+"CocoonMaiden_B_Hold__M"
+
+# 270
+msgid ""
+"CocoonMaiden_B_Hold__T"
+
+# 270
+msgstr ""
+"CocoonMaiden_B_Hold__T"
+
+# 271
+msgid ""
+"CocoonMaiden_B_Giddy"
+
+# 271
+msgstr ""
+"CocoonMaiden_B_Giddy"
+
+# 272
+msgid ""
+"CocoonMaiden_Dead__H"
+
+# 272
+msgstr ""
+"CocoonMaiden_Dead__H"
+
+# 273
+msgid ""
+"CocoonMaiden_Dead__M"
+
+# 273
+msgstr ""
+"CocoonMaiden_Dead__M"
+
+# 274
+msgid ""
+"CocoonMaiden_Dead__T"
+
+# 274
+msgstr ""
+"CocoonMaiden_Dead__T"
+
+# 275
+msgid ""
+"CocoonMaiden_B_ShotNeedle"
+
+# 275
+msgstr ""
+"CocoonMaiden_B_ShotNeedle"
+
+# 276
+msgid ""
+"CocoonMaiden_B_Beam"
+
+# 276
+msgstr ""
+"CocoonMaiden_B_Beam"
+
+# 277
+msgid ""
+"CocoonMaiden_B_ShotNeedle_Allround"
+
+# 277
+msgstr ""
+"CocoonMaiden_B_ShotNeedle_Allround"
+
+# 278
+msgid ""
+"CocoonMaiden_B_ReflactBeam"
+
+# 278
+msgstr ""
+"CocoonMaiden_B_ReflactBeam"
+
+# 279
+msgid ""
+"CocoonMaiden_B_DyingFumble"
+
+# 279
+msgstr ""
+"CocoonMaiden_B_DyingFumble"
+
+# 280
+msgid ""
+"Wani_N_Idle"
+
+# 280
+msgstr ""
+"Wani_N_Idle"
+
+# 281
+msgid ""
+"Wani_N_Walk"
+
+# 281
+msgstr ""
+"Wani_N_Walk"
+
+# 282
+msgid ""
+"Wani_N_JumpToUpland__H"
+
+# 282
+msgstr ""
+"Wani_N_JumpToUpland__H"
+
+# 283
+msgid ""
+"Wani_N_JumpToUpland__M"
+
+# 283
+msgstr ""
+"Wani_N_JumpToUpland__M"
+
+# 284
+msgid ""
+"Wani_N_JumpToUpland__T"
+
+# 284
+msgstr ""
+"Wani_N_JumpToUpland__T"
+
+# 285
+msgid ""
+"Wani_N_JumpFromUpland__H"
+
+# 285
+msgstr ""
+"Wani_N_JumpFromUpland__H"
+
+# 286
+msgid ""
+"Wani_N_JumpFromUpland__M"
+
+# 286
+msgstr ""
+"Wani_N_JumpFromUpland__M"
+
+# 287
+msgid ""
+"Wani_N_JumpFromUpland__T"
+
+# 287
+msgstr ""
+"Wani_N_JumpFromUpland__T"
+
+# 288
+msgid ""
+"Wani_N_TurnLeft"
+
+# 288
+msgstr ""
+"Wani_N_TurnLeft"
+
+# 289
+msgid ""
+"Wani_N_TurnRight"
+
+# 289
+msgstr ""
+"Wani_N_TurnRight"
+
+# 290
+msgid ""
+"Wani_N_LargeTurnLeft"
+
+# 290
+msgstr ""
+"Wani_N_LargeTurnLeft"
+
+# 291
+msgid ""
+"Wani_N_LargeTurnRight"
+
+# 291
+msgstr ""
+"Wani_N_LargeTurnRight"
+
+# 292
+msgid ""
+"Wani_N_Eat"
+
+# 292
+msgstr ""
+"Wani_N_Eat"
+
+# 293
+msgid ""
+"Wani_Appear"
+
+# 293
+msgstr ""
+"Wani_Appear"
+
+# 294
+msgid ""
+"Wani_B_Idle"
+
+# 294
+msgstr ""
+"Wani_B_Idle"
+
+# 295
+msgid ""
+"Wani_B_Dash__H"
+
+# 295
+msgstr ""
+"Wani_B_Dash__H"
+
+# 296
+msgid ""
+"Wani_B_Dash__M"
+
+# 296
+msgstr ""
+"Wani_B_Dash__M"
+
+# 297
+msgid ""
+"Wani_B_Dash__T"
+
+# 297
+msgstr ""
+"Wani_B_Dash__T"
+
+# 298
+msgid ""
+"Wani_B_MoveLongPath__H"
+
+# 298
+msgstr ""
+"Wani_B_MoveLongPath__H"
+
+# 299
+msgid ""
+"Wani_B_MoveLongPath__M"
+
+# 299
+msgstr ""
+"Wani_B_MoveLongPath__M"
+
+# 300
+msgid ""
+"Wani_B_MoveLongPath__T"
+
+# 300
+msgstr ""
+"Wani_B_MoveLongPath__T"
+
+# 301
+msgid ""
+"Wani_B_TurnLeft"
+
+# 301
+msgstr ""
+"Wani_B_TurnLeft"
+
+# 302
+msgid ""
+"Wani_B_TurnRight"
+
+# 302
+msgstr ""
+"Wani_B_TurnRight"
+
+# 303
+msgid ""
+"Wani_B_LargeTurnLeft"
+
+# 303
+msgstr ""
+"Wani_B_LargeTurnLeft"
+
+# 304
+msgid ""
+"Wani_B_LargeTurnRight"
+
+# 304
+msgstr ""
+"Wani_B_LargeTurnRight"
+
+# 305
+msgid ""
+"Wani_B_DriftLeft"
+
+# 305
+msgstr ""
+"Wani_B_DriftLeft"
+
+# 306
+msgid ""
+"Wani_B_DriftRight"
+
+# 306
+msgstr ""
+"Wani_B_DriftRight"
+
+# 307
+msgid ""
+"Wani_B_FindComminate"
+
+# 307
+msgstr ""
+"Wani_B_FindComminate"
+
+# 308
+msgid ""
+"Wani_B_AngryComminate"
+
+# 308
+msgstr ""
+"Wani_B_AngryComminate"
+
+# 309
+msgid ""
+"Wani_B_ChagrinComminate"
+
+# 309
+msgstr ""
+"Wani_B_ChagrinComminate"
+
+# 310
+msgid ""
+"Wani_B_Stagger"
+
+# 310
+msgstr ""
+"Wani_B_Stagger"
+
+# 311
+msgid ""
+"Wani_B_ArmDown__H"
+
+# 311
+msgstr ""
+"Wani_B_ArmDown__H"
+
+# 312
+msgid ""
+"Wani_B_ArmDown__M"
+
+# 312
+msgstr ""
+"Wani_B_ArmDown__M"
+
+# 313
+msgid ""
+"Wani_B_ArmDown__T"
+
+# 313
+msgstr ""
+"Wani_B_ArmDown__T"
+
+# 314
+msgid ""
+"Wani_B_BodyDown__H"
+
+# 314
+msgstr ""
+"Wani_B_BodyDown__H"
+
+# 315
+msgid ""
+"Wani_B_BodyDown__M"
+
+# 315
+msgstr ""
+"Wani_B_BodyDown__M"
+
+# 316
+msgid ""
+"Wani_B_BodyDown__T"
+
+# 316
+msgstr ""
+"Wani_B_BodyDown__T"
+
+# 317
+msgid ""
+"Wani_B_Hold__H"
+
+# 317
+msgstr ""
+"Wani_B_Hold__H"
+
+# 318
+msgid ""
+"Wani_B_Hold__M"
+
+# 318
+msgstr ""
+"Wani_B_Hold__M"
+
+# 319
+msgid ""
+"Wani_B_Hold__T"
+
+# 319
+msgstr ""
+"Wani_B_Hold__T"
+
+# 320
+msgid ""
+"Wani_B_Giddy"
+
+# 320
+msgstr ""
+"Wani_B_Giddy"
+
+# 321
+msgid ""
+"Wani_Dead__H"
+
+# 321
+msgstr ""
+"Wani_Dead__H"
+
+# 322
+msgid ""
+"Wani_Dead__M"
+
+# 322
+msgstr ""
+"Wani_Dead__M"
+
+# 323
+msgid ""
+"Wani_Dead__T"
+
+# 323
+msgstr ""
+"Wani_Dead__T"
+
+# 324
+msgid ""
+"Wani_B_Eat"
+
+# 324
+msgstr ""
+"Wani_B_Eat"
+
+# 325
+msgid ""
+"Wani_B_Cling"
+
+# 325
+msgstr ""
+"Wani_B_Cling"
+
+# 326
+msgid ""
+"Wani_B_Cling_Arms"
+
+# 326
+msgstr ""
+"Wani_B_Cling_Arms"
+
+# 327
+msgid ""
+"Wani_B_Cling_Dash_Dash__H"
+
+# 327
+msgstr ""
+"Wani_B_Cling_Dash_Dash__H"
+
+# 328
+msgid ""
+"Wani_B_Cling_Dash_Dash__M"
+
+# 328
+msgstr ""
+"Wani_B_Cling_Dash_Dash__M"
+
+# 329
+msgid ""
+"Wani_B_Cling_Dash_Cling"
+
+# 329
+msgstr ""
+"Wani_B_Cling_Dash_Cling"
+
+# 330
+msgid ""
+"Wani_B_Shot_SmallWaterBall__H"
+
+# 330
+msgstr ""
+"Wani_B_Shot_SmallWaterBall__H"
+
+# 331
+msgid ""
+"Wani_B_Shot_SmallWaterBall__M"
+
+# 331
+msgstr ""
+"Wani_B_Shot_SmallWaterBall__M"
+
+# 332
+msgid ""
+"Wani_B_Shot_SmallWaterBall__T"
+
+# 332
+msgstr ""
+"Wani_B_Shot_SmallWaterBall__T"
+
+# 333
+msgid ""
+"Wani_B_Splash_SmallWaterBall__H"
+
+# 333
+msgstr ""
+"Wani_B_Splash_SmallWaterBall__H"
+
+# 334
+msgid ""
+"Wani_B_Splash_SmallWaterBall__M"
+
+# 334
+msgstr ""
+"Wani_B_Splash_SmallWaterBall__M"
+
+# 335
+msgid ""
+"Wani_B_Go_Berserk__H"
+
+# 335
+msgstr ""
+"Wani_B_Go_Berserk__H"
+
+# 336
+msgid ""
+"Wani_B_Go_Berserk__M"
+
+# 336
+msgstr ""
+"Wani_B_Go_Berserk__M"
+
+# 337
+msgid ""
+"Wani_B_Go_Berserk__T"
+
+# 337
+msgstr ""
+"Wani_B_Go_Berserk__T"
+
+# 338
+msgid ""
+"Wani_B_Splash_AcidFog__H"
+
+# 338
+msgstr ""
+"Wani_B_Splash_AcidFog__H"
+
+# 339
+msgid ""
+"Wani_B_Splash_AcidFog__M"
+
+# 339
+msgstr ""
+"Wani_B_Splash_AcidFog__M"
+
+# 340
+msgid ""
+"Wani_B_BackStep__H"
+
+# 340
+msgstr ""
+"Wani_B_BackStep__H"
+
+# 341
+msgid ""
+"Wani_B_BackStep__M"
+
+# 341
+msgstr ""
+"Wani_B_BackStep__M"
+
+# 342
+msgid ""
+"Wani_B_BackStep__T"
+
+# 342
+msgstr ""
+"Wani_B_BackStep__T"
+
+# 343
+msgid ""
+"Wani_B_Splash_AcidFog_Local__H"
+
+# 343
+msgstr ""
+"Wani_B_Splash_AcidFog_Local__H"
+
+# 344
+msgid ""
+"Wani_B_Splash_AcidFog_Local__M"
+
+# 344
+msgstr ""
+"Wani_B_Splash_AcidFog_Local__M"
+
+# 345
+msgid ""
+"Wani_B_Fumble"
+
+# 345
+msgstr ""
+"Wani_B_Fumble"
+
+# 346
+msgid ""
+"Gorilla_N_Idle"
+
+# 346
+msgstr ""
+"Gorilla_N_Idle"
+
+# 347
+msgid ""
+"Gorilla_N_Walk"
+
+# 347
+msgstr ""
+"Gorilla_N_Walk"
+
+# 348
+msgid ""
+"Gorilla_N_JumpToUpland__H"
+
+# 348
+msgstr ""
+"Gorilla_N_JumpToUpland__H"
+
+# 349
+msgid ""
+"Gorilla_N_JumpToUpland__M"
+
+# 349
+msgstr ""
+"Gorilla_N_JumpToUpland__M"
+
+# 350
+msgid ""
+"Gorilla_N_JumpToUpland__T"
+
+# 350
+msgstr ""
+"Gorilla_N_JumpToUpland__T"
+
+# 351
+msgid ""
+"Gorilla_N_JumpFromUpland__H"
+
+# 351
+msgstr ""
+"Gorilla_N_JumpFromUpland__H"
+
+# 352
+msgid ""
+"Gorilla_N_JumpFromUpland__M"
+
+# 352
+msgstr ""
+"Gorilla_N_JumpFromUpland__M"
+
+# 353
+msgid ""
+"Gorilla_N_JumpFromUpland__T"
+
+# 353
+msgstr ""
+"Gorilla_N_JumpFromUpland__T"
+
+# 354
+msgid ""
+"Gorilla_N_TurnLeft"
+
+# 354
+msgstr ""
+"Gorilla_N_TurnLeft"
+
+# 355
+msgid ""
+"Gorilla_N_TurnRight"
+
+# 355
+msgstr ""
+"Gorilla_N_TurnRight"
+
+# 356
+msgid ""
+"Gorilla_N_LargeTurnLeft"
+
+# 356
+msgstr ""
+"Gorilla_N_LargeTurnLeft"
+
+# 357
+msgid ""
+"Gorilla_N_LargeTurnRight"
+
+# 357
+msgstr ""
+"Gorilla_N_LargeTurnRight"
+
+# 358
+msgid ""
+"Gorilla_N_Eat"
+
+# 358
+msgstr ""
+"Gorilla_N_Eat"
+
+# 359
+msgid ""
+"Gorilla_Appear"
+
+# 359
+msgstr ""
+"Gorilla_Appear"
+
+# 360
+msgid ""
+"Gorilla_B_Idle"
+
+# 360
+msgstr ""
+"Gorilla_B_Idle"
+
+# 361
+msgid ""
+"Gorilla_B_Dash__H"
+
+# 361
+msgstr ""
+"Gorilla_B_Dash__H"
+
+# 362
+msgid ""
+"Gorilla_B_Dash__M"
+
+# 362
+msgstr ""
+"Gorilla_B_Dash__M"
+
+# 363
+msgid ""
+"Gorilla_B_Dash__T"
+
+# 363
+msgstr ""
+"Gorilla_B_Dash__T"
+
+# 364
+msgid ""
+"Gorilla_B_JumpToBossUpland"
+
+# 364
+msgstr ""
+"Gorilla_B_JumpToBossUpland"
+
+# 365
+msgid ""
+"Gorilla_B_JumpFromBossUpland"
+
+# 365
+msgstr ""
+"Gorilla_B_JumpFromBossUpland"
+
+# 366
+msgid ""
+"Gorilla_B_MoveLongPath__H"
+
+# 366
+msgstr ""
+"Gorilla_B_MoveLongPath__H"
+
+# 367
+msgid ""
+"Gorilla_B_MoveLongPath__M"
+
+# 367
+msgstr ""
+"Gorilla_B_MoveLongPath__M"
+
+# 368
+msgid ""
+"Gorilla_B_MoveLongPath__T"
+
+# 368
+msgstr ""
+"Gorilla_B_MoveLongPath__T"
+
+# 369
+msgid ""
+"Gorilla_B_TurnLeft"
+
+# 369
+msgstr ""
+"Gorilla_B_TurnLeft"
+
+# 370
+msgid ""
+"Gorilla_B_TurnRight"
+
+# 370
+msgstr ""
+"Gorilla_B_TurnRight"
+
+# 371
+msgid ""
+"Gorilla_B_LargeTurnLeft"
+
+# 371
+msgstr ""
+"Gorilla_B_LargeTurnLeft"
+
+# 372
+msgid ""
+"Gorilla_B_LargeTurnRight"
+
+# 372
+msgstr ""
+"Gorilla_B_LargeTurnRight"
+
+# 373
+msgid ""
+"Gorilla_B_DriftLeft"
+
+# 373
+msgstr ""
+"Gorilla_B_DriftLeft"
+
+# 374
+msgid ""
+"Gorilla_B_DriftRight"
+
+# 374
+msgstr ""
+"Gorilla_B_DriftRight"
+
+# 375
+msgid ""
+"Gorilla_B_FindComminate"
+
+# 375
+msgstr ""
+"Gorilla_B_FindComminate"
+
+# 376
+msgid ""
+"Gorilla_B_AngryComminate"
+
+# 376
+msgstr ""
+"Gorilla_B_AngryComminate"
+
+# 377
+msgid ""
+"Gorilla_B_ChagrinComminate"
+
+# 377
+msgstr ""
+"Gorilla_B_ChagrinComminate"
+
+# 378
+msgid ""
+"Gorilla_B_Stagger"
+
+# 378
+msgstr ""
+"Gorilla_B_Stagger"
+
+# 379
+msgid ""
+"Gorilla_B_ForefootDown__H"
+
+# 379
+msgstr ""
+"Gorilla_B_ForefootDown__H"
+
+# 380
+msgid ""
+"Gorilla_B_ForefootDown__M"
+
+# 380
+msgstr ""
+"Gorilla_B_ForefootDown__M"
+
+# 381
+msgid ""
+"Gorilla_B_ForefootDown__T"
+
+# 381
+msgstr ""
+"Gorilla_B_ForefootDown__T"
+
+# 382
+msgid ""
+"Gorilla_B_HindfootDown__H"
+
+# 382
+msgstr ""
+"Gorilla_B_HindfootDown__H"
+
+# 383
+msgid ""
+"Gorilla_B_HindfootDown__M"
+
+# 383
+msgstr ""
+"Gorilla_B_HindfootDown__M"
+
+# 384
+msgid ""
+"Gorilla_B_HindfootDown__T"
+
+# 384
+msgstr ""
+"Gorilla_B_HindfootDown__T"
+
+# 385
+msgid ""
+"Gorilla_B_Hold__H"
+
+# 385
+msgstr ""
+"Gorilla_B_Hold__H"
+
+# 386
+msgid ""
+"Gorilla_B_Hold__M"
+
+# 386
+msgstr ""
+"Gorilla_B_Hold__M"
+
+# 387
+msgid ""
+"Gorilla_B_Hold__T"
+
+# 387
+msgstr ""
+"Gorilla_B_Hold__T"
+
+# 388
+msgid ""
+"Gorilla_B_Giddy"
+
+# 388
+msgstr ""
+"Gorilla_B_Giddy"
+
+# 389
+msgid ""
+"Gorilla_Dead__H"
+
+# 389
+msgstr ""
+"Gorilla_Dead__H"
+
+# 390
+msgid ""
+"Gorilla_Dead__M"
+
+# 390
+msgstr ""
+"Gorilla_Dead__M"
+
+# 391
+msgid ""
+"Gorilla_Dead__T"
+
+# 391
+msgstr ""
+"Gorilla_Dead__T"
+
+# 392
+msgid ""
+"Gorilla_B_Eat"
+
+# 392
+msgstr ""
+"Gorilla_B_Eat"
+
+# 393
+msgid ""
+"Gorilla_B_Punch"
+
+# 393
+msgstr ""
+"Gorilla_B_Punch"
+
+# 394
+msgid ""
+"Gorilla_B_NiouPunch__H"
+
+# 394
+msgstr ""
+"Gorilla_B_NiouPunch__H"
+
+# 395
+msgid ""
+"Gorilla_B_NiouPunch__M"
+
+# 395
+msgstr ""
+"Gorilla_B_NiouPunch__M"
+
+# 396
+msgid ""
+"Gorilla_B_ArmStamp"
+
+# 396
+msgstr ""
+"Gorilla_B_ArmStamp"
+
+# 397
+msgid ""
+"Gorilla_B_RollingAttack__H"
+
+# 397
+msgstr ""
+"Gorilla_B_RollingAttack__H"
+
+# 398
+msgid ""
+"Gorilla_B_RollingAttack__M"
+
+# 398
+msgstr ""
+"Gorilla_B_RollingAttack__M"
+
+# 399
+msgid ""
+"Gorilla_B_RollingAttack__T"
+
+# 399
+msgstr ""
+"Gorilla_B_RollingAttack__T"
+
+# 400
+msgid ""
+"Gorilla_B_Shot__H"
+
+# 400
+msgstr ""
+"Gorilla_B_Shot__H"
+
+# 401
+msgid ""
+"Gorilla_B_Shot__M"
+
+# 401
+msgstr ""
+"Gorilla_B_Shot__M"
+
+# 402
+msgid ""
+"Gorilla_B_DoubleLariat__H"
+
+# 402
+msgstr ""
+"Gorilla_B_DoubleLariat__H"
+
+# 403
+msgid ""
+"Gorilla_B_DoubleLariat__M"
+
+# 403
+msgstr ""
+"Gorilla_B_DoubleLariat__M"
+
+# 404
+msgid ""
+"Gorilla_B_AroundShockWave__H"
+
+# 404
+msgstr ""
+"Gorilla_B_AroundShockWave__H"
+
+# 405
+msgid ""
+"Gorilla_B_AroundShockWave__M"
+
+# 405
+msgstr ""
+"Gorilla_B_AroundShockWave__M"
+
+# 406
+msgid ""
+"Gorilla_B_BackJump__H"
+
+# 406
+msgstr ""
+"Gorilla_B_BackJump__H"
+
+# 407
+msgid ""
+"Gorilla_B_BackJump__M"
+
+# 407
+msgstr ""
+"Gorilla_B_BackJump__M"
+
+# 408
+msgid ""
+"Gorilla_B_BackJump__T"
+
+# 408
+msgstr ""
+"Gorilla_B_BackJump__T"
+
+# 409
+msgid ""
+"Gorilla_B_DirectedSound__H"
+
+# 409
+msgstr ""
+"Gorilla_B_DirectedSound__H"
+
+# 410
+msgid ""
+"Gorilla_B_DirectedSound__M"
+
+# 410
+msgstr ""
+"Gorilla_B_DirectedSound__M"
+
+# 411
+msgid ""
+"Gorilla_B_Fumble__M"
+
+# 411
+msgstr ""
+"Gorilla_B_Fumble__M"
+
+# 412
+msgid ""
+"Vampire_N_Idle"
+
+# 412
+msgstr ""
+"Vampire_N_Idle"
+
+# 413
+msgid ""
+"Vampire_N_Walk"
+
+# 413
+msgstr ""
+"Vampire_N_Walk"
+
+# 414
+msgid ""
+"Vampire_N_JumpToUpland__H"
+
+# 414
+msgstr ""
+"Vampire_N_JumpToUpland__H"
+
+# 415
+msgid ""
+"Vampire_N_JumpToUpland__M"
+
+# 415
+msgstr ""
+"Vampire_N_JumpToUpland__M"
+
+# 416
+msgid ""
+"Vampire_N_JumpToUpland__T"
+
+# 416
+msgstr ""
+"Vampire_N_JumpToUpland__T"
+
+# 417
+msgid ""
+"Vampire_N_JumpFromUpland__H"
+
+# 417
+msgstr ""
+"Vampire_N_JumpFromUpland__H"
+
+# 418
+msgid ""
+"Vampire_N_JumpFromUpland__M"
+
+# 418
+msgstr ""
+"Vampire_N_JumpFromUpland__M"
+
+# 419
+msgid ""
+"Vampire_N_JumpFromUpland__T"
+
+# 419
+msgstr ""
+"Vampire_N_JumpFromUpland__T"
+
+# 420
+msgid ""
+"Vampire_N_TurnLeft"
+
+# 420
+msgstr ""
+"Vampire_N_TurnLeft"
+
+# 421
+msgid ""
+"Vampire_N_TurnRight"
+
+# 421
+msgstr ""
+"Vampire_N_TurnRight"
+
+# 422
+msgid ""
+"Vampire_N_LargeTurnLeft"
+
+# 422
+msgstr ""
+"Vampire_N_LargeTurnLeft"
+
+# 423
+msgid ""
+"Vampire_N_LargeTurnRight"
+
+# 423
+msgstr ""
+"Vampire_N_LargeTurnRight"
+
+# 424
+msgid ""
+"Vampire_N_Eat"
+
+# 424
+msgstr ""
+"Vampire_N_Eat"
+
+# 425
+msgid ""
+"Vampire_Appear"
+
+# 425
+msgstr ""
+"Vampire_Appear"
+
+# 426
+msgid ""
+"Vampire_B_Idle"
+
+# 426
+msgstr ""
+"Vampire_B_Idle"
+
+# 427
+msgid ""
+"Vampire_B_Dash__H"
+
+# 427
+msgstr ""
+"Vampire_B_Dash__H"
+
+# 428
+msgid ""
+"Vampire_B_Dash__M"
+
+# 428
+msgstr ""
+"Vampire_B_Dash__M"
+
+# 429
+msgid ""
+"Vampire_B_Dash__T"
+
+# 429
+msgstr ""
+"Vampire_B_Dash__T"
+
+# 430
+msgid ""
+"Vampire_B_JumpToBossUpland"
+
+# 430
+msgstr ""
+"Vampire_B_JumpToBossUpland"
+
+# 431
+msgid ""
+"Vampire_B_JumpFromBossUpland"
+
+# 431
+msgstr ""
+"Vampire_B_JumpFromBossUpland"
+
+# 432
+msgid ""
+"Vampire_B_MoveLongPath__H"
+
+# 432
+msgstr ""
+"Vampire_B_MoveLongPath__H"
+
+# 433
+msgid ""
+"Vampire_B_MoveLongPath__M"
+
+# 433
+msgstr ""
+"Vampire_B_MoveLongPath__M"
+
+# 434
+msgid ""
+"Vampire_B_MoveLongPath__T"
+
+# 434
+msgstr ""
+"Vampire_B_MoveLongPath__T"
+
+# 435
+msgid ""
+"Vampire_B_TurnLeft"
+
+# 435
+msgstr ""
+"Vampire_B_TurnLeft"
+
+# 436
+msgid ""
+"Vampire_B_TurnRight"
+
+# 436
+msgstr ""
+"Vampire_B_TurnRight"
+
+# 437
+msgid ""
+"Vampire_B_LargeTurnLeft"
+
+# 437
+msgstr ""
+"Vampire_B_LargeTurnLeft"
+
+# 438
+msgid ""
+"Vampire_B_LargeTurnRight"
+
+# 438
+msgstr ""
+"Vampire_B_LargeTurnRight"
+
+# 439
+msgid ""
+"Vampire_B_DriftLeft"
+
+# 439
+msgstr ""
+"Vampire_B_DriftLeft"
+
+# 440
+msgid ""
+"Vampire_B_DriftRight"
+
+# 440
+msgstr ""
+"Vampire_B_DriftRight"
+
+# 441
+msgid ""
+"Vampire_B_FindComminate"
+
+# 441
+msgstr ""
+"Vampire_B_FindComminate"
+
+# 442
+msgid ""
+"Vampire_B_AngryComminate"
+
+# 442
+msgstr ""
+"Vampire_B_AngryComminate"
+
+# 443
+msgid ""
+"Vampire_B_ChagrinComminate"
+
+# 443
+msgstr ""
+"Vampire_B_ChagrinComminate"
+
+# 444
+msgid ""
+"Vampire_B_Stagger"
+
+# 444
+msgstr ""
+"Vampire_B_Stagger"
+
+# 445
+msgid ""
+"Vampire_B_ArmDown__H"
+
+# 445
+msgstr ""
+"Vampire_B_ArmDown__H"
+
+# 446
+msgid ""
+"Vampire_B_ArmDown__M"
+
+# 446
+msgstr ""
+"Vampire_B_ArmDown__M"
+
+# 447
+msgid ""
+"Vampire_B_ArmDown__T"
+
+# 447
+msgstr ""
+"Vampire_B_ArmDown__T"
+
+# 448
+msgid ""
+"Vampire_B_BodyDown__H"
+
+# 448
+msgstr ""
+"Vampire_B_BodyDown__H"
+
+# 449
+msgid ""
+"Vampire_B_BodyDown__M"
+
+# 449
+msgstr ""
+"Vampire_B_BodyDown__M"
+
+# 450
+msgid ""
+"Vampire_B_BodyDown__T"
+
+# 450
+msgstr ""
+"Vampire_B_BodyDown__T"
+
+# 451
+msgid ""
+"Vampire_B_Hold__H"
+
+# 451
+msgstr ""
+"Vampire_B_Hold__H"
+
+# 452
+msgid ""
+"Vampire_B_Hold__M"
+
+# 452
+msgstr ""
+"Vampire_B_Hold__M"
+
+# 453
+msgid ""
+"Vampire_B_Hold__T"
+
+# 453
+msgstr ""
+"Vampire_B_Hold__T"
+
+# 454
+msgid ""
+"Vampire_B_Giddy"
+
+# 454
+msgstr ""
+"Vampire_B_Giddy"
+
+# 455
+msgid ""
+"Vampire_Dead__H"
+
+# 455
+msgstr ""
+"Vampire_Dead__H"
+
+# 456
+msgid ""
+"Vampire_Dead__M"
+
+# 456
+msgstr ""
+"Vampire_Dead__M"
+
+# 457
+msgid ""
+"Vampire_Dead__T"
+
+# 457
+msgstr ""
+"Vampire_Dead__T"
+
+# 458
+msgid ""
+"Vampire_B_Eat"
+
+# 458
+msgstr ""
+"Vampire_B_Eat"
+
+# 459
+msgid ""
+"Vampire_B_Pincer_Arms"
+
+# 459
+msgstr ""
+"Vampire_B_Pincer_Arms"
+
+# 460
+msgid ""
+"Vampire_B_Jump_Kick__H"
+
+# 460
+msgstr ""
+"Vampire_B_Jump_Kick__H"
+
+# 461
+msgid ""
+"Vampire_B_Jump_Kick__M"
+
+# 461
+msgstr ""
+"Vampire_B_Jump_Kick__M"
+
+# 462
+msgid ""
+"Vampire_B_Jump_Kick__T"
+
+# 462
+msgstr ""
+"Vampire_B_Jump_Kick__T"
+
+# 463
+msgid ""
+"Vampire_B_Shot_Power_Charge__H"
+
+# 463
+msgstr ""
+"Vampire_B_Shot_Power_Charge__H"
+
+# 464
+msgid ""
+"Vampire_B_Shot_Power_Charge__M"
+
+# 464
+msgstr ""
+"Vampire_B_Shot_Power_Charge__M"
+
+# 465
+msgid ""
+"Vampire_B_Shot_Power_Charge__T"
+
+# 465
+msgstr ""
+"Vampire_B_Shot_Power_Charge__T"
+
+# 466
+msgid ""
+"Vampire_B_Loop_Shot__H"
+
+# 466
+msgstr ""
+"Vampire_B_Loop_Shot__H"
+
+# 467
+msgid ""
+"Vampire_B_Loop_Shot__M"
+
+# 467
+msgstr ""
+"Vampire_B_Loop_Shot__M"
+
+# 468
+msgid ""
+"Vampire_B_Loop_Shot__T"
+
+# 468
+msgstr ""
+"Vampire_B_Loop_Shot__T"
+
+# 469
+msgid ""
+"Vampire_B_Jump_Turn_Arms__H"
+
+# 469
+msgstr ""
+"Vampire_B_Jump_Turn_Arms__H"
+
+# 470
+msgid ""
+"Vampire_B_Jump_Turn_Arms__M"
+
+# 470
+msgstr ""
+"Vampire_B_Jump_Turn_Arms__M"
+
+# 471
+msgid ""
+"Vampire_B_Jump_Turn_Arms__T"
+
+# 471
+msgstr ""
+"Vampire_B_Jump_Turn_Arms__T"
+
+# 472
+msgid ""
+"Vampire_B_Impact__H"
+
+# 472
+msgstr ""
+"Vampire_B_Impact__H"
+
+# 473
+msgid ""
+"Vampire_B_Impact__M"
+
+# 473
+msgstr ""
+"Vampire_B_Impact__M"
+
+# 474
+msgid ""
+"Vampire_B_Back_Jump__H"
+
+# 474
+msgstr ""
+"Vampire_B_Back_Jump__H"
+
+# 475
+msgid ""
+"Vampire_B_Back_Jump__M"
+
+# 475
+msgstr ""
+"Vampire_B_Back_Jump__M"
+
+# 476
+msgid ""
+"Vampire_B_Back_Jump__T"
+
+# 476
+msgstr ""
+"Vampire_B_Back_Jump__T"
+
+# 477
+msgid ""
+"Vampire_B_Side_Step"
+
+# 477
+msgstr ""
+"Vampire_B_Side_Step"
+
+# 478
+msgid ""
+"Vampire_B_Shot_Homing__H"
+
+# 478
+msgstr ""
+"Vampire_B_Shot_Homing__H"
+
+# 479
+msgid ""
+"Vampire_B_Shot_Homing__M"
+
+# 479
+msgstr ""
+"Vampire_B_Shot_Homing__M"
+
+# 480
+msgid ""
+"Vampire_B_Fumble"
+
+# 480
+msgstr ""
+"Vampire_B_Fumble"
+
+# 481
+msgid ""
+"AngelEgg_N_Idle"
+
+# 481
+msgstr ""
+"AngelEgg_N_Idle"
+
+# 482
+msgid ""
+"AngelEgg_N_Walk"
+
+# 482
+msgstr ""
+"AngelEgg_N_Walk"
+
+# 483
+msgid ""
+"AngelEgg_N_JumpToUpland__H"
+
+# 483
+msgstr ""
+"AngelEgg_N_JumpToUpland__H"
+
+# 484
+msgid ""
+"AngelEgg_N_JumpToUpland__M"
+
+# 484
+msgstr ""
+"AngelEgg_N_JumpToUpland__M"
+
+# 485
+msgid ""
+"AngelEgg_N_JumpToUpland__T"
+
+# 485
+msgstr ""
+"AngelEgg_N_JumpToUpland__T"
+
+# 486
+msgid ""
+"AngelEgg_N_JumpFromUpland__H"
+
+# 486
+msgstr ""
+"AngelEgg_N_JumpFromUpland__H"
+
+# 487
+msgid ""
+"AngelEgg_N_JumpFromUpland__M"
+
+# 487
+msgstr ""
+"AngelEgg_N_JumpFromUpland__M"
+
+# 488
+msgid ""
+"AngelEgg_N_JumpFromUpland__T"
+
+# 488
+msgstr ""
+"AngelEgg_N_JumpFromUpland__T"
+
+# 489
+msgid ""
+"AngelEgg_N_TurnLeft"
+
+# 489
+msgstr ""
+"AngelEgg_N_TurnLeft"
+
+# 490
+msgid ""
+"AngelEgg_N_TurnRight"
+
+# 490
+msgstr ""
+"AngelEgg_N_TurnRight"
+
+# 491
+msgid ""
+"AngelEgg_N_LargeTurnLeft"
+
+# 491
+msgstr ""
+"AngelEgg_N_LargeTurnLeft"
+
+# 492
+msgid ""
+"AngelEgg_N_LargeTurnRight"
+
+# 492
+msgstr ""
+"AngelEgg_N_LargeTurnRight"
+
+# 493
+msgid ""
+"AngelEgg_Appear"
+
+# 493
+msgstr ""
+"AngelEgg_Appear"
+
+# 494
+msgid ""
+"AngelEgg_B_Idle"
+
+# 494
+msgstr ""
+"AngelEgg_B_Idle"
+
+# 495
+msgid ""
+"AngelEgg_B_Dash__H"
+
+# 495
+msgstr ""
+"AngelEgg_B_Dash__H"
+
+# 496
+msgid ""
+"AngelEgg_B_Dash__M"
+
+# 496
+msgstr ""
+"AngelEgg_B_Dash__M"
+
+# 497
+msgid ""
+"AngelEgg_B_Dash__T"
+
+# 497
+msgstr ""
+"AngelEgg_B_Dash__T"
+
+# 498
+msgid ""
+"AngelEgg_B_TurnLeft"
+
+# 498
+msgstr ""
+"AngelEgg_B_TurnLeft"
+
+# 499
+msgid ""
+"AngelEgg_B_TurnRight"
+
+# 499
+msgstr ""
+"AngelEgg_B_TurnRight"
+
+# 500
+msgid ""
+"AngelEgg_B_LargeTurnLeft"
+
+# 500
+msgstr ""
+"AngelEgg_B_LargeTurnLeft"
+
+# 501
+msgid ""
+"AngelEgg_B_LargeTurnRight"
+
+# 501
+msgstr ""
+"AngelEgg_B_LargeTurnRight"
+
+# 502
+msgid ""
+"AngelEgg_B_DriftLeft"
+
+# 502
+msgstr ""
+"AngelEgg_B_DriftLeft"
+
+# 503
+msgid ""
+"AngelEgg_B_DriftRight"
+
+# 503
+msgstr ""
+"AngelEgg_B_DriftRight"
+
+# 504
+msgid ""
+"AngelEgg_B_FindComminate"
+
+# 504
+msgstr ""
+"AngelEgg_B_FindComminate"
+
+# 505
+msgid ""
+"AngelEgg_B_ChagrinComminate"
+
+# 505
+msgstr ""
+"AngelEgg_B_ChagrinComminate"
+
+# 506
+msgid ""
+"AngelEgg_B_Stagger"
+
+# 506
+msgstr ""
+"AngelEgg_B_Stagger"
+
+# 507
+msgid ""
+"AngelEgg_B_ForefootDown__H"
+
+# 507
+msgstr ""
+"AngelEgg_B_ForefootDown__H"
+
+# 508
+msgid ""
+"AngelEgg_B_ForefootDown__M"
+
+# 508
+msgstr ""
+"AngelEgg_B_ForefootDown__M"
+
+# 509
+msgid ""
+"AngelEgg_B_ForefootDown__T"
+
+# 509
+msgstr ""
+"AngelEgg_B_ForefootDown__T"
+
+# 510
+msgid ""
+"AngelEgg_B_Hold__H"
+
+# 510
+msgstr ""
+"AngelEgg_B_Hold__H"
+
+# 511
+msgid ""
+"AngelEgg_B_Hold__M"
+
+# 511
+msgstr ""
+"AngelEgg_B_Hold__M"
+
+# 512
+msgid ""
+"AngelEgg_B_Hold__T"
+
+# 512
+msgstr ""
+"AngelEgg_B_Hold__T"
+
+# 513
+msgid ""
+"AngelEgg_B_Giddy"
+
+# 513
+msgstr ""
+"AngelEgg_B_Giddy"
+
+# 514
+msgid ""
+"AngelEgg_Dead__H"
+
+# 514
+msgstr ""
+"AngelEgg_Dead__H"
+
+# 515
+msgid ""
+"AngelEgg_Dead__M"
+
+# 515
+msgstr ""
+"AngelEgg_Dead__M"
+
+# 516
+msgid ""
+"AngelEgg_Dead__T"
+
+# 516
+msgstr ""
+"AngelEgg_Dead__T"
+
+# 517
+msgid ""
+"AngelEgg_B_Cling"
+
+# 517
+msgstr ""
+"AngelEgg_B_Cling"
+
+# 518
+msgid ""
+"AngelEgg_B_Tackle__H"
+
+# 518
+msgstr ""
+"AngelEgg_B_Tackle__H"
+
+# 519
+msgid ""
+"AngelEgg_B_Tackle__M"
+
+# 519
+msgstr ""
+"AngelEgg_B_Tackle__M"
+
+# 520
+msgid ""
+"AngelEgg_B_Tackle__T"
+
+# 520
+msgstr ""
+"AngelEgg_B_Tackle__T"
+
+# 521
+msgid ""
+"AngelEgg_B_ShotWind__H"
+
+# 521
+msgstr ""
+"AngelEgg_B_ShotWind__H"
+
+# 522
+msgid ""
+"AngelEgg_B_ShotWind__M"
+
+# 522
+msgstr ""
+"AngelEgg_B_ShotWind__M"
+
+# 523
+msgid ""
+"AngelEgg_B_ShotWind__T"
+
+# 523
+msgstr ""
+"AngelEgg_B_ShotWind__T"
+
+# 524
+msgid ""
+"AngelEgg_B_StinkGas__H"
+
+# 524
+msgstr ""
+"AngelEgg_B_StinkGas__H"
+
+# 525
+msgid ""
+"AngelEgg_B_StinkGas__M"
+
+# 525
+msgstr ""
+"AngelEgg_B_StinkGas__M"
+
+# 526
+msgid ""
+"AngelEgg_B_StinkGas__T"
+
+# 526
+msgstr ""
+"AngelEgg_B_StinkGas__T"
+
+# 527
+msgid ""
+"AngelEgg_B_StinkGasLob__H"
+
+# 527
+msgstr ""
+"AngelEgg_B_StinkGasLob__H"
+
+# 528
+msgid ""
+"AngelEgg_B_StinkGasLob__M"
+
+# 528
+msgstr ""
+"AngelEgg_B_StinkGasLob__M"
+
+# 529
+msgid ""
+"AngelEgg_B_StinkGasLob__T"
+
+# 529
+msgstr ""
+"AngelEgg_B_StinkGasLob__T"
+
+# 530
+msgid ""
+"AngelEgg_B_DyingFumble"
+
+# 530
+msgstr ""
+"AngelEgg_B_DyingFumble"
+
+# 531
+msgid ""
+"QP_N_Idle"
+
+# 531
+msgstr ""
+"QP_N_Idle"
+
+# 532
+msgid ""
+"QP_N_Walk"
+
+# 532
+msgstr ""
+"QP_N_Walk"
+
+# 533
+msgid ""
+"QP_N_JumpToUpland__H"
+
+# 533
+msgstr ""
+"QP_N_JumpToUpland__H"
+
+# 534
+msgid ""
+"QP_N_JumpToUpland__M"
+
+# 534
+msgstr ""
+"QP_N_JumpToUpland__M"
+
+# 535
+msgid ""
+"QP_N_JumpToUpland__T"
+
+# 535
+msgstr ""
+"QP_N_JumpToUpland__T"
+
+# 536
+msgid ""
+"QP_N_JumpFromUpland__H"
+
+# 536
+msgstr ""
+"QP_N_JumpFromUpland__H"
+
+# 537
+msgid ""
+"QP_N_JumpFromUpland__M"
+
+# 537
+msgstr ""
+"QP_N_JumpFromUpland__M"
+
+# 538
+msgid ""
+"QP_N_JumpFromUpland__T"
+
+# 538
+msgstr ""
+"QP_N_JumpFromUpland__T"
+
+# 539
+msgid ""
+"QP_N_TurnLeft"
+
+# 539
+msgstr ""
+"QP_N_TurnLeft"
+
+# 540
+msgid ""
+"QP_N_TurnRight"
+
+# 540
+msgstr ""
+"QP_N_TurnRight"
+
+# 541
+msgid ""
+"QP_N_LargeTurnLeft"
+
+# 541
+msgstr ""
+"QP_N_LargeTurnLeft"
+
+# 542
+msgid ""
+"QP_N_LargeTurnRight"
+
+# 542
+msgstr ""
+"QP_N_LargeTurnRight"
+
+# 543
+msgid ""
+"QP_N_Eat"
+
+# 543
+msgstr ""
+"QP_N_Eat"
+
+# 544
+msgid ""
+"QP_Appear"
+
+# 544
+msgstr ""
+"QP_Appear"
+
+# 545
+msgid ""
+"QP_B_Idle"
+
+# 545
+msgstr ""
+"QP_B_Idle"
+
+# 546
+msgid ""
+"QP_B_Dash__H"
+
+# 546
+msgstr ""
+"QP_B_Dash__H"
+
+# 547
+msgid ""
+"QP_B_Dash__M"
+
+# 547
+msgstr ""
+"QP_B_Dash__M"
+
+# 548
+msgid ""
+"QP_B_Dash__T"
+
+# 548
+msgstr ""
+"QP_B_Dash__T"
+
+# 549
+msgid ""
+"QP_B_JumpToBossUpland"
+
+# 549
+msgstr ""
+"QP_B_JumpToBossUpland"
+
+# 550
+msgid ""
+"QP_B_JumpFromBossUpland"
+
+# 550
+msgstr ""
+"QP_B_JumpFromBossUpland"
+
+# 551
+msgid ""
+"QP_B_MoveLongPath__H"
+
+# 551
+msgstr ""
+"QP_B_MoveLongPath__H"
+
+# 552
+msgid ""
+"QP_B_MoveLongPath__M"
+
+# 552
+msgstr ""
+"QP_B_MoveLongPath__M"
+
+# 553
+msgid ""
+"QP_B_MoveLongPath__T"
+
+# 553
+msgstr ""
+"QP_B_MoveLongPath__T"
+
+# 554
+msgid ""
+"QP_B_TurnLeft"
+
+# 554
+msgstr ""
+"QP_B_TurnLeft"
+
+# 555
+msgid ""
+"QP_B_TurnRight"
+
+# 555
+msgstr ""
+"QP_B_TurnRight"
+
+# 556
+msgid ""
+"QP_B_LargeTurnLeft"
+
+# 556
+msgstr ""
+"QP_B_LargeTurnLeft"
+
+# 557
+msgid ""
+"QP_B_LargeTurnRight"
+
+# 557
+msgstr ""
+"QP_B_LargeTurnRight"
+
+# 558
+msgid ""
+"QP_B_DriftLeft"
+
+# 558
+msgstr ""
+"QP_B_DriftLeft"
+
+# 559
+msgid ""
+"QP_B_DriftRight"
+
+# 559
+msgstr ""
+"QP_B_DriftRight"
+
+# 560
+msgid ""
+"QP_B_FindComminate"
+
+# 560
+msgstr ""
+"QP_B_FindComminate"
+
+# 561
+msgid ""
+"QP_B_AngryComminate"
+
+# 561
+msgstr ""
+"QP_B_AngryComminate"
+
+# 562
+msgid ""
+"QP_B_ChagrinComminate"
+
+# 562
+msgstr ""
+"QP_B_ChagrinComminate"
+
+# 563
+msgid ""
+"QP_B_Stagger"
+
+# 563
+msgstr ""
+"QP_B_Stagger"
+
+# 564
+msgid ""
+"QP_B_ArmDown__H"
+
+# 564
+msgstr ""
+"QP_B_ArmDown__H"
+
+# 565
+msgid ""
+"QP_B_ArmDown__M"
+
+# 565
+msgstr ""
+"QP_B_ArmDown__M"
+
+# 566
+msgid ""
+"QP_B_ArmDown__T"
+
+# 566
+msgstr ""
+"QP_B_ArmDown__T"
+
+# 567
+msgid ""
+"QP_B_BodyDown__H"
+
+# 567
+msgstr ""
+"QP_B_BodyDown__H"
+
+# 568
+msgid ""
+"QP_B_BodyDown__M"
+
+# 568
+msgstr ""
+"QP_B_BodyDown__M"
+
+# 569
+msgid ""
+"QP_B_BodyDown__T"
+
+# 569
+msgstr ""
+"QP_B_BodyDown__T"
+
+# 570
+msgid ""
+"QP_B_Hold__H"
+
+# 570
+msgstr ""
+"QP_B_Hold__H"
+
+# 571
+msgid ""
+"QP_B_Hold__M"
+
+# 571
+msgstr ""
+"QP_B_Hold__M"
+
+# 572
+msgid ""
+"QP_B_Hold__T"
+
+# 572
+msgstr ""
+"QP_B_Hold__T"
+
+# 573
+msgid ""
+"QP_B_Giddy"
+
+# 573
+msgstr ""
+"QP_B_Giddy"
+
+# 574
+msgid ""
+"QP_Dead__H"
+
+# 574
+msgstr ""
+"QP_Dead__H"
+
+# 575
+msgid ""
+"QP_Dead__M"
+
+# 575
+msgstr ""
+"QP_Dead__M"
+
+# 576
+msgid ""
+"QP_Dead__T"
+
+# 576
+msgstr ""
+"QP_Dead__T"
+
+# 577
+msgid ""
+"QP_B_Eat"
+
+# 577
+msgstr ""
+"QP_B_Eat"
+
+# 578
+msgid ""
+"QP_B_Lunge__H"
+
+# 578
+msgstr ""
+"QP_B_Lunge__H"
+
+# 579
+msgid ""
+"QP_B_Lunge__M"
+
+# 579
+msgstr ""
+"QP_B_Lunge__M"
+
+# 580
+msgid ""
+"QP_B_Lunge__T"
+
+# 580
+msgstr ""
+"QP_B_Lunge__T"
+
+# 581
+msgid ""
+"QP_B_MeanderingLunge__H"
+
+# 581
+msgstr ""
+"QP_B_MeanderingLunge__H"
+
+# 582
+msgid ""
+"QP_B_MeanderingLunge__M"
+
+# 582
+msgstr ""
+"QP_B_MeanderingLunge__M"
+
+# 583
+msgid ""
+"QP_B_Laser"
+
+# 583
+msgstr ""
+"QP_B_Laser"
+
+# 584
+msgid ""
+"QP_B_ShotGun"
+
+# 584
+msgstr ""
+"QP_B_ShotGun"
+
+# 585
+msgid ""
+"QP_B_DispelLaser"
+
+# 585
+msgstr ""
+"QP_B_DispelLaser"
+
+# 586
+msgid ""
+"QP_B_HomingLaser"
+
+# 586
+msgstr ""
+"QP_B_HomingLaser"
+
+# 587
+msgid ""
+"QP_B_PoisonScale"
+
+# 587
+msgstr ""
+"QP_B_PoisonScale"
+
+# 588
+msgid ""
+"QP_B_FastShineWall"
+
+# 588
+msgstr ""
+"QP_B_FastShineWall"
+
+# 589
+msgid ""
+"QP_B_SlowShineWall"
+
+# 589
+msgstr ""
+"QP_B_SlowShineWall"
+
+# 590
+msgid ""
+"QP_B_LeftElude"
+
+# 590
+msgstr ""
+"QP_B_LeftElude"
+
+# 591
+msgid ""
+"QP_B_RightElude"
+
+# 591
+msgstr ""
+"QP_B_RightElude"
+
+# 592
+msgid ""
+"QP_B_Sway"
+
+# 592
+msgstr ""
+"QP_B_Sway"
+
+# 593
+msgid ""
+"QP_B_SwayPoisonScale"
+
+# 593
+msgstr ""
+"QP_B_SwayPoisonScale"
+
+# 594
+msgid ""
+"QP_B_SpotHomingLaser"
+
+# 594
+msgstr ""
+"QP_B_SpotHomingLaser"
+
+# 595
+msgid ""
+"QP_B_Fumble"
+
+# 595
+msgstr ""
+"QP_B_Fumble"
+
+# 596
+msgid ""
+"OgreTail_N_Idle"
+
+# 596
+msgstr ""
+"OgreTail_N_Idle"
+
+# 597
+msgid ""
+"OgreTail_N_Walk"
+
+# 597
+msgstr ""
+"OgreTail_N_Walk"
+
+# 598
+msgid ""
+"OgreTail_N_JumpToUpland__H"
+
+# 598
+msgstr ""
+"OgreTail_N_JumpToUpland__H"
+
+# 599
+msgid ""
+"OgreTail_N_JumpToUpland__M"
+
+# 599
+msgstr ""
+"OgreTail_N_JumpToUpland__M"
+
+# 600
+msgid ""
+"OgreTail_N_JumpToUpland__T"
+
+# 600
+msgstr ""
+"OgreTail_N_JumpToUpland__T"
+
+# 601
+msgid ""
+"OgreTail_N_JumpFromUpland__H"
+
+# 601
+msgstr ""
+"OgreTail_N_JumpFromUpland__H"
+
+# 602
+msgid ""
+"OgreTail_N_JumpFromUpland__M"
+
+# 602
+msgstr ""
+"OgreTail_N_JumpFromUpland__M"
+
+# 603
+msgid ""
+"OgreTail_N_JumpFromUpland__T"
+
+# 603
+msgstr ""
+"OgreTail_N_JumpFromUpland__T"
+
+# 604
+msgid ""
+"OgreTail_N_TurnLeft"
+
+# 604
+msgstr ""
+"OgreTail_N_TurnLeft"
+
+# 605
+msgid ""
+"OgreTail_N_TurnRight"
+
+# 605
+msgstr ""
+"OgreTail_N_TurnRight"
+
+# 606
+msgid ""
+"OgreTail_N_LargeTurnLeft"
+
+# 606
+msgstr ""
+"OgreTail_N_LargeTurnLeft"
+
+# 607
+msgid ""
+"OgreTail_N_LargeTurnRight"
+
+# 607
+msgstr ""
+"OgreTail_N_LargeTurnRight"
+
+# 608
+msgid ""
+"OgreTail_N_Eat"
+
+# 608
+msgstr ""
+"OgreTail_N_Eat"
+
+# 609
+msgid ""
+"OgreTail_Appear"
+
+# 609
+msgstr ""
+"OgreTail_Appear"
+
+# 610
+msgid ""
+"OgreTail_B_Idle"
+
+# 610
+msgstr ""
+"OgreTail_B_Idle"
+
+# 611
+msgid ""
+"OgreTail_B_Dash__H"
+
+# 611
+msgstr ""
+"OgreTail_B_Dash__H"
+
+# 612
+msgid ""
+"OgreTail_B_Dash__M"
+
+# 612
+msgstr ""
+"OgreTail_B_Dash__M"
+
+# 613
+msgid ""
+"OgreTail_B_Dash__T"
+
+# 613
+msgstr ""
+"OgreTail_B_Dash__T"
+
+# 614
+msgid ""
+"OgreTail_B_TurnLeft"
+
+# 614
+msgstr ""
+"OgreTail_B_TurnLeft"
+
+# 615
+msgid ""
+"OgreTail_B_TurnRight"
+
+# 615
+msgstr ""
+"OgreTail_B_TurnRight"
+
+# 616
+msgid ""
+"OgreTail_B_LargeTurnLeft"
+
+# 616
+msgstr ""
+"OgreTail_B_LargeTurnLeft"
+
+# 617
+msgid ""
+"OgreTail_B_LargeTurnRight"
+
+# 617
+msgstr ""
+"OgreTail_B_LargeTurnRight"
+
+# 618
+msgid ""
+"OgreTail_B_DriftLeft"
+
+# 618
+msgstr ""
+"OgreTail_B_DriftLeft"
+
+# 619
+msgid ""
+"OgreTail_B_DriftRight"
+
+# 619
+msgstr ""
+"OgreTail_B_DriftRight"
+
+# 620
+msgid ""
+"OgreTail_B_FindComminate"
+
+# 620
+msgstr ""
+"OgreTail_B_FindComminate"
+
+# 621
+msgid ""
+"OgreTail_B_ChagrinComminate"
+
+# 621
+msgstr ""
+"OgreTail_B_ChagrinComminate"
+
+# 622
+msgid ""
+"OgreTail_B_Stagger"
+
+# 622
+msgstr ""
+"OgreTail_B_Stagger"
+
+# 623
+msgid ""
+"OgreTail_B_ForefootDown__H"
+
+# 623
+msgstr ""
+"OgreTail_B_ForefootDown__H"
+
+# 624
+msgid ""
+"OgreTail_B_ForefootDown__M"
+
+# 624
+msgstr ""
+"OgreTail_B_ForefootDown__M"
+
+# 625
+msgid ""
+"OgreTail_B_ForefootDown__T"
+
+# 625
+msgstr ""
+"OgreTail_B_ForefootDown__T"
+
+# 626
+msgid ""
+"OgreTail_B_Hold__H"
+
+# 626
+msgstr ""
+"OgreTail_B_Hold__H"
+
+# 627
+msgid ""
+"OgreTail_B_Hold__M"
+
+# 627
+msgstr ""
+"OgreTail_B_Hold__M"
+
+# 628
+msgid ""
+"OgreTail_B_Hold__T"
+
+# 628
+msgstr ""
+"OgreTail_B_Hold__T"
+
+# 629
+msgid ""
+"OgreTail_B_Giddy"
+
+# 629
+msgstr ""
+"OgreTail_B_Giddy"
+
+# 630
+msgid ""
+"OgreTail_Dead__H"
+
+# 630
+msgstr ""
+"OgreTail_Dead__H"
+
+# 631
+msgid ""
+"OgreTail_Dead__M"
+
+# 631
+msgstr ""
+"OgreTail_Dead__M"
+
+# 632
+msgid ""
+"OgreTail_Dead__T"
+
+# 632
+msgstr ""
+"OgreTail_Dead__T"
+
+# 633
+msgid ""
+"OgreTail_B_Cling"
+
+# 633
+msgstr ""
+"OgreTail_B_Cling"
+
+# 634
+msgid ""
+"OgreTail_B_RightTailAttack"
+
+# 634
+msgstr ""
+"OgreTail_B_RightTailAttack"
+
+# 635
+msgid ""
+"OgreTail_B_Pounce__H"
+
+# 635
+msgstr ""
+"OgreTail_B_Pounce__H"
+
+# 636
+msgid ""
+"OgreTail_B_Pounce__M"
+
+# 636
+msgstr ""
+"OgreTail_B_Pounce__M"
+
+# 637
+msgid ""
+"OgreTail_B_Pounce__T"
+
+# 637
+msgstr ""
+"OgreTail_B_Pounce__T"
+
+# 638
+msgid ""
+"OgreTail_B_Shot_Needle__H"
+
+# 638
+msgstr ""
+"OgreTail_B_Shot_Needle__H"
+
+# 639
+msgid ""
+"OgreTail_B_Shot_Needle__M"
+
+# 639
+msgstr ""
+"OgreTail_B_Shot_Needle__M"
+
+# 640
+msgid ""
+"OgreTail_B_LeftTailAttack"
+
+# 640
+msgstr ""
+"OgreTail_B_LeftTailAttack"
+
+# 641
+msgid ""
+"OgreTail_B_BackStep__H"
+
+# 641
+msgstr ""
+"OgreTail_B_BackStep__H"
+
+# 642
+msgid ""
+"OgreTail_B_BackStep__M"
+
+# 642
+msgstr ""
+"OgreTail_B_BackStep__M"
+
+# 643
+msgid ""
+"OgreTail_B_BackStep__T"
+
+# 643
+msgstr ""
+"OgreTail_B_BackStep__T"
+
+# 644
+msgid ""
+"OgreTail_B_DyingFumble"
+
+# 644
+msgstr ""
+"OgreTail_B_DyingFumble"
+

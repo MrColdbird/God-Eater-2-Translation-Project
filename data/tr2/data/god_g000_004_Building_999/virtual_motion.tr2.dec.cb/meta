@@ -1,0 +1,5 @@
+FILE_START,0x0000,0x07D0,virtual_motion
+ARRAY,0,virtual_motion_ascii_name,,yobi8,0x07D0,ASCII,00000000,00010155,000C007F
+ARRAY,1,virtual_motion_data_id_array,,yobi8,0x07D0,UINT8,00000000,00030443,000C007F
+ARRAY,2,virtual_motion_hit_atk_array,,yobi8,0x07D0,UINT16,00000000,00080453,000C007F
+ARRAY,3,virtual_motion_hit_def_array,,yobi8,0x07D0,UINT16,00000000,00090453,000C007F

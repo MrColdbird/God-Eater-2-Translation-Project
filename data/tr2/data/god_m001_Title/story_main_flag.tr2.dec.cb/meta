@@ -1,0 +1,2 @@
+FILE_START,0x0002,0x07DF,story_main_flag
+ARRAY,0,story_main_flag_bind_sub_flag,,,0x07DF,INT16,00000000,00010473,000C007F

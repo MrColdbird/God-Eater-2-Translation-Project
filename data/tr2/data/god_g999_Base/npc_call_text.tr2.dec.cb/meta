@@ -1,0 +1,2 @@
+FILE_START,0x0000,0x07CF,npc_call_text
+ARRAY,0,npc_call_text,,yobi8,0x07CF,UTF-8,00000000,00010155,000C00FF

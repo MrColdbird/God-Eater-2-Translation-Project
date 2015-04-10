@@ -1,0 +1,3 @@
+FILE_START,0x0002,0x07DF,story_sub_flag
+ARRAY,0,story_sub_flag_bind_param,,,0x07DF,INT16,00000000,00020473,000C007F
+ARRAY,1,story_sub_flag_reverse_bind,,,0x07DF,INT16,00000000,00010473,000C007F

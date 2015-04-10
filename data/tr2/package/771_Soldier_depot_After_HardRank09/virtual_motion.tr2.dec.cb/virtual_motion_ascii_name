@@ -1,0 +1,546 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_Uroboros_N_Idle"
+
+msgstr ""
+"2_Uroboros_N_Idle"
+
+msgid ""
+"2_Uroboros_N_Walk"
+
+msgstr ""
+"2_Uroboros_N_Walk"
+
+msgid ""
+"2_Uroboros_N_TurnLeft"
+
+msgstr ""
+"2_Uroboros_N_TurnLeft"
+
+msgid ""
+"2_Uroboros_N_TurnRight"
+
+msgstr ""
+"2_Uroboros_N_TurnRight"
+
+msgid ""
+"2_Uroboros_N_LargeTurnLeft"
+
+msgstr ""
+"2_Uroboros_N_LargeTurnLeft"
+
+msgid ""
+"2_Uroboros_N_LargeTurnRight"
+
+msgstr ""
+"2_Uroboros_N_LargeTurnRight"
+
+msgid ""
+"2_Uroboros_Appear"
+
+msgstr ""
+"2_Uroboros_Appear"
+
+msgid ""
+"2_Uroboros_B_Idle"
+
+msgstr ""
+"2_Uroboros_B_Idle"
+
+msgid ""
+"2_Uroboros_B_Dash__H"
+
+msgstr ""
+"2_Uroboros_B_Dash__H"
+
+msgid ""
+"2_Uroboros_B_Dash__M"
+
+msgstr ""
+"2_Uroboros_B_Dash__M"
+
+msgid ""
+"2_Uroboros_B_Dash__T"
+
+msgstr ""
+"2_Uroboros_B_Dash__T"
+
+msgid ""
+"2_Uroboros_B_JumpToBossUpland"
+
+msgstr ""
+"2_Uroboros_B_JumpToBossUpland"
+
+msgid ""
+"2_Uroboros_B_JumpFromBossUpland"
+
+msgstr ""
+"2_Uroboros_B_JumpFromBossUpland"
+
+msgid ""
+"2_Uroboros_B_TurnLeft"
+
+msgstr ""
+"2_Uroboros_B_TurnLeft"
+
+msgid ""
+"2_Uroboros_B_TurnRight"
+
+msgstr ""
+"2_Uroboros_B_TurnRight"
+
+msgid ""
+"2_Uroboros_B_LargeTurnLeft"
+
+msgstr ""
+"2_Uroboros_B_LargeTurnLeft"
+
+msgid ""
+"2_Uroboros_B_LargeTurnRight"
+
+msgstr ""
+"2_Uroboros_B_LargeTurnRight"
+
+msgid ""
+"2_Uroboros_B_FindComminate"
+
+msgstr ""
+"2_Uroboros_B_FindComminate"
+
+msgid ""
+"2_Uroboros_B_AngryComminate"
+
+msgstr ""
+"2_Uroboros_B_AngryComminate"
+
+msgid ""
+"2_Uroboros_B_ChagrinComminate"
+
+msgstr ""
+"2_Uroboros_B_ChagrinComminate"
+
+msgid ""
+"2_Uroboros_B_Stagger"
+
+msgstr ""
+"2_Uroboros_B_Stagger"
+
+msgid ""
+"2_Uroboros_B_ArmDown__H"
+
+msgstr ""
+"2_Uroboros_B_ArmDown__H"
+
+msgid ""
+"2_Uroboros_B_ArmDown__M"
+
+msgstr ""
+"2_Uroboros_B_ArmDown__M"
+
+msgid ""
+"2_Uroboros_B_ArmDown__T"
+
+msgstr ""
+"2_Uroboros_B_ArmDown__T"
+
+msgid ""
+"2_Uroboros_B_BodyDown__H"
+
+msgstr ""
+"2_Uroboros_B_BodyDown__H"
+
+msgid ""
+"2_Uroboros_B_BodyDown__M"
+
+msgstr ""
+"2_Uroboros_B_BodyDown__M"
+
+msgid ""
+"2_Uroboros_B_BodyDown__T"
+
+msgstr ""
+"2_Uroboros_B_BodyDown__T"
+
+msgid ""
+"2_Uroboros_B_SympathyBind__H"
+
+msgstr ""
+"2_Uroboros_B_SympathyBind__H"
+
+msgid ""
+"2_Uroboros_B_SympathyBind__M"
+
+msgstr ""
+"2_Uroboros_B_SympathyBind__M"
+
+msgid ""
+"2_Uroboros_B_SympathyBind__T"
+
+msgstr ""
+"2_Uroboros_B_SympathyBind__T"
+
+msgid ""
+"2_Uroboros_B_Hold__H"
+
+msgstr ""
+"2_Uroboros_B_Hold__H"
+
+msgid ""
+"2_Uroboros_B_Hold__M"
+
+msgstr ""
+"2_Uroboros_B_Hold__M"
+
+msgid ""
+"2_Uroboros_B_Hold__T"
+
+msgstr ""
+"2_Uroboros_B_Hold__T"
+
+msgid ""
+"2_Uroboros_B_Giddy"
+
+msgstr ""
+"2_Uroboros_B_Giddy"
+
+msgid ""
+"2_Uroboros_Dead__H"
+
+msgstr ""
+"2_Uroboros_Dead__H"
+
+msgid ""
+"2_Uroboros_Dead__M"
+
+msgstr ""
+"2_Uroboros_Dead__M"
+
+msgid ""
+"2_Uroboros_Dead__T"
+
+msgstr ""
+"2_Uroboros_Dead__T"
+
+msgid ""
+"2_Uroboros_B_Lunge"
+
+msgstr ""
+"2_Uroboros_B_Lunge"
+
+msgid ""
+"2_Uroboros_B_CuttingDown__H"
+
+msgstr ""
+"2_Uroboros_B_CuttingDown__H"
+
+msgid ""
+"2_Uroboros_B_CuttingDown__M"
+
+msgstr ""
+"2_Uroboros_B_CuttingDown__M"
+
+msgid ""
+"2_Uroboros_B_CuttingDown2__H"
+
+msgstr ""
+"2_Uroboros_B_CuttingDown2__H"
+
+msgid ""
+"2_Uroboros_B_CuttingDown2__M"
+
+msgstr ""
+"2_Uroboros_B_CuttingDown2__M"
+
+msgid ""
+"2_Uroboros_B_CuttingPlusSlam__H"
+
+msgstr ""
+"2_Uroboros_B_CuttingPlusSlam__H"
+
+msgid ""
+"2_Uroboros_B_CuttingPlusSlam__M"
+
+msgstr ""
+"2_Uroboros_B_CuttingPlusSlam__M"
+
+msgid ""
+"2_Uroboros_B_ArmSlam"
+
+msgstr ""
+"2_Uroboros_B_ArmSlam"
+
+msgid ""
+"2_Uroboros_B_CuttingDownTurn"
+
+msgstr ""
+"2_Uroboros_B_CuttingDownTurn"
+
+msgid ""
+"2_Uroboros_B_TentacleAllAround"
+
+msgstr ""
+"2_Uroboros_B_TentacleAllAround"
+
+msgid ""
+"2_Uroboros_B_TentacleAllAroundM"
+
+msgstr ""
+"2_Uroboros_B_TentacleAllAroundM"
+
+msgid ""
+"2_Uroboros_B_TentaclePinpoint"
+
+msgstr ""
+"2_Uroboros_B_TentaclePinpoint"
+
+msgid ""
+"2_Uroboros_B_Flight__H"
+
+msgstr ""
+"2_Uroboros_B_Flight__H"
+
+msgid ""
+"2_Uroboros_B_Flight__M"
+
+msgstr ""
+"2_Uroboros_B_Flight__M"
+
+msgid ""
+"2_Uroboros_B_Flight__T"
+
+msgstr ""
+"2_Uroboros_B_Flight__T"
+
+msgid ""
+"2_Uroboros_B_DashSit__H"
+
+msgstr ""
+"2_Uroboros_B_DashSit__H"
+
+msgid ""
+"2_Uroboros_B_DashSit__M"
+
+msgstr ""
+"2_Uroboros_B_DashSit__M"
+
+msgid ""
+"2_Uroboros_B_DashSit__T"
+
+msgstr ""
+"2_Uroboros_B_DashSit__T"
+
+msgid ""
+"2_Uroboros_B_StandJumpStamp__H"
+
+msgstr ""
+"2_Uroboros_B_StandJumpStamp__H"
+
+msgid ""
+"2_Uroboros_B_StandJumpStamp__M"
+
+msgstr ""
+"2_Uroboros_B_StandJumpStamp__M"
+
+msgid ""
+"2_Uroboros_B_StandJumpStamp__T"
+
+msgstr ""
+"2_Uroboros_B_StandJumpStamp__T"
+
+msgid ""
+"2_Uroboros_B_SitShot"
+
+msgstr ""
+"2_Uroboros_B_SitShot"
+
+msgid ""
+"2_Uroboros_B_StandShot"
+
+msgstr ""
+"2_Uroboros_B_StandShot"
+
+msgid ""
+"2_Uroboros_B_Fumble"
+
+msgstr ""
+"2_Uroboros_B_Fumble"
+

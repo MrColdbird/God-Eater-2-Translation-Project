@@ -1,0 +1,2 @@
+FILE_START,0x0000,0x07CF,rune_key_katakana
+ARRAY,0,rune_key_katakana,jajp,yobi8,0x07CF,UTF-16LE,00000000,000A0176,000C0001

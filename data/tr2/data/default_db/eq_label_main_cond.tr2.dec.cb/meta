@@ -1,0 +1,8 @@
+FILE_START,0x0002,0x07DF,eq_label_main_cond
+ARRAY,0,eq_label_main_cond_str_id,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,1,eq_label_main_cond_anagura_progress,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,2,eq_label_main_cond_character_progress,,,0x07DF,UINT8,00000000,000D0443,000C007F
+ARRAY,3,eq_label_main_cond_article_main_type,,,0x07DF,INT8,00000000,00010463,000C007F
+ARRAY,4,eq_label_main_cond_article_sub_type,,,0x07DF,INT8,00000000,00010463,000C007F
+ARRAY,5,eq_label_main_cond_article_element,,,0x07DF,INT8,00000000,00010463,000C007F
+ARRAY,6,eq_label_main_cond_article_restriction,,,0x07DF,INT8,00000000,00010463,000C007F

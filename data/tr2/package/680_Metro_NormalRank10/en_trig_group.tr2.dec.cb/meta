@@ -1,0 +1,14 @@
+FILE_START,0x0002,0x07DF,en_trig_group
+ARRAY,0,en_trig_group_enemy_class_id,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,1,en_trig_group_display_name,,,0x07DF,UTF-8,00000000,00010255,000C000A
+ARRAY,2,en_trig_group_parts_hp_array,,,0x07DF,UINT16,00000000,00040453,000C007F
+ARRAY,3,en_trig_group_mat_id_array,,,0x07DF,UINT16,00000000,00040453,000C007F
+ARRAY,4,en_trig_group_weight_group_id_array,,,0x07DF,UINT16,00000000,00040453,000C007F
+ARRAY,5,en_trig_group_break_count,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,6,en_trig_group_rage_flg,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,7,en_trig_group_replace_parts_name,,,0x07DF,ASCII,00000000,00010255,000C007F
+ARRAY,8,en_trig_group_link_skill_type_id_array,,,0x07DF,INT8,00000000,00010463,000C007F
+ARRAY,9,en_trig_group_link_skill_param_array,,,0x07DF,FLOAT32,00000000,00010466,000C007F
+ARRAY,10,en_trig_group_link_skill_condition_type_array,,,0x07DF,INT8,00000000,00010463,000C007F
+ARRAY,11,en_trig_group_max_break_hp_array,,,0x07DF,UINT16,00000000,00040453,000C007F
+ARRAY,12,en_trig_group_angry_damage_factor,,,0x07DF,FLOAT32,00000000,00010466,000C007F

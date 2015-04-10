@@ -1,0 +1,3 @@
+FILE_START,0x0000,0x07CF,karma_learn_group
+ARRAY,0,karma_learn_group_id,,yobi8,0x07CF,UINT8,00000000,00010143,000C0002
+ARRAY,1,karma_learn_group_name,jajp,yobi8,0x07CF,UTF-8,00000000,00010155,000C0014

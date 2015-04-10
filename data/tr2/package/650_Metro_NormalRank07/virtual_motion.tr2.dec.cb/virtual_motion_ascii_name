@@ -1,0 +1,1512 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_Vampire_N_Idle"
+
+msgstr ""
+"2_Vampire_N_Idle"
+
+msgid ""
+"2_Vampire_N_Walk"
+
+msgstr ""
+"2_Vampire_N_Walk"
+
+msgid ""
+"2_Vampire_N_JumpToUpland__H"
+
+msgstr ""
+"2_Vampire_N_JumpToUpland__H"
+
+msgid ""
+"2_Vampire_N_JumpToUpland__M"
+
+msgstr ""
+"2_Vampire_N_JumpToUpland__M"
+
+msgid ""
+"2_Vampire_N_JumpToUpland__T"
+
+msgstr ""
+"2_Vampire_N_JumpToUpland__T"
+
+msgid ""
+"2_Vampire_N_JumpFromUpland__H"
+
+msgstr ""
+"2_Vampire_N_JumpFromUpland__H"
+
+msgid ""
+"2_Vampire_N_JumpFromUpland__M"
+
+msgstr ""
+"2_Vampire_N_JumpFromUpland__M"
+
+msgid ""
+"2_Vampire_N_JumpFromUpland__T"
+
+msgstr ""
+"2_Vampire_N_JumpFromUpland__T"
+
+msgid ""
+"2_Vampire_N_TurnLeft"
+
+msgstr ""
+"2_Vampire_N_TurnLeft"
+
+msgid ""
+"2_Vampire_N_TurnRight"
+
+msgstr ""
+"2_Vampire_N_TurnRight"
+
+msgid ""
+"2_Vampire_N_LargeTurnLeft"
+
+msgstr ""
+"2_Vampire_N_LargeTurnLeft"
+
+msgid ""
+"2_Vampire_N_LargeTurnRight"
+
+msgstr ""
+"2_Vampire_N_LargeTurnRight"
+
+msgid ""
+"2_Vampire_N_Eat"
+
+msgstr ""
+"2_Vampire_N_Eat"
+
+msgid ""
+"2_Vampire_Appear"
+
+msgstr ""
+"2_Vampire_Appear"
+
+msgid ""
+"2_Vampire_B_Idle"
+
+msgstr ""
+"2_Vampire_B_Idle"
+
+msgid ""
+"2_Vampire_B_Dash__H"
+
+msgstr ""
+"2_Vampire_B_Dash__H"
+
+msgid ""
+"2_Vampire_B_Dash__M"
+
+msgstr ""
+"2_Vampire_B_Dash__M"
+
+msgid ""
+"2_Vampire_B_Dash__T"
+
+msgstr ""
+"2_Vampire_B_Dash__T"
+
+msgid ""
+"2_Vampire_B_JumpToBossUpland"
+
+msgstr ""
+"2_Vampire_B_JumpToBossUpland"
+
+msgid ""
+"2_Vampire_B_JumpFromBossUpland"
+
+msgstr ""
+"2_Vampire_B_JumpFromBossUpland"
+
+msgid ""
+"2_Vampire_B_MoveLongPath__H"
+
+msgstr ""
+"2_Vampire_B_MoveLongPath__H"
+
+msgid ""
+"2_Vampire_B_MoveLongPath__M"
+
+msgstr ""
+"2_Vampire_B_MoveLongPath__M"
+
+msgid ""
+"2_Vampire_B_MoveLongPath__T"
+
+msgstr ""
+"2_Vampire_B_MoveLongPath__T"
+
+msgid ""
+"2_Vampire_B_TurnLeft"
+
+msgstr ""
+"2_Vampire_B_TurnLeft"
+
+msgid ""
+"2_Vampire_B_TurnRight"
+
+msgstr ""
+"2_Vampire_B_TurnRight"
+
+msgid ""
+"2_Vampire_B_LargeTurnLeft"
+
+msgstr ""
+"2_Vampire_B_LargeTurnLeft"
+
+msgid ""
+"2_Vampire_B_LargeTurnRight"
+
+msgstr ""
+"2_Vampire_B_LargeTurnRight"
+
+msgid ""
+"2_Vampire_B_FindComminate"
+
+msgstr ""
+"2_Vampire_B_FindComminate"
+
+msgid ""
+"2_Vampire_B_AngryComminate"
+
+msgstr ""
+"2_Vampire_B_AngryComminate"
+
+msgid ""
+"2_Vampire_B_ChagrinComminate"
+
+msgstr ""
+"2_Vampire_B_ChagrinComminate"
+
+msgid ""
+"2_Vampire_B_Stagger"
+
+msgstr ""
+"2_Vampire_B_Stagger"
+
+msgid ""
+"2_Vampire_B_ArmDown__H"
+
+msgstr ""
+"2_Vampire_B_ArmDown__H"
+
+msgid ""
+"2_Vampire_B_ArmDown__M"
+
+msgstr ""
+"2_Vampire_B_ArmDown__M"
+
+msgid ""
+"2_Vampire_B_ArmDown__T"
+
+msgstr ""
+"2_Vampire_B_ArmDown__T"
+
+msgid ""
+"2_Vampire_B_BodyDown__H"
+
+msgstr ""
+"2_Vampire_B_BodyDown__H"
+
+msgid ""
+"2_Vampire_B_BodyDown__M"
+
+msgstr ""
+"2_Vampire_B_BodyDown__M"
+
+msgid ""
+"2_Vampire_B_BodyDown__T"
+
+msgstr ""
+"2_Vampire_B_BodyDown__T"
+
+msgid ""
+"2_Vampire_B_SympathyBind__H"
+
+msgstr ""
+"2_Vampire_B_SympathyBind__H"
+
+msgid ""
+"2_Vampire_B_SympathyBind__M"
+
+msgstr ""
+"2_Vampire_B_SympathyBind__M"
+
+msgid ""
+"2_Vampire_B_SympathyBind__T"
+
+msgstr ""
+"2_Vampire_B_SympathyBind__T"
+
+msgid ""
+"2_Vampire_B_Hold__H"
+
+msgstr ""
+"2_Vampire_B_Hold__H"
+
+msgid ""
+"2_Vampire_B_Hold__M"
+
+msgstr ""
+"2_Vampire_B_Hold__M"
+
+msgid ""
+"2_Vampire_B_Hold__T"
+
+msgstr ""
+"2_Vampire_B_Hold__T"
+
+msgid ""
+"2_Vampire_B_Giddy"
+
+msgstr ""
+"2_Vampire_B_Giddy"
+
+msgid ""
+"2_Vampire_Dead__H"
+
+msgstr ""
+"2_Vampire_Dead__H"
+
+msgid ""
+"2_Vampire_Dead__M"
+
+msgstr ""
+"2_Vampire_Dead__M"
+
+msgid ""
+"2_Vampire_Dead__T"
+
+msgstr ""
+"2_Vampire_Dead__T"
+
+msgid ""
+"2_Vampire_B_Pincer_Arms"
+
+msgstr ""
+"2_Vampire_B_Pincer_Arms"
+
+msgid ""
+"2_Vampire_B_Shot_Power_Charge__H"
+
+msgstr ""
+"2_Vampire_B_Shot_Power_Charge__H"
+
+msgid ""
+"2_Vampire_B_Shot_Power_Charge__M"
+
+msgstr ""
+"2_Vampire_B_Shot_Power_Charge__M"
+
+msgid ""
+"2_Vampire_B_Shot_Power_Charge__T"
+
+msgstr ""
+"2_Vampire_B_Shot_Power_Charge__T"
+
+msgid ""
+"2_Vampire_B_Loop_Shot__H"
+
+msgstr ""
+"2_Vampire_B_Loop_Shot__H"
+
+msgid ""
+"2_Vampire_B_Loop_Shot__M"
+
+msgstr ""
+"2_Vampire_B_Loop_Shot__M"
+
+msgid ""
+"2_Vampire_B_Loop_Shot__T"
+
+msgstr ""
+"2_Vampire_B_Loop_Shot__T"
+
+msgid ""
+"2_Vampire_B_Impact__H"
+
+msgstr ""
+"2_Vampire_B_Impact__H"
+
+msgid ""
+"2_Vampire_B_Impact__M"
+
+msgstr ""
+"2_Vampire_B_Impact__M"
+
+msgid ""
+"2_Vampire_B_Back_Jump__H"
+
+msgstr ""
+"2_Vampire_B_Back_Jump__H"
+
+msgid ""
+"2_Vampire_B_Back_Jump__M"
+
+msgstr ""
+"2_Vampire_B_Back_Jump__M"
+
+msgid ""
+"2_Vampire_B_Back_Jump__T"
+
+msgstr ""
+"2_Vampire_B_Back_Jump__T"
+
+msgid ""
+"2_Vampire_B_Side_Step"
+
+msgstr ""
+"2_Vampire_B_Side_Step"
+
+msgid ""
+"2_Vampire_B_Shot_Homing__H"
+
+msgstr ""
+"2_Vampire_B_Shot_Homing__H"
+
+msgid ""
+"2_Vampire_B_Shot_Homing__M"
+
+msgstr ""
+"2_Vampire_B_Shot_Homing__M"
+
+msgid ""
+"2_Vampire_B_Arms_Rot_Shock_Wave"
+
+msgstr ""
+"2_Vampire_B_Arms_Rot_Shock_Wave"
+
+msgid ""
+"2_Vampire_B_Gliding_Rush__H"
+
+msgstr ""
+"2_Vampire_B_Gliding_Rush__H"
+
+msgid ""
+"2_Vampire_B_Gliding_Rush__M"
+
+msgstr ""
+"2_Vampire_B_Gliding_Rush__M"
+
+msgid ""
+"2_Vampire_B_Gliding_Rush__T"
+
+msgstr ""
+"2_Vampire_B_Gliding_Rush__T"
+
+msgid ""
+"2_Vampire_B_Fumble"
+
+msgstr ""
+"2_Vampire_B_Fumble"
+
+msgid ""
+"3_Vampire_N_Idle"
+
+msgstr ""
+"3_Vampire_N_Idle"
+
+msgid ""
+"3_Vampire_N_Walk"
+
+msgstr ""
+"3_Vampire_N_Walk"
+
+msgid ""
+"3_Vampire_N_JumpToUpland__H"
+
+msgstr ""
+"3_Vampire_N_JumpToUpland__H"
+
+msgid ""
+"3_Vampire_N_JumpToUpland__M"
+
+msgstr ""
+"3_Vampire_N_JumpToUpland__M"
+
+msgid ""
+"3_Vampire_N_JumpToUpland__T"
+
+msgstr ""
+"3_Vampire_N_JumpToUpland__T"
+
+msgid ""
+"3_Vampire_N_JumpFromUpland__H"
+
+msgstr ""
+"3_Vampire_N_JumpFromUpland__H"
+
+msgid ""
+"3_Vampire_N_JumpFromUpland__M"
+
+msgstr ""
+"3_Vampire_N_JumpFromUpland__M"
+
+msgid ""
+"3_Vampire_N_JumpFromUpland__T"
+
+msgstr ""
+"3_Vampire_N_JumpFromUpland__T"
+
+msgid ""
+"3_Vampire_N_TurnLeft"
+
+msgstr ""
+"3_Vampire_N_TurnLeft"
+
+msgid ""
+"3_Vampire_N_TurnRight"
+
+msgstr ""
+"3_Vampire_N_TurnRight"
+
+msgid ""
+"3_Vampire_N_LargeTurnLeft"
+
+msgstr ""
+"3_Vampire_N_LargeTurnLeft"
+
+msgid ""
+"3_Vampire_N_LargeTurnRight"
+
+msgstr ""
+"3_Vampire_N_LargeTurnRight"
+
+msgid ""
+"3_Vampire_N_Eat"
+
+msgstr ""
+"3_Vampire_N_Eat"
+
+msgid ""
+"3_Vampire_Appear"
+
+msgstr ""
+"3_Vampire_Appear"
+
+msgid ""
+"3_Vampire_B_Idle"
+
+msgstr ""
+"3_Vampire_B_Idle"
+
+msgid ""
+"3_Vampire_B_Dash__H"
+
+msgstr ""
+"3_Vampire_B_Dash__H"
+
+msgid ""
+"3_Vampire_B_Dash__M"
+
+msgstr ""
+"3_Vampire_B_Dash__M"
+
+msgid ""
+"3_Vampire_B_Dash__T"
+
+msgstr ""
+"3_Vampire_B_Dash__T"
+
+msgid ""
+"3_Vampire_B_JumpToBossUpland"
+
+msgstr ""
+"3_Vampire_B_JumpToBossUpland"
+
+msgid ""
+"3_Vampire_B_JumpFromBossUpland"
+
+msgstr ""
+"3_Vampire_B_JumpFromBossUpland"
+
+msgid ""
+"3_Vampire_B_MoveLongPath__H"
+
+msgstr ""
+"3_Vampire_B_MoveLongPath__H"
+
+msgid ""
+"3_Vampire_B_MoveLongPath__M"
+
+msgstr ""
+"3_Vampire_B_MoveLongPath__M"
+
+msgid ""
+"3_Vampire_B_MoveLongPath__T"
+
+msgstr ""
+"3_Vampire_B_MoveLongPath__T"
+
+msgid ""
+"3_Vampire_B_TurnLeft"
+
+msgstr ""
+"3_Vampire_B_TurnLeft"
+
+msgid ""
+"3_Vampire_B_TurnRight"
+
+msgstr ""
+"3_Vampire_B_TurnRight"
+
+msgid ""
+"3_Vampire_B_LargeTurnLeft"
+
+msgstr ""
+"3_Vampire_B_LargeTurnLeft"
+
+msgid ""
+"3_Vampire_B_LargeTurnRight"
+
+msgstr ""
+"3_Vampire_B_LargeTurnRight"
+
+msgid ""
+"3_Vampire_B_FindComminate"
+
+msgstr ""
+"3_Vampire_B_FindComminate"
+
+msgid ""
+"3_Vampire_B_AngryComminate"
+
+msgstr ""
+"3_Vampire_B_AngryComminate"
+
+msgid ""
+"3_Vampire_B_ChagrinComminate"
+
+msgstr ""
+"3_Vampire_B_ChagrinComminate"
+
+msgid ""
+"3_Vampire_B_Stagger"
+
+msgstr ""
+"3_Vampire_B_Stagger"
+
+msgid ""
+"3_Vampire_B_ArmDown__H"
+
+msgstr ""
+"3_Vampire_B_ArmDown__H"
+
+msgid ""
+"3_Vampire_B_ArmDown__M"
+
+msgstr ""
+"3_Vampire_B_ArmDown__M"
+
+msgid ""
+"3_Vampire_B_ArmDown__T"
+
+msgstr ""
+"3_Vampire_B_ArmDown__T"
+
+msgid ""
+"3_Vampire_B_BodyDown__H"
+
+msgstr ""
+"3_Vampire_B_BodyDown__H"
+
+msgid ""
+"3_Vampire_B_BodyDown__M"
+
+msgstr ""
+"3_Vampire_B_BodyDown__M"
+
+msgid ""
+"3_Vampire_B_BodyDown__T"
+
+msgstr ""
+"3_Vampire_B_BodyDown__T"
+
+msgid ""
+"3_Vampire_B_SympathyBind__H"
+
+msgstr ""
+"3_Vampire_B_SympathyBind__H"
+
+msgid ""
+"3_Vampire_B_SympathyBind__M"
+
+msgstr ""
+"3_Vampire_B_SympathyBind__M"
+
+msgid ""
+"3_Vampire_B_SympathyBind__T"
+
+msgstr ""
+"3_Vampire_B_SympathyBind__T"
+
+msgid ""
+"3_Vampire_B_Hold__H"
+
+msgstr ""
+"3_Vampire_B_Hold__H"
+
+msgid ""
+"3_Vampire_B_Hold__M"
+
+msgstr ""
+"3_Vampire_B_Hold__M"
+
+msgid ""
+"3_Vampire_B_Hold__T"
+
+msgstr ""
+"3_Vampire_B_Hold__T"
+
+msgid ""
+"3_Vampire_B_Giddy"
+
+msgstr ""
+"3_Vampire_B_Giddy"
+
+msgid ""
+"3_Vampire_Dead__H"
+
+msgstr ""
+"3_Vampire_Dead__H"
+
+msgid ""
+"3_Vampire_Dead__M"
+
+msgstr ""
+"3_Vampire_Dead__M"
+
+msgid ""
+"3_Vampire_Dead__T"
+
+msgstr ""
+"3_Vampire_Dead__T"
+
+msgid ""
+"3_Vampire_B_Pincer_Arms"
+
+msgstr ""
+"3_Vampire_B_Pincer_Arms"
+
+msgid ""
+"3_Vampire_B_Shot_Power_Charge__H"
+
+msgstr ""
+"3_Vampire_B_Shot_Power_Charge__H"
+
+msgid ""
+"3_Vampire_B_Shot_Power_Charge__M"
+
+msgstr ""
+"3_Vampire_B_Shot_Power_Charge__M"
+
+msgid ""
+"3_Vampire_B_Shot_Power_Charge__T"
+
+msgstr ""
+"3_Vampire_B_Shot_Power_Charge__T"
+
+msgid ""
+"3_Vampire_B_Loop_Shot__H"
+
+msgstr ""
+"3_Vampire_B_Loop_Shot__H"
+
+msgid ""
+"3_Vampire_B_Loop_Shot__M"
+
+msgstr ""
+"3_Vampire_B_Loop_Shot__M"
+
+msgid ""
+"3_Vampire_B_Loop_Shot__T"
+
+msgstr ""
+"3_Vampire_B_Loop_Shot__T"
+
+msgid ""
+"3_Vampire_B_Impact__H"
+
+msgstr ""
+"3_Vampire_B_Impact__H"
+
+msgid ""
+"3_Vampire_B_Impact__M"
+
+msgstr ""
+"3_Vampire_B_Impact__M"
+
+msgid ""
+"3_Vampire_B_Back_Jump__H"
+
+msgstr ""
+"3_Vampire_B_Back_Jump__H"
+
+msgid ""
+"3_Vampire_B_Back_Jump__M"
+
+msgstr ""
+"3_Vampire_B_Back_Jump__M"
+
+msgid ""
+"3_Vampire_B_Back_Jump__T"
+
+msgstr ""
+"3_Vampire_B_Back_Jump__T"
+
+msgid ""
+"3_Vampire_B_Side_Step"
+
+msgstr ""
+"3_Vampire_B_Side_Step"
+
+msgid ""
+"3_Vampire_B_Shot_Homing__H"
+
+msgstr ""
+"3_Vampire_B_Shot_Homing__H"
+
+msgid ""
+"3_Vampire_B_Shot_Homing__M"
+
+msgstr ""
+"3_Vampire_B_Shot_Homing__M"
+
+msgid ""
+"3_Vampire_B_Arms_Rot_Shock_Wave"
+
+msgstr ""
+"3_Vampire_B_Arms_Rot_Shock_Wave"
+
+msgid ""
+"3_Vampire_B_Gliding_Rush__H"
+
+msgstr ""
+"3_Vampire_B_Gliding_Rush__H"
+
+msgid ""
+"3_Vampire_B_Gliding_Rush__M"
+
+msgstr ""
+"3_Vampire_B_Gliding_Rush__M"
+
+msgid ""
+"3_Vampire_B_Gliding_Rush__T"
+
+msgstr ""
+"3_Vampire_B_Gliding_Rush__T"
+
+msgid ""
+"3_Vampire_B_Fumble"
+
+msgstr ""
+"3_Vampire_B_Fumble"
+
+msgid ""
+"4_Hannibal_N_Idle"
+
+msgstr ""
+"4_Hannibal_N_Idle"
+
+msgid ""
+"4_Hannibal_N_Walk"
+
+msgstr ""
+"4_Hannibal_N_Walk"
+
+msgid ""
+"4_Hannibal_N_JumpToUpland__H"
+
+msgstr ""
+"4_Hannibal_N_JumpToUpland__H"
+
+msgid ""
+"4_Hannibal_N_JumpToUpland__M"
+
+msgstr ""
+"4_Hannibal_N_JumpToUpland__M"
+
+msgid ""
+"4_Hannibal_N_JumpToUpland__T"
+
+msgstr ""
+"4_Hannibal_N_JumpToUpland__T"
+
+msgid ""
+"4_Hannibal_N_JumpFromUpland__H"
+
+msgstr ""
+"4_Hannibal_N_JumpFromUpland__H"
+
+msgid ""
+"4_Hannibal_N_JumpFromUpland__M"
+
+msgstr ""
+"4_Hannibal_N_JumpFromUpland__M"
+
+msgid ""
+"4_Hannibal_N_JumpFromUpland__T"
+
+msgstr ""
+"4_Hannibal_N_JumpFromUpland__T"
+
+msgid ""
+"4_Hannibal_N_TurnLeft"
+
+msgstr ""
+"4_Hannibal_N_TurnLeft"
+
+msgid ""
+"4_Hannibal_N_TurnRight"
+
+msgstr ""
+"4_Hannibal_N_TurnRight"
+
+msgid ""
+"4_Hannibal_N_LargeTurnLeft"
+
+msgstr ""
+"4_Hannibal_N_LargeTurnLeft"
+
+msgid ""
+"4_Hannibal_N_LargeTurnRight"
+
+msgstr ""
+"4_Hannibal_N_LargeTurnRight"
+
+msgid ""
+"4_Hannibal_N_Eat"
+
+msgstr ""
+"4_Hannibal_N_Eat"
+
+msgid ""
+"4_Hannibal_Appear"
+
+msgstr ""
+"4_Hannibal_Appear"
+
+msgid ""
+"4_Hannibal_B_Idle"
+
+msgstr ""
+"4_Hannibal_B_Idle"
+
+msgid ""
+"4_Hannibal_B_Dash__H"
+
+msgstr ""
+"4_Hannibal_B_Dash__H"
+
+msgid ""
+"4_Hannibal_B_Dash__M"
+
+msgstr ""
+"4_Hannibal_B_Dash__M"
+
+msgid ""
+"4_Hannibal_B_Dash__T"
+
+msgstr ""
+"4_Hannibal_B_Dash__T"
+
+msgid ""
+"4_Hannibal_B_JumpToBossUpland"
+
+msgstr ""
+"4_Hannibal_B_JumpToBossUpland"
+
+msgid ""
+"4_Hannibal_B_JumpFromBossUpland"
+
+msgstr ""
+"4_Hannibal_B_JumpFromBossUpland"
+
+msgid ""
+"4_Hannibal_B_MoveLongPath__H"
+
+msgstr ""
+"4_Hannibal_B_MoveLongPath__H"
+
+msgid ""
+"4_Hannibal_B_MoveLongPath__M"
+
+msgstr ""
+"4_Hannibal_B_MoveLongPath__M"
+
+msgid ""
+"4_Hannibal_B_MoveLongPath__T"
+
+msgstr ""
+"4_Hannibal_B_MoveLongPath__T"
+
+msgid ""
+"4_Hannibal_B_TurnLeft"
+
+msgstr ""
+"4_Hannibal_B_TurnLeft"
+
+msgid ""
+"4_Hannibal_B_TurnRight"
+
+msgstr ""
+"4_Hannibal_B_TurnRight"
+
+msgid ""
+"4_Hannibal_B_LargeTurnLeft"
+
+msgstr ""
+"4_Hannibal_B_LargeTurnLeft"
+
+msgid ""
+"4_Hannibal_B_LargeTurnRight"
+
+msgstr ""
+"4_Hannibal_B_LargeTurnRight"
+
+msgid ""
+"4_Hannibal_B_FindComminate"
+
+msgstr ""
+"4_Hannibal_B_FindComminate"
+
+msgid ""
+"4_Hannibal_B_AngryComminate"
+
+msgstr ""
+"4_Hannibal_B_AngryComminate"
+
+msgid ""
+"4_Hannibal_B_ChagrinComminate"
+
+msgstr ""
+"4_Hannibal_B_ChagrinComminate"
+
+msgid ""
+"4_Hannibal_B_Stagger"
+
+msgstr ""
+"4_Hannibal_B_Stagger"
+
+msgid ""
+"4_Hannibal_B_RightArmDown__H"
+
+msgstr ""
+"4_Hannibal_B_RightArmDown__H"
+
+msgid ""
+"4_Hannibal_B_RightArmDown__M"
+
+msgstr ""
+"4_Hannibal_B_RightArmDown__M"
+
+msgid ""
+"4_Hannibal_B_RightArmDown__T"
+
+msgstr ""
+"4_Hannibal_B_RightArmDown__T"
+
+msgid ""
+"4_Hannibal_B_FootDown__H"
+
+msgstr ""
+"4_Hannibal_B_FootDown__H"
+
+msgid ""
+"4_Hannibal_B_FootDown__M"
+
+msgstr ""
+"4_Hannibal_B_FootDown__M"
+
+msgid ""
+"4_Hannibal_B_FootDown__T"
+
+msgstr ""
+"4_Hannibal_B_FootDown__T"
+
+msgid ""
+"4_Hannibal_B_SympathyBind__H"
+
+msgstr ""
+"4_Hannibal_B_SympathyBind__H"
+
+msgid ""
+"4_Hannibal_B_SympathyBind__M"
+
+msgstr ""
+"4_Hannibal_B_SympathyBind__M"
+
+msgid ""
+"4_Hannibal_B_SympathyBind__T"
+
+msgstr ""
+"4_Hannibal_B_SympathyBind__T"
+
+msgid ""
+"4_Hannibal_B_Hold__H"
+
+msgstr ""
+"4_Hannibal_B_Hold__H"
+
+msgid ""
+"4_Hannibal_B_Hold__M"
+
+msgstr ""
+"4_Hannibal_B_Hold__M"
+
+msgid ""
+"4_Hannibal_B_Hold__T"
+
+msgstr ""
+"4_Hannibal_B_Hold__T"
+
+msgid ""
+"4_Hannibal_B_Giddy"
+
+msgstr ""
+"4_Hannibal_B_Giddy"
+
+msgid ""
+"4_Hannibal_Dead__H"
+
+msgstr ""
+"4_Hannibal_Dead__H"
+
+msgid ""
+"4_Hannibal_Dead__M"
+
+msgstr ""
+"4_Hannibal_Dead__M"
+
+msgid ""
+"4_Hannibal_Dead__T"
+
+msgstr ""
+"4_Hannibal_Dead__T"
+
+msgid ""
+"4_Hannibal_LeftArmDispel"
+
+msgstr ""
+"4_Hannibal_LeftArmDispel"
+
+msgid ""
+"4_Hannibal_AngryLeftArmDispel"
+
+msgstr ""
+"4_Hannibal_AngryLeftArmDispel"
+
+msgid ""
+"4_Hannibal_ArmDispel__Left"
+
+msgstr ""
+"4_Hannibal_ArmDispel__Left"
+
+msgid ""
+"4_Hannibal_ArmDispel__Right"
+
+msgstr ""
+"4_Hannibal_ArmDispel__Right"
+
+msgid ""
+"4_Hannibal_AngryArmDispel__Left"
+
+msgstr ""
+"4_Hannibal_AngryArmDispel__Left"
+
+msgid ""
+"4_Hannibal_AngryArmDispel__Right"
+
+msgstr ""
+"4_Hannibal_AngryArmDispel__Right"
+
+msgid ""
+"4_Hannibal_SpearGlide_Glide__H"
+
+msgstr ""
+"4_Hannibal_SpearGlide_Glide__H"
+
+msgid ""
+"4_Hannibal_SpearGlide_Glide__M"
+
+msgstr ""
+"4_Hannibal_SpearGlide_Glide__M"
+
+msgid ""
+"4_Hannibal_SpearGlide_Glide__T"
+
+msgstr ""
+"4_Hannibal_SpearGlide_Glide__T"
+
+msgid ""
+"4_Hannibal_SpearGlide_BackJump__H"
+
+msgstr ""
+"4_Hannibal_SpearGlide_BackJump__H"
+
+msgid ""
+"4_Hannibal_SpearGlide_BackJump__M"
+
+msgstr ""
+"4_Hannibal_SpearGlide_BackJump__M"
+
+msgid ""
+"4_Hannibal_SpearGlide_BackJump__T"
+
+msgstr ""
+"4_Hannibal_SpearGlide_BackJump__T"
+
+msgid ""
+"4_Hannibal_HDashPounce_Dash__H"
+
+msgstr ""
+"4_Hannibal_HDashPounce_Dash__H"
+
+msgid ""
+"4_Hannibal_HDashPounce_Dash__M"
+
+msgstr ""
+"4_Hannibal_HDashPounce_Dash__M"
+
+msgid ""
+"4_Hannibal_HDashPounce_Pounce__M"
+
+msgstr ""
+"4_Hannibal_HDashPounce_Pounce__M"
+
+msgid ""
+"4_Hannibal_HDashPounce_Pounce__T"
+
+msgstr ""
+"4_Hannibal_HDashPounce_Pounce__T"
+
+msgid ""
+"4_Hannibal_Shot_PlasmaBall"
+
+msgstr ""
+"4_Hannibal_Shot_PlasmaBall"
+
+msgid ""
+"4_Hannibal_TailDispel"
+
+msgstr ""
+"4_Hannibal_TailDispel"
+
+msgid ""
+"4_Hannibal_FireBreath__LtoR"
+
+msgstr ""
+"4_Hannibal_FireBreath__LtoR"
+
+msgid ""
+"4_Hannibal_FireBreath__RtoL"
+
+msgstr ""
+"4_Hannibal_FireBreath__RtoL"
+
+msgid ""
+"4_Hannibal_BackJump__H"
+
+msgstr ""
+"4_Hannibal_BackJump__H"
+
+msgid ""
+"4_Hannibal_BackJump__M"
+
+msgstr ""
+"4_Hannibal_BackJump__M"
+
+msgid ""
+"4_Hannibal_BackJump__T"
+
+msgstr ""
+"4_Hannibal_BackJump__T"
+
+msgid ""
+"4_Hannibal_HighSpeedBackJump__H"
+
+msgstr ""
+"4_Hannibal_HighSpeedBackJump__H"
+
+msgid ""
+"4_Hannibal_HighSpeedBackJump__M"
+
+msgstr ""
+"4_Hannibal_HighSpeedBackJump__M"
+
+msgid ""
+"4_Hannibal_HighSpeedBackJump__T"
+
+msgstr ""
+"4_Hannibal_HighSpeedBackJump__T"
+
+msgid ""
+"4_Hannibal_HalfTurn"
+
+msgstr ""
+"4_Hannibal_HalfTurn"
+
+msgid ""
+"4_Hannibal_HighSpeedHalfTurn"
+
+msgstr ""
+"4_Hannibal_HighSpeedHalfTurn"
+
+msgid ""
+"4_Hannibal_WeaponCombo_Combo0"
+
+msgstr ""
+"4_Hannibal_WeaponCombo_Combo0"
+
+msgid ""
+"4_Hannibal_WeaponCombo_Combo1"
+
+msgstr ""
+"4_Hannibal_WeaponCombo_Combo1"
+
+msgid ""
+"4_Hannibal_WeaponCombo_Combo2"
+
+msgstr ""
+"4_Hannibal_WeaponCombo_Combo2"
+
+msgid ""
+"4_Hannibal_WeaponCombo_Combo3"
+
+msgstr ""
+"4_Hannibal_WeaponCombo_Combo3"
+
+msgid ""
+"4_Hannibal_WeaponCombo_Combo4"
+
+msgstr ""
+"4_Hannibal_WeaponCombo_Combo4"
+
+msgid ""
+"4_Hannibal_FireStorm__H"
+
+msgstr ""
+"4_Hannibal_FireStorm__H"
+
+msgid ""
+"4_Hannibal_FireStorm__M"
+
+msgstr ""
+"4_Hannibal_FireStorm__M"
+
+msgid ""
+"4_Hannibal_FireStorm__T"
+
+msgstr ""
+"4_Hannibal_FireStorm__T"
+
+msgid ""
+"4_Hannibal_Fumble"
+
+msgstr ""
+"4_Hannibal_Fumble"
+
+msgid ""
+"4_Hannibal_LoopPunch__H"
+
+msgstr ""
+"4_Hannibal_LoopPunch__H"
+
+msgid ""
+"4_Hannibal_LoopPunch__M"
+
+msgstr ""
+"4_Hannibal_LoopPunch__M"
+
+msgid ""
+"4_Hannibal_LoopPunch__T"
+
+msgstr ""
+"4_Hannibal_LoopPunch__T"
+
+msgid ""
+"4_Hannibal_Call_FirePillar"
+
+msgstr ""
+"4_Hannibal_Call_FirePillar"
+

@@ -1,0 +1,942 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_OgreTail_N_Idle"
+
+msgstr ""
+"2_OgreTail_N_Idle"
+
+msgid ""
+"2_OgreTail_N_Walk"
+
+msgstr ""
+"2_OgreTail_N_Walk"
+
+msgid ""
+"2_OgreTail_N_JumpToUpland__H"
+
+msgstr ""
+"2_OgreTail_N_JumpToUpland__H"
+
+msgid ""
+"2_OgreTail_N_JumpToUpland__M"
+
+msgstr ""
+"2_OgreTail_N_JumpToUpland__M"
+
+msgid ""
+"2_OgreTail_N_JumpToUpland__T"
+
+msgstr ""
+"2_OgreTail_N_JumpToUpland__T"
+
+msgid ""
+"2_OgreTail_N_JumpFromUpland__H"
+
+msgstr ""
+"2_OgreTail_N_JumpFromUpland__H"
+
+msgid ""
+"2_OgreTail_N_JumpFromUpland__M"
+
+msgstr ""
+"2_OgreTail_N_JumpFromUpland__M"
+
+msgid ""
+"2_OgreTail_N_JumpFromUpland__T"
+
+msgstr ""
+"2_OgreTail_N_JumpFromUpland__T"
+
+msgid ""
+"2_OgreTail_N_TurnLeft"
+
+msgstr ""
+"2_OgreTail_N_TurnLeft"
+
+msgid ""
+"2_OgreTail_N_TurnRight"
+
+msgstr ""
+"2_OgreTail_N_TurnRight"
+
+msgid ""
+"2_OgreTail_N_LargeTurnLeft"
+
+msgstr ""
+"2_OgreTail_N_LargeTurnLeft"
+
+msgid ""
+"2_OgreTail_N_LargeTurnRight"
+
+msgstr ""
+"2_OgreTail_N_LargeTurnRight"
+
+msgid ""
+"2_OgreTail_N_Eat"
+
+msgstr ""
+"2_OgreTail_N_Eat"
+
+msgid ""
+"2_OgreTail_Appear"
+
+msgstr ""
+"2_OgreTail_Appear"
+
+msgid ""
+"2_OgreTail_B_Idle"
+
+msgstr ""
+"2_OgreTail_B_Idle"
+
+msgid ""
+"2_OgreTail_B_Dash__H"
+
+msgstr ""
+"2_OgreTail_B_Dash__H"
+
+msgid ""
+"2_OgreTail_B_Dash__M"
+
+msgstr ""
+"2_OgreTail_B_Dash__M"
+
+msgid ""
+"2_OgreTail_B_Dash__T"
+
+msgstr ""
+"2_OgreTail_B_Dash__T"
+
+msgid ""
+"2_OgreTail_B_TurnLeft"
+
+msgstr ""
+"2_OgreTail_B_TurnLeft"
+
+msgid ""
+"2_OgreTail_B_TurnRight"
+
+msgstr ""
+"2_OgreTail_B_TurnRight"
+
+msgid ""
+"2_OgreTail_B_LargeTurnLeft"
+
+msgstr ""
+"2_OgreTail_B_LargeTurnLeft"
+
+msgid ""
+"2_OgreTail_B_LargeTurnRight"
+
+msgstr ""
+"2_OgreTail_B_LargeTurnRight"
+
+msgid ""
+"2_OgreTail_B_FindComminate"
+
+msgstr ""
+"2_OgreTail_B_FindComminate"
+
+msgid ""
+"2_OgreTail_B_ChagrinComminate"
+
+msgstr ""
+"2_OgreTail_B_ChagrinComminate"
+
+msgid ""
+"2_OgreTail_B_Stagger"
+
+msgstr ""
+"2_OgreTail_B_Stagger"
+
+msgid ""
+"2_OgreTail_B_ForefootDown__H"
+
+msgstr ""
+"2_OgreTail_B_ForefootDown__H"
+
+msgid ""
+"2_OgreTail_B_ForefootDown__M"
+
+msgstr ""
+"2_OgreTail_B_ForefootDown__M"
+
+msgid ""
+"2_OgreTail_B_ForefootDown__T"
+
+msgstr ""
+"2_OgreTail_B_ForefootDown__T"
+
+msgid ""
+"2_OgreTail_B_Hold__H"
+
+msgstr ""
+"2_OgreTail_B_Hold__H"
+
+msgid ""
+"2_OgreTail_B_Hold__M"
+
+msgstr ""
+"2_OgreTail_B_Hold__M"
+
+msgid ""
+"2_OgreTail_B_Hold__T"
+
+msgstr ""
+"2_OgreTail_B_Hold__T"
+
+msgid ""
+"2_OgreTail_B_SympathyBind__H"
+
+msgstr ""
+"2_OgreTail_B_SympathyBind__H"
+
+msgid ""
+"2_OgreTail_B_SympathyBind__M"
+
+msgstr ""
+"2_OgreTail_B_SympathyBind__M"
+
+msgid ""
+"2_OgreTail_B_SympathyBind__T"
+
+msgstr ""
+"2_OgreTail_B_SympathyBind__T"
+
+msgid ""
+"2_OgreTail_B_Giddy"
+
+msgstr ""
+"2_OgreTail_B_Giddy"
+
+msgid ""
+"2_OgreTail_Dead__H"
+
+msgstr ""
+"2_OgreTail_Dead__H"
+
+msgid ""
+"2_OgreTail_Dead__M"
+
+msgstr ""
+"2_OgreTail_Dead__M"
+
+msgid ""
+"2_OgreTail_Dead__T"
+
+msgstr ""
+"2_OgreTail_Dead__T"
+
+msgid ""
+"2_OgreTail_B_Cling"
+
+msgstr ""
+"2_OgreTail_B_Cling"
+
+msgid ""
+"2_OgreTail_B_RightTailAttack"
+
+msgstr ""
+"2_OgreTail_B_RightTailAttack"
+
+msgid ""
+"2_OgreTail_B_Pounce__H"
+
+msgstr ""
+"2_OgreTail_B_Pounce__H"
+
+msgid ""
+"2_OgreTail_B_Pounce__M"
+
+msgstr ""
+"2_OgreTail_B_Pounce__M"
+
+msgid ""
+"2_OgreTail_B_Pounce__T"
+
+msgstr ""
+"2_OgreTail_B_Pounce__T"
+
+msgid ""
+"2_OgreTail_B_Shot_Needle__H"
+
+msgstr ""
+"2_OgreTail_B_Shot_Needle__H"
+
+msgid ""
+"2_OgreTail_B_Shot_Needle__M"
+
+msgstr ""
+"2_OgreTail_B_Shot_Needle__M"
+
+msgid ""
+"2_OgreTail_B_LeftTailAttack"
+
+msgstr ""
+"2_OgreTail_B_LeftTailAttack"
+
+msgid ""
+"2_OgreTail_B_BackStep__H"
+
+msgstr ""
+"2_OgreTail_B_BackStep__H"
+
+msgid ""
+"2_OgreTail_B_BackStep__M"
+
+msgstr ""
+"2_OgreTail_B_BackStep__M"
+
+msgid ""
+"2_OgreTail_B_BackStep__T"
+
+msgstr ""
+"2_OgreTail_B_BackStep__T"
+
+msgid ""
+"2_OgreTail_B_DyingFumble"
+
+msgstr ""
+"2_OgreTail_B_DyingFumble"
+
+msgid ""
+"3_Venus_N_Idle"
+
+msgstr ""
+"3_Venus_N_Idle"
+
+msgid ""
+"3_Venus_N_Walk"
+
+msgstr ""
+"3_Venus_N_Walk"
+
+msgid ""
+"3_Venus_N_TurnLeft"
+
+msgstr ""
+"3_Venus_N_TurnLeft"
+
+msgid ""
+"3_Venus_N_TurnRight"
+
+msgstr ""
+"3_Venus_N_TurnRight"
+
+msgid ""
+"3_Venus_N_LargeTurnLeft"
+
+msgstr ""
+"3_Venus_N_LargeTurnLeft"
+
+msgid ""
+"3_Venus_N_LargeTurnRight"
+
+msgstr ""
+"3_Venus_N_LargeTurnRight"
+
+msgid ""
+"3_Venus_N_Eat"
+
+msgstr ""
+"3_Venus_N_Eat"
+
+msgid ""
+"3_Venus_Appear"
+
+msgstr ""
+"3_Venus_Appear"
+
+msgid ""
+"3_Venus_B_Idle"
+
+msgstr ""
+"3_Venus_B_Idle"
+
+msgid ""
+"3_Venus_B_Dash__H"
+
+msgstr ""
+"3_Venus_B_Dash__H"
+
+msgid ""
+"3_Venus_B_Dash__M"
+
+msgstr ""
+"3_Venus_B_Dash__M"
+
+msgid ""
+"3_Venus_B_Dash__T"
+
+msgstr ""
+"3_Venus_B_Dash__T"
+
+msgid ""
+"3_Venus_B_TurnLeft"
+
+msgstr ""
+"3_Venus_B_TurnLeft"
+
+msgid ""
+"3_Venus_B_TurnRight"
+
+msgstr ""
+"3_Venus_B_TurnRight"
+
+msgid ""
+"3_Venus_B_LargeTurnLeft"
+
+msgstr ""
+"3_Venus_B_LargeTurnLeft"
+
+msgid ""
+"3_Venus_B_LargeTurnRight"
+
+msgstr ""
+"3_Venus_B_LargeTurnRight"
+
+msgid ""
+"3_Venus_B_FindComminate"
+
+msgstr ""
+"3_Venus_B_FindComminate"
+
+msgid ""
+"3_Venus_B_AngryComminate"
+
+msgstr ""
+"3_Venus_B_AngryComminate"
+
+msgid ""
+"3_Venus_B_ChagrinComminate"
+
+msgstr ""
+"3_Venus_B_ChagrinComminate"
+
+msgid ""
+"3_Venus_B_Stagger"
+
+msgstr ""
+"3_Venus_B_Stagger"
+
+msgid ""
+"3_Venus_B_Fore_FootDown__H"
+
+msgstr ""
+"3_Venus_B_Fore_FootDown__H"
+
+msgid ""
+"3_Venus_B_Fore_FootDown__M"
+
+msgstr ""
+"3_Venus_B_Fore_FootDown__M"
+
+msgid ""
+"3_Venus_B_Fore_FootDown__T"
+
+msgstr ""
+"3_Venus_B_Fore_FootDown__T"
+
+msgid ""
+"3_Venus_B_Hind_FootDown__H"
+
+msgstr ""
+"3_Venus_B_Hind_FootDown__H"
+
+msgid ""
+"3_Venus_B_Hind_FootDown__M"
+
+msgstr ""
+"3_Venus_B_Hind_FootDown__M"
+
+msgid ""
+"3_Venus_B_Hind_FootDown__T"
+
+msgstr ""
+"3_Venus_B_Hind_FootDown__T"
+
+msgid ""
+"3_Venus_B_Hold__H"
+
+msgstr ""
+"3_Venus_B_Hold__H"
+
+msgid ""
+"3_Venus_B_Hold__M"
+
+msgstr ""
+"3_Venus_B_Hold__M"
+
+msgid ""
+"3_Venus_B_Hold__T"
+
+msgstr ""
+"3_Venus_B_Hold__T"
+
+msgid ""
+"3_Venus_B_Giddy"
+
+msgstr ""
+"3_Venus_B_Giddy"
+
+msgid ""
+"3_Venus_Dead__H"
+
+msgstr ""
+"3_Venus_Dead__H"
+
+msgid ""
+"3_Venus_Dead__M"
+
+msgstr ""
+"3_Venus_Dead__M"
+
+msgid ""
+"3_Venus_Dead__T"
+
+msgstr ""
+"3_Venus_Dead__T"
+
+msgid ""
+"3_Venus_LeftArmDispel"
+
+msgstr ""
+"3_Venus_LeftArmDispel"
+
+msgid ""
+"3_Venus_AngryLeftArmDispel"
+
+msgstr ""
+"3_Venus_AngryLeftArmDispel"
+
+msgid ""
+"3_Venus_Thunder"
+
+msgstr ""
+"3_Venus_Thunder"
+
+msgid ""
+"3_Venus_CrossGimmick"
+
+msgstr ""
+"3_Venus_CrossGimmick"
+
+msgid ""
+"3_Venus_RollingBody"
+
+msgstr ""
+"3_Venus_RollingBody"
+
+msgid ""
+"3_Venus_RollingBodyWithG"
+
+msgstr ""
+"3_Venus_RollingBodyWithG"
+
+msgid ""
+"3_Venus_HDashPounce_Horn"
+
+msgstr ""
+"3_Venus_HDashPounce_Horn"
+
+msgid ""
+"3_Venus_HDashPounce_Dash__H"
+
+msgstr ""
+"3_Venus_HDashPounce_Dash__H"
+
+msgid ""
+"3_Venus_HDashPounce_Dash__M"
+
+msgstr ""
+"3_Venus_HDashPounce_Dash__M"
+
+msgid ""
+"3_Venus_HDashPounce_Pounce__M"
+
+msgstr ""
+"3_Venus_HDashPounce_Pounce__M"
+
+msgid ""
+"3_Venus_HDashPounce_Pounce__T"
+
+msgstr ""
+"3_Venus_HDashPounce_Pounce__T"
+
+msgid ""
+"3_Venus_HDashPounceWithG_Horn"
+
+msgstr ""
+"3_Venus_HDashPounceWithG_Horn"
+
+msgid ""
+"3_Venus_HDashPounceWithG_Dash__H"
+
+msgstr ""
+"3_Venus_HDashPounceWithG_Dash__H"
+
+msgid ""
+"3_Venus_HDashPounceWithG_Dash__M"
+
+msgstr ""
+"3_Venus_HDashPounceWithG_Dash__M"
+
+msgid ""
+"3_Venus_HDashPounceWithG_Pounce__M"
+
+msgstr ""
+"3_Venus_HDashPounceWithG_Pounce__M"
+
+msgid ""
+"3_Venus_HDashPounceWithG_Shot__M"
+
+msgstr ""
+"3_Venus_HDashPounceWithG_Shot__M"
+
+msgid ""
+"3_Venus_HDashPounceWithG_Shot__T"
+
+msgstr ""
+"3_Venus_HDashPounceWithG_Shot__T"
+
+msgid ""
+"3_Venus_RageDash_Dash__H"
+
+msgstr ""
+"3_Venus_RageDash_Dash__H"
+
+msgid ""
+"3_Venus_RageDash_Dash1__M"
+
+msgstr ""
+"3_Venus_RageDash_Dash1__M"
+
+msgid ""
+"3_Venus_RageDash_Turn1__M"
+
+msgstr ""
+"3_Venus_RageDash_Turn1__M"
+
+msgid ""
+"3_Venus_RageDash_Dash2__M"
+
+msgstr ""
+"3_Venus_RageDash_Dash2__M"
+
+msgid ""
+"3_Venus_RageDash_Turn2__M"
+
+msgstr ""
+"3_Venus_RageDash_Turn2__M"
+
+msgid ""
+"3_Venus_RageDash_Dash3__M"
+
+msgstr ""
+"3_Venus_RageDash_Dash3__M"
+
+msgid ""
+"3_Venus_RageDash_Rolling__M"
+
+msgstr ""
+"3_Venus_RageDash_Rolling__M"
+
+msgid ""
+"3_Venus_RageDash_Rolling__T"
+
+msgstr ""
+"3_Venus_RageDash_Rolling__T"
+
+msgid ""
+"3_Venus_RageDashWithG_Dash__H"
+
+msgstr ""
+"3_Venus_RageDashWithG_Dash__H"
+
+msgid ""
+"3_Venus_RageDashWithG_Dash1__M"
+
+msgstr ""
+"3_Venus_RageDashWithG_Dash1__M"
+
+msgid ""
+"3_Venus_RageDashWithG_Turn1__M"
+
+msgstr ""
+"3_Venus_RageDashWithG_Turn1__M"
+
+msgid ""
+"3_Venus_RageDashWithG_Dash2__M"
+
+msgstr ""
+"3_Venus_RageDashWithG_Dash2__M"
+
+msgid ""
+"3_Venus_RageDashWithG_Turn2__M"
+
+msgstr ""
+"3_Venus_RageDashWithG_Turn2__M"
+
+msgid ""
+"3_Venus_RageDashWithG_Dash3__M"
+
+msgstr ""
+"3_Venus_RageDashWithG_Dash3__M"
+
+msgid ""
+"3_Venus_RageDashWithG_Rolling__M"
+
+msgstr ""
+"3_Venus_RageDashWithG_Rolling__M"
+
+msgid ""
+"3_Venus_RageDashWithG_Shot__T"
+
+msgstr ""
+"3_Venus_RageDashWithG_Shot__T"
+
+msgid ""
+"3_Venus_DashThunder_Horn"
+
+msgstr ""
+"3_Venus_DashThunder_Horn"
+
+msgid ""
+"3_Venus_DashThunder__H"
+
+msgstr ""
+"3_Venus_DashThunder__H"
+
+msgid ""
+"3_Venus_DashThunder__M"
+
+msgstr ""
+"3_Venus_DashThunder__M"
+
+msgid ""
+"3_Venus_DashThunder__T"
+
+msgstr ""
+"3_Venus_DashThunder__T"
+
+msgid ""
+"3_Venus_ShotThunderJelly"
+
+msgstr ""
+"3_Venus_ShotThunderJelly"
+
+msgid ""
+"3_Venus_DiffusionMissile"
+
+msgstr ""
+"3_Venus_DiffusionMissile"
+
+msgid ""
+"3_Venus_SpotThunder"
+
+msgstr ""
+"3_Venus_SpotThunder"
+
+msgid ""
+"3_Venus_BackDrift"
+
+msgstr ""
+"3_Venus_BackDrift"
+
+msgid ""
+"3_Venus_BackDriftWithG"
+
+msgstr ""
+"3_Venus_BackDriftWithG"
+
+msgid ""
+"3_Venus_ShotHomingThunderPillar"
+
+msgstr ""
+"3_Venus_ShotHomingThunderPillar"
+
+msgid ""
+"3_Venus_Fumble"
+
+msgstr ""
+"3_Venus_Fumble"
+

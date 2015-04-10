@@ -1,0 +1,1512 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_Tsukuyomi_N_Idle"
+
+msgstr ""
+"2_Tsukuyomi_N_Idle"
+
+msgid ""
+"2_Tsukuyomi_N_Walk"
+
+msgstr ""
+"2_Tsukuyomi_N_Walk"
+
+msgid ""
+"2_Tsukuyomi_N_TurnLeft"
+
+msgstr ""
+"2_Tsukuyomi_N_TurnLeft"
+
+msgid ""
+"2_Tsukuyomi_N_TurnRight"
+
+msgstr ""
+"2_Tsukuyomi_N_TurnRight"
+
+msgid ""
+"2_Tsukuyomi_N_LargeTurnLeft"
+
+msgstr ""
+"2_Tsukuyomi_N_LargeTurnLeft"
+
+msgid ""
+"2_Tsukuyomi_N_LargeTurnRight"
+
+msgstr ""
+"2_Tsukuyomi_N_LargeTurnRight"
+
+msgid ""
+"2_Tsukuyomi_Appear"
+
+msgstr ""
+"2_Tsukuyomi_Appear"
+
+msgid ""
+"2_Tsukuyomi_B_Idle"
+
+msgstr ""
+"2_Tsukuyomi_B_Idle"
+
+msgid ""
+"2_Tsukuyomi_B_Dash__H"
+
+msgstr ""
+"2_Tsukuyomi_B_Dash__H"
+
+msgid ""
+"2_Tsukuyomi_B_Dash__M"
+
+msgstr ""
+"2_Tsukuyomi_B_Dash__M"
+
+msgid ""
+"2_Tsukuyomi_B_Dash__T"
+
+msgstr ""
+"2_Tsukuyomi_B_Dash__T"
+
+msgid ""
+"2_Tsukuyomi_B_JumpToBossUpland"
+
+msgstr ""
+"2_Tsukuyomi_B_JumpToBossUpland"
+
+msgid ""
+"2_Tsukuyomi_B_JumpFromBossUpland"
+
+msgstr ""
+"2_Tsukuyomi_B_JumpFromBossUpland"
+
+msgid ""
+"2_Tsukuyomi_B_TurnLeft"
+
+msgstr ""
+"2_Tsukuyomi_B_TurnLeft"
+
+msgid ""
+"2_Tsukuyomi_B_TurnRight"
+
+msgstr ""
+"2_Tsukuyomi_B_TurnRight"
+
+msgid ""
+"2_Tsukuyomi_B_LargeTurnLeft"
+
+msgstr ""
+"2_Tsukuyomi_B_LargeTurnLeft"
+
+msgid ""
+"2_Tsukuyomi_B_LargeTurnRight"
+
+msgstr ""
+"2_Tsukuyomi_B_LargeTurnRight"
+
+msgid ""
+"2_Tsukuyomi_B_FindComminate"
+
+msgstr ""
+"2_Tsukuyomi_B_FindComminate"
+
+msgid ""
+"2_Tsukuyomi_B_AngryComminate"
+
+msgstr ""
+"2_Tsukuyomi_B_AngryComminate"
+
+msgid ""
+"2_Tsukuyomi_B_ChagrinComminate"
+
+msgstr ""
+"2_Tsukuyomi_B_ChagrinComminate"
+
+msgid ""
+"2_Tsukuyomi_B_Stagger"
+
+msgstr ""
+"2_Tsukuyomi_B_Stagger"
+
+msgid ""
+"2_Tsukuyomi_B_LowBodyDown__H"
+
+msgstr ""
+"2_Tsukuyomi_B_LowBodyDown__H"
+
+msgid ""
+"2_Tsukuyomi_B_LowBodyDown__M"
+
+msgstr ""
+"2_Tsukuyomi_B_LowBodyDown__M"
+
+msgid ""
+"2_Tsukuyomi_B_LowBodyDown__T"
+
+msgstr ""
+"2_Tsukuyomi_B_LowBodyDown__T"
+
+msgid ""
+"2_Tsukuyomi_B_UpBodyDown__H"
+
+msgstr ""
+"2_Tsukuyomi_B_UpBodyDown__H"
+
+msgid ""
+"2_Tsukuyomi_B_UpBodyDown__M"
+
+msgstr ""
+"2_Tsukuyomi_B_UpBodyDown__M"
+
+msgid ""
+"2_Tsukuyomi_B_UpBodyDown__T"
+
+msgstr ""
+"2_Tsukuyomi_B_UpBodyDown__T"
+
+msgid ""
+"2_Tsukuyomi_B_Hold__H"
+
+msgstr ""
+"2_Tsukuyomi_B_Hold__H"
+
+msgid ""
+"2_Tsukuyomi_B_Hold__M"
+
+msgstr ""
+"2_Tsukuyomi_B_Hold__M"
+
+msgid ""
+"2_Tsukuyomi_B_Hold__T"
+
+msgstr ""
+"2_Tsukuyomi_B_Hold__T"
+
+msgid ""
+"2_Tsukuyomi_B_Giddy"
+
+msgstr ""
+"2_Tsukuyomi_B_Giddy"
+
+msgid ""
+"2_Tsukuyomi_Dead__H"
+
+msgstr ""
+"2_Tsukuyomi_Dead__H"
+
+msgid ""
+"2_Tsukuyomi_Dead__M"
+
+msgstr ""
+"2_Tsukuyomi_Dead__M"
+
+msgid ""
+"2_Tsukuyomi_Dead__T"
+
+msgstr ""
+"2_Tsukuyomi_Dead__T"
+
+msgid ""
+"2_Tsukuyomi_D_ZoomSpear"
+
+msgstr ""
+"2_Tsukuyomi_D_ZoomSpear"
+
+msgid ""
+"2_Tsukuyomi_D_SeriesDispel"
+
+msgstr ""
+"2_Tsukuyomi_D_SeriesDispel"
+
+msgid ""
+"2_Tsukuyomi_D_ZoomShot"
+
+msgstr ""
+"2_Tsukuyomi_D_ZoomShot"
+
+msgid ""
+"2_Tsukuyomi_D_DisheveledHairCutter"
+
+msgstr ""
+"2_Tsukuyomi_D_DisheveledHairCutter"
+
+msgid ""
+"2_Tsukuyomi_D_4LimbsDash__H"
+
+msgstr ""
+"2_Tsukuyomi_D_4LimbsDash__H"
+
+msgid ""
+"2_Tsukuyomi_D_4LimbsDash__M"
+
+msgstr ""
+"2_Tsukuyomi_D_4LimbsDash__M"
+
+msgid ""
+"2_Tsukuyomi_D_4LimbsDash__T"
+
+msgstr ""
+"2_Tsukuyomi_D_4LimbsDash__T"
+
+msgid ""
+"2_Tkym_D_4LimbsMeanderingDash__H"
+
+msgstr ""
+"2_Tkym_D_4LimbsMeanderingDash__H"
+
+msgid ""
+"2_Tkym_D_4LimbsMeanderingDash__M"
+
+msgstr ""
+"2_Tkym_D_4LimbsMeanderingDash__M"
+
+msgid ""
+"2_Tkym_D_4LimbsMeanderingDash__T"
+
+msgstr ""
+"2_Tkym_D_4LimbsMeanderingDash__T"
+
+msgid ""
+"2_Tsukuyomi_D_ThrowPounce__H"
+
+msgstr ""
+"2_Tsukuyomi_D_ThrowPounce__H"
+
+msgid ""
+"2_Tsukuyomi_D_ThrowPounce__M"
+
+msgstr ""
+"2_Tsukuyomi_D_ThrowPounce__M"
+
+msgid ""
+"2_Tsukuyomi_D_ThrowPounce__T"
+
+msgstr ""
+"2_Tsukuyomi_D_ThrowPounce__T"
+
+msgid ""
+"2_Tsukuyomi_D_Shot_NovaLaser"
+
+msgstr ""
+"2_Tsukuyomi_D_Shot_NovaLaser"
+
+msgid ""
+"2_Tsukuyomi_D_Shot_NovaBall"
+
+msgstr ""
+"2_Tsukuyomi_D_Shot_NovaBall"
+
+msgid ""
+"2_Tsukuyomi_D_Vanish_Oracle"
+
+msgstr ""
+"2_Tsukuyomi_D_Vanish_Oracle"
+
+msgid ""
+"2_Tsukuyomi_D_SwayBack"
+
+msgstr ""
+"2_Tsukuyomi_D_SwayBack"
+
+msgid ""
+"2_Tsukuyomi_D_Pounce_HairCutter__H"
+
+msgstr ""
+"2_Tsukuyomi_D_Pounce_HairCutter__H"
+
+msgid ""
+"2_Tsukuyomi_D_Pounce_HairCutter__M"
+
+msgstr ""
+"2_Tsukuyomi_D_Pounce_HairCutter__M"
+
+msgid ""
+"2_Tsukuyomi_D_Pounce_HairCutter__T"
+
+msgstr ""
+"2_Tsukuyomi_D_Pounce_HairCutter__T"
+
+msgid ""
+"2_Tsukuyomi_D_Shot_SNovaLaser"
+
+msgstr ""
+"2_Tsukuyomi_D_Shot_SNovaLaser"
+
+msgid ""
+"2_Tsukuyomi_D_SuperNova"
+
+msgstr ""
+"2_Tsukuyomi_D_SuperNova"
+
+msgid ""
+"2_Tsukuyomi_ZoomSpear"
+
+msgstr ""
+"2_Tsukuyomi_ZoomSpear"
+
+msgid ""
+"2_Tsukuyomi_SeriesDispel"
+
+msgstr ""
+"2_Tsukuyomi_SeriesDispel"
+
+msgid ""
+"2_Tsukuyomi_ZoomShot"
+
+msgstr ""
+"2_Tsukuyomi_ZoomShot"
+
+msgid ""
+"2_Tsukuyomi_DisheveledHairCutter"
+
+msgstr ""
+"2_Tsukuyomi_DisheveledHairCutter"
+
+msgid ""
+"2_Tsukuyomi_4LimbsDash__H"
+
+msgstr ""
+"2_Tsukuyomi_4LimbsDash__H"
+
+msgid ""
+"2_Tsukuyomi_4LimbsDash__M"
+
+msgstr ""
+"2_Tsukuyomi_4LimbsDash__M"
+
+msgid ""
+"2_Tsukuyomi_4LimbsDash__T"
+
+msgstr ""
+"2_Tsukuyomi_4LimbsDash__T"
+
+msgid ""
+"2_Tsukuyomi_4LimbMeanderingDash__H"
+
+msgstr ""
+"2_Tsukuyomi_4LimbMeanderingDash__H"
+
+msgid ""
+"2_Tsukuyomi_4LimbMeanderingDash__M"
+
+msgstr ""
+"2_Tsukuyomi_4LimbMeanderingDash__M"
+
+msgid ""
+"2_Tsukuyomi_4LimbMeanderingDash__T"
+
+msgstr ""
+"2_Tsukuyomi_4LimbMeanderingDash__T"
+
+msgid ""
+"2_Tsukuyomi_Shot_NovaLaser"
+
+msgstr ""
+"2_Tsukuyomi_Shot_NovaLaser"
+
+msgid ""
+"2_Tsukuyomi_Shot_NovaBall"
+
+msgstr ""
+"2_Tsukuyomi_Shot_NovaBall"
+
+msgid ""
+"2_Tsukuyomi_SwayBack"
+
+msgstr ""
+"2_Tsukuyomi_SwayBack"
+
+msgid ""
+"2_Tsukuyomi_Pounce_HairCutter__H"
+
+msgstr ""
+"2_Tsukuyomi_Pounce_HairCutter__H"
+
+msgid ""
+"2_Tsukuyomi_Pounce_HairCutter__M"
+
+msgstr ""
+"2_Tsukuyomi_Pounce_HairCutter__M"
+
+msgid ""
+"2_Tsukuyomi_Pounce_HairCutter__T"
+
+msgstr ""
+"2_Tsukuyomi_Pounce_HairCutter__T"
+
+msgid ""
+"2_Tsukuyomi_Shot_SNovaLaser"
+
+msgstr ""
+"2_Tsukuyomi_Shot_SNovaLaser"
+
+msgid ""
+"2_Tsukuyomi_SuperNova"
+
+msgstr ""
+"2_Tsukuyomi_SuperNova"
+
+msgid ""
+"2_Tsukuyomi_Wield_Arms"
+
+msgstr ""
+"2_Tsukuyomi_Wield_Arms"
+
+msgid ""
+"2_Tsukuyomi_HairCutter_Dash__H"
+
+msgstr ""
+"2_Tsukuyomi_HairCutter_Dash__H"
+
+msgid ""
+"2_Tsukuyomi_HairCutter_Dash__M"
+
+msgstr ""
+"2_Tsukuyomi_HairCutter_Dash__M"
+
+msgid ""
+"2_Tsukuyomi_HairCutter_Dash__T"
+
+msgstr ""
+"2_Tsukuyomi_HairCutter_Dash__T"
+
+msgid ""
+"2_Tsukuyomi_Fumble"
+
+msgstr ""
+"2_Tsukuyomi_Fumble"
+
+msgid ""
+"3_Soldier_N_Idle"
+
+msgstr ""
+"3_Soldier_N_Idle"
+
+msgid ""
+"3_Soldier_N_Walk"
+
+msgstr ""
+"3_Soldier_N_Walk"
+
+msgid ""
+"3_Soldier_N_Walk_Caution"
+
+msgstr ""
+"3_Soldier_N_Walk_Caution"
+
+msgid ""
+"3_Soldier_N_JumpToUpland__H"
+
+msgstr ""
+"3_Soldier_N_JumpToUpland__H"
+
+msgid ""
+"3_Soldier_N_JumpToUpland__M"
+
+msgstr ""
+"3_Soldier_N_JumpToUpland__M"
+
+msgid ""
+"3_Soldier_N_JumpToUpland__T"
+
+msgstr ""
+"3_Soldier_N_JumpToUpland__T"
+
+msgid ""
+"3_Soldier_N_JumpFromUpland__H"
+
+msgstr ""
+"3_Soldier_N_JumpFromUpland__H"
+
+msgid ""
+"3_Soldier_N_JumpFromUpland__M"
+
+msgstr ""
+"3_Soldier_N_JumpFromUpland__M"
+
+msgid ""
+"3_Soldier_N_JumpFromUpland__T"
+
+msgstr ""
+"3_Soldier_N_JumpFromUpland__T"
+
+msgid ""
+"3_Soldier_N_TurnLeft"
+
+msgstr ""
+"3_Soldier_N_TurnLeft"
+
+msgid ""
+"3_Soldier_N_TurnRight"
+
+msgstr ""
+"3_Soldier_N_TurnRight"
+
+msgid ""
+"3_Soldier_N_LargeTurnLeft"
+
+msgstr ""
+"3_Soldier_N_LargeTurnLeft"
+
+msgid ""
+"3_Soldier_N_LargeTurnRight"
+
+msgstr ""
+"3_Soldier_N_LargeTurnRight"
+
+msgid ""
+"3_Soldier_N_Eat"
+
+msgstr ""
+"3_Soldier_N_Eat"
+
+msgid ""
+"3_Soldier_Appear"
+
+msgstr ""
+"3_Soldier_Appear"
+
+msgid ""
+"3_Soldier_B_Idle"
+
+msgstr ""
+"3_Soldier_B_Idle"
+
+msgid ""
+"3_Soldier_B_Idle_Caution"
+
+msgstr ""
+"3_Soldier_B_Idle_Caution"
+
+msgid ""
+"3_Soldier_B_Dash__H"
+
+msgstr ""
+"3_Soldier_B_Dash__H"
+
+msgid ""
+"3_Soldier_B_Dash__M"
+
+msgstr ""
+"3_Soldier_B_Dash__M"
+
+msgid ""
+"3_Soldier_B_Dash__T"
+
+msgstr ""
+"3_Soldier_B_Dash__T"
+
+msgid ""
+"3_Soldier_B_JumpToBossUpland"
+
+msgstr ""
+"3_Soldier_B_JumpToBossUpland"
+
+msgid ""
+"3_Soldier_B_JumpFromBossUpland"
+
+msgstr ""
+"3_Soldier_B_JumpFromBossUpland"
+
+msgid ""
+"3_Soldier_B_MoveLongPath__H"
+
+msgstr ""
+"3_Soldier_B_MoveLongPath__H"
+
+msgid ""
+"3_Soldier_B_MoveLongPath__M"
+
+msgstr ""
+"3_Soldier_B_MoveLongPath__M"
+
+msgid ""
+"3_Soldier_B_MoveLongPath__T"
+
+msgstr ""
+"3_Soldier_B_MoveLongPath__T"
+
+msgid ""
+"3_Soldier_B_TurnLeft"
+
+msgstr ""
+"3_Soldier_B_TurnLeft"
+
+msgid ""
+"3_Soldier_B_TurnRight"
+
+msgstr ""
+"3_Soldier_B_TurnRight"
+
+msgid ""
+"3_Soldier_B_LargeTurnLeft"
+
+msgstr ""
+"3_Soldier_B_LargeTurnLeft"
+
+msgid ""
+"3_Soldier_B_LargeTurnRight"
+
+msgstr ""
+"3_Soldier_B_LargeTurnRight"
+
+msgid ""
+"3_Soldier_B_FindComminate"
+
+msgstr ""
+"3_Soldier_B_FindComminate"
+
+msgid ""
+"3_Soldier_B_AngryComminate"
+
+msgstr ""
+"3_Soldier_B_AngryComminate"
+
+msgid ""
+"3_Soldier_B_ChagrinComminate"
+
+msgstr ""
+"3_Soldier_B_ChagrinComminate"
+
+msgid ""
+"3_Soldier_B_Stagger"
+
+msgstr ""
+"3_Soldier_B_Stagger"
+
+msgid ""
+"3_Soldier_B_RightArmDown__H"
+
+msgstr ""
+"3_Soldier_B_RightArmDown__H"
+
+msgid ""
+"3_Soldier_B_RightArmDown__M"
+
+msgstr ""
+"3_Soldier_B_RightArmDown__M"
+
+msgid ""
+"3_Soldier_B_RightArmDown__T"
+
+msgstr ""
+"3_Soldier_B_RightArmDown__T"
+
+msgid ""
+"3_Soldier_B_FootDown__H"
+
+msgstr ""
+"3_Soldier_B_FootDown__H"
+
+msgid ""
+"3_Soldier_B_FootDown__M"
+
+msgstr ""
+"3_Soldier_B_FootDown__M"
+
+msgid ""
+"3_Soldier_B_FootDown__T"
+
+msgstr ""
+"3_Soldier_B_FootDown__T"
+
+msgid ""
+"3_Soldier_B_Hold__H"
+
+msgstr ""
+"3_Soldier_B_Hold__H"
+
+msgid ""
+"3_Soldier_B_Hold__M"
+
+msgstr ""
+"3_Soldier_B_Hold__M"
+
+msgid ""
+"3_Soldier_B_Hold__T"
+
+msgstr ""
+"3_Soldier_B_Hold__T"
+
+msgid ""
+"3_Soldier_B_Giddy"
+
+msgstr ""
+"3_Soldier_B_Giddy"
+
+msgid ""
+"3_Soldier_Dead__H"
+
+msgstr ""
+"3_Soldier_Dead__H"
+
+msgid ""
+"3_Soldier_Dead__M"
+
+msgstr ""
+"3_Soldier_Dead__M"
+
+msgid ""
+"3_Soldier_Dead__T"
+
+msgstr ""
+"3_Soldier_Dead__T"
+
+msgid ""
+"3_Soldier_Fumble"
+
+msgstr ""
+"3_Soldier_Fumble"
+
+msgid ""
+"3_Soldier_RightStepSlash"
+
+msgstr ""
+"3_Soldier_RightStepSlash"
+
+msgid ""
+"3_Soldier_AngryRightStepSlash"
+
+msgstr ""
+"3_Soldier_AngryRightStepSlash"
+
+msgid ""
+"3_Soldier_Pounce__H"
+
+msgstr ""
+"3_Soldier_Pounce__H"
+
+msgid ""
+"3_Soldier_Pounce__M"
+
+msgstr ""
+"3_Soldier_Pounce__M"
+
+msgid ""
+"3_Soldier_Pounce__T"
+
+msgstr ""
+"3_Soldier_Pounce__T"
+
+msgid ""
+"3_Soldier_BackflipJump_Back__H"
+
+msgstr ""
+"3_Soldier_BackflipJump_Back__H"
+
+msgid ""
+"3_Soldier_BackflipJump_Back__M"
+
+msgstr ""
+"3_Soldier_BackflipJump_Back__M"
+
+msgid ""
+"3_Soldier_BackflipJump_Back__T"
+
+msgstr ""
+"3_Soldier_BackflipJump_Back__T"
+
+msgid ""
+"3_Soldier_BackflipJump_Jump__M"
+
+msgstr ""
+"3_Soldier_BackflipJump_Jump__M"
+
+msgid ""
+"3_Soldier_BackflipJump_Jump__T"
+
+msgstr ""
+"3_Soldier_BackflipJump_Jump__T"
+
+msgid ""
+"3_Soldier_FallDownBomb"
+
+msgstr ""
+"3_Soldier_FallDownBomb"
+
+msgid ""
+"3_Soldier_WildShot"
+
+msgstr ""
+"3_Soldier_WildShot"
+
+msgid ""
+"3_Soldier_WideSlash"
+
+msgstr ""
+"3_Soldier_WideSlash"
+
+msgid ""
+"3_Soldier_ChargeVtSlash__H"
+
+msgstr ""
+"3_Soldier_ChargeVtSlash__H"
+
+msgid ""
+"3_Soldier_ChargeVtSlash__M"
+
+msgstr ""
+"3_Soldier_ChargeVtSlash__M"
+
+msgid ""
+"3_Soldier_ChargeVtSlash__T"
+
+msgstr ""
+"3_Soldier_ChargeVtSlash__T"
+
+msgid ""
+"3_Soldier_ChargeHrSlash_Comminate"
+
+msgstr ""
+"3_Soldier_ChargeHrSlash_Comminate"
+
+msgid ""
+"3_Soldier_ChargeHrSlash_Slash"
+
+msgstr ""
+"3_Soldier_ChargeHrSlash_Slash"
+
+msgid ""
+"3_Soldier_AngryCHS_Comminate"
+
+msgstr ""
+"3_Soldier_AngryCHS_Comminate"
+
+msgid ""
+"3_Soldier_AngryCHS_Slash"
+
+msgstr ""
+"3_Soldier_AngryCHS_Slash"
+
+msgid ""
+"4_Soldier_N_Idle"
+
+msgstr ""
+"4_Soldier_N_Idle"
+
+msgid ""
+"4_Soldier_N_Walk"
+
+msgstr ""
+"4_Soldier_N_Walk"
+
+msgid ""
+"4_Soldier_N_Walk_Caution"
+
+msgstr ""
+"4_Soldier_N_Walk_Caution"
+
+msgid ""
+"4_Soldier_N_JumpToUpland__H"
+
+msgstr ""
+"4_Soldier_N_JumpToUpland__H"
+
+msgid ""
+"4_Soldier_N_JumpToUpland__M"
+
+msgstr ""
+"4_Soldier_N_JumpToUpland__M"
+
+msgid ""
+"4_Soldier_N_JumpToUpland__T"
+
+msgstr ""
+"4_Soldier_N_JumpToUpland__T"
+
+msgid ""
+"4_Soldier_N_JumpFromUpland__H"
+
+msgstr ""
+"4_Soldier_N_JumpFromUpland__H"
+
+msgid ""
+"4_Soldier_N_JumpFromUpland__M"
+
+msgstr ""
+"4_Soldier_N_JumpFromUpland__M"
+
+msgid ""
+"4_Soldier_N_JumpFromUpland__T"
+
+msgstr ""
+"4_Soldier_N_JumpFromUpland__T"
+
+msgid ""
+"4_Soldier_N_TurnLeft"
+
+msgstr ""
+"4_Soldier_N_TurnLeft"
+
+msgid ""
+"4_Soldier_N_TurnRight"
+
+msgstr ""
+"4_Soldier_N_TurnRight"
+
+msgid ""
+"4_Soldier_N_LargeTurnLeft"
+
+msgstr ""
+"4_Soldier_N_LargeTurnLeft"
+
+msgid ""
+"4_Soldier_N_LargeTurnRight"
+
+msgstr ""
+"4_Soldier_N_LargeTurnRight"
+
+msgid ""
+"4_Soldier_N_Eat"
+
+msgstr ""
+"4_Soldier_N_Eat"
+
+msgid ""
+"4_Soldier_Appear"
+
+msgstr ""
+"4_Soldier_Appear"
+
+msgid ""
+"4_Soldier_B_Idle"
+
+msgstr ""
+"4_Soldier_B_Idle"
+
+msgid ""
+"4_Soldier_B_Idle_Caution"
+
+msgstr ""
+"4_Soldier_B_Idle_Caution"
+
+msgid ""
+"4_Soldier_B_Dash__H"
+
+msgstr ""
+"4_Soldier_B_Dash__H"
+
+msgid ""
+"4_Soldier_B_Dash__M"
+
+msgstr ""
+"4_Soldier_B_Dash__M"
+
+msgid ""
+"4_Soldier_B_Dash__T"
+
+msgstr ""
+"4_Soldier_B_Dash__T"
+
+msgid ""
+"4_Soldier_B_JumpToBossUpland"
+
+msgstr ""
+"4_Soldier_B_JumpToBossUpland"
+
+msgid ""
+"4_Soldier_B_JumpFromBossUpland"
+
+msgstr ""
+"4_Soldier_B_JumpFromBossUpland"
+
+msgid ""
+"4_Soldier_B_MoveLongPath__H"
+
+msgstr ""
+"4_Soldier_B_MoveLongPath__H"
+
+msgid ""
+"4_Soldier_B_MoveLongPath__M"
+
+msgstr ""
+"4_Soldier_B_MoveLongPath__M"
+
+msgid ""
+"4_Soldier_B_MoveLongPath__T"
+
+msgstr ""
+"4_Soldier_B_MoveLongPath__T"
+
+msgid ""
+"4_Soldier_B_TurnLeft"
+
+msgstr ""
+"4_Soldier_B_TurnLeft"
+
+msgid ""
+"4_Soldier_B_TurnRight"
+
+msgstr ""
+"4_Soldier_B_TurnRight"
+
+msgid ""
+"4_Soldier_B_LargeTurnLeft"
+
+msgstr ""
+"4_Soldier_B_LargeTurnLeft"
+
+msgid ""
+"4_Soldier_B_LargeTurnRight"
+
+msgstr ""
+"4_Soldier_B_LargeTurnRight"
+
+msgid ""
+"4_Soldier_B_FindComminate"
+
+msgstr ""
+"4_Soldier_B_FindComminate"
+
+msgid ""
+"4_Soldier_B_AngryComminate"
+
+msgstr ""
+"4_Soldier_B_AngryComminate"
+
+msgid ""
+"4_Soldier_B_ChagrinComminate"
+
+msgstr ""
+"4_Soldier_B_ChagrinComminate"
+
+msgid ""
+"4_Soldier_B_Stagger"
+
+msgstr ""
+"4_Soldier_B_Stagger"
+
+msgid ""
+"4_Soldier_B_RightArmDown__H"
+
+msgstr ""
+"4_Soldier_B_RightArmDown__H"
+
+msgid ""
+"4_Soldier_B_RightArmDown__M"
+
+msgstr ""
+"4_Soldier_B_RightArmDown__M"
+
+msgid ""
+"4_Soldier_B_RightArmDown__T"
+
+msgstr ""
+"4_Soldier_B_RightArmDown__T"
+
+msgid ""
+"4_Soldier_B_FootDown__H"
+
+msgstr ""
+"4_Soldier_B_FootDown__H"
+
+msgid ""
+"4_Soldier_B_FootDown__M"
+
+msgstr ""
+"4_Soldier_B_FootDown__M"
+
+msgid ""
+"4_Soldier_B_FootDown__T"
+
+msgstr ""
+"4_Soldier_B_FootDown__T"
+
+msgid ""
+"4_Soldier_B_Hold__H"
+
+msgstr ""
+"4_Soldier_B_Hold__H"
+
+msgid ""
+"4_Soldier_B_Hold__M"
+
+msgstr ""
+"4_Soldier_B_Hold__M"
+
+msgid ""
+"4_Soldier_B_Hold__T"
+
+msgstr ""
+"4_Soldier_B_Hold__T"
+
+msgid ""
+"4_Soldier_B_Giddy"
+
+msgstr ""
+"4_Soldier_B_Giddy"
+
+msgid ""
+"4_Soldier_Dead__H"
+
+msgstr ""
+"4_Soldier_Dead__H"
+
+msgid ""
+"4_Soldier_Dead__M"
+
+msgstr ""
+"4_Soldier_Dead__M"
+
+msgid ""
+"4_Soldier_Dead__T"
+
+msgstr ""
+"4_Soldier_Dead__T"
+
+msgid ""
+"4_Soldier_Fumble"
+
+msgstr ""
+"4_Soldier_Fumble"
+
+msgid ""
+"4_Soldier_RightStepSlash"
+
+msgstr ""
+"4_Soldier_RightStepSlash"
+
+msgid ""
+"4_Soldier_AngryRightStepSlash"
+
+msgstr ""
+"4_Soldier_AngryRightStepSlash"
+
+msgid ""
+"4_Soldier_Pounce__H"
+
+msgstr ""
+"4_Soldier_Pounce__H"
+
+msgid ""
+"4_Soldier_Pounce__M"
+
+msgstr ""
+"4_Soldier_Pounce__M"
+
+msgid ""
+"4_Soldier_Pounce__T"
+
+msgstr ""
+"4_Soldier_Pounce__T"
+
+msgid ""
+"4_Soldier_BackflipJump_Back__H"
+
+msgstr ""
+"4_Soldier_BackflipJump_Back__H"
+
+msgid ""
+"4_Soldier_BackflipJump_Back__M"
+
+msgstr ""
+"4_Soldier_BackflipJump_Back__M"
+
+msgid ""
+"4_Soldier_BackflipJump_Back__T"
+
+msgstr ""
+"4_Soldier_BackflipJump_Back__T"
+
+msgid ""
+"4_Soldier_BackflipJump_Jump__M"
+
+msgstr ""
+"4_Soldier_BackflipJump_Jump__M"
+
+msgid ""
+"4_Soldier_BackflipJump_Jump__T"
+
+msgstr ""
+"4_Soldier_BackflipJump_Jump__T"
+
+msgid ""
+"4_Soldier_FallDownBomb"
+
+msgstr ""
+"4_Soldier_FallDownBomb"
+
+msgid ""
+"4_Soldier_WildShot"
+
+msgstr ""
+"4_Soldier_WildShot"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_Start"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_Start"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_S0__M"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_S0__M"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_S0__T"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_S0__T"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_S1__M"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_S1__M"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_S1__T"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_S1__T"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_S2__M"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_S2__M"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_S2__T"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_S2__T"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_End"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_End"
+
+msgid ""
+"4_Soldier_TackleSlash_Tackle"
+
+msgstr ""
+"4_Soldier_TackleSlash_Tackle"
+
+msgid ""
+"4_Soldier_TackleSlash_Slash"
+
+msgstr ""
+"4_Soldier_TackleSlash_Slash"
+
+msgid ""
+"4_Soldier_AngryTackleSlash_Tackle"
+
+msgstr ""
+"4_Soldier_AngryTackleSlash_Tackle"
+
+msgid ""
+"4_Soldier_AngryTackleSlash_Slash"
+
+msgstr ""
+"4_Soldier_AngryTackleSlash_Slash"
+
+msgid ""
+"4_Soldier_AngrySlashAround_Front0"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_Front0"
+
+msgid ""
+"4_Soldier_AngrySlashAround_Back"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_Back"
+
+msgid ""
+"4_Soldier_AngrySlashAround_Left"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_Left"
+
+msgid ""
+"4_Soldier_AngrySlashAround_Right"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_Right"
+
+msgid ""
+"4_Soldier_AngrySlashAround_Front1"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_Front1"
+

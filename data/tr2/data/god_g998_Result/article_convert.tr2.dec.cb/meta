@@ -1,0 +1,2 @@
+FILE_START,0x0002,0x07DF,article_convert
+ARRAY,0,article_convert_result_id,,,0x07DF,INT16,00000000,00040473,000C007F

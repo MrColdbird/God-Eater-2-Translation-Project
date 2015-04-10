@@ -1,0 +1,3 @@
+FILE_START,0x0000,0x07CF,karma_learn_limit_text
+ARRAY,0,karma_learn_limit_label,,yobi8,0x07CF,ASCII,00000000,00010155,000C007F
+ARRAY,1,karma_learn_limit_text,jajp,yobi8,0x07CF,UTF-8,00000000,00010155,000C003C

@@ -1,0 +1,882 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_Caligula_N_Idle"
+
+msgstr ""
+"2_Caligula_N_Idle"
+
+msgid ""
+"2_Caligula_N_Walk"
+
+msgstr ""
+"2_Caligula_N_Walk"
+
+msgid ""
+"2_Caligula_N_JumpToUpland__H"
+
+msgstr ""
+"2_Caligula_N_JumpToUpland__H"
+
+msgid ""
+"2_Caligula_N_JumpToUpland__M"
+
+msgstr ""
+"2_Caligula_N_JumpToUpland__M"
+
+msgid ""
+"2_Caligula_N_JumpToUpland__T"
+
+msgstr ""
+"2_Caligula_N_JumpToUpland__T"
+
+msgid ""
+"2_Caligula_N_JumpFromUpland__H"
+
+msgstr ""
+"2_Caligula_N_JumpFromUpland__H"
+
+msgid ""
+"2_Caligula_N_JumpFromUpland__M"
+
+msgstr ""
+"2_Caligula_N_JumpFromUpland__M"
+
+msgid ""
+"2_Caligula_N_JumpFromUpland__T"
+
+msgstr ""
+"2_Caligula_N_JumpFromUpland__T"
+
+msgid ""
+"2_Caligula_N_TurnLeft"
+
+msgstr ""
+"2_Caligula_N_TurnLeft"
+
+msgid ""
+"2_Caligula_N_TurnRight"
+
+msgstr ""
+"2_Caligula_N_TurnRight"
+
+msgid ""
+"2_Caligula_N_LargeTurnLeft"
+
+msgstr ""
+"2_Caligula_N_LargeTurnLeft"
+
+msgid ""
+"2_Caligula_N_LargeTurnRight"
+
+msgstr ""
+"2_Caligula_N_LargeTurnRight"
+
+msgid ""
+"2_Caligula_N_Eat"
+
+msgstr ""
+"2_Caligula_N_Eat"
+
+msgid ""
+"2_Caligula_Appear"
+
+msgstr ""
+"2_Caligula_Appear"
+
+msgid ""
+"2_Caligula_B_Idle"
+
+msgstr ""
+"2_Caligula_B_Idle"
+
+msgid ""
+"2_Caligula_B_Dash__H"
+
+msgstr ""
+"2_Caligula_B_Dash__H"
+
+msgid ""
+"2_Caligula_B_Dash__M"
+
+msgstr ""
+"2_Caligula_B_Dash__M"
+
+msgid ""
+"2_Caligula_B_Dash__T"
+
+msgstr ""
+"2_Caligula_B_Dash__T"
+
+msgid ""
+"2_Caligula_B_JumpToBossUpland"
+
+msgstr ""
+"2_Caligula_B_JumpToBossUpland"
+
+msgid ""
+"2_Caligula_B_JumpFromBossUpland"
+
+msgstr ""
+"2_Caligula_B_JumpFromBossUpland"
+
+msgid ""
+"2_Caligula_B_MoveLongPath__H"
+
+msgstr ""
+"2_Caligula_B_MoveLongPath__H"
+
+msgid ""
+"2_Caligula_B_MoveLongPath__M"
+
+msgstr ""
+"2_Caligula_B_MoveLongPath__M"
+
+msgid ""
+"2_Caligula_B_MoveLongPath__T"
+
+msgstr ""
+"2_Caligula_B_MoveLongPath__T"
+
+msgid ""
+"2_Caligula_B_TurnLeft"
+
+msgstr ""
+"2_Caligula_B_TurnLeft"
+
+msgid ""
+"2_Caligula_B_TurnRight"
+
+msgstr ""
+"2_Caligula_B_TurnRight"
+
+msgid ""
+"2_Caligula_B_LargeTurnLeft"
+
+msgstr ""
+"2_Caligula_B_LargeTurnLeft"
+
+msgid ""
+"2_Caligula_B_LargeTurnRight"
+
+msgstr ""
+"2_Caligula_B_LargeTurnRight"
+
+msgid ""
+"2_Caligula_B_FindComminate"
+
+msgstr ""
+"2_Caligula_B_FindComminate"
+
+msgid ""
+"2_Caligula_B_AngryComminate"
+
+msgstr ""
+"2_Caligula_B_AngryComminate"
+
+msgid ""
+"2_Caligula_B_ChagrinComminate"
+
+msgstr ""
+"2_Caligula_B_ChagrinComminate"
+
+msgid ""
+"2_Caligula_B_Stagger"
+
+msgstr ""
+"2_Caligula_B_Stagger"
+
+msgid ""
+"2_Caligula_B_RightArmDown__H"
+
+msgstr ""
+"2_Caligula_B_RightArmDown__H"
+
+msgid ""
+"2_Caligula_B_RightArmDown__M"
+
+msgstr ""
+"2_Caligula_B_RightArmDown__M"
+
+msgid ""
+"2_Caligula_B_RightArmDown__T"
+
+msgstr ""
+"2_Caligula_B_RightArmDown__T"
+
+msgid ""
+"2_Caligula_B_FootDown__H"
+
+msgstr ""
+"2_Caligula_B_FootDown__H"
+
+msgid ""
+"2_Caligula_B_FootDown__M"
+
+msgstr ""
+"2_Caligula_B_FootDown__M"
+
+msgid ""
+"2_Caligula_B_FootDown__T"
+
+msgstr ""
+"2_Caligula_B_FootDown__T"
+
+msgid ""
+"2_Caligula_B_SympathyBind__H"
+
+msgstr ""
+"2_Caligula_B_SympathyBind__H"
+
+msgid ""
+"2_Caligula_B_SympathyBind__M"
+
+msgstr ""
+"2_Caligula_B_SympathyBind__M"
+
+msgid ""
+"2_Caligula_B_SympathyBind__T"
+
+msgstr ""
+"2_Caligula_B_SympathyBind__T"
+
+msgid ""
+"2_Caligula_B_Hold__H"
+
+msgstr ""
+"2_Caligula_B_Hold__H"
+
+msgid ""
+"2_Caligula_B_Hold__M"
+
+msgstr ""
+"2_Caligula_B_Hold__M"
+
+msgid ""
+"2_Caligula_B_Hold__T"
+
+msgstr ""
+"2_Caligula_B_Hold__T"
+
+msgid ""
+"2_Caligula_B_Giddy"
+
+msgstr ""
+"2_Caligula_B_Giddy"
+
+msgid ""
+"2_Caligula_Dead__H"
+
+msgstr ""
+"2_Caligula_Dead__H"
+
+msgid ""
+"2_Caligula_Dead__M"
+
+msgstr ""
+"2_Caligula_Dead__M"
+
+msgid ""
+"2_Caligula_Dead__T"
+
+msgstr ""
+"2_Caligula_Dead__T"
+
+msgid ""
+"2_Caligula_LeftArmDispel"
+
+msgstr ""
+"2_Caligula_LeftArmDispel"
+
+msgid ""
+"2_Caligula_AngryLeftArmDispel"
+
+msgstr ""
+"2_Caligula_AngryLeftArmDispel"
+
+msgid ""
+"2_Caligula_ArmDispel__Left"
+
+msgstr ""
+"2_Caligula_ArmDispel__Left"
+
+msgid ""
+"2_Caligula_ArmDispel__Right"
+
+msgstr ""
+"2_Caligula_ArmDispel__Right"
+
+msgid ""
+"2_Caligula_ArmDispel_BL__Left"
+
+msgstr ""
+"2_Caligula_ArmDispel_BL__Left"
+
+msgid ""
+"2_Caligula_ArmDispel_BL__Right"
+
+msgstr ""
+"2_Caligula_ArmDispel_BL__Right"
+
+msgid ""
+"2_Caligula_ArmDispel_BR__Left"
+
+msgstr ""
+"2_Caligula_ArmDispel_BR__Left"
+
+msgid ""
+"2_Caligula_ArmDispel_BR__Right"
+
+msgstr ""
+"2_Caligula_ArmDispel_BR__Right"
+
+msgid ""
+"2_Caligula_ArmDispel_BA__Left"
+
+msgstr ""
+"2_Caligula_ArmDispel_BA__Left"
+
+msgid ""
+"2_Caligula_ArmDispel_BA__Right"
+
+msgstr ""
+"2_Caligula_ArmDispel_BA__Right"
+
+msgid ""
+"2_Caligula_AngryArmDispel__Left"
+
+msgstr ""
+"2_Caligula_AngryArmDispel__Left"
+
+msgid ""
+"2_Caligula_AngryArmDispel__Right"
+
+msgstr ""
+"2_Caligula_AngryArmDispel__Right"
+
+msgid ""
+"2_Caligula_AgryArmDispel_BL__Left"
+
+msgstr ""
+"2_Caligula_AgryArmDispel_BL__Left"
+
+msgid ""
+"2_Caligula_AgryArmDispel_BL__Right"
+
+msgstr ""
+"2_Caligula_AgryArmDispel_BL__Right"
+
+msgid ""
+"2_Caligula_AgryArmDispel_BR__Left"
+
+msgstr ""
+"2_Caligula_AgryArmDispel_BR__Left"
+
+msgid ""
+"2_Caligula_AgryArmDispel_BR__Right"
+
+msgstr ""
+"2_Caligula_AgryArmDispel_BR__Right"
+
+msgid ""
+"2_Caligula_AgryArmDispel_BA__Left"
+
+msgstr ""
+"2_Caligula_AgryArmDispel_BA__Left"
+
+msgid ""
+"2_Caligula_AgryArmDispel_BA__Right"
+
+msgstr ""
+"2_Caligula_AgryArmDispel_BA__Right"
+
+msgid ""
+"2_Caligula_SpearGlide_Glide__H"
+
+msgstr ""
+"2_Caligula_SpearGlide_Glide__H"
+
+msgid ""
+"2_Caligula_SpearGlide_Glide__M"
+
+msgstr ""
+"2_Caligula_SpearGlide_Glide__M"
+
+msgid ""
+"2_Caligula_SpearGlide_Glide__T"
+
+msgstr ""
+"2_Caligula_SpearGlide_Glide__T"
+
+msgid ""
+"2_Caligula_HDashPounce_Dash__H"
+
+msgstr ""
+"2_Caligula_HDashPounce_Dash__H"
+
+msgid ""
+"2_Caligula_HDashPounce_Dash__M"
+
+msgstr ""
+"2_Caligula_HDashPounce_Dash__M"
+
+msgid ""
+"2_Caligula_HDashPounce_Pounce__M"
+
+msgstr ""
+"2_Caligula_HDashPounce_Pounce__M"
+
+msgid ""
+"2_Caligula_HDashPounce_Pounce__T"
+
+msgstr ""
+"2_Caligula_HDashPounce_Pounce__T"
+
+msgid ""
+"2_Caligula_HDashPnce_BL_Dash__H"
+
+msgstr ""
+"2_Caligula_HDashPnce_BL_Dash__H"
+
+msgid ""
+"2_Caligula_HDashPnce_BL_Dash__M"
+
+msgstr ""
+"2_Caligula_HDashPnce_BL_Dash__M"
+
+msgid ""
+"2_Caligula_HDashPnce_BL_Pounce__M"
+
+msgstr ""
+"2_Caligula_HDashPnce_BL_Pounce__M"
+
+msgid ""
+"2_Caligula_HDashPnce_BL_Pounce__T"
+
+msgstr ""
+"2_Caligula_HDashPnce_BL_Pounce__T"
+
+msgid ""
+"2_Caligula_HDashPnce_BR_Dash__H"
+
+msgstr ""
+"2_Caligula_HDashPnce_BR_Dash__H"
+
+msgid ""
+"2_Caligula_HDashPnce_BR_Dash__M"
+
+msgstr ""
+"2_Caligula_HDashPnce_BR_Dash__M"
+
+msgid ""
+"2_Caligula_HDashPnce_BR_Pounce__M"
+
+msgstr ""
+"2_Caligula_HDashPnce_BR_Pounce__M"
+
+msgid ""
+"2_Caligula_HDashPnce_BR_Pounce__T"
+
+msgstr ""
+"2_Caligula_HDashPnce_BR_Pounce__T"
+
+msgid ""
+"2_Caligula_HDashPnce_BA_Dash__H"
+
+msgstr ""
+"2_Caligula_HDashPnce_BA_Dash__H"
+
+msgid ""
+"2_Caligula_HDashPnce_BA_Dash__M"
+
+msgstr ""
+"2_Caligula_HDashPnce_BA_Dash__M"
+
+msgid ""
+"2_Caligula_HDashPnce_BA_Pounce__M"
+
+msgstr ""
+"2_Caligula_HDashPnce_BA_Pounce__M"
+
+msgid ""
+"2_Caligula_HDashPnce_BA_Pounce__T"
+
+msgstr ""
+"2_Caligula_HDashPnce_BA_Pounce__T"
+
+msgid ""
+"2_Caligula_Shot_PlasmaBall"
+
+msgstr ""
+"2_Caligula_Shot_PlasmaBall"
+
+msgid ""
+"2_Caligula_TailDispel"
+
+msgstr ""
+"2_Caligula_TailDispel"
+
+msgid ""
+"2_Caligula_FireBreath__LtoR"
+
+msgstr ""
+"2_Caligula_FireBreath__LtoR"
+
+msgid ""
+"2_Caligula_FireBreath__RtoL"
+
+msgstr ""
+"2_Caligula_FireBreath__RtoL"
+
+msgid ""
+"2_Caligula_BackJump__H"
+
+msgstr ""
+"2_Caligula_BackJump__H"
+
+msgid ""
+"2_Caligula_BackJump__M"
+
+msgstr ""
+"2_Caligula_BackJump__M"
+
+msgid ""
+"2_Caligula_BackJump__T"
+
+msgstr ""
+"2_Caligula_BackJump__T"
+
+msgid ""
+"2_Caligula_HighSpeedBackJump__H"
+
+msgstr ""
+"2_Caligula_HighSpeedBackJump__H"
+
+msgid ""
+"2_Caligula_HighSpeedBackJump__M"
+
+msgstr ""
+"2_Caligula_HighSpeedBackJump__M"
+
+msgid ""
+"2_Caligula_HighSpeedBackJump__T"
+
+msgstr ""
+"2_Caligula_HighSpeedBackJump__T"
+
+msgid ""
+"2_Caligula_HalfTurn"
+
+msgstr ""
+"2_Caligula_HalfTurn"
+
+msgid ""
+"2_Caligula_HighSpeedHalfTurn"
+
+msgstr ""
+"2_Caligula_HighSpeedHalfTurn"
+
+msgid ""
+"2_Caligula_SkatingDash__H"
+
+msgstr ""
+"2_Caligula_SkatingDash__H"
+
+msgid ""
+"2_Caligula_SkatingDash__M"
+
+msgstr ""
+"2_Caligula_SkatingDash__M"
+
+msgid ""
+"2_Caligula_SkatingDash__T"
+
+msgstr ""
+"2_Caligula_SkatingDash__T"
+
+msgid ""
+"2_Caligula_SkatingDash_BL__H"
+
+msgstr ""
+"2_Caligula_SkatingDash_BL__H"
+
+msgid ""
+"2_Caligula_SkatingDash_BL__M"
+
+msgstr ""
+"2_Caligula_SkatingDash_BL__M"
+
+msgid ""
+"2_Caligula_SkatingDash_BL__T"
+
+msgstr ""
+"2_Caligula_SkatingDash_BL__T"
+
+msgid ""
+"2_Caligula_KayserBallista_Dash__H"
+
+msgstr ""
+"2_Caligula_KayserBallista_Dash__H"
+
+msgid ""
+"2_Caligula_KayserBallista_Dash__M"
+
+msgstr ""
+"2_Caligula_KayserBallista_Dash__M"
+
+msgid ""
+"2_Caligula_KayserBallista_Dash__T"
+
+msgstr ""
+"2_Caligula_KayserBallista_Dash__T"
+
+msgid ""
+"2_Caligula_KayserBallista_Attack"
+
+msgstr ""
+"2_Caligula_KayserBallista_Attack"
+
+msgid ""
+"2_Caligula_KsrBallista_BL_Dash__H"
+
+msgstr ""
+"2_Caligula_KsrBallista_BL_Dash__H"
+
+msgid ""
+"2_Caligula_KsrBallista_BL_Dash__M"
+
+msgstr ""
+"2_Caligula_KsrBallista_BL_Dash__M"
+
+msgid ""
+"2_Caligula_KsrBallista_BL_Dash__T"
+
+msgstr ""
+"2_Caligula_KsrBallista_BL_Dash__T"
+
+msgid ""
+"2_Caligula_KsrBallista_BL_Attack"
+
+msgstr ""
+"2_Caligula_KsrBallista_BL_Attack"
+
+msgid ""
+"2_Caligula_Fumble"
+
+msgstr ""
+"2_Caligula_Fumble"
+
+msgid ""
+"2_Caligula_LoopPunch__H"
+
+msgstr ""
+"2_Caligula_LoopPunch__H"
+
+msgid ""
+"2_Caligula_LoopPunch__M"
+
+msgstr ""
+"2_Caligula_LoopPunch__M"
+
+msgid ""
+"2_Caligula_LoopPunch__T"
+
+msgstr ""
+"2_Caligula_LoopPunch__T"
+
+msgid ""
+"2_Caligula_Call_FirePillar"
+
+msgstr ""
+"2_Caligula_Call_FirePillar"
+
+msgid ""
+"2_Caligula_AllroundOracleAttack"
+
+msgstr ""
+"2_Caligula_AllroundOracleAttack"
+
+msgid ""
+"2_Caligula_AllroundOracleAttk_Brk"
+
+msgstr ""
+"2_Caligula_AllroundOracleAttk_Brk"
+

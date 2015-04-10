@@ -1,0 +1,6 @@
+FILE_START,0x0002,0x07DF,oracle_cell_property_connect
+ARRAY,0,oracle_cell_property_connect_property_kind,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,1,oracle_cell_property_connect_property_id,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,2,oracle_cell_property_connect_name,,,0x07DF,UTF-8,00000000,00010255,000C007F
+ARRAY,3,oracle_cell_property_connect_chip_id,,,0x07DF,INT32,00000000,0001046C,000C007F
+ARRAY,4,oracle_cell_property_connect_chip_param,,,0x07DF,FLOAT32,00000000,00010466,000C007F

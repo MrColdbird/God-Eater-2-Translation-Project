@@ -1,0 +1,3 @@
+FILE_START,0x0002,0x07DF,article_ext
+ARRAY,0,article_ext_e_label_main_cond_id,,,0x07DF,INT16,00000000,00030473,000C007F
+ARRAY,1,article_ext_complex_core_costs,,,0x07DF,UINT8,00000000,00050443,000C007F

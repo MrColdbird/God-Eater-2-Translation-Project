@@ -1,0 +1,876 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_CocoonMaiden_N_Idle"
+
+msgstr ""
+"2_CocoonMaiden_N_Idle"
+
+msgid ""
+"2_CocoonMaiden_N_TurnLeft"
+
+msgstr ""
+"2_CocoonMaiden_N_TurnLeft"
+
+msgid ""
+"2_CocoonMaiden_N_TurnRight"
+
+msgstr ""
+"2_CocoonMaiden_N_TurnRight"
+
+msgid ""
+"2_CocoonMaiden_N_LargeTurnLeft"
+
+msgstr ""
+"2_CocoonMaiden_N_LargeTurnLeft"
+
+msgid ""
+"2_CocoonMaiden_N_LargeTurnRight"
+
+msgstr ""
+"2_CocoonMaiden_N_LargeTurnRight"
+
+msgid ""
+"2_CocoonMaiden_Appear"
+
+msgstr ""
+"2_CocoonMaiden_Appear"
+
+msgid ""
+"2_CocoonMaiden_B_Idle"
+
+msgstr ""
+"2_CocoonMaiden_B_Idle"
+
+msgid ""
+"2_CocoonMaiden_B_TurnLeft"
+
+msgstr ""
+"2_CocoonMaiden_B_TurnLeft"
+
+msgid ""
+"2_CocoonMaiden_B_TurnRight"
+
+msgstr ""
+"2_CocoonMaiden_B_TurnRight"
+
+msgid ""
+"2_CocoonMaiden_B_LargeTurnLeft"
+
+msgstr ""
+"2_CocoonMaiden_B_LargeTurnLeft"
+
+msgid ""
+"2_CocoonMaiden_B_LargeTurnRight"
+
+msgstr ""
+"2_CocoonMaiden_B_LargeTurnRight"
+
+msgid ""
+"2_CocoonMaiden_B_FindComminate"
+
+msgstr ""
+"2_CocoonMaiden_B_FindComminate"
+
+msgid ""
+"2_CocoonMaiden_B_ChagrinComminate"
+
+msgstr ""
+"2_CocoonMaiden_B_ChagrinComminate"
+
+msgid ""
+"2_CocoonMaiden_B_Stagger"
+
+msgstr ""
+"2_CocoonMaiden_B_Stagger"
+
+msgid ""
+"2_CocoonMaiden_B_Default__H"
+
+msgstr ""
+"2_CocoonMaiden_B_Default__H"
+
+msgid ""
+"2_CocoonMaiden_B_Default__M"
+
+msgstr ""
+"2_CocoonMaiden_B_Default__M"
+
+msgid ""
+"2_CocoonMaiden_B_Default__T"
+
+msgstr ""
+"2_CocoonMaiden_B_Default__T"
+
+msgid ""
+"2_CocoonMaiden_B_SympathyBind__H"
+
+msgstr ""
+"2_CocoonMaiden_B_SympathyBind__H"
+
+msgid ""
+"2_CocoonMaiden_B_SympathyBind__M"
+
+msgstr ""
+"2_CocoonMaiden_B_SympathyBind__M"
+
+msgid ""
+"2_CocoonMaiden_B_SympathyBind__T"
+
+msgstr ""
+"2_CocoonMaiden_B_SympathyBind__T"
+
+msgid ""
+"2_CocoonMaiden_B_Hold__H"
+
+msgstr ""
+"2_CocoonMaiden_B_Hold__H"
+
+msgid ""
+"2_CocoonMaiden_B_Hold__M"
+
+msgstr ""
+"2_CocoonMaiden_B_Hold__M"
+
+msgid ""
+"2_CocoonMaiden_B_Hold__T"
+
+msgstr ""
+"2_CocoonMaiden_B_Hold__T"
+
+msgid ""
+"2_CocoonMaiden_B_Giddy"
+
+msgstr ""
+"2_CocoonMaiden_B_Giddy"
+
+msgid ""
+"2_CocoonMaiden_Dead__H"
+
+msgstr ""
+"2_CocoonMaiden_Dead__H"
+
+msgid ""
+"2_CocoonMaiden_Dead__M"
+
+msgstr ""
+"2_CocoonMaiden_Dead__M"
+
+msgid ""
+"2_CocoonMaiden_Dead__T"
+
+msgstr ""
+"2_CocoonMaiden_Dead__T"
+
+msgid ""
+"2_CocoonMaiden_B_ShotNeedle"
+
+msgstr ""
+"2_CocoonMaiden_B_ShotNeedle"
+
+msgid ""
+"2_CocoonMaiden_B_Beam"
+
+msgstr ""
+"2_CocoonMaiden_B_Beam"
+
+msgid ""
+"2_CocoonMaiden_B_ShotNeedle_All"
+
+msgstr ""
+"2_CocoonMaiden_B_ShotNeedle_All"
+
+msgid ""
+"2_CocoonMaiden_B_ReflactBeam"
+
+msgstr ""
+"2_CocoonMaiden_B_ReflactBeam"
+
+msgid ""
+"2_CocoonMaiden_B_DyingFumble"
+
+msgstr ""
+"2_CocoonMaiden_B_DyingFumble"
+
+msgid ""
+"3_Scorpion_N_Idle"
+
+msgstr ""
+"3_Scorpion_N_Idle"
+
+msgid ""
+"3_Scorpion_N_Walk"
+
+msgstr ""
+"3_Scorpion_N_Walk"
+
+msgid ""
+"3_Scorpion_N_JumpToUpland__H"
+
+msgstr ""
+"3_Scorpion_N_JumpToUpland__H"
+
+msgid ""
+"3_Scorpion_N_JumpToUpland__M"
+
+msgstr ""
+"3_Scorpion_N_JumpToUpland__M"
+
+msgid ""
+"3_Scorpion_N_JumpToUpland__T"
+
+msgstr ""
+"3_Scorpion_N_JumpToUpland__T"
+
+msgid ""
+"3_Scorpion_N_JumpFromUpland__H"
+
+msgstr ""
+"3_Scorpion_N_JumpFromUpland__H"
+
+msgid ""
+"3_Scorpion_N_JumpFromUpland__M"
+
+msgstr ""
+"3_Scorpion_N_JumpFromUpland__M"
+
+msgid ""
+"3_Scorpion_N_JumpFromUpland__T"
+
+msgstr ""
+"3_Scorpion_N_JumpFromUpland__T"
+
+msgid ""
+"3_Scorpion_N_TurnLeft"
+
+msgstr ""
+"3_Scorpion_N_TurnLeft"
+
+msgid ""
+"3_Scorpion_N_TurnRight"
+
+msgstr ""
+"3_Scorpion_N_TurnRight"
+
+msgid ""
+"3_Scorpion_N_LargeTurnLeft"
+
+msgstr ""
+"3_Scorpion_N_LargeTurnLeft"
+
+msgid ""
+"3_Scorpion_N_LargeTurnRight"
+
+msgstr ""
+"3_Scorpion_N_LargeTurnRight"
+
+msgid ""
+"3_Scorpion_N_Eat"
+
+msgstr ""
+"3_Scorpion_N_Eat"
+
+msgid ""
+"3_Scorpion_Appear"
+
+msgstr ""
+"3_Scorpion_Appear"
+
+msgid ""
+"3_Scorpion_B_Idle"
+
+msgstr ""
+"3_Scorpion_B_Idle"
+
+msgid ""
+"3_Scorpion_B_Dash__H"
+
+msgstr ""
+"3_Scorpion_B_Dash__H"
+
+msgid ""
+"3_Scorpion_B_Dash__M"
+
+msgstr ""
+"3_Scorpion_B_Dash__M"
+
+msgid ""
+"3_Scorpion_B_Dash__T"
+
+msgstr ""
+"3_Scorpion_B_Dash__T"
+
+msgid ""
+"3_Scorpion_B_JumpToBossUpland"
+
+msgstr ""
+"3_Scorpion_B_JumpToBossUpland"
+
+msgid ""
+"3_Scorpion_B_JumpFromBossUpland"
+
+msgstr ""
+"3_Scorpion_B_JumpFromBossUpland"
+
+msgid ""
+"3_Scorpion_B_MoveLongPath__H"
+
+msgstr ""
+"3_Scorpion_B_MoveLongPath__H"
+
+msgid ""
+"3_Scorpion_B_MoveLongPath__M"
+
+msgstr ""
+"3_Scorpion_B_MoveLongPath__M"
+
+msgid ""
+"3_Scorpion_B_MoveLongPath__T"
+
+msgstr ""
+"3_Scorpion_B_MoveLongPath__T"
+
+msgid ""
+"3_Scorpion_B_TurnLeft"
+
+msgstr ""
+"3_Scorpion_B_TurnLeft"
+
+msgid ""
+"3_Scorpion_B_TurnRight"
+
+msgstr ""
+"3_Scorpion_B_TurnRight"
+
+msgid ""
+"3_Scorpion_B_LargeTurnLeft"
+
+msgstr ""
+"3_Scorpion_B_LargeTurnLeft"
+
+msgid ""
+"3_Scorpion_B_LargeTurnRight"
+
+msgstr ""
+"3_Scorpion_B_LargeTurnRight"
+
+msgid ""
+"3_Scorpion_B_FindComminate"
+
+msgstr ""
+"3_Scorpion_B_FindComminate"
+
+msgid ""
+"3_Scorpion_B_AngryComminate"
+
+msgstr ""
+"3_Scorpion_B_AngryComminate"
+
+msgid ""
+"3_Scorpion_B_ChagrinComminate"
+
+msgstr ""
+"3_Scorpion_B_ChagrinComminate"
+
+msgid ""
+"3_Scorpion_B_Stagger"
+
+msgstr ""
+"3_Scorpion_B_Stagger"
+
+msgid ""
+"3_Scorpion_B_Forefoot__H"
+
+msgstr ""
+"3_Scorpion_B_Forefoot__H"
+
+msgid ""
+"3_Scorpion_B_Forefoot__M"
+
+msgstr ""
+"3_Scorpion_B_Forefoot__M"
+
+msgid ""
+"3_Scorpion_B_Forefoot__T"
+
+msgstr ""
+"3_Scorpion_B_Forefoot__T"
+
+msgid ""
+"3_Scorpion_B_Hindfoot__H"
+
+msgstr ""
+"3_Scorpion_B_Hindfoot__H"
+
+msgid ""
+"3_Scorpion_B_Hindfoot__M"
+
+msgstr ""
+"3_Scorpion_B_Hindfoot__M"
+
+msgid ""
+"3_Scorpion_B_Hindfoot__T"
+
+msgstr ""
+"3_Scorpion_B_Hindfoot__T"
+
+msgid ""
+"3_Scorpion_B_SympathyBind__H"
+
+msgstr ""
+"3_Scorpion_B_SympathyBind__H"
+
+msgid ""
+"3_Scorpion_B_SympathyBind__M"
+
+msgstr ""
+"3_Scorpion_B_SympathyBind__M"
+
+msgid ""
+"3_Scorpion_B_SympathyBind__T"
+
+msgstr ""
+"3_Scorpion_B_SympathyBind__T"
+
+msgid ""
+"3_Scorpion_B_Hold__H"
+
+msgstr ""
+"3_Scorpion_B_Hold__H"
+
+msgid ""
+"3_Scorpion_B_Hold__M"
+
+msgstr ""
+"3_Scorpion_B_Hold__M"
+
+msgid ""
+"3_Scorpion_B_Hold__T"
+
+msgstr ""
+"3_Scorpion_B_Hold__T"
+
+msgid ""
+"3_Scorpion_B_Giddy"
+
+msgstr ""
+"3_Scorpion_B_Giddy"
+
+msgid ""
+"3_Scorpion_Dead__H"
+
+msgstr ""
+"3_Scorpion_Dead__H"
+
+msgid ""
+"3_Scorpion_Dead__M"
+
+msgstr ""
+"3_Scorpion_Dead__M"
+
+msgid ""
+"3_Scorpion_Dead__T"
+
+msgstr ""
+"3_Scorpion_Dead__T"
+
+msgid ""
+"3_Scorpion_B_Spear"
+
+msgstr ""
+"3_Scorpion_B_Spear"
+
+msgid ""
+"3_Scorpion_B_Spear_Combo"
+
+msgstr ""
+"3_Scorpion_B_Spear_Combo"
+
+msgid ""
+"3_Scorpion_B_ClingPounce__H"
+
+msgstr ""
+"3_Scorpion_B_ClingPounce__H"
+
+msgid ""
+"3_Scorpion_B_ClingPounce__M"
+
+msgstr ""
+"3_Scorpion_B_ClingPounce__M"
+
+msgid ""
+"3_Scorpion_B_ClingPounce__T"
+
+msgstr ""
+"3_Scorpion_B_ClingPounce__T"
+
+msgid ""
+"3_Scorpion_B_Shot_Umbos__H"
+
+msgstr ""
+"3_Scorpion_B_Shot_Umbos__H"
+
+msgid ""
+"3_Scorpion_B_Shot_Umbos__M"
+
+msgstr ""
+"3_Scorpion_B_Shot_Umbos__M"
+
+msgid ""
+"3_Scorpion_B_Splash_Umbos__H"
+
+msgstr ""
+"3_Scorpion_B_Splash_Umbos__H"
+
+msgid ""
+"3_Scorpion_B_Splash_Umbos__M"
+
+msgstr ""
+"3_Scorpion_B_Splash_Umbos__M"
+
+msgid ""
+"3_Scorpion_B_Attack_Tail"
+
+msgstr ""
+"3_Scorpion_B_Attack_Tail"
+
+msgid ""
+"3_Scorpion_B_Spear_Wildly_TypeA"
+
+msgstr ""
+"3_Scorpion_B_Spear_Wildly_TypeA"
+
+msgid ""
+"3_Scorpion_B_Spear_Wildly_TypeB"
+
+msgstr ""
+"3_Scorpion_B_Spear_Wildly_TypeB"
+
+msgid ""
+"3_Scorpion_B_Defense__H"
+
+msgstr ""
+"3_Scorpion_B_Defense__H"
+
+msgid ""
+"3_Scorpion_B_Defense__M"
+
+msgstr ""
+"3_Scorpion_B_Defense__M"
+
+msgid ""
+"3_Scorpion_B_Defense__T"
+
+msgstr ""
+"3_Scorpion_B_Defense__T"
+
+msgid ""
+"3_Scorpion_B_DefDash_Def__H"
+
+msgstr ""
+"3_Scorpion_B_DefDash_Def__H"
+
+msgid ""
+"3_Scorpion_B_DefDash_Def__M"
+
+msgstr ""
+"3_Scorpion_B_DefDash_Def__M"
+
+msgid ""
+"3_Scorpion_B_DefDash_Dash__H"
+
+msgstr ""
+"3_Scorpion_B_DefDash_Dash__H"
+
+msgid ""
+"3_Scorpion_B_DefDash_Dash__M"
+
+msgstr ""
+"3_Scorpion_B_DefDash_Dash__M"
+
+msgid ""
+"3_Scorpion_B_DefDash_Dash__T"
+
+msgstr ""
+"3_Scorpion_B_DefDash_Dash__T"
+
+msgid ""
+"3_Scorpion_B_DefDash_Finish"
+
+msgstr ""
+"3_Scorpion_B_DefDash_Finish"
+
+msgid ""
+"3_Scorpion_B_DefSpear_Def__H"
+
+msgstr ""
+"3_Scorpion_B_DefSpear_Def__H"
+
+msgid ""
+"3_Scorpion_B_DefSpear_Def__M"
+
+msgstr ""
+"3_Scorpion_B_DefSpear_Def__M"
+
+msgid ""
+"3_Scorpion_B_DefSpear_Spear"
+
+msgstr ""
+"3_Scorpion_B_DefSpear_Spear"
+
+msgid ""
+"3_Scorpion_B_DefSpear_Finish"
+
+msgstr ""
+"3_Scorpion_B_DefSpear_Finish"
+
+msgid ""
+"3_Scorpion_B_DefShot_Def__H"
+
+msgstr ""
+"3_Scorpion_B_DefShot_Def__H"
+
+msgid ""
+"3_Scorpion_B_DefShot_Def__M"
+
+msgstr ""
+"3_Scorpion_B_DefShot_Def__M"
+
+msgid ""
+"3_Scorpion_B_DefShot_Shot__H"
+
+msgstr ""
+"3_Scorpion_B_DefShot_Shot__H"
+
+msgid ""
+"3_Scorpion_B_DefShot_Shot__M"
+
+msgstr ""
+"3_Scorpion_B_DefShot_Shot__M"
+
+msgid ""
+"3_Scorpion_B_DefShot_Finish"
+
+msgstr ""
+"3_Scorpion_B_DefShot_Finish"
+
+msgid ""
+"3_Scorpion_B_DefAttack_Def__H"
+
+msgstr ""
+"3_Scorpion_B_DefAttack_Def__H"
+
+msgid ""
+"3_Scorpion_B_DefAttack_Def__M"
+
+msgstr ""
+"3_Scorpion_B_DefAttack_Def__M"
+
+msgid ""
+"3_Scorpion_B_DefAttack_Attack"
+
+msgstr ""
+"3_Scorpion_B_DefAttack_Attack"
+
+msgid ""
+"3_Scorpion_B_DefAttack_Finish"
+
+msgstr ""
+"3_Scorpion_B_DefAttack_Finish"
+
+msgid ""
+"3_Scorpion_B_Shot_Umbos_Local__H"
+
+msgstr ""
+"3_Scorpion_B_Shot_Umbos_Local__H"
+
+msgid ""
+"3_Scorpion_B_Shot_Umbos_Local__M"
+
+msgstr ""
+"3_Scorpion_B_Shot_Umbos_Local__M"
+
+msgid ""
+"3_Scorpion_B_Fumble"
+
+msgstr ""
+"3_Scorpion_B_Fumble"
+

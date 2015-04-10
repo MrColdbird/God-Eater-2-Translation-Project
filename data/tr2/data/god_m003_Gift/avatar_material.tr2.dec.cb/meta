@@ -1,0 +1,6 @@
+FILE_START,0x0002,0x07DF,avatar_material
+ARRAY,0,avatar_material_difficulty,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,1,avatar_material_enemy_family_id,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,2,avatar_material_article_id,,,0x07DF,INT16,00000000,00170473,000C007F
+ARRAY,3,avatar_material_article_weight,,,0x07DF,INT16,00000000,00170473,000C007F
+ARRAY,4,avatar_material_field,,,0x07DF,INT16,00000000,00010473,000C007F

@@ -1,0 +1,5 @@
+FILE_START,0x0002,0x07DF,virtual_motion
+ARRAY,0,virtual_motion_ascii_name,,,0x07DF,ASCII,00000000,00010255,000C007F
+ARRAY,1,virtual_motion_data_id_array,,,0x07DF,UINT8,00000000,00030443,000C007F
+ARRAY,2,virtual_motion_hit_atk_array,,,0x07DF,UINT32,00000000,0005044C,000C007F
+ARRAY,3,virtual_motion_hit_def_array,,,0x07DF,UINT32,00000000,0006044C,000C007F

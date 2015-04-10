@@ -1,0 +1,612 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_ZakoWalker_N_Idle"
+
+msgstr ""
+"2_ZakoWalker_N_Idle"
+
+msgid ""
+"2_ZakoWalker_N_Walk"
+
+msgstr ""
+"2_ZakoWalker_N_Walk"
+
+msgid ""
+"2_ZakoWalker_N_JumpToUpland__H"
+
+msgstr ""
+"2_ZakoWalker_N_JumpToUpland__H"
+
+msgid ""
+"2_ZakoWalker_N_JumpToUpland__M"
+
+msgstr ""
+"2_ZakoWalker_N_JumpToUpland__M"
+
+msgid ""
+"2_ZakoWalker_N_JumpToUpland__T"
+
+msgstr ""
+"2_ZakoWalker_N_JumpToUpland__T"
+
+msgid ""
+"2_ZakoWalker_N_JumpFromUpland__H"
+
+msgstr ""
+"2_ZakoWalker_N_JumpFromUpland__H"
+
+msgid ""
+"2_ZakoWalker_N_JumpFromUpland__M"
+
+msgstr ""
+"2_ZakoWalker_N_JumpFromUpland__M"
+
+msgid ""
+"2_ZakoWalker_N_JumpFromUpland__T"
+
+msgstr ""
+"2_ZakoWalker_N_JumpFromUpland__T"
+
+msgid ""
+"2_ZakoWalker_N_TurnLeft"
+
+msgstr ""
+"2_ZakoWalker_N_TurnLeft"
+
+msgid ""
+"2_ZakoWalker_N_TurnRight"
+
+msgstr ""
+"2_ZakoWalker_N_TurnRight"
+
+msgid ""
+"2_ZakoWalker_N_LargeTurnLeft"
+
+msgstr ""
+"2_ZakoWalker_N_LargeTurnLeft"
+
+msgid ""
+"2_ZakoWalker_N_LargeTurnRight"
+
+msgstr ""
+"2_ZakoWalker_N_LargeTurnRight"
+
+msgid ""
+"2_ZakoWalker_Appear"
+
+msgstr ""
+"2_ZakoWalker_Appear"
+
+msgid ""
+"2_ZakoWalker_B_Idle"
+
+msgstr ""
+"2_ZakoWalker_B_Idle"
+
+msgid ""
+"2_ZakoWalker_B_Dash__H"
+
+msgstr ""
+"2_ZakoWalker_B_Dash__H"
+
+msgid ""
+"2_ZakoWalker_B_Dash__M"
+
+msgstr ""
+"2_ZakoWalker_B_Dash__M"
+
+msgid ""
+"2_ZakoWalker_B_Dash__T"
+
+msgstr ""
+"2_ZakoWalker_B_Dash__T"
+
+msgid ""
+"2_ZakoWalker_B_TurnLeft"
+
+msgstr ""
+"2_ZakoWalker_B_TurnLeft"
+
+msgid ""
+"2_ZakoWalker_B_TurnRight"
+
+msgstr ""
+"2_ZakoWalker_B_TurnRight"
+
+msgid ""
+"2_ZakoWalker_B_LargeTurnLeft"
+
+msgstr ""
+"2_ZakoWalker_B_LargeTurnLeft"
+
+msgid ""
+"2_ZakoWalker_B_LargeTurnRight"
+
+msgstr ""
+"2_ZakoWalker_B_LargeTurnRight"
+
+msgid ""
+"2_ZakoWalker_B_FindComminate"
+
+msgstr ""
+"2_ZakoWalker_B_FindComminate"
+
+msgid ""
+"2_ZakoWalker_B_Stagger1"
+
+msgstr ""
+"2_ZakoWalker_B_Stagger1"
+
+msgid ""
+"2_ZakoWalker_B_Stagger2"
+
+msgstr ""
+"2_ZakoWalker_B_Stagger2"
+
+msgid ""
+"2_ZakoWalker_B_Stagger3"
+
+msgstr ""
+"2_ZakoWalker_B_Stagger3"
+
+msgid ""
+"2_ZakoWalker_B_Down__H"
+
+msgstr ""
+"2_ZakoWalker_B_Down__H"
+
+msgid ""
+"2_ZakoWalker_B_Down__M"
+
+msgstr ""
+"2_ZakoWalker_B_Down__M"
+
+msgid ""
+"2_ZakoWalker_B_Down__T"
+
+msgstr ""
+"2_ZakoWalker_B_Down__T"
+
+msgid ""
+"2_ZakoWalker_B_SympathyBind__H"
+
+msgstr ""
+"2_ZakoWalker_B_SympathyBind__H"
+
+msgid ""
+"2_ZakoWalker_B_SympathyBind__M"
+
+msgstr ""
+"2_ZakoWalker_B_SympathyBind__M"
+
+msgid ""
+"2_ZakoWalker_B_SympathyBind__T"
+
+msgstr ""
+"2_ZakoWalker_B_SympathyBind__T"
+
+msgid ""
+"2_ZakoWalker_B_Hold__H"
+
+msgstr ""
+"2_ZakoWalker_B_Hold__H"
+
+msgid ""
+"2_ZakoWalker_B_Hold__M"
+
+msgstr ""
+"2_ZakoWalker_B_Hold__M"
+
+msgid ""
+"2_ZakoWalker_B_Hold__T"
+
+msgstr ""
+"2_ZakoWalker_B_Hold__T"
+
+msgid ""
+"2_ZakoWalker_B_Giddy"
+
+msgstr ""
+"2_ZakoWalker_B_Giddy"
+
+msgid ""
+"2_ZakoWalker_Dead__H"
+
+msgstr ""
+"2_ZakoWalker_Dead__H"
+
+msgid ""
+"2_ZakoWalker_Dead__M"
+
+msgstr ""
+"2_ZakoWalker_Dead__M"
+
+msgid ""
+"2_ZakoWalker_Dead__T"
+
+msgstr ""
+"2_ZakoWalker_Dead__T"
+
+msgid ""
+"2_ZakoWalker_Pounce__H"
+
+msgstr ""
+"2_ZakoWalker_Pounce__H"
+
+msgid ""
+"2_ZakoWalker_Pounce__M"
+
+msgstr ""
+"2_ZakoWalker_Pounce__M"
+
+msgid ""
+"2_ZakoWalker_Pounce__T"
+
+msgstr ""
+"2_ZakoWalker_Pounce__T"
+
+msgid ""
+"2_ZakoWalker_BackStep__H"
+
+msgstr ""
+"2_ZakoWalker_BackStep__H"
+
+msgid ""
+"2_ZakoWalker_BackStep__M"
+
+msgstr ""
+"2_ZakoWalker_BackStep__M"
+
+msgid ""
+"2_ZakoWalker_BackStep__T"
+
+msgstr ""
+"2_ZakoWalker_BackStep__T"
+
+msgid ""
+"3_ZakoCannon_N_Idle"
+
+msgstr ""
+"3_ZakoCannon_N_Idle"
+
+msgid ""
+"3_ZakoCannon_N_TurnLeft"
+
+msgstr ""
+"3_ZakoCannon_N_TurnLeft"
+
+msgid ""
+"3_ZakoCannon_N_TurnRight"
+
+msgstr ""
+"3_ZakoCannon_N_TurnRight"
+
+msgid ""
+"3_ZakoCannon_N_LargeTurnLeft"
+
+msgstr ""
+"3_ZakoCannon_N_LargeTurnLeft"
+
+msgid ""
+"3_ZakoCannon_N_LargeTurnRight"
+
+msgstr ""
+"3_ZakoCannon_N_LargeTurnRight"
+
+msgid ""
+"3_ZakoCannon_N_Appear"
+
+msgstr ""
+"3_ZakoCannon_N_Appear"
+
+msgid ""
+"3_ZakoCannon_B_Idle"
+
+msgstr ""
+"3_ZakoCannon_B_Idle"
+
+msgid ""
+"3_ZakoCannon_B_TurnLeft"
+
+msgstr ""
+"3_ZakoCannon_B_TurnLeft"
+
+msgid ""
+"3_ZakoCannon_B_TurnRight"
+
+msgstr ""
+"3_ZakoCannon_B_TurnRight"
+
+msgid ""
+"3_ZakoCannon_B_LargeTurnLeft"
+
+msgstr ""
+"3_ZakoCannon_B_LargeTurnLeft"
+
+msgid ""
+"3_ZakoCannon_B_LargeTurnRight"
+
+msgstr ""
+"3_ZakoCannon_B_LargeTurnRight"
+
+msgid ""
+"3_ZakoCannon_B_FindComminate"
+
+msgstr ""
+"3_ZakoCannon_B_FindComminate"
+
+msgid ""
+"3_ZakoCannon_B_ChagrinComminate"
+
+msgstr ""
+"3_ZakoCannon_B_ChagrinComminate"
+
+msgid ""
+"3_ZakoCannon_B_Stagger"
+
+msgstr ""
+"3_ZakoCannon_B_Stagger"
+
+msgid ""
+"3_ZakoCannon_B_Down__H"
+
+msgstr ""
+"3_ZakoCannon_B_Down__H"
+
+msgid ""
+"3_ZakoCannon_B_Down__M"
+
+msgstr ""
+"3_ZakoCannon_B_Down__M"
+
+msgid ""
+"3_ZakoCannon_B_Down__T"
+
+msgstr ""
+"3_ZakoCannon_B_Down__T"
+
+msgid ""
+"3_ZakoCannon_B_SympathyBind__H"
+
+msgstr ""
+"3_ZakoCannon_B_SympathyBind__H"
+
+msgid ""
+"3_ZakoCannon_B_SympathyBind__M"
+
+msgstr ""
+"3_ZakoCannon_B_SympathyBind__M"
+
+msgid ""
+"3_ZakoCannon_B_SympathyBind__T"
+
+msgstr ""
+"3_ZakoCannon_B_SympathyBind__T"
+
+msgid ""
+"3_ZakoCannon_B_Hold__H"
+
+msgstr ""
+"3_ZakoCannon_B_Hold__H"
+
+msgid ""
+"3_ZakoCannon_B_Hold__M"
+
+msgstr ""
+"3_ZakoCannon_B_Hold__M"
+
+msgid ""
+"3_ZakoCannon_B_Hold__T"
+
+msgstr ""
+"3_ZakoCannon_B_Hold__T"
+
+msgid ""
+"3_ZakoCannon_B_Giddy"
+
+msgstr ""
+"3_ZakoCannon_B_Giddy"
+
+msgid ""
+"3_ZakoCannon_Dead__H"
+
+msgstr ""
+"3_ZakoCannon_Dead__H"
+
+msgid ""
+"3_ZakoCannon_Dead__M"
+
+msgstr ""
+"3_ZakoCannon_Dead__M"
+
+msgid ""
+"3_ZakoCannon_Dead__T"
+
+msgstr ""
+"3_ZakoCannon_Dead__T"
+
+msgid ""
+"3_ZakoCannon_B_ShotBomb"
+
+msgstr ""
+"3_ZakoCannon_B_ShotBomb"
+

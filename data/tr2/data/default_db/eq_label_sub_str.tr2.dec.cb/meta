@@ -1,0 +1,3 @@
+FILE_START,0x0002,0x07DF,eq_label_sub_str
+ARRAY,0,eq_label_sub_str_sort_order,,,0x07DF,INT16,00000000,00010473,000C007F
+ARRAY,1,eq_label_sub_str_str,,,0x07DF,UTF-8,00000000,00010255,000C007F

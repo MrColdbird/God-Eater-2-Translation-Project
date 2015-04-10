@@ -1,0 +1,5 @@
+FILE_START,0x0002,0x07DF,sub_progress_episode_type
+ARRAY,0,sub_progress_episode_type_npc_id,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,1,sub_progress_episode_type_main_progress,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,2,sub_progress_episode_type_type,,,0x07DF,UINT8,00000000,00010443,000C007F
+ARRAY,3,sub_progress_episode_type_is_copy,,,0x07DF,UINT8,00000000,00010443,000C007F

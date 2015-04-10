@@ -1,0 +1,432 @@
+msgid ""
+"2_ManmosMan_Misc_Default"
+
+msgstr ""
+"2_ManmosMan_Misc_Default"
+
+msgid ""
+"2_ManmosMan_FrontLeg_Default"
+
+msgstr ""
+"2_ManmosMan_FrontLeg_Default"
+
+msgid ""
+"2_ManmosMan_BackLeg_Default"
+
+msgstr ""
+"2_ManmosMan_BackLeg_Default"
+
+msgid ""
+"2_ManmosMan_BodyFront_Default"
+
+msgstr ""
+"2_ManmosMan_BodyFront_Default"
+
+msgid ""
+"2_ManmosMan_BodyBack_Default"
+
+msgstr ""
+"2_ManmosMan_BodyBack_Default"
+
+msgid ""
+"2_ManmosMan_UpperBody_Default"
+
+msgstr ""
+"2_ManmosMan_UpperBody_Default"
+
+msgid ""
+"2_ManmosMan_Arm_Default"
+
+msgstr ""
+"2_ManmosMan_Arm_Default"
+
+msgid ""
+"2_ManmosMan_Dash_Base"
+
+msgstr ""
+"2_ManmosMan_Dash_Base"
+
+msgid ""
+"2_ManmosMan_First_Dash_Base"
+
+msgstr ""
+"2_ManmosMan_First_Dash_Base"
+
+msgid ""
+"2_ManmosMan_Second_Dash_Base"
+
+msgstr ""
+"2_ManmosMan_Second_Dash_Base"
+
+msgid ""
+"2_ManmosMan_Long_Dash_Base"
+
+msgstr ""
+"2_ManmosMan_Long_Dash_Base"
+
+msgid ""
+"2_ManmosMan_Missile_Dash_Base"
+
+msgstr ""
+"2_ManmosMan_Missile_Dash_Base"
+
+msgid ""
+"2_ManmosMan_Back_Kick_Base"
+
+msgstr ""
+"2_ManmosMan_Back_Kick_Base"
+
+msgid ""
+"2_ManmosMan_Stamp_Base"
+
+msgstr ""
+"2_ManmosMan_Stamp_Base"
+
+msgid ""
+"2_ManmosMan_Missile_Stamp_Base"
+
+msgstr ""
+"2_ManmosMan_Missile_Stamp_Base"
+
+msgid ""
+"2_ManmosMan_Tomahawk_Base"
+
+msgstr ""
+"2_ManmosMan_Tomahawk_Base"
+
+msgid ""
+"2_ManmosMan_Concentration_Missile_Base"
+
+msgstr ""
+"2_ManmosMan_Concentration_Missile_Base"
+
+msgid ""
+"2_ManmosMan_Diffusion_Missile_Base"
+
+msgstr ""
+"2_ManmosMan_Diffusion_Missile_Base"
+
+msgid ""
+"2_ManmosMan_Black_Napalm_Tomahawk_Base"
+
+msgstr ""
+"2_ManmosMan_Black_Napalm_Tomahawk_Base"
+
+msgid ""
+"2_ManmosMan_Homing_Missile_Base"
+
+msgstr ""
+"2_ManmosMan_Homing_Missile_Base"
+
+msgid ""
+"2_ManmosMan_Move_Default"
+
+msgstr ""
+"2_ManmosMan_Move_Default"
+
+msgid ""
+"3_Soldier_Misc_Default"
+
+msgstr ""
+"3_Soldier_Misc_Default"
+
+msgid ""
+"3_Soldier_Head_Default"
+
+msgstr ""
+"3_Soldier_Head_Default"
+
+msgid ""
+"3_Soldier_Body_Default"
+
+msgstr ""
+"3_Soldier_Body_Default"
+
+msgid ""
+"3_Soldier_Back_Default"
+
+msgstr ""
+"3_Soldier_Back_Default"
+
+msgid ""
+"3_Soldier_RightArm_Default"
+
+msgstr ""
+"3_Soldier_RightArm_Default"
+
+msgid ""
+"3_Soldier_LeftArm_Default"
+
+msgstr ""
+"3_Soldier_LeftArm_Default"
+
+msgid ""
+"3_Soldier_Foot_Default"
+
+msgstr ""
+"3_Soldier_Foot_Default"
+
+msgid ""
+"3_Soldier_Weapon_Default"
+
+msgstr ""
+"3_Soldier_Weapon_Default"
+
+msgid ""
+"3_Soldier_Generic_Default"
+
+msgstr ""
+"3_Soldier_Generic_Default"
+
+msgid ""
+"3_Soldier_RightStepSlash_Base"
+
+msgstr ""
+"3_Soldier_RightStepSlash_Base"
+
+msgid ""
+"3_Soldier_AngryRightStepSlash_Base"
+
+msgstr ""
+"3_Soldier_AngryRightStepSlash_Base"
+
+msgid ""
+"3_Soldier_Pounce_Base"
+
+msgstr ""
+"3_Soldier_Pounce_Base"
+
+msgid ""
+"3_Soldier_BackflipJump_Bridge_Base"
+
+msgstr ""
+"3_Soldier_BackflipJump_Bridge_Base"
+
+msgid ""
+"3_Soldier_BackflipJump_Move_Base"
+
+msgstr ""
+"3_Soldier_BackflipJump_Move_Base"
+
+msgid ""
+"3_Soldier_WideSlash_Base"
+
+msgstr ""
+"3_Soldier_WideSlash_Base"
+
+msgid ""
+"3_Soldier_ChargeVerticalSlash_Jump_Base"
+
+msgstr ""
+"3_Soldier_ChargeVerticalSlash_Jump_Base"
+
+msgid ""
+"3_Soldier_ChargeVerticalSlash_Slash_Base"
+
+msgstr ""
+"3_Soldier_ChargeVerticalSlash_Slash_Base"
+
+msgid ""
+"3_Soldier_AngryChargeVerticalSlash_Jump_Base"
+
+msgstr ""
+"3_Soldier_AngryChargeVerticalSlash_Jump_Base"
+
+msgid ""
+"3_Soldier_AngryChargeVerticalSlash_Slash_Base"
+
+msgstr ""
+"3_Soldier_AngryChargeVerticalSlash_Slash_Base"
+
+msgid ""
+"3_Soldier_ChargeHorizontalSlash_Hit_Base"
+
+msgstr ""
+"3_Soldier_ChargeHorizontalSlash_Hit_Base"
+
+msgid ""
+"3_Soldier_ChargeHorizontalSlash_Slash_Base"
+
+msgstr ""
+"3_Soldier_ChargeHorizontalSlash_Slash_Base"
+
+msgid ""
+"3_Soldier_AngryChargeHorizontalSlash_Hit_Base"
+
+msgstr ""
+"3_Soldier_AngryChargeHorizontalSlash_Hit_Base"
+
+msgid ""
+"3_Soldier_AngryChargeHorizontalSlash_Slash_Base"
+
+msgstr ""
+"3_Soldier_AngryChargeHorizontalSlash_Slash_Base"
+
+msgid ""
+"4_Soldier_Misc_Default"
+
+msgstr ""
+"4_Soldier_Misc_Default"
+
+msgid ""
+"4_Soldier_Head_Default"
+
+msgstr ""
+"4_Soldier_Head_Default"
+
+msgid ""
+"4_Soldier_Body_Default"
+
+msgstr ""
+"4_Soldier_Body_Default"
+
+msgid ""
+"4_Soldier_Back_Default"
+
+msgstr ""
+"4_Soldier_Back_Default"
+
+msgid ""
+"4_Soldier_RightArm_Default"
+
+msgstr ""
+"4_Soldier_RightArm_Default"
+
+msgid ""
+"4_Soldier_LeftArm_Default"
+
+msgstr ""
+"4_Soldier_LeftArm_Default"
+
+msgid ""
+"4_Soldier_Foot_Default"
+
+msgstr ""
+"4_Soldier_Foot_Default"
+
+msgid ""
+"4_Soldier_Weapon_Default"
+
+msgstr ""
+"4_Soldier_Weapon_Default"
+
+msgid ""
+"4_Soldier_Generic_Default"
+
+msgstr ""
+"4_Soldier_Generic_Default"
+
+msgid ""
+"4_Soldier_RightStepSlash_Base"
+
+msgstr ""
+"4_Soldier_RightStepSlash_Base"
+
+msgid ""
+"4_Soldier_AngryRightStepSlash_Base"
+
+msgstr ""
+"4_Soldier_AngryRightStepSlash_Base"
+
+msgid ""
+"4_Soldier_Pounce_Base"
+
+msgstr ""
+"4_Soldier_Pounce_Base"
+
+msgid ""
+"4_Soldier_BackflipJump_Bridge_Base"
+
+msgstr ""
+"4_Soldier_BackflipJump_Bridge_Base"
+
+msgid ""
+"4_Soldier_BackflipJump_Land_Base"
+
+msgstr ""
+"4_Soldier_BackflipJump_Land_Base"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_1st_Base"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_1st_Base"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_2nd_Base"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_2nd_Base"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_3rd_Base"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_3rd_Base"
+
+msgid ""
+"4_Soldier_TripleHomingSlash_arm_Base"
+
+msgstr ""
+"4_Soldier_TripleHomingSlash_arm_Base"
+
+msgid ""
+"4_Soldier_TackleSlash_Tackle_Base"
+
+msgstr ""
+"4_Soldier_TackleSlash_Tackle_Base"
+
+msgid ""
+"4_Soldier_TackleSlash_Slash_Base"
+
+msgstr ""
+"4_Soldier_TackleSlash_Slash_Base"
+
+msgid ""
+"4_Soldier_AngryTackleSlash_Tackle_Base"
+
+msgstr ""
+"4_Soldier_AngryTackleSlash_Tackle_Base"
+
+msgid ""
+"4_Soldier_AngryTackleSlash_Slash_Base"
+
+msgstr ""
+"4_Soldier_AngryTackleSlash_Slash_Base"
+
+msgid ""
+"4_Soldier_AngrySlashAround_1st_Base"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_1st_Base"
+
+msgid ""
+"4_Soldier_AngrySlashAround_2nd_Base"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_2nd_Base"
+
+msgid ""
+"4_Soldier_AngrySlashAround_3rd_Base"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_3rd_Base"
+
+msgid ""
+"4_Soldier_AngrySlashAround_4th_Base"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_4th_Base"
+
+msgid ""
+"4_Soldier_AngrySlashAround_5th_Base"
+
+msgstr ""
+"4_Soldier_AngrySlashAround_5th_Base"
+
+msgid ""
+"1_BoxFish_Misc_Default"
+
+msgstr ""
+"1_BoxFish_Misc_Default"
+

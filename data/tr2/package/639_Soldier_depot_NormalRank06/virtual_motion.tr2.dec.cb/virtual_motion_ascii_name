@@ -1,0 +1,456 @@
+msgid ""
+"1_BoxFish_N_Idle"
+
+msgstr ""
+"1_BoxFish_N_Idle"
+
+msgid ""
+"1_BoxFish_N_Walk"
+
+msgstr ""
+"1_BoxFish_N_Walk"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpToUpland__T"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__H"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__M"
+
+msgid ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgstr ""
+"1_BoxFish_N_JumpFromUpland__T"
+
+msgid ""
+"1_BoxFish_N_TurnLeft"
+
+msgstr ""
+"1_BoxFish_N_TurnLeft"
+
+msgid ""
+"1_BoxFish_N_TurnRight"
+
+msgstr ""
+"1_BoxFish_N_TurnRight"
+
+msgid ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_N_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_N_Eat"
+
+msgstr ""
+"1_BoxFish_N_Eat"
+
+msgid ""
+"1_BoxFish_Appear"
+
+msgstr ""
+"1_BoxFish_Appear"
+
+msgid ""
+"1_BoxFish_B_Idle"
+
+msgstr ""
+"1_BoxFish_B_Idle"
+
+msgid ""
+"1_BoxFish_B_Dash__H"
+
+msgstr ""
+"1_BoxFish_B_Dash__H"
+
+msgid ""
+"1_BoxFish_B_Dash__M"
+
+msgstr ""
+"1_BoxFish_B_Dash__M"
+
+msgid ""
+"1_BoxFish_B_Dash__T"
+
+msgstr ""
+"1_BoxFish_B_Dash__T"
+
+msgid ""
+"1_BoxFish_B_TurnLeft"
+
+msgstr ""
+"1_BoxFish_B_TurnLeft"
+
+msgid ""
+"1_BoxFish_B_TurnRight"
+
+msgstr ""
+"1_BoxFish_B_TurnRight"
+
+msgid ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnLeft"
+
+msgid ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgstr ""
+"1_BoxFish_B_LargeTurnRight"
+
+msgid ""
+"1_BoxFish_B_FindComminate"
+
+msgstr ""
+"1_BoxFish_B_FindComminate"
+
+msgid ""
+"1_BoxFish_B_AngryComminate"
+
+msgstr ""
+"1_BoxFish_B_AngryComminate"
+
+msgid ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgstr ""
+"1_BoxFish_B_ChagrinComminate"
+
+msgid ""
+"1_BoxFish_B_Giddy"
+
+msgstr ""
+"1_BoxFish_B_Giddy"
+
+msgid ""
+"1_BoxFish_Dead__H"
+
+msgstr ""
+"1_BoxFish_Dead__H"
+
+msgid ""
+"1_BoxFish_Dead__M"
+
+msgstr ""
+"1_BoxFish_Dead__M"
+
+msgid ""
+"1_BoxFish_Dead__T"
+
+msgstr ""
+"1_BoxFish_Dead__T"
+
+msgid ""
+"1_BoxFish_Escape"
+
+msgstr ""
+"1_BoxFish_Escape"
+
+msgid ""
+"2_SixSword_N_Idle"
+
+msgstr ""
+"2_SixSword_N_Idle"
+
+msgid ""
+"2_SixSword_N_Walk"
+
+msgstr ""
+"2_SixSword_N_Walk"
+
+msgid ""
+"2_SixSword_N_TurnLeft"
+
+msgstr ""
+"2_SixSword_N_TurnLeft"
+
+msgid ""
+"2_SixSword_N_TurnRight"
+
+msgstr ""
+"2_SixSword_N_TurnRight"
+
+msgid ""
+"2_SixSword_N_LargeTurnLeft"
+
+msgstr ""
+"2_SixSword_N_LargeTurnLeft"
+
+msgid ""
+"2_SixSword_N_LargeTurnRight"
+
+msgstr ""
+"2_SixSword_N_LargeTurnRight"
+
+msgid ""
+"2_SixSword_Appear"
+
+msgstr ""
+"2_SixSword_Appear"
+
+msgid ""
+"2_SixSword_B_Idle"
+
+msgstr ""
+"2_SixSword_B_Idle"
+
+msgid ""
+"2_SixSword_B_Dash__H"
+
+msgstr ""
+"2_SixSword_B_Dash__H"
+
+msgid ""
+"2_SixSword_B_Dash__M"
+
+msgstr ""
+"2_SixSword_B_Dash__M"
+
+msgid ""
+"2_SixSword_B_Dash__T"
+
+msgstr ""
+"2_SixSword_B_Dash__T"
+
+msgid ""
+"2_SixSword_B_TurnLeft"
+
+msgstr ""
+"2_SixSword_B_TurnLeft"
+
+msgid ""
+"2_SixSword_B_TurnRight"
+
+msgstr ""
+"2_SixSword_B_TurnRight"
+
+msgid ""
+"2_SixSword_B_LargeTurnLeft"
+
+msgstr ""
+"2_SixSword_B_LargeTurnLeft"
+
+msgid ""
+"2_SixSword_B_LargeTurnRight"
+
+msgstr ""
+"2_SixSword_B_LargeTurnRight"
+
+msgid ""
+"2_SixSword_B_FindComminate"
+
+msgstr ""
+"2_SixSword_B_FindComminate"
+
+msgid ""
+"2_SixSword_B_AngryComminate"
+
+msgstr ""
+"2_SixSword_B_AngryComminate"
+
+msgid ""
+"2_SixSword_B_ChagrinComminate"
+
+msgstr ""
+"2_SixSword_B_ChagrinComminate"
+
+msgid ""
+"2_SixSword_B_Stagger"
+
+msgstr ""
+"2_SixSword_B_Stagger"
+
+msgid ""
+"2_SixSword_B_ForefootDown__H"
+
+msgstr ""
+"2_SixSword_B_ForefootDown__H"
+
+msgid ""
+"2_SixSword_B_ForefootDown__M"
+
+msgstr ""
+"2_SixSword_B_ForefootDown__M"
+
+msgid ""
+"2_SixSword_B_ForefootDown__T"
+
+msgstr ""
+"2_SixSword_B_ForefootDown__T"
+
+msgid ""
+"2_SixSword_B_Hold__H"
+
+msgstr ""
+"2_SixSword_B_Hold__H"
+
+msgid ""
+"2_SixSword_B_Hold__M"
+
+msgstr ""
+"2_SixSword_B_Hold__M"
+
+msgid ""
+"2_SixSword_B_Hold__T"
+
+msgstr ""
+"2_SixSword_B_Hold__T"
+
+msgid ""
+"2_SixSword_B_Giddy"
+
+msgstr ""
+"2_SixSword_B_Giddy"
+
+msgid ""
+"2_SixSword_Dead__H"
+
+msgstr ""
+"2_SixSword_Dead__H"
+
+msgid ""
+"2_SixSword_Dead__M"
+
+msgstr ""
+"2_SixSword_Dead__M"
+
+msgid ""
+"2_SixSword_Dead__T"
+
+msgstr ""
+"2_SixSword_Dead__T"
+
+msgid ""
+"2_SixSword_B_Fumble__M"
+
+msgstr ""
+"2_SixSword_B_Fumble__M"
+
+msgid ""
+"2_SixSword_B_SixSword_HalfDispel"
+
+msgstr ""
+"2_SixSword_B_SixSword_HalfDispel"
+
+msgid ""
+"2_SixSword_B_SixSword_BackStep__H"
+
+msgstr ""
+"2_SixSword_B_SixSword_BackStep__H"
+
+msgid ""
+"2_SixSword_B_SixSword_BackStep__M"
+
+msgstr ""
+"2_SixSword_B_SixSword_BackStep__M"
+
+msgid ""
+"2_SixSword_B_SixSword_BackStep__T"
+
+msgstr ""
+"2_SixSword_B_SixSword_BackStep__T"
+
+msgid ""
+"2_SixSword_B_SixSword_Allround"
+
+msgstr ""
+"2_SixSword_B_SixSword_Allround"
+
+msgid ""
+"2_SixSword_B_SixSword_Beam"
+
+msgstr ""
+"2_SixSword_B_SixSword_Beam"
+
+msgid ""
+"2_SixSword_B_ThreeSword_Dispel__H"
+
+msgstr ""
+"2_SixSword_B_ThreeSword_Dispel__H"
+
+msgid ""
+"2_SixSword_B_ThreeSword_Dispel__M"
+
+msgstr ""
+"2_SixSword_B_ThreeSword_Dispel__M"
+
+msgid ""
+"2_SixSword_B_ThreeSword_Dispel__T"
+
+msgstr ""
+"2_SixSword_B_ThreeSword_Dispel__T"
+
+msgid ""
+"2_SixSword_B_MaxSword_Combo__H"
+
+msgstr ""
+"2_SixSword_B_MaxSword_Combo__H"
+
+msgid ""
+"2_SixSword_B_MaxSword_Combo__M"
+
+msgstr ""
+"2_SixSword_B_MaxSword_Combo__M"
+
+msgid ""
+"2_SixSword_B_MaxSword_Combo__T"
+
+msgstr ""
+"2_SixSword_B_MaxSword_Combo__T"
+
+msgid ""
+"2_SixSword_B_BurstCombo__H"
+
+msgstr ""
+"2_SixSword_B_BurstCombo__H"
+
+msgid ""
+"2_SixSword_B_BurstCombo__M"
+
+msgstr ""
+"2_SixSword_B_BurstCombo__M"
+
+msgid ""
+"2_SixSword_B_BurstCombo__T"
+
+msgstr ""
+"2_SixSword_B_BurstCombo__T"
+
+msgid ""
+"2_SixSword_B_WindSword"
+
+msgstr ""
+"2_SixSword_B_WindSword"
+
