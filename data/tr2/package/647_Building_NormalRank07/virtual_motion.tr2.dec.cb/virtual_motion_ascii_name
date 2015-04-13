@@ -1,1734 +1,1445 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_Wani_N_Idle"
-
 msgstr ""
 "2_Wani_N_Idle"
 
-msgid ""
+msgid "31"
 "2_Wani_N_Walk"
-
 msgstr ""
 "2_Wani_N_Walk"
 
-msgid ""
+msgid "32"
 "2_Wani_N_JumpToUpland__H"
-
 msgstr ""
 "2_Wani_N_JumpToUpland__H"
 
-msgid ""
+msgid "33"
 "2_Wani_N_JumpToUpland__M"
-
 msgstr ""
 "2_Wani_N_JumpToUpland__M"
 
-msgid ""
+msgid "34"
 "2_Wani_N_JumpToUpland__T"
-
 msgstr ""
 "2_Wani_N_JumpToUpland__T"
 
-msgid ""
+msgid "35"
 "2_Wani_N_JumpFromUpland__H"
-
 msgstr ""
 "2_Wani_N_JumpFromUpland__H"
 
-msgid ""
+msgid "36"
 "2_Wani_N_JumpFromUpland__M"
-
 msgstr ""
 "2_Wani_N_JumpFromUpland__M"
 
-msgid ""
+msgid "37"
 "2_Wani_N_JumpFromUpland__T"
-
 msgstr ""
 "2_Wani_N_JumpFromUpland__T"
 
-msgid ""
+msgid "38"
 "2_Wani_N_TurnLeft"
-
 msgstr ""
 "2_Wani_N_TurnLeft"
 
-msgid ""
+msgid "39"
 "2_Wani_N_TurnRight"
-
 msgstr ""
 "2_Wani_N_TurnRight"
 
-msgid ""
+msgid "40"
 "2_Wani_N_LargeTurnLeft"
-
 msgstr ""
 "2_Wani_N_LargeTurnLeft"
 
-msgid ""
+msgid "41"
 "2_Wani_N_LargeTurnRight"
-
 msgstr ""
 "2_Wani_N_LargeTurnRight"
 
-msgid ""
+msgid "42"
 "2_Wani_N_Eat"
-
 msgstr ""
 "2_Wani_N_Eat"
 
-msgid ""
+msgid "43"
 "2_Wani_Appear"
-
 msgstr ""
 "2_Wani_Appear"
 
-msgid ""
+msgid "44"
 "2_Wani_B_Idle"
-
 msgstr ""
 "2_Wani_B_Idle"
 
-msgid ""
+msgid "45"
 "2_Wani_B_Dash__H"
-
 msgstr ""
 "2_Wani_B_Dash__H"
 
-msgid ""
+msgid "46"
 "2_Wani_B_Dash__M"
-
 msgstr ""
 "2_Wani_B_Dash__M"
 
-msgid ""
+msgid "47"
 "2_Wani_B_Dash__T"
-
 msgstr ""
 "2_Wani_B_Dash__T"
 
-msgid ""
+msgid "48"
 "2_Wani_B_MoveLongPath__H"
-
 msgstr ""
 "2_Wani_B_MoveLongPath__H"
 
-msgid ""
+msgid "49"
 "2_Wani_B_MoveLongPath__M"
-
 msgstr ""
 "2_Wani_B_MoveLongPath__M"
 
-msgid ""
+msgid "50"
 "2_Wani_B_MoveLongPath__T"
-
 msgstr ""
 "2_Wani_B_MoveLongPath__T"
 
-msgid ""
+msgid "51"
 "2_Wani_B_TurnLeft"
-
 msgstr ""
 "2_Wani_B_TurnLeft"
 
-msgid ""
+msgid "52"
 "2_Wani_B_TurnRight"
-
 msgstr ""
 "2_Wani_B_TurnRight"
 
-msgid ""
+msgid "53"
 "2_Wani_B_LargeTurnLeft"
-
 msgstr ""
 "2_Wani_B_LargeTurnLeft"
 
-msgid ""
+msgid "54"
 "2_Wani_B_LargeTurnRight"
-
 msgstr ""
 "2_Wani_B_LargeTurnRight"
 
-msgid ""
+msgid "55"
 "2_Wani_B_FindComminate"
-
 msgstr ""
 "2_Wani_B_FindComminate"
 
-msgid ""
+msgid "56"
 "2_Wani_B_AngryComminate"
-
 msgstr ""
 "2_Wani_B_AngryComminate"
 
-msgid ""
+msgid "57"
 "2_Wani_B_ChagrinComminate"
-
 msgstr ""
 "2_Wani_B_ChagrinComminate"
 
-msgid ""
+msgid "58"
 "2_Wani_B_Stagger"
-
 msgstr ""
 "2_Wani_B_Stagger"
 
-msgid ""
+msgid "59"
 "2_Wani_B_ArmDown__H"
-
 msgstr ""
 "2_Wani_B_ArmDown__H"
 
-msgid ""
+msgid "60"
 "2_Wani_B_ArmDown__M"
-
 msgstr ""
 "2_Wani_B_ArmDown__M"
 
-msgid ""
+msgid "61"
 "2_Wani_B_ArmDown__T"
-
 msgstr ""
 "2_Wani_B_ArmDown__T"
 
-msgid ""
+msgid "62"
 "2_Wani_B_BodyDown__H"
-
 msgstr ""
 "2_Wani_B_BodyDown__H"
 
-msgid ""
+msgid "63"
 "2_Wani_B_BodyDown__M"
-
 msgstr ""
 "2_Wani_B_BodyDown__M"
 
-msgid ""
+msgid "64"
 "2_Wani_B_BodyDown__T"
-
 msgstr ""
 "2_Wani_B_BodyDown__T"
 
-msgid ""
+msgid "65"
 "2_Wani_B_SympathyBind__H"
-
 msgstr ""
 "2_Wani_B_SympathyBind__H"
 
-msgid ""
+msgid "66"
 "2_Wani_B_SympathyBind__M"
-
 msgstr ""
 "2_Wani_B_SympathyBind__M"
 
-msgid ""
+msgid "67"
 "2_Wani_B_SympathyBind__T"
-
 msgstr ""
 "2_Wani_B_SympathyBind__T"
 
-msgid ""
+msgid "68"
 "2_Wani_B_Hold__H"
-
 msgstr ""
 "2_Wani_B_Hold__H"
 
-msgid ""
+msgid "69"
 "2_Wani_B_Hold__M"
-
 msgstr ""
 "2_Wani_B_Hold__M"
 
-msgid ""
+msgid "70"
 "2_Wani_B_Hold__T"
-
 msgstr ""
 "2_Wani_B_Hold__T"
 
-msgid ""
+msgid "71"
 "2_Wani_B_Giddy"
-
 msgstr ""
 "2_Wani_B_Giddy"
 
-msgid ""
+msgid "72"
 "2_Wani_Dead__H"
-
 msgstr ""
 "2_Wani_Dead__H"
 
-msgid ""
+msgid "73"
 "2_Wani_Dead__M"
-
 msgstr ""
 "2_Wani_Dead__M"
 
-msgid ""
+msgid "74"
 "2_Wani_Dead__T"
-
 msgstr ""
 "2_Wani_Dead__T"
 
-msgid ""
+msgid "75"
 "2_Wani_B_Cling"
-
 msgstr ""
 "2_Wani_B_Cling"
 
-msgid ""
+msgid "76"
 "2_Wani_B_Cling_Arms"
-
 msgstr ""
 "2_Wani_B_Cling_Arms"
 
-msgid ""
+msgid "77"
 "2_Wani_B_Cling_Dash_Dash__H"
-
 msgstr ""
 "2_Wani_B_Cling_Dash_Dash__H"
 
-msgid ""
+msgid "78"
 "2_Wani_B_Cling_Dash_Dash__M"
-
 msgstr ""
 "2_Wani_B_Cling_Dash_Dash__M"
 
-msgid ""
+msgid "79"
 "2_Wani_B_Cling_Dash_Cling"
-
 msgstr ""
 "2_Wani_B_Cling_Dash_Cling"
 
-msgid ""
+msgid "80"
 "2_Wani_B_Shot_SmallWaterBall__H"
-
 msgstr ""
 "2_Wani_B_Shot_SmallWaterBall__H"
 
-msgid ""
+msgid "81"
 "2_Wani_B_Shot_SmallWaterBall__M"
-
 msgstr ""
 "2_Wani_B_Shot_SmallWaterBall__M"
 
-msgid ""
+msgid "82"
 "2_Wani_B_Shot_SmallWaterBall__T"
-
 msgstr ""
 "2_Wani_B_Shot_SmallWaterBall__T"
 
-msgid ""
+msgid "83"
 "2_Wani_B_Splash_SmallWaterBall__H"
-
 msgstr ""
 "2_Wani_B_Splash_SmallWaterBall__H"
 
-msgid ""
+msgid "84"
 "2_Wani_B_Splash_SmallWaterBall__M"
-
 msgstr ""
 "2_Wani_B_Splash_SmallWaterBall__M"
 
-msgid ""
+msgid "85"
 "2_Wani_B_Go_Berserk__H"
-
 msgstr ""
 "2_Wani_B_Go_Berserk__H"
 
-msgid ""
+msgid "86"
 "2_Wani_B_Go_Berserk__M"
-
 msgstr ""
 "2_Wani_B_Go_Berserk__M"
 
-msgid ""
+msgid "87"
 "2_Wani_B_Go_Berserk__T"
-
 msgstr ""
 "2_Wani_B_Go_Berserk__T"
 
-msgid ""
+msgid "88"
 "2_Wani_B_Splash_AcidFog__H"
-
 msgstr ""
 "2_Wani_B_Splash_AcidFog__H"
 
-msgid ""
+msgid "89"
 "2_Wani_B_Splash_AcidFog__M"
-
 msgstr ""
 "2_Wani_B_Splash_AcidFog__M"
 
-msgid ""
+msgid "90"
 "2_Wani_B_BackStep__H"
-
 msgstr ""
 "2_Wani_B_BackStep__H"
 
-msgid ""
+msgid "91"
 "2_Wani_B_BackStep__M"
-
 msgstr ""
 "2_Wani_B_BackStep__M"
 
-msgid ""
+msgid "92"
 "2_Wani_B_BackStep__T"
-
 msgstr ""
 "2_Wani_B_BackStep__T"
 
-msgid ""
+msgid "93"
 "2_Wani_B_Splash_AcidFog_Local__H"
-
 msgstr ""
 "2_Wani_B_Splash_AcidFog_Local__H"
 
-msgid ""
+msgid "94"
 "2_Wani_B_Splash_AcidFog_Local__M"
-
 msgstr ""
 "2_Wani_B_Splash_AcidFog_Local__M"
 
-msgid ""
+msgid "95"
 "2_Wani_B_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "2_Wani_B_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "96"
 "2_Wani_B_Fumble"
-
 msgstr ""
 "2_Wani_B_Fumble"
 
-msgid ""
+msgid "97"
 "3_Gorilla_N_Idle"
-
 msgstr ""
 "3_Gorilla_N_Idle"
 
-msgid ""
+msgid "98"
 "3_Gorilla_N_Walk"
-
 msgstr ""
 "3_Gorilla_N_Walk"
 
-msgid ""
+msgid "99"
 "3_Gorilla_N_JumpToUpland__H"
-
 msgstr ""
 "3_Gorilla_N_JumpToUpland__H"
 
-msgid ""
+msgid "100"
 "3_Gorilla_N_JumpToUpland__M"
-
 msgstr ""
 "3_Gorilla_N_JumpToUpland__M"
 
-msgid ""
+msgid "101"
 "3_Gorilla_N_JumpToUpland__T"
-
 msgstr ""
 "3_Gorilla_N_JumpToUpland__T"
 
-msgid ""
+msgid "102"
 "3_Gorilla_N_JumpFromUpland__H"
-
 msgstr ""
 "3_Gorilla_N_JumpFromUpland__H"
 
-msgid ""
+msgid "103"
 "3_Gorilla_N_JumpFromUpland__M"
-
 msgstr ""
 "3_Gorilla_N_JumpFromUpland__M"
 
-msgid ""
+msgid "104"
 "3_Gorilla_N_JumpFromUpland__T"
-
 msgstr ""
 "3_Gorilla_N_JumpFromUpland__T"
 
-msgid ""
+msgid "105"
 "3_Gorilla_N_TurnLeft"
-
 msgstr ""
 "3_Gorilla_N_TurnLeft"
 
-msgid ""
+msgid "106"
 "3_Gorilla_N_TurnRight"
-
 msgstr ""
 "3_Gorilla_N_TurnRight"
 
-msgid ""
+msgid "107"
 "3_Gorilla_N_LargeTurnLeft"
-
 msgstr ""
 "3_Gorilla_N_LargeTurnLeft"
 
-msgid ""
+msgid "108"
 "3_Gorilla_N_LargeTurnRight"
-
 msgstr ""
 "3_Gorilla_N_LargeTurnRight"
 
-msgid ""
+msgid "109"
 "3_Gorilla_N_Eat"
-
 msgstr ""
 "3_Gorilla_N_Eat"
 
-msgid ""
+msgid "110"
 "3_Gorilla_Appear"
-
 msgstr ""
 "3_Gorilla_Appear"
 
-msgid ""
+msgid "111"
 "3_Gorilla_B_Idle"
-
 msgstr ""
 "3_Gorilla_B_Idle"
 
-msgid ""
+msgid "112"
 "3_Gorilla_B_Dash__H"
-
 msgstr ""
 "3_Gorilla_B_Dash__H"
 
-msgid ""
+msgid "113"
 "3_Gorilla_B_Dash__M"
-
 msgstr ""
 "3_Gorilla_B_Dash__M"
 
-msgid ""
+msgid "114"
 "3_Gorilla_B_Dash__T"
-
 msgstr ""
 "3_Gorilla_B_Dash__T"
 
-msgid ""
+msgid "115"
 "3_Gorilla_B_JumpToBossUpland"
-
 msgstr ""
 "3_Gorilla_B_JumpToBossUpland"
 
-msgid ""
+msgid "116"
 "3_Gorilla_B_JumpFromBossUpland"
-
 msgstr ""
 "3_Gorilla_B_JumpFromBossUpland"
 
-msgid ""
+msgid "117"
 "3_Gorilla_B_MoveLongPath__H"
-
 msgstr ""
 "3_Gorilla_B_MoveLongPath__H"
 
-msgid ""
+msgid "118"
 "3_Gorilla_B_MoveLongPath__M"
-
 msgstr ""
 "3_Gorilla_B_MoveLongPath__M"
 
-msgid ""
+msgid "119"
 "3_Gorilla_B_MoveLongPath__T"
-
 msgstr ""
 "3_Gorilla_B_MoveLongPath__T"
 
-msgid ""
+msgid "120"
 "3_Gorilla_B_TurnLeft"
-
 msgstr ""
 "3_Gorilla_B_TurnLeft"
 
-msgid ""
+msgid "121"
 "3_Gorilla_B_TurnRight"
-
 msgstr ""
 "3_Gorilla_B_TurnRight"
 
-msgid ""
+msgid "122"
 "3_Gorilla_B_LargeTurnLeft"
-
 msgstr ""
 "3_Gorilla_B_LargeTurnLeft"
 
-msgid ""
+msgid "123"
 "3_Gorilla_B_LargeTurnRight"
-
 msgstr ""
 "3_Gorilla_B_LargeTurnRight"
 
-msgid ""
+msgid "124"
 "3_Gorilla_B_FindComminate"
-
 msgstr ""
 "3_Gorilla_B_FindComminate"
 
-msgid ""
+msgid "125"
 "3_Gorilla_B_AngryComminate"
-
 msgstr ""
 "3_Gorilla_B_AngryComminate"
 
-msgid ""
+msgid "126"
 "3_Gorilla_B_ChagrinComminate"
-
 msgstr ""
 "3_Gorilla_B_ChagrinComminate"
 
-msgid ""
+msgid "127"
 "3_Gorilla_B_Stagger"
-
 msgstr ""
 "3_Gorilla_B_Stagger"
 
-msgid ""
+msgid "128"
 "3_Gorilla_B_ForefootDown__H"
-
 msgstr ""
 "3_Gorilla_B_ForefootDown__H"
 
-msgid ""
+msgid "129"
 "3_Gorilla_B_ForefootDown__M"
-
 msgstr ""
 "3_Gorilla_B_ForefootDown__M"
 
-msgid ""
+msgid "130"
 "3_Gorilla_B_ForefootDown__T"
-
 msgstr ""
 "3_Gorilla_B_ForefootDown__T"
 
-msgid ""
+msgid "131"
 "3_Gorilla_B_HindfootDown__H"
-
 msgstr ""
 "3_Gorilla_B_HindfootDown__H"
 
-msgid ""
+msgid "132"
 "3_Gorilla_B_HindfootDown__M"
-
 msgstr ""
 "3_Gorilla_B_HindfootDown__M"
 
-msgid ""
+msgid "133"
 "3_Gorilla_B_HindfootDown__T"
-
 msgstr ""
 "3_Gorilla_B_HindfootDown__T"
 
-msgid ""
+msgid "134"
 "3_Gorilla_B_SympathyBind__H"
-
 msgstr ""
 "3_Gorilla_B_SympathyBind__H"
 
-msgid ""
+msgid "135"
 "3_Gorilla_B_SympathyBind__M"
-
 msgstr ""
 "3_Gorilla_B_SympathyBind__M"
 
-msgid ""
+msgid "136"
 "3_Gorilla_B_SympathyBind__T"
-
 msgstr ""
 "3_Gorilla_B_SympathyBind__T"
 
-msgid ""
+msgid "137"
 "3_Gorilla_B_Hold__H"
-
 msgstr ""
 "3_Gorilla_B_Hold__H"
 
-msgid ""
+msgid "138"
 "3_Gorilla_B_Hold__M"
-
 msgstr ""
 "3_Gorilla_B_Hold__M"
 
-msgid ""
+msgid "139"
 "3_Gorilla_B_Hold__T"
-
 msgstr ""
 "3_Gorilla_B_Hold__T"
 
-msgid ""
+msgid "140"
 "3_Gorilla_B_Giddy"
-
 msgstr ""
 "3_Gorilla_B_Giddy"
 
-msgid ""
+msgid "141"
 "3_Gorilla_Dead__H"
-
 msgstr ""
 "3_Gorilla_Dead__H"
 
-msgid ""
+msgid "142"
 "3_Gorilla_Dead__M"
-
 msgstr ""
 "3_Gorilla_Dead__M"
 
-msgid ""
+msgid "143"
 "3_Gorilla_Dead__T"
-
 msgstr ""
 "3_Gorilla_Dead__T"
 
-msgid ""
+msgid "144"
 "3_Gorilla_B_Punch"
-
 msgstr ""
 "3_Gorilla_B_Punch"
 
-msgid ""
+msgid "145"
 "3_Gorilla_B_NiouPunch__H"
-
 msgstr ""
 "3_Gorilla_B_NiouPunch__H"
 
-msgid ""
+msgid "146"
 "3_Gorilla_B_NiouPunch__M"
-
 msgstr ""
 "3_Gorilla_B_NiouPunch__M"
 
-msgid ""
+msgid "147"
 "3_Gorilla_B_ArmStamp"
-
 msgstr ""
 "3_Gorilla_B_ArmStamp"
 
-msgid ""
+msgid "148"
 "3_Gorilla_B_RollingAttack__H"
-
 msgstr ""
 "3_Gorilla_B_RollingAttack__H"
 
-msgid ""
+msgid "149"
 "3_Gorilla_B_RollingAttack__M"
-
 msgstr ""
 "3_Gorilla_B_RollingAttack__M"
 
-msgid ""
+msgid "150"
 "3_Gorilla_B_RollingAttack__T"
-
 msgstr ""
 "3_Gorilla_B_RollingAttack__T"
 
-msgid ""
+msgid "151"
 "3_Gorilla_B_Shot__H"
-
 msgstr ""
 "3_Gorilla_B_Shot__H"
 
-msgid ""
+msgid "152"
 "3_Gorilla_B_Shot__M"
-
 msgstr ""
 "3_Gorilla_B_Shot__M"
 
-msgid ""
+msgid "153"
 "3_Gorilla_B_DoubleLariat__H"
-
 msgstr ""
 "3_Gorilla_B_DoubleLariat__H"
 
-msgid ""
+msgid "154"
 "3_Gorilla_B_DoubleLariat__M"
-
 msgstr ""
 "3_Gorilla_B_DoubleLariat__M"
 
-msgid ""
+msgid "155"
 "3_Gorilla_B_AroundShockWave__H"
-
 msgstr ""
 "3_Gorilla_B_AroundShockWave__H"
 
-msgid ""
+msgid "156"
 "3_Gorilla_B_AroundShockWave__M"
-
 msgstr ""
 "3_Gorilla_B_AroundShockWave__M"
 
-msgid ""
+msgid "157"
 "3_Gorilla_B_BackJump__H"
-
 msgstr ""
 "3_Gorilla_B_BackJump__H"
 
-msgid ""
+msgid "158"
 "3_Gorilla_B_BackJump__M"
-
 msgstr ""
 "3_Gorilla_B_BackJump__M"
 
-msgid ""
+msgid "159"
 "3_Gorilla_B_BackJump__T"
-
 msgstr ""
 "3_Gorilla_B_BackJump__T"
 
-msgid ""
+msgid "160"
 "3_Gorilla_B_DirectedSound__H"
-
 msgstr ""
 "3_Gorilla_B_DirectedSound__H"
 
-msgid ""
+msgid "161"
 "3_Gorilla_B_DirectedSound__M"
-
 msgstr ""
 "3_Gorilla_B_DirectedSound__M"
 
-msgid ""
+msgid "162"
 "3_Gorilla_B_Fumble__M"
-
 msgstr ""
 "3_Gorilla_B_Fumble__M"
 
-msgid ""
+msgid "163"
 "4_Vampire_N_Idle"
-
 msgstr ""
 "4_Vampire_N_Idle"
 
-msgid ""
+msgid "164"
 "4_Vampire_N_Walk"
-
 msgstr ""
 "4_Vampire_N_Walk"
 
-msgid ""
+msgid "165"
 "4_Vampire_N_JumpToUpland__H"
-
 msgstr ""
 "4_Vampire_N_JumpToUpland__H"
 
-msgid ""
+msgid "166"
 "4_Vampire_N_JumpToUpland__M"
-
 msgstr ""
 "4_Vampire_N_JumpToUpland__M"
 
-msgid ""
+msgid "167"
 "4_Vampire_N_JumpToUpland__T"
-
 msgstr ""
 "4_Vampire_N_JumpToUpland__T"
 
-msgid ""
+msgid "168"
 "4_Vampire_N_JumpFromUpland__H"
-
 msgstr ""
 "4_Vampire_N_JumpFromUpland__H"
 
-msgid ""
+msgid "169"
 "4_Vampire_N_JumpFromUpland__M"
-
 msgstr ""
 "4_Vampire_N_JumpFromUpland__M"
 
-msgid ""
+msgid "170"
 "4_Vampire_N_JumpFromUpland__T"
-
 msgstr ""
 "4_Vampire_N_JumpFromUpland__T"
 
-msgid ""
+msgid "171"
 "4_Vampire_N_TurnLeft"
-
 msgstr ""
 "4_Vampire_N_TurnLeft"
 
-msgid ""
+msgid "172"
 "4_Vampire_N_TurnRight"
-
 msgstr ""
 "4_Vampire_N_TurnRight"
 
-msgid ""
+msgid "173"
 "4_Vampire_N_LargeTurnLeft"
-
 msgstr ""
 "4_Vampire_N_LargeTurnLeft"
 
-msgid ""
+msgid "174"
 "4_Vampire_N_LargeTurnRight"
-
 msgstr ""
 "4_Vampire_N_LargeTurnRight"
 
-msgid ""
+msgid "175"
 "4_Vampire_N_Eat"
-
 msgstr ""
 "4_Vampire_N_Eat"
 
-msgid ""
+msgid "176"
 "4_Vampire_Appear"
-
 msgstr ""
 "4_Vampire_Appear"
 
-msgid ""
+msgid "177"
 "4_Vampire_B_Idle"
-
 msgstr ""
 "4_Vampire_B_Idle"
 
-msgid ""
+msgid "178"
 "4_Vampire_B_Dash__H"
-
 msgstr ""
 "4_Vampire_B_Dash__H"
 
-msgid ""
+msgid "179"
 "4_Vampire_B_Dash__M"
-
 msgstr ""
 "4_Vampire_B_Dash__M"
 
-msgid ""
+msgid "180"
 "4_Vampire_B_Dash__T"
-
 msgstr ""
 "4_Vampire_B_Dash__T"
 
-msgid ""
+msgid "181"
 "4_Vampire_B_JumpToBossUpland"
-
 msgstr ""
 "4_Vampire_B_JumpToBossUpland"
 
-msgid ""
+msgid "182"
 "4_Vampire_B_JumpFromBossUpland"
-
 msgstr ""
 "4_Vampire_B_JumpFromBossUpland"
 
-msgid ""
+msgid "183"
 "4_Vampire_B_MoveLongPath__H"
-
 msgstr ""
 "4_Vampire_B_MoveLongPath__H"
 
-msgid ""
+msgid "184"
 "4_Vampire_B_MoveLongPath__M"
-
 msgstr ""
 "4_Vampire_B_MoveLongPath__M"
 
-msgid ""
+msgid "185"
 "4_Vampire_B_MoveLongPath__T"
-
 msgstr ""
 "4_Vampire_B_MoveLongPath__T"
 
-msgid ""
+msgid "186"
 "4_Vampire_B_TurnLeft"
-
 msgstr ""
 "4_Vampire_B_TurnLeft"
 
-msgid ""
+msgid "187"
 "4_Vampire_B_TurnRight"
-
 msgstr ""
 "4_Vampire_B_TurnRight"
 
-msgid ""
+msgid "188"
 "4_Vampire_B_LargeTurnLeft"
-
 msgstr ""
 "4_Vampire_B_LargeTurnLeft"
 
-msgid ""
+msgid "189"
 "4_Vampire_B_LargeTurnRight"
-
 msgstr ""
 "4_Vampire_B_LargeTurnRight"
 
-msgid ""
+msgid "190"
 "4_Vampire_B_FindComminate"
-
 msgstr ""
 "4_Vampire_B_FindComminate"
 
-msgid ""
+msgid "191"
 "4_Vampire_B_AngryComminate"
-
 msgstr ""
 "4_Vampire_B_AngryComminate"
 
-msgid ""
+msgid "192"
 "4_Vampire_B_ChagrinComminate"
-
 msgstr ""
 "4_Vampire_B_ChagrinComminate"
 
-msgid ""
+msgid "193"
 "4_Vampire_B_Stagger"
-
 msgstr ""
 "4_Vampire_B_Stagger"
 
-msgid ""
+msgid "194"
 "4_Vampire_B_ArmDown__H"
-
 msgstr ""
 "4_Vampire_B_ArmDown__H"
 
-msgid ""
+msgid "195"
 "4_Vampire_B_ArmDown__M"
-
 msgstr ""
 "4_Vampire_B_ArmDown__M"
 
-msgid ""
+msgid "196"
 "4_Vampire_B_ArmDown__T"
-
 msgstr ""
 "4_Vampire_B_ArmDown__T"
 
-msgid ""
+msgid "197"
 "4_Vampire_B_BodyDown__H"
-
 msgstr ""
 "4_Vampire_B_BodyDown__H"
 
-msgid ""
+msgid "198"
 "4_Vampire_B_BodyDown__M"
-
 msgstr ""
 "4_Vampire_B_BodyDown__M"
 
-msgid ""
+msgid "199"
 "4_Vampire_B_BodyDown__T"
-
 msgstr ""
 "4_Vampire_B_BodyDown__T"
 
-msgid ""
+msgid "200"
 "4_Vampire_B_SympathyBind__H"
-
 msgstr ""
 "4_Vampire_B_SympathyBind__H"
 
-msgid ""
+msgid "201"
 "4_Vampire_B_SympathyBind__M"
-
 msgstr ""
 "4_Vampire_B_SympathyBind__M"
 
-msgid ""
+msgid "202"
 "4_Vampire_B_SympathyBind__T"
-
 msgstr ""
 "4_Vampire_B_SympathyBind__T"
 
-msgid ""
+msgid "203"
 "4_Vampire_B_Hold__H"
-
 msgstr ""
 "4_Vampire_B_Hold__H"
 
-msgid ""
+msgid "204"
 "4_Vampire_B_Hold__M"
-
 msgstr ""
 "4_Vampire_B_Hold__M"
 
-msgid ""
+msgid "205"
 "4_Vampire_B_Hold__T"
-
 msgstr ""
 "4_Vampire_B_Hold__T"
 
-msgid ""
+msgid "206"
 "4_Vampire_B_Giddy"
-
 msgstr ""
 "4_Vampire_B_Giddy"
 
-msgid ""
+msgid "207"
 "4_Vampire_Dead__H"
-
 msgstr ""
 "4_Vampire_Dead__H"
 
-msgid ""
+msgid "208"
 "4_Vampire_Dead__M"
-
 msgstr ""
 "4_Vampire_Dead__M"
 
-msgid ""
+msgid "209"
 "4_Vampire_Dead__T"
-
 msgstr ""
 "4_Vampire_Dead__T"
 
-msgid ""
+msgid "210"
 "4_Vampire_B_Pincer_Arms"
-
 msgstr ""
 "4_Vampire_B_Pincer_Arms"
 
-msgid ""
+msgid "211"
 "4_Vampire_B_Shot_Power_Charge__H"
-
 msgstr ""
 "4_Vampire_B_Shot_Power_Charge__H"
 
-msgid ""
+msgid "212"
 "4_Vampire_B_Shot_Power_Charge__M"
-
 msgstr ""
 "4_Vampire_B_Shot_Power_Charge__M"
 
-msgid ""
+msgid "213"
 "4_Vampire_B_Shot_Power_Charge__T"
-
 msgstr ""
 "4_Vampire_B_Shot_Power_Charge__T"
 
-msgid ""
+msgid "214"
 "4_Vampire_B_Loop_Shot__H"
-
 msgstr ""
 "4_Vampire_B_Loop_Shot__H"
 
-msgid ""
+msgid "215"
 "4_Vampire_B_Loop_Shot__M"
-
 msgstr ""
 "4_Vampire_B_Loop_Shot__M"
 
-msgid ""
+msgid "216"
 "4_Vampire_B_Loop_Shot__T"
-
 msgstr ""
 "4_Vampire_B_Loop_Shot__T"
 
-msgid ""
+msgid "217"
 "4_Vampire_B_Impact__H"
-
 msgstr ""
 "4_Vampire_B_Impact__H"
 
-msgid ""
+msgid "218"
 "4_Vampire_B_Impact__M"
-
 msgstr ""
 "4_Vampire_B_Impact__M"
 
-msgid ""
+msgid "219"
 "4_Vampire_B_Back_Jump__H"
-
 msgstr ""
 "4_Vampire_B_Back_Jump__H"
 
-msgid ""
+msgid "220"
 "4_Vampire_B_Back_Jump__M"
-
 msgstr ""
 "4_Vampire_B_Back_Jump__M"
 
-msgid ""
+msgid "221"
 "4_Vampire_B_Back_Jump__T"
-
 msgstr ""
 "4_Vampire_B_Back_Jump__T"
 
-msgid ""
+msgid "222"
 "4_Vampire_B_Side_Step"
-
 msgstr ""
 "4_Vampire_B_Side_Step"
 
-msgid ""
+msgid "223"
 "4_Vampire_B_Shot_Homing__H"
-
 msgstr ""
 "4_Vampire_B_Shot_Homing__H"
 
-msgid ""
+msgid "224"
 "4_Vampire_B_Shot_Homing__M"
-
 msgstr ""
 "4_Vampire_B_Shot_Homing__M"
 
-msgid ""
+msgid "225"
 "4_Vampire_B_Arms_Rot_Shock_Wave"
-
 msgstr ""
 "4_Vampire_B_Arms_Rot_Shock_Wave"
 
-msgid ""
+msgid "226"
 "4_Vampire_B_Gliding_Rush__H"
-
 msgstr ""
 "4_Vampire_B_Gliding_Rush__H"
 
-msgid ""
+msgid "227"
 "4_Vampire_B_Gliding_Rush__M"
-
 msgstr ""
 "4_Vampire_B_Gliding_Rush__M"
 
-msgid ""
+msgid "228"
 "4_Vampire_B_Gliding_Rush__T"
-
 msgstr ""
 "4_Vampire_B_Gliding_Rush__T"
 
-msgid ""
+msgid "229"
 "4_Vampire_B_Fumble"
-
 msgstr ""
 "4_Vampire_B_Fumble"
 
-msgid ""
+msgid "230"
 "5_Crocodile_N_Idle"
-
 msgstr ""
 "5_Crocodile_N_Idle"
 
-msgid ""
+msgid "231"
 "5_Crocodile_N_Walk"
-
 msgstr ""
 "5_Crocodile_N_Walk"
 
-msgid ""
+msgid "232"
 "5_Crocodile_N_JumpToUpland__H"
-
 msgstr ""
 "5_Crocodile_N_JumpToUpland__H"
 
-msgid ""
+msgid "233"
 "5_Crocodile_N_JumpToUpland__M"
-
 msgstr ""
 "5_Crocodile_N_JumpToUpland__M"
 
-msgid ""
+msgid "234"
 "5_Crocodile_N_JumpToUpland__T"
-
 msgstr ""
 "5_Crocodile_N_JumpToUpland__T"
 
-msgid ""
+msgid "235"
 "5_Crocodile_N_JumpFromUpland__H"
-
 msgstr ""
 "5_Crocodile_N_JumpFromUpland__H"
 
-msgid ""
+msgid "236"
 "5_Crocodile_N_JumpFromUpland__M"
-
 msgstr ""
 "5_Crocodile_N_JumpFromUpland__M"
 
-msgid ""
+msgid "237"
 "5_Crocodile_N_JumpFromUpland__T"
-
 msgstr ""
 "5_Crocodile_N_JumpFromUpland__T"
 
-msgid ""
+msgid "238"
 "5_Crocodile_N_TurnLeft"
-
 msgstr ""
 "5_Crocodile_N_TurnLeft"
 
-msgid ""
+msgid "239"
 "5_Crocodile_N_TurnRight"
-
 msgstr ""
 "5_Crocodile_N_TurnRight"
 
-msgid ""
+msgid "240"
 "5_Crocodile_N_LargeTurnLeft"
-
 msgstr ""
 "5_Crocodile_N_LargeTurnLeft"
 
-msgid ""
+msgid "241"
 "5_Crocodile_N_LargeTurnRight"
-
 msgstr ""
 "5_Crocodile_N_LargeTurnRight"
 
-msgid ""
+msgid "242"
 "5_Crocodile_N_Eat"
-
 msgstr ""
 "5_Crocodile_N_Eat"
 
-msgid ""
+msgid "243"
 "5_Crocodile_Appear"
-
 msgstr ""
 "5_Crocodile_Appear"
 
-msgid ""
+msgid "244"
 "5_Crocodile_B_Idle"
-
 msgstr ""
 "5_Crocodile_B_Idle"
 
-msgid ""
+msgid "245"
 "5_Crocodile_B_Dash__H"
-
 msgstr ""
 "5_Crocodile_B_Dash__H"
 
-msgid ""
+msgid "246"
 "5_Crocodile_B_Dash__M"
-
 msgstr ""
 "5_Crocodile_B_Dash__M"
 
-msgid ""
+msgid "247"
 "5_Crocodile_B_Dash__T"
-
 msgstr ""
 "5_Crocodile_B_Dash__T"
 
-msgid ""
+msgid "248"
 "5_Crocodile_B_MoveLongPath__H"
-
 msgstr ""
 "5_Crocodile_B_MoveLongPath__H"
 
-msgid ""
+msgid "249"
 "5_Crocodile_B_MoveLongPath__M"
-
 msgstr ""
 "5_Crocodile_B_MoveLongPath__M"
 
-msgid ""
+msgid "250"
 "5_Crocodile_B_MoveLongPath__T"
-
 msgstr ""
 "5_Crocodile_B_MoveLongPath__T"
 
-msgid ""
+msgid "251"
 "5_Crocodile_B_TurnLeft"
-
 msgstr ""
 "5_Crocodile_B_TurnLeft"
 
-msgid ""
+msgid "252"
 "5_Crocodile_B_TurnRight"
-
 msgstr ""
 "5_Crocodile_B_TurnRight"
 
-msgid ""
+msgid "253"
 "5_Crocodile_B_LargeTurnLeft"
-
 msgstr ""
 "5_Crocodile_B_LargeTurnLeft"
 
-msgid ""
+msgid "254"
 "5_Crocodile_B_LargeTurnRight"
-
 msgstr ""
 "5_Crocodile_B_LargeTurnRight"
 
-msgid ""
+msgid "255"
 "5_Crocodile_B_FindComminate"
-
 msgstr ""
 "5_Crocodile_B_FindComminate"
 
-msgid ""
+msgid "256"
 "5_Crocodile_B_AngryComminate"
-
 msgstr ""
 "5_Crocodile_B_AngryComminate"
 
-msgid ""
+msgid "257"
 "5_Crocodile_B_ChagrinComminate"
-
 msgstr ""
 "5_Crocodile_B_ChagrinComminate"
 
-msgid ""
+msgid "258"
 "5_Crocodile_B_Stagger"
-
 msgstr ""
 "5_Crocodile_B_Stagger"
 
-msgid ""
+msgid "259"
 "5_Crocodile_B_Down_Foot__H"
-
 msgstr ""
 "5_Crocodile_B_Down_Foot__H"
 
-msgid ""
+msgid "260"
 "5_Crocodile_B_Down_Foot__M"
-
 msgstr ""
 "5_Crocodile_B_Down_Foot__M"
 
-msgid ""
+msgid "261"
 "5_Crocodile_B_Down_Foot__T"
-
 msgstr ""
 "5_Crocodile_B_Down_Foot__T"
 
-msgid ""
+msgid "262"
 "5_Crocodile_B_Hold__H"
-
 msgstr ""
 "5_Crocodile_B_Hold__H"
 
-msgid ""
+msgid "263"
 "5_Crocodile_B_Hold__M"
-
 msgstr ""
 "5_Crocodile_B_Hold__M"
 
-msgid ""
+msgid "264"
 "5_Crocodile_B_Hold__T"
-
 msgstr ""
 "5_Crocodile_B_Hold__T"
 
-msgid ""
+msgid "265"
 "5_Crocodile_B_Giddy"
-
 msgstr ""
 "5_Crocodile_B_Giddy"
 
-msgid ""
+msgid "266"
 "5_Crocodile_Dead__H"
-
 msgstr ""
 "5_Crocodile_Dead__H"
 
-msgid ""
+msgid "267"
 "5_Crocodile_Dead__M"
-
 msgstr ""
 "5_Crocodile_Dead__M"
 
-msgid ""
+msgid "268"
 "5_Crocodile_Dead__T"
-
 msgstr ""
 "5_Crocodile_Dead__T"
 
-msgid ""
+msgid "269"
 "5_Crocodile_Fumble"
-
 msgstr ""
 "5_Crocodile_Fumble"
 
-msgid ""
+msgid "270"
 "5_Crocodile_ShortDashBite"
-
 msgstr ""
 "5_Crocodile_ShortDashBite"
 
-msgid ""
+msgid "271"
 "5_Crocodile_TailHalfTurn"
-
 msgstr ""
 "5_Crocodile_TailHalfTurn"
 
-msgid ""
+msgid "272"
 "5_Crocodile_SlidingBiteTurn__H"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__H"
 
-msgid ""
+msgid "273"
 "5_Crocodile_SlidingBiteTurn__M"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__M"
 
-msgid ""
+msgid "274"
 "5_Crocodile_SlidingBiteTurn__T"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__T"
 
-msgid ""
+msgid "275"
 "5_Crocodile_SlidingBiteTurnFail__H"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurnFail__H"
 
-msgid ""
+msgid "276"
 "5_Crocodile_SlidingBiteTurnFail__M"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurnFail__M"
 
-msgid ""
+msgid "277"
 "5_Crocodile_SlidingBiteTurnFail__T"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurnFail__T"
 
-msgid ""
+msgid "278"
 "5_Crocodile_ThunderTornado"
-
 msgstr ""
 "5_Crocodile_ThunderTornado"
 
-msgid ""
+msgid "279"
 "5_Crocodile_ThunderTornadoSmall"
-
 msgstr ""
 "5_Crocodile_ThunderTornadoSmall"
 
-msgid ""
+msgid "280"
 "5_Crocodile_ElectricBite"
-
 msgstr ""
 "5_Crocodile_ElectricBite"
 
-msgid ""
+msgid "281"
 "5_Crocodile_Bite"
-
 msgstr ""
 "5_Crocodile_Bite"
 
-msgid ""
+msgid "282"
 "5_Crocodile_BackAway"
-
 msgstr ""
 "5_Crocodile_BackAway"
 
-msgid ""
+msgid "283"
 "5_Crocodile_AngryBackAway"
-
 msgstr ""
 "5_Crocodile_AngryBackAway"
 
-msgid ""
+msgid "284"
 "5_Crocodile_Lightning"
-
 msgstr ""
 "5_Crocodile_Lightning"
 
-msgid ""
+msgid "285"
 "5_Crocodile_SparkPounce__H"
-
 msgstr ""
 "5_Crocodile_SparkPounce__H"
 
-msgid ""
+msgid "286"
 "5_Crocodile_SparkPounce__M"
-
 msgstr ""
 "5_Crocodile_SparkPounce__M"
 
-msgid ""
+msgid "287"
 "5_Crocodile_SparkPounce__T"
-
 msgstr ""
 "5_Crocodile_SparkPounce__T"
 
-msgid ""
+msgid "288"
 "5_Crocodile_TailSlam"
-
 msgstr ""
 "5_Crocodile_TailSlam"
 

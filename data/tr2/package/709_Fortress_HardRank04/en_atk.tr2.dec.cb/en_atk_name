@@ -1,246 +1,205 @@
-msgid ""
+msgid "0"
 "2_Ravana_Default"
-
 msgstr ""
 "2_Ravana_Default"
 
-msgid ""
+msgid "1"
 "2_Ravana_Oracle_Pounce"
-
 msgstr ""
 "2_Ravana_Oracle_Pounce"
 
-msgid ""
+msgid "2"
 "2_Ravana_Oracle_DashPounceTurn"
-
 msgstr ""
 "2_Ravana_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "3"
 "2_Ravana_Oracle_FakePounce"
-
 msgstr ""
 "2_Ravana_Oracle_FakePounce"
 
-msgid ""
+msgid "4"
 "2_Ravana_Oracle_AroundHeatWaveWithJamming"
-
 msgstr ""
 "2_Ravana_Oracle_AroundHeatWaveWithJamming"
 
-msgid ""
+msgid "5"
 "2_Ravana_Oracle_AroundHeatWave"
-
 msgstr ""
 "2_Ravana_Oracle_AroundHeatWave"
 
-msgid ""
+msgid "6"
 "2_Ravana_Oracle_Local_HeatWave"
-
 msgstr ""
 "2_Ravana_Oracle_Local_HeatWave"
 
-msgid ""
+msgid "7"
 "2_Ravana_Oracle_ParallelFire"
-
 msgstr ""
 "2_Ravana_Oracle_ParallelFire"
 
-msgid ""
+msgid "8"
 "2_Ravana_Oracle_CirculateFire"
-
 msgstr ""
 "2_Ravana_Oracle_CirculateFire"
 
-msgid ""
+msgid "9"
 "2_Ravana_Oracle_PoisonScale"
-
 msgstr ""
 "2_Ravana_Oracle_PoisonScale"
 
-msgid ""
+msgid "10"
 "2_Ravana_Oracle_StunRailGun"
-
 msgstr ""
 "2_Ravana_Oracle_StunRailGun"
 
-msgid ""
+msgid "11"
 "2_Ravana_Scratch_Base"
-
 msgstr ""
 "2_Ravana_Scratch_Base"
 
-msgid ""
+msgid "12"
 "2_Ravana_Pounce_Base"
-
 msgstr ""
 "2_Ravana_Pounce_Base"
 
-msgid ""
+msgid "13"
 "2_Ravana_DashPounce_Base"
-
 msgstr ""
 "2_Ravana_DashPounce_Base"
 
-msgid ""
+msgid "14"
 "2_Ravana_DashPounceCircling_Base"
-
 msgstr ""
 "2_Ravana_DashPounceCircling_Base"
 
-msgid ""
+msgid "15"
 "2_Ravana_StunRailGun_Base"
-
 msgstr ""
 "2_Ravana_StunRailGun_Base"
 
-msgid ""
+msgid "16"
 "2_Ravana_BackJump_Base"
-
 msgstr ""
 "2_Ravana_BackJump_Base"
 
-msgid ""
+msgid "17"
 "2_Ravana_BackStep_Base"
-
 msgstr ""
 "2_Ravana_BackStep_Base"
 
-msgid ""
+msgid "18"
 "2_Ravana_Oracle_FakePounce_NpcWarning"
-
 msgstr ""
 "2_Ravana_Oracle_FakePounce_NpcWarning"
 
-msgid ""
+msgid "19"
 "3_Wolf_Default"
-
 msgstr ""
 "3_Wolf_Default"
 
-msgid ""
+msgid "20"
 "3_Wolf_Oracle_RightHandSlam"
-
 msgstr ""
 "3_Wolf_Oracle_RightHandSlam"
 
-msgid ""
+msgid "21"
 "3_Wolf_Oracle_DispelSlam"
-
 msgstr ""
 "3_Wolf_Oracle_DispelSlam"
 
-msgid ""
+msgid "22"
 "3_Wolf_Oracle_DashBrakePounce"
-
 msgstr ""
 "3_Wolf_Oracle_DashBrakePounce"
 
-msgid ""
+msgid "23"
 "3_Wolf_Oracle_ShotMoltenRock"
-
 msgstr ""
 "3_Wolf_Oracle_ShotMoltenRock"
 
-msgid ""
+msgid "24"
 "3_Wolf_Oracle_ShotMoltenRock_Broken"
-
 msgstr ""
 "3_Wolf_Oracle_ShotMoltenRock_Broken"
 
-msgid ""
+msgid "25"
 "3_Wolf_Oracle_BurningCombo_AttachedFlame"
-
 msgstr ""
 "3_Wolf_Oracle_BurningCombo_AttachedFlame"
 
-msgid ""
+msgid "26"
 "3_Wolf_Oracle_BurningCombo_LandingFlame"
-
 msgstr ""
 "3_Wolf_Oracle_BurningCombo_LandingFlame"
 
-msgid ""
+msgid "27"
 "3_Wolf_RightHandSlam_Base"
-
 msgstr ""
 "3_Wolf_RightHandSlam_Base"
 
-msgid ""
+msgid "28"
 "3_Wolf_DispelSlam_Base"
-
 msgstr ""
 "3_Wolf_DispelSlam_Base"
 
-msgid ""
+msgid "29"
 "3_Wolf_RightArmImpact_Base"
-
 msgstr ""
 "3_Wolf_RightArmImpact_Base"
 
-msgid ""
+msgid "30"
 "3_Wolf_DashBrakePounce_Base"
-
 msgstr ""
 "3_Wolf_DashBrakePounce_Base"
 
-msgid ""
+msgid "31"
 "3_Wolf_Pounce_Base"
-
 msgstr ""
 "3_Wolf_Pounce_Base"
 
-msgid ""
+msgid "32"
 "3_Wolf_BiteBehind_Base"
-
 msgstr ""
 "3_Wolf_BiteBehind_Base"
 
-msgid ""
+msgid "33"
 "3_Wolf_TurnAroundDispel_Base"
-
 msgstr ""
 "3_Wolf_TurnAroundDispel_Base"
 
-msgid ""
+msgid "34"
 "3_Wolf_ShotMoltenRock_Base"
-
 msgstr ""
 "3_Wolf_ShotMoltenRock_Base"
 
-msgid ""
+msgid "35"
 "3_Wolf_BurningCombo_Base"
-
 msgstr ""
 "3_Wolf_BurningCombo_Base"
 
-msgid ""
+msgid "36"
 "3_Wolf_JumpSlam_Base"
-
 msgstr ""
 "3_Wolf_JumpSlam_Base"
 
-msgid ""
+msgid "37"
 "3_Wolf_DispelSlam_RightArm_Base"
-
 msgstr ""
 "3_Wolf_DispelSlam_RightArm_Base"
 
-msgid ""
+msgid "38"
 "3_Wolf_DashBrakePounce_Run_Base "
-
 msgstr ""
 "3_Wolf_DashBrakePounce_Run_Base "
 
-msgid ""
+msgid "39"
 "3_Wolf_Move_Base"
-
 msgstr ""
 "3_Wolf_Move_Base"
 
-msgid ""
+msgid "40"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

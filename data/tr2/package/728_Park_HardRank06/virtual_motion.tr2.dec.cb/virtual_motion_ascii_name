@@ -1,1584 +1,1320 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_Tiger_N_Idle"
-
 msgstr ""
 "2_Tiger_N_Idle"
 
-msgid ""
+msgid "31"
 "2_Tiger_N_Walk"
-
 msgstr ""
 "2_Tiger_N_Walk"
 
-msgid ""
+msgid "32"
 "2_Tiger_N_Walk_Caution"
-
 msgstr ""
 "2_Tiger_N_Walk_Caution"
 
-msgid ""
+msgid "33"
 "2_Tiger_N_JumpToUpland__H"
-
 msgstr ""
 "2_Tiger_N_JumpToUpland__H"
 
-msgid ""
+msgid "34"
 "2_Tiger_N_JumpToUpland__M"
-
 msgstr ""
 "2_Tiger_N_JumpToUpland__M"
 
-msgid ""
+msgid "35"
 "2_Tiger_N_JumpToUpland__T"
-
 msgstr ""
 "2_Tiger_N_JumpToUpland__T"
 
-msgid ""
+msgid "36"
 "2_Tiger_N_JumpFromUpland__H"
-
 msgstr ""
 "2_Tiger_N_JumpFromUpland__H"
 
-msgid ""
+msgid "37"
 "2_Tiger_N_JumpFromUpland__M"
-
 msgstr ""
 "2_Tiger_N_JumpFromUpland__M"
 
-msgid ""
+msgid "38"
 "2_Tiger_N_JumpFromUpland__T"
-
 msgstr ""
 "2_Tiger_N_JumpFromUpland__T"
 
-msgid ""
+msgid "39"
 "2_Tiger_N_TurnLeft"
-
 msgstr ""
 "2_Tiger_N_TurnLeft"
 
-msgid ""
+msgid "40"
 "2_Tiger_N_TurnRight"
-
 msgstr ""
 "2_Tiger_N_TurnRight"
 
-msgid ""
+msgid "41"
 "2_Tiger_N_LargeTurnLeft"
-
 msgstr ""
 "2_Tiger_N_LargeTurnLeft"
 
-msgid ""
+msgid "42"
 "2_Tiger_N_LargeTurnRight"
-
 msgstr ""
 "2_Tiger_N_LargeTurnRight"
 
-msgid ""
+msgid "43"
 "2_Tiger_N_Eat"
-
 msgstr ""
 "2_Tiger_N_Eat"
 
-msgid ""
+msgid "44"
 "2_Tiger_Appear"
-
 msgstr ""
 "2_Tiger_Appear"
 
-msgid ""
+msgid "45"
 "2_Tiger_B_Idle"
-
 msgstr ""
 "2_Tiger_B_Idle"
 
-msgid ""
+msgid "46"
 "2_Tiger_B_Dash__H"
-
 msgstr ""
 "2_Tiger_B_Dash__H"
 
-msgid ""
+msgid "47"
 "2_Tiger_B_Dash__M"
-
 msgstr ""
 "2_Tiger_B_Dash__M"
 
-msgid ""
+msgid "48"
 "2_Tiger_B_Dash__T"
-
 msgstr ""
 "2_Tiger_B_Dash__T"
 
-msgid ""
+msgid "49"
 "2_Tiger_B_JumpToBossUpland"
-
 msgstr ""
 "2_Tiger_B_JumpToBossUpland"
 
-msgid ""
+msgid "50"
 "2_Tiger_B_JumpFromBossUpland"
-
 msgstr ""
 "2_Tiger_B_JumpFromBossUpland"
 
-msgid ""
+msgid "51"
 "2_Tiger_B_MoveLongPath__H"
-
 msgstr ""
 "2_Tiger_B_MoveLongPath__H"
 
-msgid ""
+msgid "52"
 "2_Tiger_B_MoveLongPath__M"
-
 msgstr ""
 "2_Tiger_B_MoveLongPath__M"
 
-msgid ""
+msgid "53"
 "2_Tiger_B_MoveLongPath__T"
-
 msgstr ""
 "2_Tiger_B_MoveLongPath__T"
 
-msgid ""
+msgid "54"
 "2_Tiger_B_TurnLeft"
-
 msgstr ""
 "2_Tiger_B_TurnLeft"
 
-msgid ""
+msgid "55"
 "2_Tiger_B_TurnRight"
-
 msgstr ""
 "2_Tiger_B_TurnRight"
 
-msgid ""
+msgid "56"
 "2_Tiger_B_LargeTurnLeft"
-
 msgstr ""
 "2_Tiger_B_LargeTurnLeft"
 
-msgid ""
+msgid "57"
 "2_Tiger_B_LargeTurnRight"
-
 msgstr ""
 "2_Tiger_B_LargeTurnRight"
 
-msgid ""
+msgid "58"
 "2_Tiger_B_FindComminate"
-
 msgstr ""
 "2_Tiger_B_FindComminate"
 
-msgid ""
+msgid "59"
 "2_Tiger_B_AngryComminate"
-
 msgstr ""
 "2_Tiger_B_AngryComminate"
 
-msgid ""
+msgid "60"
 "2_Tiger_B_ChagrinComminate"
-
 msgstr ""
 "2_Tiger_B_ChagrinComminate"
 
-msgid ""
+msgid "61"
 "2_Tiger_B_Stagger"
-
 msgstr ""
 "2_Tiger_B_Stagger"
 
-msgid ""
+msgid "62"
 "2_Tiger_B_ForefootDown__H"
-
 msgstr ""
 "2_Tiger_B_ForefootDown__H"
 
-msgid ""
+msgid "63"
 "2_Tiger_B_ForefootDown__M"
-
 msgstr ""
 "2_Tiger_B_ForefootDown__M"
 
-msgid ""
+msgid "64"
 "2_Tiger_B_ForefootDown__T"
-
 msgstr ""
 "2_Tiger_B_ForefootDown__T"
 
-msgid ""
+msgid "65"
 "2_Tiger_B_HindfootDown__H"
-
 msgstr ""
 "2_Tiger_B_HindfootDown__H"
 
-msgid ""
+msgid "66"
 "2_Tiger_B_HindfootDown__M"
-
 msgstr ""
 "2_Tiger_B_HindfootDown__M"
 
-msgid ""
+msgid "67"
 "2_Tiger_B_HindfootDown__T"
-
 msgstr ""
 "2_Tiger_B_HindfootDown__T"
 
-msgid ""
+msgid "68"
 "2_Tiger_B_SympathyBind__H"
-
 msgstr ""
 "2_Tiger_B_SympathyBind__H"
 
-msgid ""
+msgid "69"
 "2_Tiger_B_SympathyBind__M"
-
 msgstr ""
 "2_Tiger_B_SympathyBind__M"
 
-msgid ""
+msgid "70"
 "2_Tiger_B_SympathyBind__T"
-
 msgstr ""
 "2_Tiger_B_SympathyBind__T"
 
-msgid ""
+msgid "71"
 "2_Tiger_B_Hold__H"
-
 msgstr ""
 "2_Tiger_B_Hold__H"
 
-msgid ""
+msgid "72"
 "2_Tiger_B_Hold__M"
-
 msgstr ""
 "2_Tiger_B_Hold__M"
 
-msgid ""
+msgid "73"
 "2_Tiger_B_Hold__T"
-
 msgstr ""
 "2_Tiger_B_Hold__T"
 
-msgid ""
+msgid "74"
 "2_Tiger_B_Giddy"
-
 msgstr ""
 "2_Tiger_B_Giddy"
 
-msgid ""
+msgid "75"
 "2_Tiger_B_AngryGiddy__H"
-
 msgstr ""
 "2_Tiger_B_AngryGiddy__H"
 
-msgid ""
+msgid "76"
 "2_Tiger_B_AngryGiddy__M"
-
 msgstr ""
 "2_Tiger_B_AngryGiddy__M"
 
-msgid ""
+msgid "77"
 "2_Tiger_B_AngryGiddy__T"
-
 msgstr ""
 "2_Tiger_B_AngryGiddy__T"
 
-msgid ""
+msgid "78"
 "2_Tiger_Dead__H"
-
 msgstr ""
 "2_Tiger_Dead__H"
 
-msgid ""
+msgid "79"
 "2_Tiger_Dead__M"
-
 msgstr ""
 "2_Tiger_Dead__M"
 
-msgid ""
+msgid "80"
 "2_Tiger_Dead__T"
-
 msgstr ""
 "2_Tiger_Dead__T"
 
-msgid ""
+msgid "81"
 "2_Tiger_B_Chop_Forefoot"
-
 msgstr ""
 "2_Tiger_B_Chop_Forefoot"
 
-msgid ""
+msgid "82"
 "2_Tiger_B_Chop_Forefoot_Thunder"
-
 msgstr ""
 "2_Tiger_B_Chop_Forefoot_Thunder"
 
-msgid ""
+msgid "83"
 "2_Tiger_B_Cling"
-
 msgstr ""
 "2_Tiger_B_Cling"
 
-msgid ""
+msgid "84"
 "2_Tiger_B_Pounce__H"
-
 msgstr ""
 "2_Tiger_B_Pounce__H"
 
-msgid ""
+msgid "85"
 "2_Tiger_B_Pounce__M"
-
 msgstr ""
 "2_Tiger_B_Pounce__M"
 
-msgid ""
+msgid "86"
 "2_Tiger_B_Pounce__T"
-
 msgstr ""
 "2_Tiger_B_Pounce__T"
 
-msgid ""
+msgid "87"
 "2_Tiger_B_DashPounce_Dash__H"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Dash__H"
 
-msgid ""
+msgid "88"
 "2_Tiger_B_DashPounce_Dash__M"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Dash__M"
 
-msgid ""
+msgid "89"
 "2_Tiger_B_DashPounce_Pounce__M"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Pounce__M"
 
-msgid ""
+msgid "90"
 "2_Tiger_B_DashPounce_Pounce__T"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Pounce__T"
 
-msgid ""
+msgid "91"
 "2_Tiger_B_DashPounce_Td_Dash__H"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Td_Dash__H"
 
-msgid ""
+msgid "92"
 "2_Tiger_B_DashPounce_Td_Dash__M"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Td_Dash__M"
 
-msgid ""
+msgid "93"
 "2_Tiger_B_DashPounce_Td_Pounce__M"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Td_Pounce__M"
 
-msgid ""
+msgid "94"
 "2_Tiger_B_DashPounce_Td_Pounce__T"
-
 msgstr ""
 "2_Tiger_B_DashPounce_Td_Pounce__T"
 
-msgid ""
+msgid "95"
 "2_Tiger_B_DsPncCic_Dash__H"
-
 msgstr ""
 "2_Tiger_B_DsPncCic_Dash__H"
 
-msgid ""
+msgid "96"
 "2_Tiger_B_DsPncCic_Dash__M"
-
 msgstr ""
 "2_Tiger_B_DsPncCic_Dash__M"
 
-msgid ""
+msgid "97"
 "2_Tiger_B_DsPncCic_Pounce__M"
-
 msgstr ""
 "2_Tiger_B_DsPncCic_Pounce__M"
 
-msgid ""
+msgid "98"
 "2_Tiger_B_DsPncCic_Pounce__T"
-
 msgstr ""
 "2_Tiger_B_DsPncCic_Pounce__T"
 
-msgid ""
+msgid "99"
 "2_Tiger_B_Discharge_Allround__H"
-
 msgstr ""
 "2_Tiger_B_Discharge_Allround__H"
 
-msgid ""
+msgid "100"
 "2_Tiger_B_Discharge_Allround__M"
-
 msgstr ""
 "2_Tiger_B_Discharge_Allround__M"
 
-msgid ""
+msgid "101"
 "2_Tiger_B_OggSomersault_Attack__H"
-
 msgstr ""
 "2_Tiger_B_OggSomersault_Attack__H"
 
-msgid ""
+msgid "102"
 "2_Tiger_B_OggSomersault_Attack__M"
-
 msgstr ""
 "2_Tiger_B_OggSomersault_Attack__M"
 
-msgid ""
+msgid "103"
 "2_Tiger_B_OggSomersault_Attack__T"
-
 msgstr ""
 "2_Tiger_B_OggSomersault_Attack__T"
 
-msgid ""
+msgid "104"
 "2_Tiger_B_OggSomersault_Comminate"
-
 msgstr ""
 "2_Tiger_B_OggSomersault_Comminate"
 
-msgid ""
+msgid "105"
 "2_Tiger_B_Shot_BigThunderBall__H"
-
 msgstr ""
 "2_Tiger_B_Shot_BigThunderBall__H"
 
-msgid ""
+msgid "106"
 "2_Tiger_B_Shot_BigThunderBall__M"
-
 msgstr ""
 "2_Tiger_B_Shot_BigThunderBall__M"
 
-msgid ""
+msgid "107"
 "2_Tiger_B_Call_SmallThdrBall__H"
-
 msgstr ""
 "2_Tiger_B_Call_SmallThdrBall__H"
 
-msgid ""
+msgid "108"
 "2_Tiger_B_Call_SmallThdrBall__M"
-
 msgstr ""
 "2_Tiger_B_Call_SmallThdrBall__M"
 
-msgid ""
+msgid "109"
 "2_Tiger_B_Wdst_TdBall_Wildshot__H"
-
 msgstr ""
 "2_Tiger_B_Wdst_TdBall_Wildshot__H"
 
-msgid ""
+msgid "110"
 "2_Tiger_B_Wdst_TdBall_Wildshot__M"
-
 msgstr ""
 "2_Tiger_B_Wdst_TdBall_Wildshot__M"
 
-msgid ""
+msgid "111"
 "2_Tiger_B_Wdst_TdBall_Wildshot__T"
-
 msgstr ""
 "2_Tiger_B_Wdst_TdBall_Wildshot__T"
 
-msgid ""
+msgid "112"
 "2_Tiger_B_Wdst_TdBall_Comminate"
-
 msgstr ""
 "2_Tiger_B_Wdst_TdBall_Comminate"
 
-msgid ""
+msgid "113"
 "2_Tiger_B_BackJump__H"
-
 msgstr ""
 "2_Tiger_B_BackJump__H"
 
-msgid ""
+msgid "114"
 "2_Tiger_B_BackJump__M"
-
 msgstr ""
 "2_Tiger_B_BackJump__M"
 
-msgid ""
+msgid "115"
 "2_Tiger_B_BackJump__T"
-
 msgstr ""
 "2_Tiger_B_BackJump__T"
 
-msgid ""
+msgid "116"
 "2_Tiger_B_LocalDischarge__H"
-
 msgstr ""
 "2_Tiger_B_LocalDischarge__H"
 
-msgid ""
+msgid "117"
 "2_Tiger_B_LocalDischarge__M"
-
 msgstr ""
 "2_Tiger_B_LocalDischarge__M"
 
-msgid ""
+msgid "118"
 "2_Tiger_B_Fumble__M"
-
 msgstr ""
 "2_Tiger_B_Fumble__M"
 
-msgid ""
+msgid "119"
 "2_Tiger_B_Fumble__T"
-
 msgstr ""
 "2_Tiger_B_Fumble__T"
 
-msgid ""
+msgid "120"
 "2_Tiger_B_Idle_Caution"
-
 msgstr ""
 "2_Tiger_B_Idle_Caution"
 
-msgid ""
+msgid "121"
 "3_Soldier_N_Idle"
-
 msgstr ""
 "3_Soldier_N_Idle"
 
-msgid ""
+msgid "122"
 "3_Soldier_N_Walk"
-
 msgstr ""
 "3_Soldier_N_Walk"
 
-msgid ""
+msgid "123"
 "3_Soldier_N_Walk_Caution"
-
 msgstr ""
 "3_Soldier_N_Walk_Caution"
 
-msgid ""
+msgid "124"
 "3_Soldier_N_JumpToUpland__H"
-
 msgstr ""
 "3_Soldier_N_JumpToUpland__H"
 
-msgid ""
+msgid "125"
 "3_Soldier_N_JumpToUpland__M"
-
 msgstr ""
 "3_Soldier_N_JumpToUpland__M"
 
-msgid ""
+msgid "126"
 "3_Soldier_N_JumpToUpland__T"
-
 msgstr ""
 "3_Soldier_N_JumpToUpland__T"
 
-msgid ""
+msgid "127"
 "3_Soldier_N_JumpFromUpland__H"
-
 msgstr ""
 "3_Soldier_N_JumpFromUpland__H"
 
-msgid ""
+msgid "128"
 "3_Soldier_N_JumpFromUpland__M"
-
 msgstr ""
 "3_Soldier_N_JumpFromUpland__M"
 
-msgid ""
+msgid "129"
 "3_Soldier_N_JumpFromUpland__T"
-
 msgstr ""
 "3_Soldier_N_JumpFromUpland__T"
 
-msgid ""
+msgid "130"
 "3_Soldier_N_TurnLeft"
-
 msgstr ""
 "3_Soldier_N_TurnLeft"
 
-msgid ""
+msgid "131"
 "3_Soldier_N_TurnRight"
-
 msgstr ""
 "3_Soldier_N_TurnRight"
 
-msgid ""
+msgid "132"
 "3_Soldier_N_LargeTurnLeft"
-
 msgstr ""
 "3_Soldier_N_LargeTurnLeft"
 
-msgid ""
+msgid "133"
 "3_Soldier_N_LargeTurnRight"
-
 msgstr ""
 "3_Soldier_N_LargeTurnRight"
 
-msgid ""
+msgid "134"
 "3_Soldier_N_Eat"
-
 msgstr ""
 "3_Soldier_N_Eat"
 
-msgid ""
+msgid "135"
 "3_Soldier_Appear"
-
 msgstr ""
 "3_Soldier_Appear"
 
-msgid ""
+msgid "136"
 "3_Soldier_B_Idle"
-
 msgstr ""
 "3_Soldier_B_Idle"
 
-msgid ""
+msgid "137"
 "3_Soldier_B_Idle_Caution"
-
 msgstr ""
 "3_Soldier_B_Idle_Caution"
 
-msgid ""
+msgid "138"
 "3_Soldier_B_Dash__H"
-
 msgstr ""
 "3_Soldier_B_Dash__H"
 
-msgid ""
+msgid "139"
 "3_Soldier_B_Dash__M"
-
 msgstr ""
 "3_Soldier_B_Dash__M"
 
-msgid ""
+msgid "140"
 "3_Soldier_B_Dash__T"
-
 msgstr ""
 "3_Soldier_B_Dash__T"
 
-msgid ""
+msgid "141"
 "3_Soldier_B_JumpToBossUpland"
-
 msgstr ""
 "3_Soldier_B_JumpToBossUpland"
 
-msgid ""
+msgid "142"
 "3_Soldier_B_JumpFromBossUpland"
-
 msgstr ""
 "3_Soldier_B_JumpFromBossUpland"
 
-msgid ""
+msgid "143"
 "3_Soldier_B_MoveLongPath__H"
-
 msgstr ""
 "3_Soldier_B_MoveLongPath__H"
 
-msgid ""
+msgid "144"
 "3_Soldier_B_MoveLongPath__M"
-
 msgstr ""
 "3_Soldier_B_MoveLongPath__M"
 
-msgid ""
+msgid "145"
 "3_Soldier_B_MoveLongPath__T"
-
 msgstr ""
 "3_Soldier_B_MoveLongPath__T"
 
-msgid ""
+msgid "146"
 "3_Soldier_B_TurnLeft"
-
 msgstr ""
 "3_Soldier_B_TurnLeft"
 
-msgid ""
+msgid "147"
 "3_Soldier_B_TurnRight"
-
 msgstr ""
 "3_Soldier_B_TurnRight"
 
-msgid ""
+msgid "148"
 "3_Soldier_B_LargeTurnLeft"
-
 msgstr ""
 "3_Soldier_B_LargeTurnLeft"
 
-msgid ""
+msgid "149"
 "3_Soldier_B_LargeTurnRight"
-
 msgstr ""
 "3_Soldier_B_LargeTurnRight"
 
-msgid ""
+msgid "150"
 "3_Soldier_B_FindComminate"
-
 msgstr ""
 "3_Soldier_B_FindComminate"
 
-msgid ""
+msgid "151"
 "3_Soldier_B_AngryComminate"
-
 msgstr ""
 "3_Soldier_B_AngryComminate"
 
-msgid ""
+msgid "152"
 "3_Soldier_B_ChagrinComminate"
-
 msgstr ""
 "3_Soldier_B_ChagrinComminate"
 
-msgid ""
+msgid "153"
 "3_Soldier_B_Stagger"
-
 msgstr ""
 "3_Soldier_B_Stagger"
 
-msgid ""
+msgid "154"
 "3_Soldier_B_RightArmDown__H"
-
 msgstr ""
 "3_Soldier_B_RightArmDown__H"
 
-msgid ""
+msgid "155"
 "3_Soldier_B_RightArmDown__M"
-
 msgstr ""
 "3_Soldier_B_RightArmDown__M"
 
-msgid ""
+msgid "156"
 "3_Soldier_B_RightArmDown__T"
-
 msgstr ""
 "3_Soldier_B_RightArmDown__T"
 
-msgid ""
+msgid "157"
 "3_Soldier_B_FootDown__H"
-
 msgstr ""
 "3_Soldier_B_FootDown__H"
 
-msgid ""
+msgid "158"
 "3_Soldier_B_FootDown__M"
-
 msgstr ""
 "3_Soldier_B_FootDown__M"
 
-msgid ""
+msgid "159"
 "3_Soldier_B_FootDown__T"
-
 msgstr ""
 "3_Soldier_B_FootDown__T"
 
-msgid ""
+msgid "160"
 "3_Soldier_B_Hold__H"
-
 msgstr ""
 "3_Soldier_B_Hold__H"
 
-msgid ""
+msgid "161"
 "3_Soldier_B_Hold__M"
-
 msgstr ""
 "3_Soldier_B_Hold__M"
 
-msgid ""
+msgid "162"
 "3_Soldier_B_Hold__T"
-
 msgstr ""
 "3_Soldier_B_Hold__T"
 
-msgid ""
+msgid "163"
 "3_Soldier_B_Giddy"
-
 msgstr ""
 "3_Soldier_B_Giddy"
 
-msgid ""
+msgid "164"
 "3_Soldier_Dead__H"
-
 msgstr ""
 "3_Soldier_Dead__H"
 
-msgid ""
+msgid "165"
 "3_Soldier_Dead__M"
-
 msgstr ""
 "3_Soldier_Dead__M"
 
-msgid ""
+msgid "166"
 "3_Soldier_Dead__T"
-
 msgstr ""
 "3_Soldier_Dead__T"
 
-msgid ""
+msgid "167"
 "3_Soldier_Fumble"
-
 msgstr ""
 "3_Soldier_Fumble"
 
-msgid ""
+msgid "168"
 "3_Soldier_RightStepSlash"
-
 msgstr ""
 "3_Soldier_RightStepSlash"
 
-msgid ""
+msgid "169"
 "3_Soldier_AngryRightStepSlash"
-
 msgstr ""
 "3_Soldier_AngryRightStepSlash"
 
-msgid ""
+msgid "170"
 "3_Soldier_Pounce__H"
-
 msgstr ""
 "3_Soldier_Pounce__H"
 
-msgid ""
+msgid "171"
 "3_Soldier_Pounce__M"
-
 msgstr ""
 "3_Soldier_Pounce__M"
 
-msgid ""
+msgid "172"
 "3_Soldier_Pounce__T"
-
 msgstr ""
 "3_Soldier_Pounce__T"
 
-msgid ""
+msgid "173"
 "3_Soldier_BackflipJump_Back__H"
-
 msgstr ""
 "3_Soldier_BackflipJump_Back__H"
 
-msgid ""
+msgid "174"
 "3_Soldier_BackflipJump_Back__M"
-
 msgstr ""
 "3_Soldier_BackflipJump_Back__M"
 
-msgid ""
+msgid "175"
 "3_Soldier_BackflipJump_Back__T"
-
 msgstr ""
 "3_Soldier_BackflipJump_Back__T"
 
-msgid ""
+msgid "176"
 "3_Soldier_BackflipJump_Jump__M"
-
 msgstr ""
 "3_Soldier_BackflipJump_Jump__M"
 
-msgid ""
+msgid "177"
 "3_Soldier_BackflipJump_Jump__T"
-
 msgstr ""
 "3_Soldier_BackflipJump_Jump__T"
 
-msgid ""
+msgid "178"
 "3_Soldier_FallDownBomb"
-
 msgstr ""
 "3_Soldier_FallDownBomb"
 
-msgid ""
+msgid "179"
 "3_Soldier_WildShot"
-
 msgstr ""
 "3_Soldier_WildShot"
 
-msgid ""
+msgid "180"
 "3_Soldier_WideSlash"
-
 msgstr ""
 "3_Soldier_WideSlash"
 
-msgid ""
+msgid "181"
 "3_Soldier_ChargeVtSlash__H"
-
 msgstr ""
 "3_Soldier_ChargeVtSlash__H"
 
-msgid ""
+msgid "182"
 "3_Soldier_ChargeVtSlash__M"
-
 msgstr ""
 "3_Soldier_ChargeVtSlash__M"
 
-msgid ""
+msgid "183"
 "3_Soldier_ChargeVtSlash__T"
-
 msgstr ""
 "3_Soldier_ChargeVtSlash__T"
 
-msgid ""
+msgid "184"
 "3_Soldier_ChargeHrSlash_Comminate"
-
 msgstr ""
 "3_Soldier_ChargeHrSlash_Comminate"
 
-msgid ""
+msgid "185"
 "3_Soldier_ChargeHrSlash_Slash"
-
 msgstr ""
 "3_Soldier_ChargeHrSlash_Slash"
 
-msgid ""
+msgid "186"
 "3_Soldier_AngryCHS_Comminate"
-
 msgstr ""
 "3_Soldier_AngryCHS_Comminate"
 
-msgid ""
+msgid "187"
 "3_Soldier_AngryCHS_Slash"
-
 msgstr ""
 "3_Soldier_AngryCHS_Slash"
 
-msgid ""
+msgid "188"
 "4_Soldier_N_Idle"
-
 msgstr ""
 "4_Soldier_N_Idle"
 
-msgid ""
+msgid "189"
 "4_Soldier_N_Walk"
-
 msgstr ""
 "4_Soldier_N_Walk"
 
-msgid ""
+msgid "190"
 "4_Soldier_N_Walk_Caution"
-
 msgstr ""
 "4_Soldier_N_Walk_Caution"
 
-msgid ""
+msgid "191"
 "4_Soldier_N_JumpToUpland__H"
-
 msgstr ""
 "4_Soldier_N_JumpToUpland__H"
 
-msgid ""
+msgid "192"
 "4_Soldier_N_JumpToUpland__M"
-
 msgstr ""
 "4_Soldier_N_JumpToUpland__M"
 
-msgid ""
+msgid "193"
 "4_Soldier_N_JumpToUpland__T"
-
 msgstr ""
 "4_Soldier_N_JumpToUpland__T"
 
-msgid ""
+msgid "194"
 "4_Soldier_N_JumpFromUpland__H"
-
 msgstr ""
 "4_Soldier_N_JumpFromUpland__H"
 
-msgid ""
+msgid "195"
 "4_Soldier_N_JumpFromUpland__M"
-
 msgstr ""
 "4_Soldier_N_JumpFromUpland__M"
 
-msgid ""
+msgid "196"
 "4_Soldier_N_JumpFromUpland__T"
-
 msgstr ""
 "4_Soldier_N_JumpFromUpland__T"
 
-msgid ""
+msgid "197"
 "4_Soldier_N_TurnLeft"
-
 msgstr ""
 "4_Soldier_N_TurnLeft"
 
-msgid ""
+msgid "198"
 "4_Soldier_N_TurnRight"
-
 msgstr ""
 "4_Soldier_N_TurnRight"
 
-msgid ""
+msgid "199"
 "4_Soldier_N_LargeTurnLeft"
-
 msgstr ""
 "4_Soldier_N_LargeTurnLeft"
 
-msgid ""
+msgid "200"
 "4_Soldier_N_LargeTurnRight"
-
 msgstr ""
 "4_Soldier_N_LargeTurnRight"
 
-msgid ""
+msgid "201"
 "4_Soldier_N_Eat"
-
 msgstr ""
 "4_Soldier_N_Eat"
 
-msgid ""
+msgid "202"
 "4_Soldier_Appear"
-
 msgstr ""
 "4_Soldier_Appear"
 
-msgid ""
+msgid "203"
 "4_Soldier_B_Idle"
-
 msgstr ""
 "4_Soldier_B_Idle"
 
-msgid ""
+msgid "204"
 "4_Soldier_B_Idle_Caution"
-
 msgstr ""
 "4_Soldier_B_Idle_Caution"
 
-msgid ""
+msgid "205"
 "4_Soldier_B_Dash__H"
-
 msgstr ""
 "4_Soldier_B_Dash__H"
 
-msgid ""
+msgid "206"
 "4_Soldier_B_Dash__M"
-
 msgstr ""
 "4_Soldier_B_Dash__M"
 
-msgid ""
+msgid "207"
 "4_Soldier_B_Dash__T"
-
 msgstr ""
 "4_Soldier_B_Dash__T"
 
-msgid ""
+msgid "208"
 "4_Soldier_B_JumpToBossUpland"
-
 msgstr ""
 "4_Soldier_B_JumpToBossUpland"
 
-msgid ""
+msgid "209"
 "4_Soldier_B_JumpFromBossUpland"
-
 msgstr ""
 "4_Soldier_B_JumpFromBossUpland"
 
-msgid ""
+msgid "210"
 "4_Soldier_B_MoveLongPath__H"
-
 msgstr ""
 "4_Soldier_B_MoveLongPath__H"
 
-msgid ""
+msgid "211"
 "4_Soldier_B_MoveLongPath__M"
-
 msgstr ""
 "4_Soldier_B_MoveLongPath__M"
 
-msgid ""
+msgid "212"
 "4_Soldier_B_MoveLongPath__T"
-
 msgstr ""
 "4_Soldier_B_MoveLongPath__T"
 
-msgid ""
+msgid "213"
 "4_Soldier_B_TurnLeft"
-
 msgstr ""
 "4_Soldier_B_TurnLeft"
 
-msgid ""
+msgid "214"
 "4_Soldier_B_TurnRight"
-
 msgstr ""
 "4_Soldier_B_TurnRight"
 
-msgid ""
+msgid "215"
 "4_Soldier_B_LargeTurnLeft"
-
 msgstr ""
 "4_Soldier_B_LargeTurnLeft"
 
-msgid ""
+msgid "216"
 "4_Soldier_B_LargeTurnRight"
-
 msgstr ""
 "4_Soldier_B_LargeTurnRight"
 
-msgid ""
+msgid "217"
 "4_Soldier_B_FindComminate"
-
 msgstr ""
 "4_Soldier_B_FindComminate"
 
-msgid ""
+msgid "218"
 "4_Soldier_B_AngryComminate"
-
 msgstr ""
 "4_Soldier_B_AngryComminate"
 
-msgid ""
+msgid "219"
 "4_Soldier_B_ChagrinComminate"
-
 msgstr ""
 "4_Soldier_B_ChagrinComminate"
 
-msgid ""
+msgid "220"
 "4_Soldier_B_Stagger"
-
 msgstr ""
 "4_Soldier_B_Stagger"
 
-msgid ""
+msgid "221"
 "4_Soldier_B_RightArmDown__H"
-
 msgstr ""
 "4_Soldier_B_RightArmDown__H"
 
-msgid ""
+msgid "222"
 "4_Soldier_B_RightArmDown__M"
-
 msgstr ""
 "4_Soldier_B_RightArmDown__M"
 
-msgid ""
+msgid "223"
 "4_Soldier_B_RightArmDown__T"
-
 msgstr ""
 "4_Soldier_B_RightArmDown__T"
 
-msgid ""
+msgid "224"
 "4_Soldier_B_FootDown__H"
-
 msgstr ""
 "4_Soldier_B_FootDown__H"
 
-msgid ""
+msgid "225"
 "4_Soldier_B_FootDown__M"
-
 msgstr ""
 "4_Soldier_B_FootDown__M"
 
-msgid ""
+msgid "226"
 "4_Soldier_B_FootDown__T"
-
 msgstr ""
 "4_Soldier_B_FootDown__T"
 
-msgid ""
+msgid "227"
 "4_Soldier_B_Hold__H"
-
 msgstr ""
 "4_Soldier_B_Hold__H"
 
-msgid ""
+msgid "228"
 "4_Soldier_B_Hold__M"
-
 msgstr ""
 "4_Soldier_B_Hold__M"
 
-msgid ""
+msgid "229"
 "4_Soldier_B_Hold__T"
-
 msgstr ""
 "4_Soldier_B_Hold__T"
 
-msgid ""
+msgid "230"
 "4_Soldier_B_Giddy"
-
 msgstr ""
 "4_Soldier_B_Giddy"
 
-msgid ""
+msgid "231"
 "4_Soldier_Dead__H"
-
 msgstr ""
 "4_Soldier_Dead__H"
 
-msgid ""
+msgid "232"
 "4_Soldier_Dead__M"
-
 msgstr ""
 "4_Soldier_Dead__M"
 
-msgid ""
+msgid "233"
 "4_Soldier_Dead__T"
-
 msgstr ""
 "4_Soldier_Dead__T"
 
-msgid ""
+msgid "234"
 "4_Soldier_Fumble"
-
 msgstr ""
 "4_Soldier_Fumble"
 
-msgid ""
+msgid "235"
 "4_Soldier_RightStepSlash"
-
 msgstr ""
 "4_Soldier_RightStepSlash"
 
-msgid ""
+msgid "236"
 "4_Soldier_AngryRightStepSlash"
-
 msgstr ""
 "4_Soldier_AngryRightStepSlash"
 
-msgid ""
+msgid "237"
 "4_Soldier_Pounce__H"
-
 msgstr ""
 "4_Soldier_Pounce__H"
 
-msgid ""
+msgid "238"
 "4_Soldier_Pounce__M"
-
 msgstr ""
 "4_Soldier_Pounce__M"
 
-msgid ""
+msgid "239"
 "4_Soldier_Pounce__T"
-
 msgstr ""
 "4_Soldier_Pounce__T"
 
-msgid ""
+msgid "240"
 "4_Soldier_BackflipJump_Back__H"
-
 msgstr ""
 "4_Soldier_BackflipJump_Back__H"
 
-msgid ""
+msgid "241"
 "4_Soldier_BackflipJump_Back__M"
-
 msgstr ""
 "4_Soldier_BackflipJump_Back__M"
 
-msgid ""
+msgid "242"
 "4_Soldier_BackflipJump_Back__T"
-
 msgstr ""
 "4_Soldier_BackflipJump_Back__T"
 
-msgid ""
+msgid "243"
 "4_Soldier_BackflipJump_Jump__M"
-
 msgstr ""
 "4_Soldier_BackflipJump_Jump__M"
 
-msgid ""
+msgid "244"
 "4_Soldier_BackflipJump_Jump__T"
-
 msgstr ""
 "4_Soldier_BackflipJump_Jump__T"
 
-msgid ""
+msgid "245"
 "4_Soldier_FallDownBomb"
-
 msgstr ""
 "4_Soldier_FallDownBomb"
 
-msgid ""
+msgid "246"
 "4_Soldier_WildShot"
-
 msgstr ""
 "4_Soldier_WildShot"
 
-msgid ""
+msgid "247"
 "4_Soldier_TripleHomingSlash_Start"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_Start"
 
-msgid ""
+msgid "248"
 "4_Soldier_TripleHomingSlash_S0__M"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_S0__M"
 
-msgid ""
+msgid "249"
 "4_Soldier_TripleHomingSlash_S0__T"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_S0__T"
 
-msgid ""
+msgid "250"
 "4_Soldier_TripleHomingSlash_S1__M"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_S1__M"
 
-msgid ""
+msgid "251"
 "4_Soldier_TripleHomingSlash_S1__T"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_S1__T"
 
-msgid ""
+msgid "252"
 "4_Soldier_TripleHomingSlash_S2__M"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_S2__M"
 
-msgid ""
+msgid "253"
 "4_Soldier_TripleHomingSlash_S2__T"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_S2__T"
 
-msgid ""
+msgid "254"
 "4_Soldier_TripleHomingSlash_End"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_End"
 
-msgid ""
+msgid "255"
 "4_Soldier_TackleSlash_Tackle"
-
 msgstr ""
 "4_Soldier_TackleSlash_Tackle"
 
-msgid ""
+msgid "256"
 "4_Soldier_TackleSlash_Slash"
-
 msgstr ""
 "4_Soldier_TackleSlash_Slash"
 
-msgid ""
+msgid "257"
 "4_Soldier_AngryTackleSlash_Tackle"
-
 msgstr ""
 "4_Soldier_AngryTackleSlash_Tackle"
 
-msgid ""
+msgid "258"
 "4_Soldier_AngryTackleSlash_Slash"
-
 msgstr ""
 "4_Soldier_AngryTackleSlash_Slash"
 
-msgid ""
+msgid "259"
 "4_Soldier_AngrySlashAround_Front0"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_Front0"
 
-msgid ""
+msgid "260"
 "4_Soldier_AngrySlashAround_Back"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_Back"
 
-msgid ""
+msgid "261"
 "4_Soldier_AngrySlashAround_Left"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_Left"
 
-msgid ""
+msgid "262"
 "4_Soldier_AngrySlashAround_Right"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_Right"
 
-msgid ""
+msgid "263"
 "4_Soldier_AngrySlashAround_Front1"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_Front1"
 

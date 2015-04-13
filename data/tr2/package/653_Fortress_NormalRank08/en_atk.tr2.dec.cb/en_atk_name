@@ -1,318 +1,265 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_OgreTail_Default"
-
 msgstr ""
 "3_OgreTail_Default"
 
-msgid ""
+msgid "9"
 "3_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "10"
 "3_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "11"
 "3_OgreTail_Cling_Base"
-
 msgstr ""
 "3_OgreTail_Cling_Base"
 
-msgid ""
+msgid "12"
 "3_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "13"
 "3_OgreTail_Pounce_Base"
-
 msgstr ""
 "3_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "14"
 "3_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "15"
 "3_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "16"
 "4_OgreTail_Default"
-
 msgstr ""
 "4_OgreTail_Default"
 
-msgid ""
+msgid "17"
 "4_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "4_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "18"
 "4_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "4_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "19"
 "4_OgreTail_Cling_Base"
-
 msgstr ""
 "4_OgreTail_Cling_Base"
 
-msgid ""
+msgid "20"
 "4_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "4_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "21"
 "4_OgreTail_Pounce_Base"
-
 msgstr ""
 "4_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "22"
 "4_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "4_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "23"
 "4_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "4_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "24"
 "5_ATK0"
-
 msgstr ""
 "5_ATK0"
 
-msgid ""
+msgid "25"
 "5_Tiger_Default"
-
 msgstr ""
 "5_Tiger_Default"
 
-msgid ""
+msgid "26"
 "5_Tiger_TestOracle"
-
 msgstr ""
 "5_Tiger_TestOracle"
 
-msgid ""
+msgid "27"
 "5_Tiger_Oracle_Pounce"
-
 msgstr ""
 "5_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "28"
 "5_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "5_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "29"
 "5_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "5_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "30"
 "5_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "5_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "31"
 "5_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "5_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "32"
 "5_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "5_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "33"
 "5_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "5_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "34"
 "5_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "5_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "35"
 "5_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "5_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "36"
 "5_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "5_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "37"
 "5_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "5_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "38"
 "5_Tiger_Cling_Base"
-
 msgstr ""
 "5_Tiger_Cling_Base"
 
-msgid ""
+msgid "39"
 "5_Tiger_Pounce_Base"
-
 msgstr ""
 "5_Tiger_Pounce_Base"
 
-msgid ""
+msgid "40"
 "5_Tiger_DashPounce_Base"
-
 msgstr ""
 "5_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "41"
 "5_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "5_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "42"
 "5_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "5_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "43"
 "5_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "5_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "44"
 "5_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "5_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "45"
 "3_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "3_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "46"
 "4_OgreTail_Oracle_Thunder"
-
 msgstr ""
 "4_OgreTail_Oracle_Thunder"
 
-msgid ""
+msgid "47"
 "4_OgreTail_Oracle_SpotThunder"
-
 msgstr ""
 "4_OgreTail_Oracle_SpotThunder"
 
-msgid ""
+msgid "48"
 "4_OgreTail_Oracle_TailThunder"
-
 msgstr ""
 "4_OgreTail_Oracle_TailThunder"
 
-msgid ""
+msgid "49"
 "5_Tiger_Oracle_Thunder_Chop"
-
 msgstr ""
 "5_Tiger_Oracle_Thunder_Chop"
 
-msgid ""
+msgid "50"
 "5_Tiger_Oracle_Raise_IcePillar"
-
 msgstr ""
 "5_Tiger_Oracle_Raise_IcePillar"
 
-msgid ""
+msgid "51"
 "5_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "5_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "52"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

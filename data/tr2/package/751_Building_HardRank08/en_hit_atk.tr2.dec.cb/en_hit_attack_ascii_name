@@ -1,228 +1,190 @@
-msgid ""
+msgid "0"
 "2_Wani_Misc_Default"
-
 msgstr ""
 "2_Wani_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_Wani_Cling_Base"
-
 msgstr ""
 "2_Wani_Cling_Base"
 
-msgid ""
+msgid "2"
 "2_Wani_Cling_Arms_Base"
-
 msgstr ""
 "2_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "3"
 "2_Wani_Cling_Dash_Base"
-
 msgstr ""
 "2_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "4"
 "2_Wani_Go_Berserk_Base"
-
 msgstr ""
 "2_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "5"
 "2_Wani_Forehead_Default"
-
 msgstr ""
 "2_Wani_Forehead_Default"
 
-msgid ""
+msgid "6"
 "2_Wani_Body_Default"
-
 msgstr ""
 "2_Wani_Body_Default"
 
-msgid ""
+msgid "7"
 "2_Wani_Mouth_Default"
-
 msgstr ""
 "2_Wani_Mouth_Default"
 
-msgid ""
+msgid "8"
 "2_Wani_Arm_Default"
-
 msgstr ""
 "2_Wani_Arm_Default"
 
-msgid ""
+msgid "9"
 "2_Wani_Back_Default"
-
 msgstr ""
 "2_Wani_Back_Default"
 
-msgid ""
+msgid "10"
 "2_Wani_Tail_Default"
-
 msgstr ""
 "2_Wani_Tail_Default"
 
-msgid ""
+msgid "11"
 "2_Wani_Move_Default"
-
 msgstr ""
 "2_Wani_Move_Default"
 
-msgid ""
+msgid "12"
 "3_Scorpion_Misc_Default"
-
 msgstr ""
 "3_Scorpion_Misc_Default"
 
-msgid ""
+msgid "13"
 "3_Scorpion_UpperBody_Default"
-
 msgstr ""
 "3_Scorpion_UpperBody_Default"
 
-msgid ""
+msgid "14"
 "3_Scorpion_Mouth_Default"
-
 msgstr ""
 "3_Scorpion_Mouth_Default"
 
-msgid ""
+msgid "15"
 "3_Scorpion_Arm_Default"
-
 msgstr ""
 "3_Scorpion_Arm_Default"
 
-msgid ""
+msgid "16"
 "3_Scorpion_LowerBody_Default"
-
 msgstr ""
 "3_Scorpion_LowerBody_Default"
 
-msgid ""
+msgid "17"
 "3_Scorpion_BackLeg_Default"
-
 msgstr ""
 "3_Scorpion_BackLeg_Default"
 
-msgid ""
+msgid "18"
 "3_Scorpion_Tail_Default"
-
 msgstr ""
 "3_Scorpion_Tail_Default"
 
-msgid ""
+msgid "19"
 "3_Scorpion_Sword_Default"
-
 msgstr ""
 "3_Scorpion_Sword_Default"
 
-msgid ""
+msgid "20"
 "3_Scorpion_Spear_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Base"
 
-msgid ""
+msgid "21"
 "3_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "3_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "22"
 "3_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "23"
 "3_Scorpion_Tail_Shot_Base"
-
 msgstr ""
 "3_Scorpion_Tail_Shot_Base"
 
-msgid ""
+msgid "24"
 "3_Scorpion_Back_Tail_Shot_Base"
-
 msgstr ""
 "3_Scorpion_Back_Tail_Shot_Base"
 
-msgid ""
+msgid "25"
 "3_Scorpion_AttackTail_Base"
-
 msgstr ""
 "3_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "26"
 "3_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "27"
 "3_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "28"
 "3_Scorpion_Defense_Base"
-
 msgstr ""
 "3_Scorpion_Defense_Base"
 
-msgid ""
+msgid "29"
 "3_Scorpion_DefDash_Base"
-
 msgstr ""
 "3_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "30"
 "3_Scorpion_DefSpear_Base"
-
 msgstr ""
 "3_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "31"
 "3_Scorpion_Back_Tail_Stamp_Base"
-
 msgstr ""
 "3_Scorpion_Back_Tail_Stamp_Base"
 
-msgid ""
+msgid "32"
 "3_Scorpion_DefAttack_Base"
-
 msgstr ""
 "3_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "33"
 "3_Scorpion_Rolling_TailGod_Base"
-
 msgstr ""
 "3_Scorpion_Rolling_TailGod_Base"
 
-msgid ""
+msgid "34"
 "3_Scorpion_Sequence_Arm_Cling_Base"
-
 msgstr ""
 "3_Scorpion_Sequence_Arm_Cling_Base"
 
-msgid ""
+msgid "35"
 "3_Scorpion_Pinpoint_Laser_Base"
-
 msgstr ""
 "3_Scorpion_Pinpoint_Laser_Base"
 
-msgid ""
+msgid "36"
 "3_Scorpion_Move_Default"
-
 msgstr ""
 "3_Scorpion_Move_Default"
 
-msgid ""
+msgid "37"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

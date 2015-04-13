@@ -1,176 +1,132 @@
 # 1
-msgid ""
+msgid "0"
 "Hit"
-
-# 1
 msgstr ""
 "Hit"
 
 # 2
-msgid ""
+msgid "1"
 "CriticalHit"
-
-# 2
 msgstr ""
 "CriticalHit"
 
 # 3
-msgid ""
+msgid "2"
 "BreakableRegion"
-
-# 3
 msgstr ""
 "BreakableRegion"
 
 # 4
-msgid ""
+msgid "3"
 "Down"
-
-# 4
 msgstr ""
 "Down"
 
 # 5
-msgid ""
+msgid "4"
 "ExceptDown"
-
-# 5
 msgstr ""
 "ExceptDown"
 
 # 6
-msgid ""
+msgid "5"
 "Hold"
-
-# 6
 msgstr ""
 "Hold"
 
 # 7
-msgid ""
+msgid "6"
 "ExceptHold"
-
-# 7
 msgstr ""
 "ExceptHold"
 
 # 8
-msgid ""
+msgid "7"
 "Angry"
-
-# 8
 msgstr ""
 "Angry"
 
 # 9
-msgid ""
+msgid "8"
 "ExceptAngry"
-
-# 9
 msgstr ""
 "ExceptAngry"
 
 # 10
-msgid ""
+msgid "9"
 "MissionTotal_Low"
-
-# 10
 msgstr ""
 "MissionTotal_Low"
 
 # 11
-msgid ""
+msgid "10"
 "MissionTotal_Middle"
-
-# 11
 msgstr ""
 "MissionTotal_Middle"
 
 # 12
-msgid ""
+msgid "11"
 "MissionTotal_High"
-
-# 12
 msgstr ""
 "MissionTotal_High"
 
 # 13
-msgid ""
+msgid "12"
 "Continuity_Low"
-
-# 13
 msgstr ""
 "Continuity_Low"
 
 # 14
-msgid ""
+msgid "13"
 "Continuity_Middle"
-
-# 14
 msgstr ""
 "Continuity_Middle"
 
 # 15
-msgid ""
+msgid "14"
 "Continuity_High"
-
-# 15
 msgstr ""
 "Continuity_High"
 
 # 16
-msgid ""
+msgid "15"
 "Difficulty"
-
-# 16
 msgstr ""
 "Difficulty"
 
 # 17
-msgid ""
+msgid "16"
 "FamilyID"
-
-# 17
 msgstr ""
 "FamilyID"
 
 # 18
-msgid ""
+msgid "17"
 "AragamiTypeID"
-
-# 18
 msgstr ""
 "AragamiTypeID"
 
 # 19
-msgid ""
+msgid "18"
 "Boss"
-
-# 19
 msgstr ""
 "Boss"
 
 # 20
-msgid ""
+msgid "19"
 "Zako"
-
-# 20
 msgstr ""
 "Zako"
 
 # 21
-msgid ""
+msgid "20"
 "Seiyaku"
-
-# 21
 msgstr ""
 "Seiyaku"
 
 # 22
-msgid ""
+msgid "21"
 "Equip"
-
-# 22
 msgstr ""
 "Equip"
 

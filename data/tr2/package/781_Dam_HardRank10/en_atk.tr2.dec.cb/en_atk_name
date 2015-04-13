@@ -1,234 +1,195 @@
-msgid ""
+msgid "0"
 "2_ATK0"
-
 msgstr ""
 "2_ATK0"
 
-msgid ""
+msgid "1"
 "2_Tiger_Default"
-
 msgstr ""
 "2_Tiger_Default"
 
-msgid ""
+msgid "2"
 "2_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "2_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "3"
 "2_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "2_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "4"
 "2_Tiger_Cling_Base"
-
 msgstr ""
 "2_Tiger_Cling_Base"
 
-msgid ""
+msgid "5"
 "2_Tiger_Pounce_Base"
-
 msgstr ""
 "2_Tiger_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_Tiger_DashPounce_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "7"
 "2_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "8"
 "2_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "2_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "9"
 "2_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "10"
 "2_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "11"
 "2_Tiger_TestOracle"
-
 msgstr ""
 "2_Tiger_TestOracle"
 
-msgid ""
+msgid "12"
 "2_Tiger_Oracle_Pounce"
-
 msgstr ""
 "2_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "13"
 "2_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "14"
 "2_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "15"
 "2_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "16"
 "2_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "17"
 "2_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "18"
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "19"
 "2_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "20"
 "2_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "21"
 "2_Tiger_Oracle_Raise_IcePillar"
-
 msgstr ""
 "2_Tiger_Oracle_Raise_IcePillar"
 
-msgid ""
+msgid "22"
 "2_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "23"
 "3_Devil_Default"
-
 msgstr ""
 "3_Devil_Default"
 
-msgid ""
+msgid "24"
 "3_Devil_Oracle_StampShockWave"
-
 msgstr ""
 "3_Devil_Oracle_StampShockWave"
 
-msgid ""
+msgid "25"
 "3_Devil_Oracle_Diffusion_IceShot"
-
 msgstr ""
 "3_Devil_Oracle_Diffusion_IceShot"
 
-msgid ""
+msgid "26"
 "3_Devil_Oracle_Homing_IceShot"
-
 msgstr ""
 "3_Devil_Oracle_Homing_IceShot"
 
-msgid ""
+msgid "27"
 "3_Devil_Oracle_Local_IcePillar"
-
 msgstr ""
 "3_Devil_Oracle_Local_IcePillar"
 
-msgid ""
+msgid "28"
 "3_Devil_Oracle_WideRange_IcePillar_Burst"
-
 msgstr ""
 "3_Devil_Oracle_WideRange_IcePillar_Burst"
 
-msgid ""
+msgid "29"
 "3_Devil_Kick_Base"
-
 msgstr ""
 "3_Devil_Kick_Base"
 
-msgid ""
+msgid "30"
 "3_Devil_ArmDispel_Base"
-
 msgstr ""
 "3_Devil_ArmDispel_Base"
 
-msgid ""
+msgid "31"
 "3_Devil_ArmStamp_Base"
-
 msgstr ""
 "3_Devil_ArmStamp_Base"
 
-msgid ""
+msgid "32"
 "3_Devil_StampDash_Base"
-
 msgstr ""
 "3_Devil_StampDash_Base"
 
-msgid ""
+msgid "33"
 "3_Devil_Tackle_Base"
-
 msgstr ""
 "3_Devil_Tackle_Base"
 
-msgid ""
+msgid "34"
 "3_Devil_DoubleArmStamp_Base"
-
 msgstr ""
 "3_Devil_DoubleArmStamp_Base"
 
-msgid ""
+msgid "35"
 "3_Devil_WideRange_IcePillar_Stamp_Base"
-
 msgstr ""
 "3_Devil_WideRange_IcePillar_Stamp_Base"
 
-msgid ""
+msgid "36"
 "3_Devil_BackJump_Base"
-
 msgstr ""
 "3_Devil_BackJump_Base"
 
-msgid ""
+msgid "37"
 "3_Devil_Move_Base"
-
 msgstr ""
 "3_Devil_Move_Base"
 
-msgid ""
+msgid "38"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

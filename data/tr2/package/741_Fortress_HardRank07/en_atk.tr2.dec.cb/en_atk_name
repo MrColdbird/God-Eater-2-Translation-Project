@@ -1,402 +1,335 @@
-msgid ""
+msgid "0"
 "2_Wani_Default"
-
 msgstr ""
 "2_Wani_Default"
 
-msgid ""
+msgid "1"
 "2_Wani_Oracle_Shot_SmallWaterBall"
-
 msgstr ""
 "2_Wani_Oracle_Shot_SmallWaterBall"
 
-msgid ""
+msgid "2"
 "2_Wani_Oracle_Splash_SmallWaterBall"
-
 msgstr ""
 "2_Wani_Oracle_Splash_SmallWaterBall"
 
-msgid ""
+msgid "3"
 "2_Wani_Oracle_Splash_AcidFog"
-
 msgstr ""
 "2_Wani_Oracle_Splash_AcidFog"
 
-msgid ""
+msgid "4"
 "2_Wani_Oracle_Splash_AcidFog_Local"
-
 msgstr ""
 "2_Wani_Oracle_Splash_AcidFog_Local"
 
-msgid ""
+msgid "5"
 "2_Wani_Cling_Base"
-
 msgstr ""
 "2_Wani_Cling_Base"
 
-msgid ""
+msgid "6"
 "2_Wani_Cling_Arms_Base"
-
 msgstr ""
 "2_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "7"
 "2_Wani_Cling_Dash_Base"
-
 msgstr ""
 "2_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "8"
 "2_Wani_Go_Berserk_Base"
-
 msgstr ""
 "2_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "9"
 "3_Wani_Default"
-
 msgstr ""
 "3_Wani_Default"
 
-msgid ""
+msgid "10"
 "3_Wani_Oracle_Shot_SmallWaterBall"
-
 msgstr ""
 "3_Wani_Oracle_Shot_SmallWaterBall"
 
-msgid ""
+msgid "11"
 "3_Wani_Oracle_Splash_SmallWaterBall"
-
 msgstr ""
 "3_Wani_Oracle_Splash_SmallWaterBall"
 
-msgid ""
+msgid "12"
 "3_Wani_Oracle_Splash_AcidFog"
-
 msgstr ""
 "3_Wani_Oracle_Splash_AcidFog"
 
-msgid ""
+msgid "13"
 "3_Wani_Oracle_Splash_AcidFog_Local"
-
 msgstr ""
 "3_Wani_Oracle_Splash_AcidFog_Local"
 
-msgid ""
+msgid "14"
 "3_Wani_Cling_Base"
-
 msgstr ""
 "3_Wani_Cling_Base"
 
-msgid ""
+msgid "15"
 "3_Wani_Cling_Arms_Base"
-
 msgstr ""
 "3_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "16"
 "3_Wani_Cling_Dash_Base"
-
 msgstr ""
 "3_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "17"
 "3_Wani_Go_Berserk_Base"
-
 msgstr ""
 "3_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "18"
 "4_Gorilla_Default"
-
 msgstr ""
 "4_Gorilla_Default"
 
-msgid ""
+msgid "19"
 "4_Gorilla_Oracle_Shot"
-
 msgstr ""
 "4_Gorilla_Oracle_Shot"
 
-msgid ""
+msgid "20"
 "4_Gorilla_Oracle_AroundShockWave"
-
 msgstr ""
 "4_Gorilla_Oracle_AroundShockWave"
 
-msgid ""
+msgid "21"
 "4_Gorilla_Oracle_DirectedSound"
-
 msgstr ""
 "4_Gorilla_Oracle_DirectedSound"
 
-msgid ""
+msgid "22"
 "4_Gorilla_Punch_Base"
-
 msgstr ""
 "4_Gorilla_Punch_Base"
 
-msgid ""
+msgid "23"
 "4_Gorilla_Niou_Punch_Base"
-
 msgstr ""
 "4_Gorilla_Niou_Punch_Base"
 
-msgid ""
+msgid "24"
 "4_Gorilla_Arm_Stamp_Base"
-
 msgstr ""
 "4_Gorilla_Arm_Stamp_Base"
 
-msgid ""
+msgid "25"
 "4_Gorilla_Rolling_Attack_Base"
-
 msgstr ""
 "4_Gorilla_Rolling_Attack_Base"
 
-msgid ""
+msgid "26"
 "4_Gorilla_Double_Lariat_Base"
-
 msgstr ""
 "4_Gorilla_Double_Lariat_Base"
 
-msgid ""
+msgid "27"
 "4_Gorilla_Oracle_ArmStamp"
-
 msgstr ""
 "4_Gorilla_Oracle_ArmStamp"
 
-msgid ""
+msgid "28"
 "2_Wani_Forehead_Default"
-
 msgstr ""
 "2_Wani_Forehead_Default"
 
-msgid ""
+msgid "29"
 "2_Wani_Body_Default"
-
 msgstr ""
 "2_Wani_Body_Default"
 
-msgid ""
+msgid "30"
 "2_Wani_Mouth_Default"
-
 msgstr ""
 "2_Wani_Mouth_Default"
 
-msgid ""
+msgid "31"
 "2_Wani_Arm_Default"
-
 msgstr ""
 "2_Wani_Arm_Default"
 
-msgid ""
+msgid "32"
 "2_Wani_Back_Default"
-
 msgstr ""
 "2_Wani_Back_Default"
 
-msgid ""
+msgid "33"
 "2_Wani_Tail_Default"
-
 msgstr ""
 "2_Wani_Tail_Default"
 
-msgid ""
+msgid "34"
 "3_Wani_Forehead_Default"
-
 msgstr ""
 "3_Wani_Forehead_Default"
 
-msgid ""
+msgid "35"
 "3_Wani_Body_Default"
-
 msgstr ""
 "3_Wani_Body_Default"
 
-msgid ""
+msgid "36"
 "3_Wani_Mouth_Default"
-
 msgstr ""
 "3_Wani_Mouth_Default"
 
-msgid ""
+msgid "37"
 "3_Wani_Arm_Default"
-
 msgstr ""
 "3_Wani_Arm_Default"
 
-msgid ""
+msgid "38"
 "3_Wani_Back_Default"
-
 msgstr ""
 "3_Wani_Back_Default"
 
-msgid ""
+msgid "39"
 "3_Wani_Tail_Default"
-
 msgstr ""
 "3_Wani_Tail_Default"
 
-msgid ""
+msgid "40"
 "3_Wani_Oracle_Angry_Go_Berserk"
-
 msgstr ""
 "3_Wani_Oracle_Angry_Go_Berserk"
 
-msgid ""
+msgid "41"
 "2_Wani_Move_Default"
-
 msgstr ""
 "2_Wani_Move_Default"
 
-msgid ""
+msgid "42"
 "3_Wani_Move_Default"
-
 msgstr ""
 "3_Wani_Move_Default"
 
-msgid ""
+msgid "43"
 "4_Gorilla_Move_Default"
-
 msgstr ""
 "4_Gorilla_Move_Default"
 
-msgid ""
+msgid "44"
 "4_Gorilla_BackJump_Base"
-
 msgstr ""
 "4_Gorilla_BackJump_Base"
 
-msgid ""
+msgid "45"
 "5_Ravana_Default"
-
 msgstr ""
 "5_Ravana_Default"
 
-msgid ""
+msgid "46"
 "5_Ravana_Oracle_Pounce"
-
 msgstr ""
 "5_Ravana_Oracle_Pounce"
 
-msgid ""
+msgid "47"
 "5_Ravana_Oracle_DashPounceTurn"
-
 msgstr ""
 "5_Ravana_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "48"
 "5_Ravana_Oracle_FakePounce"
-
 msgstr ""
 "5_Ravana_Oracle_FakePounce"
 
-msgid ""
+msgid "49"
 "5_Ravana_Oracle_AroundHeatWaveWithJamming"
-
 msgstr ""
 "5_Ravana_Oracle_AroundHeatWaveWithJamming"
 
-msgid ""
+msgid "50"
 "5_Ravana_Oracle_AroundHeatWave"
-
 msgstr ""
 "5_Ravana_Oracle_AroundHeatWave"
 
-msgid ""
+msgid "51"
 "5_Ravana_Oracle_Local_HeatWave"
-
 msgstr ""
 "5_Ravana_Oracle_Local_HeatWave"
 
-msgid ""
+msgid "52"
 "5_Ravana_Oracle_ParallelFire"
-
 msgstr ""
 "5_Ravana_Oracle_ParallelFire"
 
-msgid ""
+msgid "53"
 "5_Ravana_Oracle_CirculateFire"
-
 msgstr ""
 "5_Ravana_Oracle_CirculateFire"
 
-msgid ""
+msgid "54"
 "5_Ravana_Oracle_PoisonScale"
-
 msgstr ""
 "5_Ravana_Oracle_PoisonScale"
 
-msgid ""
+msgid "55"
 "5_Ravana_Oracle_StunRailGun"
-
 msgstr ""
 "5_Ravana_Oracle_StunRailGun"
 
-msgid ""
+msgid "56"
 "5_Ravana_Scratch_Base"
-
 msgstr ""
 "5_Ravana_Scratch_Base"
 
-msgid ""
+msgid "57"
 "5_Ravana_Pounce_Base"
-
 msgstr ""
 "5_Ravana_Pounce_Base"
 
-msgid ""
+msgid "58"
 "5_Ravana_DashPounce_Base"
-
 msgstr ""
 "5_Ravana_DashPounce_Base"
 
-msgid ""
+msgid "59"
 "5_Ravana_DashPounceCircling_Base"
-
 msgstr ""
 "5_Ravana_DashPounceCircling_Base"
 
-msgid ""
+msgid "60"
 "5_Ravana_StunRailGun_Base"
-
 msgstr ""
 "5_Ravana_StunRailGun_Base"
 
-msgid ""
+msgid "61"
 "5_Ravana_BackJump_Base"
-
 msgstr ""
 "5_Ravana_BackJump_Base"
 
-msgid ""
+msgid "62"
 "5_Ravana_BackStep_Base"
-
 msgstr ""
 "5_Ravana_BackStep_Base"
 
-msgid ""
+msgid "63"
 "5_Ravana_Oracle_FakePounce_NpcWarning"
-
 msgstr ""
 "5_Ravana_Oracle_FakePounce_NpcWarning"
 
-msgid ""
+msgid "64"
 "2_Wani_Oracle_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "2_Wani_Oracle_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "65"
 "3_Wani_Oracle_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "3_Wani_Oracle_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "66"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

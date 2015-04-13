@@ -1,336 +1,280 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_Hannibal_Default"
-
 msgstr ""
 "3_Hannibal_Default"
 
-msgid ""
+msgid "6"
 "3_Hannibal_Oracle_SpearGlide_ShockWave"
-
 msgstr ""
 "3_Hannibal_Oracle_SpearGlide_ShockWave"
 
-msgid ""
+msgid "7"
 "3_Hannibal_Oracle_Shot_PlasmaBall"
-
 msgstr ""
 "3_Hannibal_Oracle_Shot_PlasmaBall"
 
-msgid ""
+msgid "8"
 "3_Hannibal_Oracle_FireBreath_LtoR"
-
 msgstr ""
 "3_Hannibal_Oracle_FireBreath_LtoR"
 
-msgid ""
+msgid "9"
 "3_Hannibal_Oracle_FireBreath_RtoL"
-
 msgstr ""
 "3_Hannibal_Oracle_FireBreath_RtoL"
 
-msgid ""
+msgid "10"
 "3_Hannibal_Oracle_FireStorm"
-
 msgstr ""
 "3_Hannibal_Oracle_FireStorm"
 
-msgid ""
+msgid "11"
 "3_Hannibal_Oracle_Call_FirePillar"
-
 msgstr ""
 "3_Hannibal_Oracle_Call_FirePillar"
 
-msgid ""
+msgid "12"
 "3_Hannibal_LeftArmDispel_Base"
-
 msgstr ""
 "3_Hannibal_LeftArmDispel_Base"
 
-msgid ""
+msgid "13"
 "3_Hannibal_ArmDispel_Base"
-
 msgstr ""
 "3_Hannibal_ArmDispel_Base"
 
-msgid ""
+msgid "14"
 "3_Hannibal_ArmDispel_Move_Base"
-
 msgstr ""
 "3_Hannibal_ArmDispel_Move_Base"
 
-msgid ""
+msgid "15"
 "3_Hannibal_SpearGlide_Base"
-
 msgstr ""
 "3_Hannibal_SpearGlide_Base"
 
-msgid ""
+msgid "16"
 "3_Hannibal_HormingDashPounce_Base"
-
 msgstr ""
 "3_Hannibal_HormingDashPounce_Base"
 
-msgid ""
+msgid "17"
 "3_Hannibal_TailDispel_Base"
-
 msgstr ""
 "3_Hannibal_TailDispel_Base"
 
-msgid ""
+msgid "18"
 "3_Hannibal_BackJump_Base"
-
 msgstr ""
 "3_Hannibal_BackJump_Base"
 
-msgid ""
+msgid "19"
 "3_Hannibal_HalfTurn_Base"
-
 msgstr ""
 "3_Hannibal_HalfTurn_Base"
 
-msgid ""
+msgid "20"
 "3_Hannibal_WeaponCombo_Base"
-
 msgstr ""
 "3_Hannibal_WeaponCombo_Base"
 
-msgid ""
+msgid "21"
 "3_Hannibal_WeaponCombo_Move_Base"
-
 msgstr ""
 "3_Hannibal_WeaponCombo_Move_Base"
 
-msgid ""
+msgid "22"
 "3_Hannibal_LoopPunch_Base"
-
 msgstr ""
 "3_Hannibal_LoopPunch_Base"
 
-msgid ""
+msgid "23"
 "3_Hannibal_Call_LocalFirePillar_Base"
-
 msgstr ""
 "3_Hannibal_Call_LocalFirePillar_Base"
 
-msgid ""
+msgid "24"
 "3_Hannibal_Move_Base"
-
 msgstr ""
 "3_Hannibal_Move_Base"
 
-msgid ""
+msgid "25"
 "3_Hannibal_HormingDashPounce_Finish_Base"
-
 msgstr ""
 "3_Hannibal_HormingDashPounce_Finish_Base"
 
-msgid ""
+msgid "26"
 "4_Vampire_Default"
-
 msgstr ""
 "4_Vampire_Default"
 
-msgid ""
+msgid "27"
 "4_Vampire_Pincer_Arms_Base"
-
 msgstr ""
 "4_Vampire_Pincer_Arms_Base"
 
-msgid ""
+msgid "28"
 "4_Vampire_Oracle_Jump_Kick"
-
 msgstr ""
 "4_Vampire_Oracle_Jump_Kick"
 
-msgid ""
+msgid "29"
 "4_Vampire_Oracle_Shot_Power_Charge"
-
 msgstr ""
 "4_Vampire_Oracle_Shot_Power_Charge"
 
-msgid ""
+msgid "30"
 "4_Vampire_Oracle_Loop_Shot_Power_Charge"
-
 msgstr ""
 "4_Vampire_Oracle_Loop_Shot_Power_Charge"
 
-msgid ""
+msgid "31"
 "4_Vampire_Oracle_Impact"
-
 msgstr ""
 "4_Vampire_Oracle_Impact"
 
-msgid ""
+msgid "32"
 "4_Vampire_Oracle_Shot_Homing"
-
 msgstr ""
 "4_Vampire_Oracle_Shot_Homing"
 
-msgid ""
+msgid "33"
 "4_Vampire_Oracle_Shock_Wave"
-
 msgstr ""
 "4_Vampire_Oracle_Shock_Wave"
 
-msgid ""
+msgid "34"
 "4_Vampire_Jump_Kick_Base"
-
 msgstr ""
 "4_Vampire_Jump_Kick_Base"
 
-msgid ""
+msgid "35"
 "4_Vampire_Jump_Turn_Arms_Base"
-
 msgstr ""
 "4_Vampire_Jump_Turn_Arms_Base"
 
-msgid ""
+msgid "36"
 "4_Vampire_Back_Jump_Base"
-
 msgstr ""
 "4_Vampire_Back_Jump_Base"
 
-msgid ""
+msgid "37"
 "4_Vampire_Side_Step_Base"
-
 msgstr ""
 "4_Vampire_Side_Step_Base"
 
-msgid ""
+msgid "38"
 "4_Vampire_Arms_Rot_Shock_Wave_Base"
-
 msgstr ""
 "4_Vampire_Arms_Rot_Shock_Wave_Base"
 
-msgid ""
+msgid "39"
 "4_Vampire_Gliding_Rush_Base"
-
 msgstr ""
 "4_Vampire_Gliding_Rush_Base"
 
-msgid ""
+msgid "40"
 "4_Vampire_Oracle_Arms_Rot_Shock_Wave"
-
 msgstr ""
 "4_Vampire_Oracle_Arms_Rot_Shock_Wave"
 
-msgid ""
+msgid "41"
 "4_Vampire_Oracle_Gliding_Rush"
-
 msgstr ""
 "4_Vampire_Oracle_Gliding_Rush"
 
-msgid ""
+msgid "42"
 "4_Vampire_Move_Default"
-
 msgstr ""
 "4_Vampire_Move_Default"
 
-msgid ""
+msgid "43"
 "4_Vampire_Oracle_GlideDiveStomp_Glide"
-
 msgstr ""
 "4_Vampire_Oracle_GlideDiveStomp_Glide"
 
-msgid ""
+msgid "44"
 "4_Vampire_Oracle_BackStep_Shot"
-
 msgstr ""
 "4_Vampire_Oracle_BackStep_Shot"
 
-msgid ""
+msgid "45"
 "4_Vampire_Oracle_DiveStomp"
-
 msgstr ""
 "4_Vampire_Oracle_DiveStomp"
 
-msgid ""
+msgid "46"
 "4_Vampire_Oracle_GlideDiveStomp_DiveStomp"
-
 msgstr ""
 "4_Vampire_Oracle_GlideDiveStomp_DiveStomp"
 
-msgid ""
+msgid "47"
 "5_OgreTail_Default"
-
 msgstr ""
 "5_OgreTail_Default"
 
-msgid ""
+msgid "48"
 "5_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "5_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "49"
 "5_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "5_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "50"
 "5_OgreTail_Cling_Base"
-
 msgstr ""
 "5_OgreTail_Cling_Base"
 
-msgid ""
+msgid "51"
 "5_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "5_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "52"
 "5_OgreTail_Pounce_Base"
-
 msgstr ""
 "5_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "53"
 "5_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "5_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "54"
 "5_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "5_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "55"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

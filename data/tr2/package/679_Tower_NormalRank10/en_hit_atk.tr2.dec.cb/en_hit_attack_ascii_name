@@ -1,270 +1,225 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Misc_Default"
-
 msgstr ""
 "2_OgreTail_Misc_Default"
 
-msgid ""
+msgid "1"
 "3_OgreTail_Misc_Default"
-
 msgstr ""
 "3_OgreTail_Misc_Default"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "3"
 "3_OgreTail_Cling_Base"
-
 msgstr ""
 "3_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "3_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "7"
 "3_OgreTail_Pounce_Base"
-
 msgstr ""
 "3_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "8"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "9"
 "3_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "10"
 "2_OgreTail_Head_Default"
-
 msgstr ""
 "2_OgreTail_Head_Default"
 
-msgid ""
+msgid "11"
 "3_OgreTail_Head_Default"
-
 msgstr ""
 "3_OgreTail_Head_Default"
 
-msgid ""
+msgid "12"
 "2_OgreTail_Forefoot_Default"
-
 msgstr ""
 "2_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "13"
 "3_OgreTail_Forefoot_Default"
-
 msgstr ""
 "3_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "14"
 "2_OgreTail_Tail_Default"
-
 msgstr ""
 "2_OgreTail_Tail_Default"
 
-msgid ""
+msgid "15"
 "3_OgreTail_Tail_Default"
-
 msgstr ""
 "3_OgreTail_Tail_Default"
 
-msgid ""
+msgid "16"
 "4_CocoonMaiden_Misc_Default"
-
 msgstr ""
 "4_CocoonMaiden_Misc_Default"
 
-msgid ""
+msgid "17"
 "5_CocoonMaiden_Misc_Default"
-
 msgstr ""
 "5_CocoonMaiden_Misc_Default"
 
-msgid ""
+msgid "18"
 "6_Caligula_Misc_Default"
-
 msgstr ""
 "6_Caligula_Misc_Default"
 
-msgid ""
+msgid "19"
 "6_Caligula_Head_Default"
-
 msgstr ""
 "6_Caligula_Head_Default"
 
-msgid ""
+msgid "20"
 "6_Caligula_Neck_Default"
-
 msgstr ""
 "6_Caligula_Neck_Default"
 
-msgid ""
+msgid "21"
 "6_Caligula_RightArm_Default"
-
 msgstr ""
 "6_Caligula_RightArm_Default"
 
-msgid ""
+msgid "22"
 "6_Caligula_LeftArm_Default"
-
 msgstr ""
 "6_Caligula_LeftArm_Default"
 
-msgid ""
+msgid "23"
 "6_Caligula_Belly_Default"
-
 msgstr ""
 "6_Caligula_Belly_Default"
 
-msgid ""
+msgid "24"
 "6_Caligula_Booster_Default"
-
 msgstr ""
 "6_Caligula_Booster_Default"
 
-msgid ""
+msgid "25"
 "6_Caligula_Foot_Default"
-
 msgstr ""
 "6_Caligula_Foot_Default"
 
-msgid ""
+msgid "26"
 "6_Caligula_Tail_Default"
-
 msgstr ""
 "6_Caligula_Tail_Default"
 
-msgid ""
+msgid "27"
 "6_Caligula_LeftArmDispel_Base"
-
 msgstr ""
 "6_Caligula_LeftArmDispel_Base"
 
-msgid ""
+msgid "28"
 "6_Caligula_ArmDispel_Base"
-
 msgstr ""
 "6_Caligula_ArmDispel_Base"
 
-msgid ""
+msgid "29"
 "6_Caligula_ArmDispel_Move_Base"
-
 msgstr ""
 "6_Caligula_ArmDispel_Move_Base"
 
-msgid ""
+msgid "30"
 "6_Caligula_SpearGlide_Base"
-
 msgstr ""
 "6_Caligula_SpearGlide_Base"
 
-msgid ""
+msgid "31"
 "6_Caligula_HormingDashPounce_Base"
-
 msgstr ""
 "6_Caligula_HormingDashPounce_Base"
 
-msgid ""
+msgid "32"
 "6_Caligula_TailDispel_Base"
-
 msgstr ""
 "6_Caligula_TailDispel_Base"
 
-msgid ""
+msgid "33"
 "6_Caligula_BackJump_Base"
-
 msgstr ""
 "6_Caligula_BackJump_Base"
 
-msgid ""
+msgid "34"
 "6_Caligula_HalfTurn_Base"
-
 msgstr ""
 "6_Caligula_HalfTurn_Base"
 
-msgid ""
+msgid "35"
 "6_Caligula_LoopPunch_Base"
-
 msgstr ""
 "6_Caligula_LoopPunch_Base"
 
-msgid ""
+msgid "36"
 "6_Caligula_Call_LocalIcePillar_Base"
-
 msgstr ""
 "6_Caligula_Call_LocalIcePillar_Base"
 
-msgid ""
+msgid "37"
 "6_Caligula_Move_Base"
-
 msgstr ""
 "6_Caligula_Move_Base"
 
-msgid ""
+msgid "38"
 "6_Caligula_Generic_Default"
-
 msgstr ""
 "6_Caligula_Generic_Default"
 
-msgid ""
+msgid "39"
 "6_Caligula_HormingDashPounce_Finish_Base"
-
 msgstr ""
 "6_Caligula_HormingDashPounce_Finish_Base"
 
-msgid ""
+msgid "40"
 "6_Caligula_SkatingDash_Base"
-
 msgstr ""
 "6_Caligula_SkatingDash_Base"
 
-msgid ""
+msgid "41"
 "6_Caligula_SkatingDash_Blade_Base"
-
 msgstr ""
 "6_Caligula_SkatingDash_Blade_Base"
 
-msgid ""
+msgid "42"
 "6_Caligula_KayserBallista_Base"
-
 msgstr ""
 "6_Caligula_KayserBallista_Base"
 
-msgid ""
+msgid "43"
 "6_Caligula_KayserBallista_Blade_Base"
-
 msgstr ""
 "6_Caligula_KayserBallista_Blade_Base"
 
-msgid ""
+msgid "44"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

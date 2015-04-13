@@ -1,456 +1,380 @@
-﻿msgid ""
+msgid "0"
 "ヴァジュラ"
-
 msgstr ""
 "ヴァジュラ"
 
-msgid ""
+msgid "1"
 "ハンニバル侵喰種"
-
 msgstr ""
 "ハンニバル侵喰種"
 
-msgid ""
+msgid "2"
 "オウガテイル"
-
 msgstr ""
 "オウガテイル"
 
-msgid ""
+msgid "3"
 "ザイゴート"
-
 msgstr ""
 "ザイゴート"
 
-msgid ""
+msgid "4"
 "コクーンメイデン"
-
 msgstr ""
 "コクーンメイデン"
 
-msgid ""
+msgid "5"
 "コンゴウ"
-
 msgstr ""
 "コンゴウ"
 
-msgid ""
+msgid "6"
 "グボロ・グボロ"
-
 msgstr ""
 "グボロ・グボロ"
 
-msgid ""
+msgid "7"
 "シユウ"
-
 msgstr ""
 "シユウ"
 
-msgid ""
+msgid "8"
 "サリエル"
-
 msgstr ""
 "サリエル"
 
-msgid ""
+msgid "9"
 "ボルグ・カムラン"
-
 msgstr ""
 "ボルグ・カムラン"
 
-msgid ""
+msgid "10"
 "クアドリガ"
-
 msgstr ""
 "クアドリガ"
 
-msgid ""
+msgid "11"
 "ウロヴォロス"
-
 msgstr ""
 "ウロヴォロス"
 
-msgid ""
+msgid "12"
+"プリティヴィ・マータ"
+msgstr ""
 "プリティヴィ・マータ"
 
-msgstr ""
-"プリティヴィ・マータ"
-
-msgid ""
+msgid "13"
 "オウガテイル堕天"
-
 msgstr ""
 "オウガテイル堕天"
 
-msgid ""
+msgid "14"
 "ヴァジュラテイル"
-
-msgstr ""
-"ヴァジュラテイル"
-
-msgid ""
-"アルダノーヴァ"
-
-msgstr ""
-"アルダノーヴァ"
-
-msgid ""
-"アルダノーヴァ"
-
-msgstr ""
-"アルダノーヴァ"
-
-msgid ""
-"ヴァジュラテイル"
-
 msgstr ""
 "ヴァジュラテイル"
 
-msgid ""
-"コクーンメイデン堕天"
+msgid "15"
+"アルダノーヴァ"
+msgstr ""
+"アルダノーヴァ"
 
+msgid "16"
+"アルダノーヴァ"
+msgstr ""
+"アルダノーヴァ"
+
+msgid "17"
+"ヴァジュラテイル"
+msgstr ""
+"ヴァジュラテイル"
+
+msgid "18"
+"コクーンメイデン堕天"
 msgstr ""
 "コクーンメイデン堕天"
 
-msgid ""
+msgid "19"
 "コクーンメイデン堕天"
-
-msgstr ""
-"コクーンメイデン堕天"
-
-msgid ""
-"コクーンメイデン堕天"
-
 msgstr ""
 "コクーンメイデン堕天"
 
-msgid ""
-"ザイゴート堕天"
+msgid "20"
+"コクーンメイデン堕天"
+msgstr ""
+"コクーンメイデン堕天"
 
+msgid "21"
+"ザイゴート堕天"
 msgstr ""
 "ザイゴート堕天"
 
-msgid ""
+msgid "22"
 "ザイゴート堕天"
-
 msgstr ""
 "ザイゴート堕天"
 
-msgid ""
+msgid "23"
 "ザイゴート堕天"
-
 msgstr ""
 "ザイゴート堕天"
 
-msgid ""
+msgid "24"
+"グボロ・グボロ堕天"
+msgstr ""
 "グボロ・グボロ堕天"
 
+msgid "25"
+"グボロ・グボロ堕天"
 msgstr ""
 "グボロ・グボロ堕天"
 
-msgid ""
-"グボロ・グボロ堕天"
-
-msgstr ""
-"グボロ・グボロ堕天"
-
-msgid ""
+msgid "26"
 "コンゴウ堕天"
-
 msgstr ""
 "コンゴウ堕天"
 
-msgid ""
+msgid "27"
 "ハガンコンゴウ"
-
 msgstr ""
 "ハガンコンゴウ"
 
-msgid ""
+msgid "28"
 "シユウ堕天"
-
 msgstr ""
 "シユウ堕天"
 
-msgid ""
+msgid "29"
 "セクメト"
-
 msgstr ""
 "セクメト"
 
-msgid ""
+msgid "30"
+"ディアウス・ピター"
+msgstr ""
 "ディアウス・ピター"
 
-msgstr ""
-"ディアウス・ピター"
-
-msgid ""
+msgid "31"
 "ボルグ・カムラン堕天"
-
 msgstr ""
 "ボルグ・カムラン堕天"
 
-msgid ""
+msgid "32"
 "ボルグ・カムラン堕天"
-
 msgstr ""
 "ボルグ・カムラン堕天"
 
-msgid ""
+msgid "33"
 "サリエル堕天"
-
 msgstr ""
 "サリエル堕天"
 
-msgid ""
+msgid "34"
 "アイテール"
-
 msgstr ""
 "アイテール"
 
-msgid ""
+msgid "35"
 "クアドリガ堕天"
-
 msgstr ""
 "クアドリガ堕天"
 
-msgid ""
+msgid "36"
 "テスカトリポカ"
-
 msgstr ""
 "テスカトリポカ"
 
-msgid ""
+msgid "37"
+"ウロヴォロス堕天"
+msgstr ""
 "ウロヴォロス堕天"
 
-msgstr ""
-"ウロヴォロス堕天"
-
-msgid ""
+msgid "38"
 "アルダノーヴァ堕天"
-
 msgstr ""
 "アルダノーヴァ堕天"
 
-msgid ""
+msgid "39"
 "アルダノーヴァ堕天"
-
 msgstr ""
 "アルダノーヴァ堕天"
 
-msgid ""
+msgid "40"
 "スサノオ"
-
 msgstr ""
 "スサノオ"
 
-msgid ""
+msgid "41"
 "ポセイドン"
-
 msgstr ""
 "ポセイドン"
 
-msgid ""
+msgid "42"
 "ゼウス"
-
 msgstr ""
 "ゼウス"
 
-msgid ""
+msgid "43"
 "ヘラ"
-
 msgstr ""
 "ヘラ"
 
-msgid ""
+msgid "44"
 "グボロ・グボロ黄金"
-
 msgstr ""
 "グボロ・グボロ黄金"
 
-msgid ""
+msgid "45"
 "アマテラス"
-
 msgstr ""
 "アマテラス"
 
-msgid ""
+msgid "46"
 "ツクヨミ"
-
 msgstr ""
 "ツクヨミ"
 
-msgid ""
+msgid "47"
 "ハンニバル"
-
 msgstr ""
 "ハンニバル"
 
-msgid ""
+msgid "48"
 "ヴィーナス"
-
 msgstr ""
 "ヴィーナス"
 
-msgid ""
+msgid "49"
 "カリギュラ"
-
 msgstr ""
 "カリギュラ"
 
-msgid ""
+msgid "50"
 "ラーヴァナ"
-
 msgstr ""
 "ラーヴァナ"
 
-msgid ""
+msgid "51"
 "ヤクシャ・ラージャ"
-
 msgstr ""
 "ヤクシャ・ラージャ"
 
-msgid ""
+msgid "52"
 "ヤクシャ"
-
 msgstr ""
 "ヤクシャ"
 
-msgid ""
+msgid "53"
 "ナイトホロウ"
-
 msgstr ""
 "ナイトホロウ"
 
-msgid ""
+msgid "54"
 "ガルム"
-
 msgstr ""
 "ガルム"
 
-msgid ""
+msgid "55"
 "デミウルゴス"
-
 msgstr ""
 "デミウルゴス"
 
-msgid ""
+msgid "56"
 "ドレッドパイク"
-
 msgstr ""
 "ドレッドパイク"
 
-msgid ""
+msgid "57"
 "神機兵・長刀型"
-
 msgstr ""
 "神機兵・長刀型"
 
-msgid ""
+msgid "58"
 "神機兵・大剣型"
-
 msgstr ""
 "神機兵・大剣型"
 
-msgid ""
+msgid "59"
 "ウコンバサラ"
-
 msgstr ""
 "ウコンバサラ"
 
-msgid ""
+msgid "60"
 "キュウビ"
-
 msgstr ""
 "キュウビ"
 
-msgid ""
+msgid "61"
 "零號神機兵"
-
 msgstr ""
 "零號神機兵"
 
-msgid ""
+msgid "62"
 "劣化コンゴウ"
-
 msgstr ""
 "劣化コンゴウ"
 
-msgid ""
+msgid "63"
 "マルドゥーク"
-
 msgstr ""
 "マルドゥーク"
 
-msgid ""
+msgid "64"
 "イェン・ツィー"
-
 msgstr ""
 "イェン・ツィー"
 
-msgid ""
+msgid "65"
 "チョウワン"
-
 msgstr ""
 "チョウワン"
 
-msgid ""
+msgid "66"
 "カバラ・カバラ"
-
 msgstr ""
 "カバラ・カバラ"
 
-msgid ""
+msgid "67"
 "ニュクス・アルヴァ"
-
 msgstr ""
 "ニュクス・アルヴァ"
 
-msgid ""
+msgid "68"
 "スパルタカス"
-
 msgstr ""
 "スパルタカス"
 
-msgid ""
+msgid "69"
 "世界を拓く者"
-
 msgstr ""
 "世界を拓く者"
 
-msgid ""
+msgid "70"
 "アバドン"
-
 msgstr ""
 "アバドン"
 
-msgid ""
+msgid "71"
 "マガツキュウビ"
-
 msgstr ""
 "マガツキュウビ"
 
-msgid ""
+msgid "72"
 "暴走神機兵・長刀型"
-
 msgstr ""
 "暴走神機兵・長刀型"
 
-msgid ""
+msgid "73"
 "暴走神機兵・大剣型"
-
 msgstr ""
 "暴走神機兵・大剣型"
 
-msgid ""
+msgid "74"
 "ルフス・カリギュラ"
-
 msgstr ""
 "ルフス・カリギュラ"
 
-msgid ""
+msgid "75"
 "マルドゥーク"
-
 msgstr ""
 "マルドゥーク"
 

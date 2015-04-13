@@ -1,942 +1,785 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_OgreTail_N_Idle"
-
 msgstr ""
 "2_OgreTail_N_Idle"
 
-msgid ""
+msgid "31"
 "2_OgreTail_N_Walk"
-
 msgstr ""
 "2_OgreTail_N_Walk"
 
-msgid ""
+msgid "32"
 "2_OgreTail_N_JumpToUpland__H"
-
 msgstr ""
 "2_OgreTail_N_JumpToUpland__H"
 
-msgid ""
+msgid "33"
 "2_OgreTail_N_JumpToUpland__M"
-
 msgstr ""
 "2_OgreTail_N_JumpToUpland__M"
 
-msgid ""
+msgid "34"
 "2_OgreTail_N_JumpToUpland__T"
-
 msgstr ""
 "2_OgreTail_N_JumpToUpland__T"
 
-msgid ""
+msgid "35"
 "2_OgreTail_N_JumpFromUpland__H"
-
 msgstr ""
 "2_OgreTail_N_JumpFromUpland__H"
 
-msgid ""
+msgid "36"
 "2_OgreTail_N_JumpFromUpland__M"
-
 msgstr ""
 "2_OgreTail_N_JumpFromUpland__M"
 
-msgid ""
+msgid "37"
 "2_OgreTail_N_JumpFromUpland__T"
-
 msgstr ""
 "2_OgreTail_N_JumpFromUpland__T"
 
-msgid ""
+msgid "38"
 "2_OgreTail_N_TurnLeft"
-
 msgstr ""
 "2_OgreTail_N_TurnLeft"
 
-msgid ""
+msgid "39"
 "2_OgreTail_N_TurnRight"
-
 msgstr ""
 "2_OgreTail_N_TurnRight"
 
-msgid ""
+msgid "40"
 "2_OgreTail_N_LargeTurnLeft"
-
 msgstr ""
 "2_OgreTail_N_LargeTurnLeft"
 
-msgid ""
+msgid "41"
 "2_OgreTail_N_LargeTurnRight"
-
 msgstr ""
 "2_OgreTail_N_LargeTurnRight"
 
-msgid ""
+msgid "42"
 "2_OgreTail_N_Eat"
-
 msgstr ""
 "2_OgreTail_N_Eat"
 
-msgid ""
+msgid "43"
 "2_OgreTail_Appear"
-
 msgstr ""
 "2_OgreTail_Appear"
 
-msgid ""
+msgid "44"
 "2_OgreTail_B_Idle"
-
 msgstr ""
 "2_OgreTail_B_Idle"
 
-msgid ""
+msgid "45"
 "2_OgreTail_B_Dash__H"
-
 msgstr ""
 "2_OgreTail_B_Dash__H"
 
-msgid ""
+msgid "46"
 "2_OgreTail_B_Dash__M"
-
 msgstr ""
 "2_OgreTail_B_Dash__M"
 
-msgid ""
+msgid "47"
 "2_OgreTail_B_Dash__T"
-
 msgstr ""
 "2_OgreTail_B_Dash__T"
 
-msgid ""
+msgid "48"
 "2_OgreTail_B_TurnLeft"
-
 msgstr ""
 "2_OgreTail_B_TurnLeft"
 
-msgid ""
+msgid "49"
 "2_OgreTail_B_TurnRight"
-
 msgstr ""
 "2_OgreTail_B_TurnRight"
 
-msgid ""
+msgid "50"
 "2_OgreTail_B_LargeTurnLeft"
-
 msgstr ""
 "2_OgreTail_B_LargeTurnLeft"
 
-msgid ""
+msgid "51"
 "2_OgreTail_B_LargeTurnRight"
-
 msgstr ""
 "2_OgreTail_B_LargeTurnRight"
 
-msgid ""
+msgid "52"
 "2_OgreTail_B_FindComminate"
-
 msgstr ""
 "2_OgreTail_B_FindComminate"
 
-msgid ""
+msgid "53"
 "2_OgreTail_B_ChagrinComminate"
-
 msgstr ""
 "2_OgreTail_B_ChagrinComminate"
 
-msgid ""
+msgid "54"
 "2_OgreTail_B_Stagger"
-
 msgstr ""
 "2_OgreTail_B_Stagger"
 
-msgid ""
+msgid "55"
 "2_OgreTail_B_ForefootDown__H"
-
 msgstr ""
 "2_OgreTail_B_ForefootDown__H"
 
-msgid ""
+msgid "56"
 "2_OgreTail_B_ForefootDown__M"
-
 msgstr ""
 "2_OgreTail_B_ForefootDown__M"
 
-msgid ""
+msgid "57"
 "2_OgreTail_B_ForefootDown__T"
-
 msgstr ""
 "2_OgreTail_B_ForefootDown__T"
 
-msgid ""
+msgid "58"
 "2_OgreTail_B_Hold__H"
-
 msgstr ""
 "2_OgreTail_B_Hold__H"
 
-msgid ""
+msgid "59"
 "2_OgreTail_B_Hold__M"
-
 msgstr ""
 "2_OgreTail_B_Hold__M"
 
-msgid ""
+msgid "60"
 "2_OgreTail_B_Hold__T"
-
 msgstr ""
 "2_OgreTail_B_Hold__T"
 
-msgid ""
+msgid "61"
 "2_OgreTail_B_SympathyBind__H"
-
 msgstr ""
 "2_OgreTail_B_SympathyBind__H"
 
-msgid ""
+msgid "62"
 "2_OgreTail_B_SympathyBind__M"
-
 msgstr ""
 "2_OgreTail_B_SympathyBind__M"
 
-msgid ""
+msgid "63"
 "2_OgreTail_B_SympathyBind__T"
-
 msgstr ""
 "2_OgreTail_B_SympathyBind__T"
 
-msgid ""
+msgid "64"
 "2_OgreTail_B_Giddy"
-
 msgstr ""
 "2_OgreTail_B_Giddy"
 
-msgid ""
+msgid "65"
 "2_OgreTail_Dead__H"
-
 msgstr ""
 "2_OgreTail_Dead__H"
 
-msgid ""
+msgid "66"
 "2_OgreTail_Dead__M"
-
 msgstr ""
 "2_OgreTail_Dead__M"
 
-msgid ""
+msgid "67"
 "2_OgreTail_Dead__T"
-
 msgstr ""
 "2_OgreTail_Dead__T"
 
-msgid ""
+msgid "68"
 "2_OgreTail_B_Cling"
-
 msgstr ""
 "2_OgreTail_B_Cling"
 
-msgid ""
+msgid "69"
 "2_OgreTail_B_RightTailAttack"
-
 msgstr ""
 "2_OgreTail_B_RightTailAttack"
 
-msgid ""
+msgid "70"
 "2_OgreTail_B_Pounce__H"
-
 msgstr ""
 "2_OgreTail_B_Pounce__H"
 
-msgid ""
+msgid "71"
 "2_OgreTail_B_Pounce__M"
-
 msgstr ""
 "2_OgreTail_B_Pounce__M"
 
-msgid ""
+msgid "72"
 "2_OgreTail_B_Pounce__T"
-
 msgstr ""
 "2_OgreTail_B_Pounce__T"
 
-msgid ""
+msgid "73"
 "2_OgreTail_B_Shot_Needle__H"
-
 msgstr ""
 "2_OgreTail_B_Shot_Needle__H"
 
-msgid ""
+msgid "74"
 "2_OgreTail_B_Shot_Needle__M"
-
 msgstr ""
 "2_OgreTail_B_Shot_Needle__M"
 
-msgid ""
+msgid "75"
 "2_OgreTail_B_LeftTailAttack"
-
 msgstr ""
 "2_OgreTail_B_LeftTailAttack"
 
-msgid ""
+msgid "76"
 "2_OgreTail_B_BackStep__H"
-
 msgstr ""
 "2_OgreTail_B_BackStep__H"
 
-msgid ""
+msgid "77"
 "2_OgreTail_B_BackStep__M"
-
 msgstr ""
 "2_OgreTail_B_BackStep__M"
 
-msgid ""
+msgid "78"
 "2_OgreTail_B_BackStep__T"
-
 msgstr ""
 "2_OgreTail_B_BackStep__T"
 
-msgid ""
+msgid "79"
 "2_OgreTail_B_DyingFumble"
-
 msgstr ""
 "2_OgreTail_B_DyingFumble"
 
-msgid ""
+msgid "80"
 "3_Venus_N_Idle"
-
 msgstr ""
 "3_Venus_N_Idle"
 
-msgid ""
+msgid "81"
 "3_Venus_N_Walk"
-
 msgstr ""
 "3_Venus_N_Walk"
 
-msgid ""
+msgid "82"
 "3_Venus_N_TurnLeft"
-
 msgstr ""
 "3_Venus_N_TurnLeft"
 
-msgid ""
+msgid "83"
 "3_Venus_N_TurnRight"
-
 msgstr ""
 "3_Venus_N_TurnRight"
 
-msgid ""
+msgid "84"
 "3_Venus_N_LargeTurnLeft"
-
 msgstr ""
 "3_Venus_N_LargeTurnLeft"
 
-msgid ""
+msgid "85"
 "3_Venus_N_LargeTurnRight"
-
 msgstr ""
 "3_Venus_N_LargeTurnRight"
 
-msgid ""
+msgid "86"
 "3_Venus_N_Eat"
-
 msgstr ""
 "3_Venus_N_Eat"
 
-msgid ""
+msgid "87"
 "3_Venus_Appear"
-
 msgstr ""
 "3_Venus_Appear"
 
-msgid ""
+msgid "88"
 "3_Venus_B_Idle"
-
 msgstr ""
 "3_Venus_B_Idle"
 
-msgid ""
+msgid "89"
 "3_Venus_B_Dash__H"
-
 msgstr ""
 "3_Venus_B_Dash__H"
 
-msgid ""
+msgid "90"
 "3_Venus_B_Dash__M"
-
 msgstr ""
 "3_Venus_B_Dash__M"
 
-msgid ""
+msgid "91"
 "3_Venus_B_Dash__T"
-
 msgstr ""
 "3_Venus_B_Dash__T"
 
-msgid ""
+msgid "92"
 "3_Venus_B_TurnLeft"
-
 msgstr ""
 "3_Venus_B_TurnLeft"
 
-msgid ""
+msgid "93"
 "3_Venus_B_TurnRight"
-
 msgstr ""
 "3_Venus_B_TurnRight"
 
-msgid ""
+msgid "94"
 "3_Venus_B_LargeTurnLeft"
-
 msgstr ""
 "3_Venus_B_LargeTurnLeft"
 
-msgid ""
+msgid "95"
 "3_Venus_B_LargeTurnRight"
-
 msgstr ""
 "3_Venus_B_LargeTurnRight"
 
-msgid ""
+msgid "96"
 "3_Venus_B_FindComminate"
-
 msgstr ""
 "3_Venus_B_FindComminate"
 
-msgid ""
+msgid "97"
 "3_Venus_B_AngryComminate"
-
 msgstr ""
 "3_Venus_B_AngryComminate"
 
-msgid ""
+msgid "98"
 "3_Venus_B_ChagrinComminate"
-
 msgstr ""
 "3_Venus_B_ChagrinComminate"
 
-msgid ""
+msgid "99"
 "3_Venus_B_Stagger"
-
 msgstr ""
 "3_Venus_B_Stagger"
 
-msgid ""
+msgid "100"
 "3_Venus_B_Fore_FootDown__H"
-
 msgstr ""
 "3_Venus_B_Fore_FootDown__H"
 
-msgid ""
+msgid "101"
 "3_Venus_B_Fore_FootDown__M"
-
 msgstr ""
 "3_Venus_B_Fore_FootDown__M"
 
-msgid ""
+msgid "102"
 "3_Venus_B_Fore_FootDown__T"
-
 msgstr ""
 "3_Venus_B_Fore_FootDown__T"
 
-msgid ""
+msgid "103"
 "3_Venus_B_Hind_FootDown__H"
-
 msgstr ""
 "3_Venus_B_Hind_FootDown__H"
 
-msgid ""
+msgid "104"
 "3_Venus_B_Hind_FootDown__M"
-
 msgstr ""
 "3_Venus_B_Hind_FootDown__M"
 
-msgid ""
+msgid "105"
 "3_Venus_B_Hind_FootDown__T"
-
 msgstr ""
 "3_Venus_B_Hind_FootDown__T"
 
-msgid ""
+msgid "106"
 "3_Venus_B_Hold__H"
-
 msgstr ""
 "3_Venus_B_Hold__H"
 
-msgid ""
+msgid "107"
 "3_Venus_B_Hold__M"
-
 msgstr ""
 "3_Venus_B_Hold__M"
 
-msgid ""
+msgid "108"
 "3_Venus_B_Hold__T"
-
 msgstr ""
 "3_Venus_B_Hold__T"
 
-msgid ""
+msgid "109"
 "3_Venus_B_Giddy"
-
 msgstr ""
 "3_Venus_B_Giddy"
 
-msgid ""
+msgid "110"
 "3_Venus_Dead__H"
-
 msgstr ""
 "3_Venus_Dead__H"
 
-msgid ""
+msgid "111"
 "3_Venus_Dead__M"
-
 msgstr ""
 "3_Venus_Dead__M"
 
-msgid ""
+msgid "112"
 "3_Venus_Dead__T"
-
 msgstr ""
 "3_Venus_Dead__T"
 
-msgid ""
+msgid "113"
 "3_Venus_LeftArmDispel"
-
 msgstr ""
 "3_Venus_LeftArmDispel"
 
-msgid ""
+msgid "114"
 "3_Venus_AngryLeftArmDispel"
-
 msgstr ""
 "3_Venus_AngryLeftArmDispel"
 
-msgid ""
+msgid "115"
 "3_Venus_Thunder"
-
 msgstr ""
 "3_Venus_Thunder"
 
-msgid ""
+msgid "116"
 "3_Venus_CrossGimmick"
-
 msgstr ""
 "3_Venus_CrossGimmick"
 
-msgid ""
+msgid "117"
 "3_Venus_RollingBody"
-
 msgstr ""
 "3_Venus_RollingBody"
 
-msgid ""
+msgid "118"
 "3_Venus_RollingBodyWithG"
-
 msgstr ""
 "3_Venus_RollingBodyWithG"
 
-msgid ""
+msgid "119"
 "3_Venus_HDashPounce_Horn"
-
 msgstr ""
 "3_Venus_HDashPounce_Horn"
 
-msgid ""
+msgid "120"
 "3_Venus_HDashPounce_Dash__H"
-
 msgstr ""
 "3_Venus_HDashPounce_Dash__H"
 
-msgid ""
+msgid "121"
 "3_Venus_HDashPounce_Dash__M"
-
 msgstr ""
 "3_Venus_HDashPounce_Dash__M"
 
-msgid ""
+msgid "122"
 "3_Venus_HDashPounce_Pounce__M"
-
 msgstr ""
 "3_Venus_HDashPounce_Pounce__M"
 
-msgid ""
+msgid "123"
 "3_Venus_HDashPounce_Pounce__T"
-
 msgstr ""
 "3_Venus_HDashPounce_Pounce__T"
 
-msgid ""
+msgid "124"
 "3_Venus_HDashPounceWithG_Horn"
-
 msgstr ""
 "3_Venus_HDashPounceWithG_Horn"
 
-msgid ""
+msgid "125"
 "3_Venus_HDashPounceWithG_Dash__H"
-
 msgstr ""
 "3_Venus_HDashPounceWithG_Dash__H"
 
-msgid ""
+msgid "126"
 "3_Venus_HDashPounceWithG_Dash__M"
-
 msgstr ""
 "3_Venus_HDashPounceWithG_Dash__M"
 
-msgid ""
+msgid "127"
 "3_Venus_HDashPounceWithG_Pounce__M"
-
 msgstr ""
 "3_Venus_HDashPounceWithG_Pounce__M"
 
-msgid ""
+msgid "128"
 "3_Venus_HDashPounceWithG_Shot__M"
-
 msgstr ""
 "3_Venus_HDashPounceWithG_Shot__M"
 
-msgid ""
+msgid "129"
 "3_Venus_HDashPounceWithG_Shot__T"
-
 msgstr ""
 "3_Venus_HDashPounceWithG_Shot__T"
 
-msgid ""
+msgid "130"
 "3_Venus_RageDash_Dash__H"
-
 msgstr ""
 "3_Venus_RageDash_Dash__H"
 
-msgid ""
+msgid "131"
 "3_Venus_RageDash_Dash1__M"
-
 msgstr ""
 "3_Venus_RageDash_Dash1__M"
 
-msgid ""
+msgid "132"
 "3_Venus_RageDash_Turn1__M"
-
 msgstr ""
 "3_Venus_RageDash_Turn1__M"
 
-msgid ""
+msgid "133"
 "3_Venus_RageDash_Dash2__M"
-
 msgstr ""
 "3_Venus_RageDash_Dash2__M"
 
-msgid ""
+msgid "134"
 "3_Venus_RageDash_Turn2__M"
-
 msgstr ""
 "3_Venus_RageDash_Turn2__M"
 
-msgid ""
+msgid "135"
 "3_Venus_RageDash_Dash3__M"
-
 msgstr ""
 "3_Venus_RageDash_Dash3__M"
 
-msgid ""
+msgid "136"
 "3_Venus_RageDash_Rolling__M"
-
 msgstr ""
 "3_Venus_RageDash_Rolling__M"
 
-msgid ""
+msgid "137"
 "3_Venus_RageDash_Rolling__T"
-
 msgstr ""
 "3_Venus_RageDash_Rolling__T"
 
-msgid ""
+msgid "138"
 "3_Venus_RageDashWithG_Dash__H"
-
 msgstr ""
 "3_Venus_RageDashWithG_Dash__H"
 
-msgid ""
+msgid "139"
 "3_Venus_RageDashWithG_Dash1__M"
-
 msgstr ""
 "3_Venus_RageDashWithG_Dash1__M"
 
-msgid ""
+msgid "140"
 "3_Venus_RageDashWithG_Turn1__M"
-
 msgstr ""
 "3_Venus_RageDashWithG_Turn1__M"
 
-msgid ""
+msgid "141"
 "3_Venus_RageDashWithG_Dash2__M"
-
 msgstr ""
 "3_Venus_RageDashWithG_Dash2__M"
 
-msgid ""
+msgid "142"
 "3_Venus_RageDashWithG_Turn2__M"
-
 msgstr ""
 "3_Venus_RageDashWithG_Turn2__M"
 
-msgid ""
+msgid "143"
 "3_Venus_RageDashWithG_Dash3__M"
-
 msgstr ""
 "3_Venus_RageDashWithG_Dash3__M"
 
-msgid ""
+msgid "144"
 "3_Venus_RageDashWithG_Rolling__M"
-
 msgstr ""
 "3_Venus_RageDashWithG_Rolling__M"
 
-msgid ""
+msgid "145"
 "3_Venus_RageDashWithG_Shot__T"
-
 msgstr ""
 "3_Venus_RageDashWithG_Shot__T"
 
-msgid ""
+msgid "146"
 "3_Venus_DashThunder_Horn"
-
 msgstr ""
 "3_Venus_DashThunder_Horn"
 
-msgid ""
+msgid "147"
 "3_Venus_DashThunder__H"
-
 msgstr ""
 "3_Venus_DashThunder__H"
 
-msgid ""
+msgid "148"
 "3_Venus_DashThunder__M"
-
 msgstr ""
 "3_Venus_DashThunder__M"
 
-msgid ""
+msgid "149"
 "3_Venus_DashThunder__T"
-
 msgstr ""
 "3_Venus_DashThunder__T"
 
-msgid ""
+msgid "150"
 "3_Venus_ShotThunderJelly"
-
 msgstr ""
 "3_Venus_ShotThunderJelly"
 
-msgid ""
+msgid "151"
 "3_Venus_DiffusionMissile"
-
 msgstr ""
 "3_Venus_DiffusionMissile"
 
-msgid ""
+msgid "152"
 "3_Venus_SpotThunder"
-
 msgstr ""
 "3_Venus_SpotThunder"
 
-msgid ""
+msgid "153"
 "3_Venus_BackDrift"
-
 msgstr ""
 "3_Venus_BackDrift"
 
-msgid ""
+msgid "154"
 "3_Venus_BackDriftWithG"
-
 msgstr ""
 "3_Venus_BackDriftWithG"
 
-msgid ""
+msgid "155"
 "3_Venus_ShotHomingThunderPillar"
-
 msgstr ""
 "3_Venus_ShotHomingThunderPillar"
 
-msgid ""
+msgid "156"
 "3_Venus_Fumble"
-
 msgstr ""
 "3_Venus_Fumble"
 

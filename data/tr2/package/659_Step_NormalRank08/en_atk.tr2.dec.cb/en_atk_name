@@ -1,198 +1,165 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_AngelEgg_Default"
-
 msgstr ""
 "3_AngelEgg_Default"
 
-msgid ""
+msgid "6"
 "3_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "3_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "7"
 "3_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "8"
 "3_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "9"
 "3_AngelEgg_Cling_Base"
-
 msgstr ""
 "3_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "10"
 "3_AngelEgg_Tackle_Base"
-
 msgstr ""
 "3_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "11"
 "4_Tsukuyomi_Default"
-
 msgstr ""
 "4_Tsukuyomi_Default"
 
-msgid ""
+msgid "12"
 "4_Tsukuyomi_Oracle_SuperNova"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_SuperNova"
 
-msgid ""
+msgid "13"
 "4_Tsukuyomi_Oracle_SNovaLaser"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_SNovaLaser"
 
-msgid ""
+msgid "14"
 "4_Tsukuyomi_Oracle_SLightBall"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_SLightBall"
 
-msgid ""
+msgid "15"
 "4_Tsukuyomi_Oracle_NovaLaser"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_NovaLaser"
 
-msgid ""
+msgid "16"
 "4_Tsukuyomi_Oracle_ZoomShot"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_ZoomShot"
 
-msgid ""
+msgid "17"
 "4_Tsukuyomi_Oracle_ZoomSpit"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_ZoomSpit"
 
-msgid ""
+msgid "18"
 "4_Tsukuyomi_Oracle_SequentialDispel"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_SequentialDispel"
 
-msgid ""
+msgid "19"
 "4_Tsukuyomi_Oracle_WieldArms"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_WieldArms"
 
-msgid ""
+msgid "20"
 "4_Tsukuyomi_Oracle_FourLeggedHairCutterDash"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_FourLeggedHairCutterDash"
 
-msgid ""
+msgid "21"
 "4_Tsukuyomi_Oracle_HairCutter"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_HairCutter"
 
-msgid ""
+msgid "22"
 "4_Tsukuyomi_Oracle_PounceHairCutter"
-
 msgstr ""
 "4_Tsukuyomi_Oracle_PounceHairCutter"
 
-msgid ""
+msgid "23"
 "4_Tsukuyomi_ZoomSpit_Base"
-
 msgstr ""
 "4_Tsukuyomi_ZoomSpit_Base"
 
-msgid ""
+msgid "24"
 "4_Tsukuyomi_SequentialDispel_Base"
-
 msgstr ""
 "4_Tsukuyomi_SequentialDispel_Base"
 
-msgid ""
+msgid "25"
 "4_Tsukuyomi_ZoomShot_Base"
-
 msgstr ""
 "4_Tsukuyomi_ZoomShot_Base"
 
-msgid ""
+msgid "26"
 "4_Tsukuyomi_DisheveledHairCutter_Base"
-
 msgstr ""
 "4_Tsukuyomi_DisheveledHairCutter_Base"
 
-msgid ""
+msgid "27"
 "4_Tsukuyomi_4LimbsDash_Base"
-
 msgstr ""
 "4_Tsukuyomi_4LimbsDash_Base"
 
-msgid ""
+msgid "28"
 "4_Tsukuyomi_4LimbsMeanderingDash_Base"
-
 msgstr ""
 "4_Tsukuyomi_4LimbsMeanderingDash_Base"
 
-msgid ""
+msgid "29"
 "4_Tsukuyomi_ThrowPounce_Base"
-
 msgstr ""
 "4_Tsukuyomi_ThrowPounce_Base"
 
-msgid ""
+msgid "30"
 "4_Tsukuyomi_Pounce_HairCutter_Base"
-
 msgstr ""
 "4_Tsukuyomi_Pounce_HairCutter_Base"
 
-msgid ""
+msgid "31"
 "4_Tsukuyomi_Wield_Arms_Base"
-
 msgstr ""
 "4_Tsukuyomi_Wield_Arms_Base"
 
-msgid ""
+msgid "32"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

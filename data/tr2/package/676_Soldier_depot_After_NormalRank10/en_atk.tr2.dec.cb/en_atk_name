@@ -1,258 +1,215 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_Venus_Default"
-
 msgstr ""
 "3_Venus_Default"
 
-msgid ""
+msgid "9"
 "3_Venus_Oracle_Thunder"
-
 msgstr ""
 "3_Venus_Oracle_Thunder"
 
-msgid ""
+msgid "10"
 "3_Venus_Oracle_DispelLaser"
-
 msgstr ""
 "3_Venus_Oracle_DispelLaser"
 
-msgid ""
+msgid "11"
 "3_Venus_Oracle_PoisonLaser"
-
 msgstr ""
 "3_Venus_Oracle_PoisonLaser"
 
-msgid ""
+msgid "12"
 "3_Venus_Oracle_ShotIceBall"
-
 msgstr ""
 "3_Venus_Oracle_ShotIceBall"
 
-msgid ""
+msgid "13"
 "3_Venus_Oracle_ShotIceBall_Rage"
-
 msgstr ""
 "3_Venus_Oracle_ShotIceBall_Rage"
 
-msgid ""
+msgid "14"
 "3_Venus_Oracle_DashThunder"
-
 msgstr ""
 "3_Venus_Oracle_DashThunder"
 
-msgid ""
+msgid "15"
 "3_Venus_Oracle_ShotThunderJelly"
-
 msgstr ""
 "3_Venus_Oracle_ShotThunderJelly"
 
-msgid ""
+msgid "16"
 "3_Venus_Oracle_DiffusionMissile"
-
 msgstr ""
 "3_Venus_Oracle_DiffusionMissile"
 
-msgid ""
+msgid "17"
 "3_Venus_Oracle_SpotThunder"
-
 msgstr ""
 "3_Venus_Oracle_SpotThunder"
 
-msgid ""
+msgid "18"
 "3_Venus_Oracle_HomingThunderPillar"
-
 msgstr ""
 "3_Venus_Oracle_HomingThunderPillar"
 
-msgid ""
+msgid "19"
 "3_Venus_LeftArmDispel_Base"
-
 msgstr ""
 "3_Venus_LeftArmDispel_Base"
 
-msgid ""
+msgid "20"
 "3_Venus_AngryLeftArmDispel_Base"
-
 msgstr ""
 "3_Venus_AngryLeftArmDispel_Base"
 
-msgid ""
+msgid "21"
 "3_Venus_CrossGimmick_Base"
-
 msgstr ""
 "3_Venus_CrossGimmick_Base"
 
-msgid ""
+msgid "22"
 "3_Venus_RollingBody_Base"
-
 msgstr ""
 "3_Venus_RollingBody_Base"
 
-msgid ""
+msgid "23"
 "3_Venus_RollingBodyWithGimmick_Base"
-
 msgstr ""
 "3_Venus_RollingBodyWithGimmick_Base"
 
-msgid ""
+msgid "24"
 "3_Venus_HomingDashPounce_Base"
-
 msgstr ""
 "3_Venus_HomingDashPounce_Base"
 
-msgid ""
+msgid "25"
 "3_Venus_HomingDashPounceWithGimmick_Base"
-
 msgstr ""
 "3_Venus_HomingDashPounceWithGimmick_Base"
 
-msgid ""
+msgid "26"
 "3_Venus_RageDashRolling_Base"
-
 msgstr ""
 "3_Venus_RageDashRolling_Base"
 
-msgid ""
+msgid "27"
 "3_Venus_RageDashRollingWithGimmick_Base"
-
 msgstr ""
 "3_Venus_RageDashRollingWithGimmick_Base"
 
-msgid ""
+msgid "28"
 "3_Venus_DashThunder_Base"
-
 msgstr ""
 "3_Venus_DashThunder_Base"
 
-msgid ""
+msgid "29"
 "3_Venus_BackDrift_Base"
-
 msgstr ""
 "3_Venus_BackDrift_Base"
 
-msgid ""
+msgid "30"
 "3_Venus_BackDriftWithGimmick_Base"
-
 msgstr ""
 "3_Venus_BackDriftWithGimmick_Base"
 
-msgid ""
+msgid "31"
 "3_Venus_BackDriftWithGimmick_Attack_Base"
-
 msgstr ""
 "3_Venus_BackDriftWithGimmick_Attack_Base"
 
-msgid ""
+msgid "32"
 "3_Venus_Move_Base"
-
 msgstr ""
 "3_Venus_Move_Base"
 
-msgid ""
+msgid "33"
 "3_Venus_HomingDashPounce_Horn_Base"
-
 msgstr ""
 "3_Venus_HomingDashPounce_Horn_Base"
 
-msgid ""
+msgid "34"
 "3_Venus_HomingDashPounceWithGimmick_Horn_Base"
-
 msgstr ""
 "3_Venus_HomingDashPounceWithGimmick_Horn_Base"
 
-msgid ""
+msgid "35"
 "3_Venus_RageDashRolling_Horn_Base"
-
 msgstr ""
 "3_Venus_RageDashRolling_Horn_Base"
 
-msgid ""
+msgid "36"
 "3_Venus_RageDashRollingWithGimmick_Horn_Base"
-
 msgstr ""
 "3_Venus_RageDashRollingWithGimmick_Horn_Base"
 
-msgid ""
+msgid "37"
 "3_Venus_RageDashRolling_Drift_Base"
-
 msgstr ""
 "3_Venus_RageDashRolling_Drift_Base"
 
-msgid ""
+msgid "38"
 "3_Venus_RageDashRollingWithGimmick_Drift_Base"
-
 msgstr ""
 "3_Venus_RageDashRollingWithGimmick_Drift_Base"
 
-msgid ""
+msgid "39"
 "3_Venus_CrossGimmick_Attack_Base"
-
 msgstr ""
 "3_Venus_CrossGimmick_Attack_Base"
 
-msgid ""
+msgid "40"
 "3_Venus_HomingThunderPillar_Base"
-
 msgstr ""
 "3_Venus_HomingThunderPillar_Base"
 
-msgid ""
+msgid "41"
 "3_Venus_Horn_Base"
-
 msgstr ""
 "3_Venus_Horn_Base"
 
-msgid ""
+msgid "42"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

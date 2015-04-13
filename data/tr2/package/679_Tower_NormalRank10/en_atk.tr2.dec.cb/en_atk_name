@@ -1,336 +1,280 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "3_OgreTail_Default"
-
 msgstr ""
 "3_OgreTail_Default"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "3"
 "3_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "4"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "5"
 "3_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "7"
 "3_OgreTail_Cling_Base"
-
 msgstr ""
 "3_OgreTail_Cling_Base"
 
-msgid ""
+msgid "8"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "9"
 "3_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "10"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "11"
 "3_OgreTail_Pounce_Base"
-
 msgstr ""
 "3_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "12"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "13"
 "3_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "14"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "15"
 "3_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "16"
 "4_CocoonMaiden_Default"
-
 msgstr ""
 "4_CocoonMaiden_Default"
 
-msgid ""
+msgid "17"
 "5_CocoonMaiden_Default"
-
 msgstr ""
 "5_CocoonMaiden_Default"
 
-msgid ""
+msgid "18"
 "4_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "4_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "19"
 "5_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "5_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "20"
 "4_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "4_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "21"
 "5_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "5_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "22"
 "4_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "4_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "23"
 "5_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "5_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "24"
 "4_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "4_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "25"
 "5_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "5_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "26"
 "2_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "2_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "27"
 "3_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "3_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "28"
 "6_Caligula_Default"
-
 msgstr ""
 "6_Caligula_Default"
 
-msgid ""
+msgid "29"
 "6_Caligula_Oracle_SpearGlide_ShockWave"
-
 msgstr ""
 "6_Caligula_Oracle_SpearGlide_ShockWave"
 
-msgid ""
+msgid "30"
 "6_Caligula_Oracle_Shot_IceBall"
-
 msgstr ""
 "6_Caligula_Oracle_Shot_IceBall"
 
-msgid ""
+msgid "31"
 "6_Caligula_Oracle_IceBreath_LtoR"
-
 msgstr ""
 "6_Caligula_Oracle_IceBreath_LtoR"
 
-msgid ""
+msgid "32"
 "6_Caligula_Oracle_IceBreath_RtoL"
-
 msgstr ""
 "6_Caligula_Oracle_IceBreath_RtoL"
 
-msgid ""
+msgid "33"
 "6_Caligula_Oracle_Call_IcePillar"
-
 msgstr ""
 "6_Caligula_Oracle_Call_IcePillar"
 
-msgid ""
+msgid "34"
 "6_Caligula_Oracle_KayserBallista_Stun"
-
 msgstr ""
 "6_Caligula_Oracle_KayserBallista_Stun"
 
-msgid ""
+msgid "35"
 "6_Caligula_Oracle_LoopPunch_ShockWave"
-
 msgstr ""
 "6_Caligula_Oracle_LoopPunch_ShockWave"
 
-msgid ""
+msgid "36"
 "6_Caligula_Oracle_AllroundAttack"
-
 msgstr ""
 "6_Caligula_Oracle_AllroundAttack"
 
-msgid ""
+msgid "37"
 "6_Caligula_Oracle_AllroundAttack_Break"
-
 msgstr ""
 "6_Caligula_Oracle_AllroundAttack_Break"
 
-msgid ""
+msgid "38"
 "6_Caligula_LeftArmDispel_Base"
-
 msgstr ""
 "6_Caligula_LeftArmDispel_Base"
 
-msgid ""
+msgid "39"
 "6_Caligula_ArmDispel_Base"
-
 msgstr ""
 "6_Caligula_ArmDispel_Base"
 
-msgid ""
+msgid "40"
 "6_Caligula_ArmDispel_Move_Base"
-
 msgstr ""
 "6_Caligula_ArmDispel_Move_Base"
 
-msgid ""
+msgid "41"
 "6_Caligula_SpearGlide_Base"
-
 msgstr ""
 "6_Caligula_SpearGlide_Base"
 
-msgid ""
+msgid "42"
 "6_Caligula_HormingDashPounce_Base"
-
 msgstr ""
 "6_Caligula_HormingDashPounce_Base"
 
-msgid ""
+msgid "43"
 "6_Caligula_TailDispel_Base"
-
 msgstr ""
 "6_Caligula_TailDispel_Base"
 
-msgid ""
+msgid "44"
 "6_Caligula_BackJump_Base"
-
 msgstr ""
 "6_Caligula_BackJump_Base"
 
-msgid ""
+msgid "45"
 "6_Caligula_HalfTurn_Base"
-
 msgstr ""
 "6_Caligula_HalfTurn_Base"
 
-msgid ""
+msgid "46"
 "6_Caligula_LoopPunch_Base"
-
 msgstr ""
 "6_Caligula_LoopPunch_Base"
 
-msgid ""
+msgid "47"
 "6_Caligula_Call_LocalIcePillar_Base"
-
 msgstr ""
 "6_Caligula_Call_LocalIcePillar_Base"
 
-msgid ""
+msgid "48"
 "6_Caligula_Move_Base"
-
 msgstr ""
 "6_Caligula_Move_Base"
 
-msgid ""
+msgid "49"
 "6_Caligula_HormingDashPounce_Finish_Base"
-
 msgstr ""
 "6_Caligula_HormingDashPounce_Finish_Base"
 
-msgid ""
+msgid "50"
 "6_Caligula_SkatingDash_Base"
-
 msgstr ""
 "6_Caligula_SkatingDash_Base"
 
-msgid ""
+msgid "51"
 "6_Caligula_SkatingDash_Blade_Base"
-
 msgstr ""
 "6_Caligula_SkatingDash_Blade_Base"
 
-msgid ""
+msgid "52"
 "6_Caligula_KayserBallista_Base"
-
 msgstr ""
 "6_Caligula_KayserBallista_Base"
 
-msgid ""
+msgid "53"
 "6_Caligula_KayserBallista_Blade_Base"
-
 msgstr ""
 "6_Caligula_KayserBallista_Blade_Base"
 
-msgid ""
+msgid "54"
 "6_Caligula_Oracle_KayserBallista_IceStorm"
-
 msgstr ""
 "6_Caligula_Oracle_KayserBallista_IceStorm"
 
-msgid ""
+msgid "55"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

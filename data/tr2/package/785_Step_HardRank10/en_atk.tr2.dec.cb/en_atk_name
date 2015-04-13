@@ -1,450 +1,375 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_CocoonMaiden_Default"
-
 msgstr ""
 "3_CocoonMaiden_Default"
 
-msgid ""
+msgid "6"
 "3_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "7"
 "3_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "8"
 "3_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "9"
 "3_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "10"
 "4_Scorpion_Default"
-
 msgstr ""
 "4_Scorpion_Default"
 
-msgid ""
+msgid "11"
 "4_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "12"
 "4_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "13"
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "14"
 "4_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "15"
 "4_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "4_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "16"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "17"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "18"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "19"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "20"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "21"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "22"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "23"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "24"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "25"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "26"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "27"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "28"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "29"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "30"
 "4_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "31"
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "32"
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "33"
 "4_Scorpion_Oracle_TailThunder"
-
 msgstr ""
 "4_Scorpion_Oracle_TailThunder"
 
-msgid ""
+msgid "34"
 "4_Scorpion_Oracle_Defense_TailThunder"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_TailThunder"
 
-msgid ""
+msgid "35"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "36"
 "5_Ravana_Default"
-
 msgstr ""
 "5_Ravana_Default"
 
-msgid ""
+msgid "37"
 "5_Ravana_Oracle_Pounce"
-
 msgstr ""
 "5_Ravana_Oracle_Pounce"
 
-msgid ""
+msgid "38"
 "5_Ravana_Oracle_DashPounceTurn"
-
 msgstr ""
 "5_Ravana_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "39"
 "5_Ravana_Oracle_FakePounce"
-
 msgstr ""
 "5_Ravana_Oracle_FakePounce"
 
-msgid ""
+msgid "40"
 "5_Ravana_Oracle_AroundHeatWaveWithJamming"
-
 msgstr ""
 "5_Ravana_Oracle_AroundHeatWaveWithJamming"
 
-msgid ""
+msgid "41"
 "5_Ravana_Oracle_AroundHeatWave"
-
 msgstr ""
 "5_Ravana_Oracle_AroundHeatWave"
 
-msgid ""
+msgid "42"
 "5_Ravana_Oracle_Local_HeatWave"
-
 msgstr ""
 "5_Ravana_Oracle_Local_HeatWave"
 
-msgid ""
+msgid "43"
 "5_Ravana_Oracle_ParallelFire"
-
 msgstr ""
 "5_Ravana_Oracle_ParallelFire"
 
-msgid ""
+msgid "44"
 "5_Ravana_Oracle_CirculateFire"
-
 msgstr ""
 "5_Ravana_Oracle_CirculateFire"
 
-msgid ""
+msgid "45"
 "5_Ravana_Oracle_PoisonScale"
-
 msgstr ""
 "5_Ravana_Oracle_PoisonScale"
 
-msgid ""
+msgid "46"
 "5_Ravana_Oracle_StunRailGun"
-
 msgstr ""
 "5_Ravana_Oracle_StunRailGun"
 
-msgid ""
+msgid "47"
 "5_Ravana_Scratch_Base"
-
 msgstr ""
 "5_Ravana_Scratch_Base"
 
-msgid ""
+msgid "48"
 "5_Ravana_Pounce_Base"
-
 msgstr ""
 "5_Ravana_Pounce_Base"
 
-msgid ""
+msgid "49"
 "5_Ravana_DashPounce_Base"
-
 msgstr ""
 "5_Ravana_DashPounce_Base"
 
-msgid ""
+msgid "50"
 "5_Ravana_DashPounceCircling_Base"
-
 msgstr ""
 "5_Ravana_DashPounceCircling_Base"
 
-msgid ""
+msgid "51"
 "5_Ravana_StunRailGun_Base"
-
 msgstr ""
 "5_Ravana_StunRailGun_Base"
 
-msgid ""
+msgid "52"
 "5_Ravana_BackJump_Base"
-
 msgstr ""
 "5_Ravana_BackJump_Base"
 
-msgid ""
+msgid "53"
 "5_Ravana_BackStep_Base"
-
 msgstr ""
 "5_Ravana_BackStep_Base"
 
-msgid ""
+msgid "54"
 "5_Ravana_Oracle_FakePounce_NpcWarning"
-
 msgstr ""
 "5_Ravana_Oracle_FakePounce_NpcWarning"
 
-msgid ""
+msgid "55"
 "6_Wani_Oracle_ThunderBombBall"
-
 msgstr ""
 "6_Wani_Oracle_ThunderBombBall"
 
-msgid ""
+msgid "56"
 "6_Wani_Default"
-
 msgstr ""
 "6_Wani_Default"
 
-msgid ""
+msgid "57"
 "6_Wani_Oracle_Splash_AcidFog"
-
 msgstr ""
 "6_Wani_Oracle_Splash_AcidFog"
 
-msgid ""
+msgid "58"
 "6_Wani_Oracle_Splash_AcidFog_Local"
-
 msgstr ""
 "6_Wani_Oracle_Splash_AcidFog_Local"
 
-msgid ""
+msgid "59"
 "6_Wani_Cling_Base"
-
 msgstr ""
 "6_Wani_Cling_Base"
 
-msgid ""
+msgid "60"
 "6_Wani_Cling_Arms_Base"
-
 msgstr ""
 "6_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "61"
 "6_Wani_Cling_Dash_Base"
-
 msgstr ""
 "6_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "62"
 "6_Wani_Forehead_Default"
-
 msgstr ""
 "6_Wani_Forehead_Default"
 
-msgid ""
+msgid "63"
 "6_Wani_Body_Default"
-
 msgstr ""
 "6_Wani_Body_Default"
 
-msgid ""
+msgid "64"
 "6_Wani_Mouth_Default"
-
 msgstr ""
 "6_Wani_Mouth_Default"
 
-msgid ""
+msgid "65"
 "6_Wani_Arm_Default"
-
 msgstr ""
 "6_Wani_Arm_Default"
 
-msgid ""
+msgid "66"
 "6_Wani_Back_Default"
-
 msgstr ""
 "6_Wani_Back_Default"
 
-msgid ""
+msgid "67"
 "6_Wani_Tail_Default"
-
 msgstr ""
 "6_Wani_Tail_Default"
 
-msgid ""
+msgid "68"
 "6_Wani_Oracle_Angry_Go_Berserk"
-
 msgstr ""
 "6_Wani_Oracle_Angry_Go_Berserk"
 
-msgid ""
+msgid "69"
 "6_Wani_Move_Default"
-
 msgstr ""
 "6_Wani_Move_Default"
 
-msgid ""
+msgid "70"
 "6_Wani_Oracle_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "6_Wani_Oracle_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "71"
 "6_Wani_Leap_EightShips_Base"
-
 msgstr ""
 "6_Wani_Leap_EightShips_Base"
 
-msgid ""
+msgid "72"
 "6_Wani_Oracle_Splash_SmallWaterBall"
-
 msgstr ""
 "6_Wani_Oracle_Splash_SmallWaterBall"
 
-msgid ""
+msgid "73"
 "6_Wani_Oracle_Shot_SmallWaterBall"
-
 msgstr ""
 "6_Wani_Oracle_Shot_SmallWaterBall"
 
-msgid ""
+msgid "74"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

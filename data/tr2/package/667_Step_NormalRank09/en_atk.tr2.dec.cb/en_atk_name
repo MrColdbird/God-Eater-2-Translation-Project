@@ -1,330 +1,275 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_AngelEgg_Default"
-
 msgstr ""
 "3_AngelEgg_Default"
 
-msgid ""
+msgid "9"
 "3_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "3_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "10"
 "3_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "11"
 "3_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "12"
 "3_AngelEgg_Cling_Base"
-
 msgstr ""
 "3_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "13"
 "3_AngelEgg_Tackle_Base"
-
 msgstr ""
 "3_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "14"
 "2_OgreTail_Oracle_Thunder"
-
 msgstr ""
 "2_OgreTail_Oracle_Thunder"
 
-msgid ""
+msgid "15"
 "2_OgreTail_Oracle_SpotThunder"
-
 msgstr ""
 "2_OgreTail_Oracle_SpotThunder"
 
-msgid ""
+msgid "16"
 "2_OgreTail_Oracle_TailThunder"
-
 msgstr ""
 "2_OgreTail_Oracle_TailThunder"
 
-msgid ""
+msgid "17"
 "4_Ravana_Default"
-
 msgstr ""
 "4_Ravana_Default"
 
-msgid ""
+msgid "18"
 "4_Ravana_Oracle_Pounce"
-
 msgstr ""
 "4_Ravana_Oracle_Pounce"
 
-msgid ""
+msgid "19"
 "4_Ravana_Oracle_DashPounceTurn"
-
 msgstr ""
 "4_Ravana_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "20"
 "4_Ravana_Oracle_FakePounce"
-
 msgstr ""
 "4_Ravana_Oracle_FakePounce"
 
-msgid ""
+msgid "21"
 "4_Ravana_Oracle_AroundHeatWaveWithJamming"
-
 msgstr ""
 "4_Ravana_Oracle_AroundHeatWaveWithJamming"
 
-msgid ""
+msgid "22"
 "4_Ravana_Oracle_AroundHeatWave"
-
 msgstr ""
 "4_Ravana_Oracle_AroundHeatWave"
 
-msgid ""
+msgid "23"
 "4_Ravana_Oracle_Local_HeatWave"
-
 msgstr ""
 "4_Ravana_Oracle_Local_HeatWave"
 
-msgid ""
+msgid "24"
 "4_Ravana_Oracle_ParallelFire"
-
 msgstr ""
 "4_Ravana_Oracle_ParallelFire"
 
-msgid ""
+msgid "25"
 "4_Ravana_Oracle_CirculateFire"
-
 msgstr ""
 "4_Ravana_Oracle_CirculateFire"
 
-msgid ""
+msgid "26"
 "4_Ravana_Oracle_PoisonScale"
-
 msgstr ""
 "4_Ravana_Oracle_PoisonScale"
 
-msgid ""
+msgid "27"
 "4_Ravana_Oracle_StunRailGun"
-
 msgstr ""
 "4_Ravana_Oracle_StunRailGun"
 
-msgid ""
+msgid "28"
 "4_Ravana_Scratch_Base"
-
 msgstr ""
 "4_Ravana_Scratch_Base"
 
-msgid ""
+msgid "29"
 "4_Ravana_Pounce_Base"
-
 msgstr ""
 "4_Ravana_Pounce_Base"
 
-msgid ""
+msgid "30"
 "4_Ravana_DashPounce_Base"
-
 msgstr ""
 "4_Ravana_DashPounce_Base"
 
-msgid ""
+msgid "31"
 "4_Ravana_DashPounceCircling_Base"
-
 msgstr ""
 "4_Ravana_DashPounceCircling_Base"
 
-msgid ""
+msgid "32"
 "4_Ravana_StunRailGun_Base"
-
 msgstr ""
 "4_Ravana_StunRailGun_Base"
 
-msgid ""
+msgid "33"
 "4_Ravana_BackJump_Base"
-
 msgstr ""
 "4_Ravana_BackJump_Base"
 
-msgid ""
+msgid "34"
 "4_Ravana_BackStep_Base"
-
 msgstr ""
 "4_Ravana_BackStep_Base"
 
-msgid ""
+msgid "35"
 "4_Ravana_Oracle_FakePounce_NpcWarning"
-
 msgstr ""
 "4_Ravana_Oracle_FakePounce_NpcWarning"
 
-msgid ""
+msgid "36"
 "5_SoldierGigantic_Default"
-
 msgstr ""
 "5_SoldierGigantic_Default"
 
-msgid ""
+msgid "37"
 "5_SoldierGigantic_Oracle_Smash_ThunderBall"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Smash_ThunderBall"
 
-msgid ""
+msgid "38"
 "5_SoldierGigantic_Oracle_Shot_DiffusionThunderBall"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Shot_DiffusionThunderBall"
 
-msgid ""
+msgid "39"
 "5_SoldierGigantic_Oracle_Swing_ArmBlade"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Swing_ArmBlade"
 
-msgid ""
+msgid "40"
 "5_SoldierGigantic_Oracle_Strike_ArmBlade"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Strike_ArmBlade"
 
-msgid ""
+msgid "41"
 "5_SoldierGigantic_Oracle_Spot_MultipleSpiritLaser"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Spot_MultipleSpiritLaser"
 
-msgid ""
+msgid "42"
 "5_SoldierGigantic_Oracle_Shot_MultipleSpiritBall"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Shot_MultipleSpiritBall"
 
-msgid ""
+msgid "43"
 "5_SoldierGigantic_Oracle_Slash_SpiritLaser"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Slash_SpiritLaser"
 
-msgid ""
+msgid "44"
 "5_SoldierGigantic_Oracle_Strike_ShiningFinger"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Strike_ShiningFinger"
 
-msgid ""
+msgid "45"
 "5_SoldierGigantic_Oracle_Pounce_ShockWave"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_Pounce_ShockWave"
 
-msgid ""
+msgid "46"
 "5_SoldierGigantic_Oracle_BackStep_ShockWave"
-
 msgstr ""
 "5_SoldierGigantic_Oracle_BackStep_ShockWave"
 
-msgid ""
+msgid "47"
 "5_SoldierGigantic_Swing_ArmBlade_Base"
-
 msgstr ""
 "5_SoldierGigantic_Swing_ArmBlade_Base"
 
-msgid ""
+msgid "48"
 "5_SoldierGigantic_Strike_ArmBlade_Base"
-
 msgstr ""
 "5_SoldierGigantic_Strike_ArmBlade_Base"
 
-msgid ""
+msgid "49"
 "5_SoldierGigantic_FumblePounce_Base"
-
 msgstr ""
 "5_SoldierGigantic_FumblePounce_Base"
 
-msgid ""
+msgid "50"
 "5_SoldierGigantic_LeftArmDispel_Base"
-
 msgstr ""
 "5_SoldierGigantic_LeftArmDispel_Base"
 
-msgid ""
+msgid "51"
 "5_SoldierGigantic_DashCircling_Base"
-
 msgstr ""
 "5_SoldierGigantic_DashCircling_Base"
 
-msgid ""
+msgid "52"
 "5_SoldierGigantic_BackJump_Base"
-
 msgstr ""
 "5_SoldierGigantic_BackJump_Base"
 
-msgid ""
+msgid "53"
 "5_SoldierGigantic_Move_Default"
-
 msgstr ""
 "5_SoldierGigantic_Move_Default"
 
-msgid ""
+msgid "54"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

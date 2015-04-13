@@ -1,216 +1,180 @@
-msgid ""
+msgid "0"
 "2_AngelEgg_Default"
-
 msgstr ""
 "2_AngelEgg_Default"
 
-msgid ""
+msgid "1"
 "2_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "2_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "2"
 "2_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "2_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "3"
 "2_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "2_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "4"
 "2_AngelEgg_Cling_Base"
-
 msgstr ""
 "2_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "5"
 "2_AngelEgg_Tackle_Base"
-
 msgstr ""
 "2_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "6"
 "3_AngelEgg_Default"
-
 msgstr ""
 "3_AngelEgg_Default"
 
-msgid ""
+msgid "7"
 "3_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "3_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "8"
 "3_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "9"
 "3_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "10"
 "3_AngelEgg_Cling_Base"
-
 msgstr ""
 "3_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "11"
 "3_AngelEgg_Tackle_Base"
-
 msgstr ""
 "3_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "12"
 "4_AngelEgg_Default"
-
 msgstr ""
 "4_AngelEgg_Default"
 
-msgid ""
+msgid "13"
 "4_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "4_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "14"
 "4_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "4_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "15"
 "4_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "4_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "16"
 "4_AngelEgg_Cling_Base"
-
 msgstr ""
 "4_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "17"
 "4_AngelEgg_Tackle_Base"
-
 msgstr ""
 "4_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "18"
 "5_QueenPapilam_Default"
-
 msgstr ""
 "5_QueenPapilam_Default"
 
-msgid ""
+msgid "19"
 "5_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "5_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "20"
 "5_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "5_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "21"
 "5_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "5_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "22"
 "5_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "5_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "23"
 "5_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "5_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "24"
 "5_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "5_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "25"
 "5_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "5_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "26"
 "5_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "5_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "27"
 "5_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "5_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "28"
 "5_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "5_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "29"
 "5_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "5_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "30"
 "5_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "5_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "31"
 "5_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "5_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "32"
 "5_QueenPapilam_Oracle_Lunge_ShockWave"
-
 msgstr ""
 "5_QueenPapilam_Oracle_Lunge_ShockWave"
 
-msgid ""
+msgid "33"
 "5_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "5_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "34"
 "5_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "5_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "35"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

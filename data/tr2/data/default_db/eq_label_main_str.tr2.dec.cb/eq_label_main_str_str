@@ -1,1434 +1,1195 @@
-﻿msgid ""
+msgid "0"
 "俺"
-
 msgstr ""
 "俺"
 
-msgid ""
+msgid "1"
 "俺様"
-
 msgstr ""
 "俺様"
 
-msgid ""
+msgid "2"
 "僕"
-
 msgstr ""
 "僕"
 
-msgid ""
+msgid "3"
 "私"
-
 msgstr ""
 "私"
 
-msgid ""
+msgid "4"
 "アタシ"
-
 msgstr ""
 "アタシ"
 
-msgid ""
+msgid "5"
 "自分"
-
 msgstr ""
 "自分"
 
-msgid ""
+msgid "6"
 "野郎"
-
 msgstr ""
 "野郎"
 
-msgid ""
+msgid "7"
 "男"
-
 msgstr ""
 "男"
 
-msgid ""
+msgid "8"
 "女"
-
 msgstr ""
 "女"
 
-msgid ""
+msgid "9"
 "少年"
-
 msgstr ""
 "少年"
 
-msgid ""
+msgid "10"
 "少女"
-
 msgstr ""
 "少女"
 
-msgid ""
+msgid "11"
 "御姉様"
-
 msgstr ""
 "御姉様"
 
-msgid ""
+msgid "12"
 "御兄様"
-
 msgstr ""
 "御兄様"
 
-msgid ""
+msgid "13"
 "兄貴"
-
 msgstr ""
 "兄貴"
 
-msgid ""
+msgid "14"
 "御嬢様"
-
 msgstr ""
 "御嬢様"
 
-msgid ""
+msgid "15"
 "プロ"
-
 msgstr ""
 "プロ"
 
-msgid ""
+msgid "16"
 "名手"
-
 msgstr ""
 "名手"
 
-msgid ""
+msgid "17"
 "漢"
-
 msgstr ""
 "漢"
 
-msgid ""
+msgid "18"
 "者"
-
 msgstr ""
 "者"
 
-msgid ""
+msgid "19"
 "キラー"
-
 msgstr ""
 "キラー"
 
-msgid ""
+msgid "20"
 "狩人"
-
 msgstr ""
 "狩人"
 
-msgid ""
+msgid "21"
 "討伐"
-
 msgstr ""
 "討伐"
 
-msgid ""
+msgid "22"
 "専用"
-
 msgstr ""
 "専用"
 
-msgid ""
+msgid "23"
 "対"
-
 msgstr ""
 "対"
 
-msgid ""
+msgid "24"
 "紅"
-
 msgstr ""
 "紅"
 
-msgid ""
+msgid "25"
 "レッド"
-
 msgstr ""
 "レッド"
 
-msgid ""
+msgid "26"
 "蒼"
-
 msgstr ""
 "蒼"
 
-msgid ""
+msgid "27"
 "ブルー"
-
 msgstr ""
 "ブルー"
 
-msgid ""
+msgid "28"
 "深緑"
-
 msgstr ""
 "深緑"
 
-msgid ""
+msgid "29"
 "グリーン"
-
 msgstr ""
 "グリーン"
 
-msgid ""
+msgid "30"
 "純白"
-
 msgstr ""
 "純白"
 
-msgid ""
+msgid "31"
 "ホワイト"
-
 msgstr ""
 "ホワイト"
 
-msgid ""
+msgid "32"
 "漆黒"
-
 msgstr ""
 "漆黒"
 
-msgid ""
+msgid "33"
 "ブラック"
-
 msgstr ""
 "ブラック"
 
-msgid ""
+msgid "34"
 "戦う"
-
 msgstr ""
 "戦う"
 
-msgid ""
+msgid "35"
 "走る"
-
 msgstr ""
 "走る"
 
-msgid ""
+msgid "36"
 "まったり"
-
 msgstr ""
 "まったり"
 
-msgid ""
+msgid "37"
 "新兵"
-
 msgstr ""
 "新兵"
 
-msgid ""
+msgid "38"
 "上等兵"
-
 msgstr ""
 "上等兵"
 
-msgid ""
+msgid "39"
 "新米"
-
 msgstr ""
 "新米"
 
-msgid ""
+msgid "40"
 "新入り"
-
 msgstr ""
 "新入り"
 
-msgid ""
+msgid "41"
 "ルーキー"
-
 msgstr ""
 "ルーキー"
 
-msgid ""
+msgid "42"
 "ブラッド"
-
 msgstr ""
 "ブラッド"
 
-msgid ""
+msgid "43"
 "ブラッド隊員"
-
 msgstr ""
 "ブラッド隊員"
 
-msgid ""
+msgid "44"
 "ナイトホロウ"
-
 msgstr ""
 "ナイトホロウ"
 
-msgid ""
+msgid "45"
 "対亡霊"
-
 msgstr ""
 "対亡霊"
 
-msgid ""
+msgid "46"
 "単眼排除"
-
 msgstr ""
 "単眼排除"
 
-msgid ""
+msgid "47"
 "オウガテイル"
-
 msgstr ""
 "オウガテイル"
 
-msgid ""
+msgid "48"
 "対小鬼"
-
 msgstr ""
 "対小鬼"
 
-msgid ""
+msgid "49"
 "オウガ排除"
-
 msgstr ""
 "オウガ排除"
 
-msgid ""
+msgid "50"
 "ザイゴート"
-
 msgstr ""
 "ザイゴート"
 
-msgid ""
+msgid "51"
 "対天使"
-
 msgstr ""
 "対天使"
 
-msgid ""
+msgid "52"
 "卵割"
-
 msgstr ""
 "卵割"
 
-msgid ""
+msgid "53"
 "グボロ・グボロ"
-
 msgstr ""
 "グボロ・グボロ"
 
-msgid ""
+msgid "54"
 "対水龍"
-
 msgstr ""
 "対水龍"
 
-msgid ""
+msgid "55"
 "グボロキラー"
-
 msgstr ""
 "グボロキラー"
 
-msgid ""
+msgid "56"
 "ウコンバサラ"
-
 msgstr ""
 "ウコンバサラ"
 
-msgid ""
+msgid "57"
 "対雷鰐"
-
 msgstr ""
 "対雷鰐"
 
-msgid ""
+msgid "58"
 "鰐狩り"
-
 msgstr ""
 "鰐狩り"
 
-msgid ""
+msgid "59"
 "シユウ"
-
 msgstr ""
 "シユウ"
 
-msgid ""
+msgid "60"
 "対魔鳥"
-
 msgstr ""
 "対魔鳥"
 
-msgid ""
+msgid "61"
 "鳥狩人"
-
 msgstr ""
 "鳥狩人"
 
-msgid ""
+msgid "62"
 "ヴァジュラ"
-
 msgstr ""
 "ヴァジュラ"
 
-msgid ""
+msgid "63"
 "対猛虎"
-
 msgstr ""
 "対猛虎"
 
-msgid ""
+msgid "64"
 "ヴァジュラ討伐"
-
 msgstr ""
 "ヴァジュラ討伐"
 
-msgid ""
+msgid "65"
 "ガルム"
-
 msgstr ""
 "ガルム"
 
-msgid ""
+msgid "66"
 "対魔狼"
-
 msgstr ""
 "対魔狼"
 
-msgid ""
+msgid "67"
 "狼狩人"
-
 msgstr ""
 "狼狩人"
 
-msgid ""
+msgid "68"
 "イェン・ツィー"
-
 msgstr ""
 "イェン・ツィー"
 
-msgid ""
+msgid "69"
 "対妖婦"
-
 msgstr ""
 "対妖婦"
 
-msgid ""
+msgid "70"
 "チョウワン"
-
 msgstr ""
 "チョウワン"
 
-msgid ""
+msgid "71"
 "短剣使い"
-
 msgstr ""
 "短剣使い"
 
-msgid ""
+msgid "72"
 "ショート"
-
 msgstr ""
 "ショート"
 
-msgid ""
+msgid "73"
 "長刀使い"
-
 msgstr ""
 "長刀使い"
 
-msgid ""
+msgid "74"
 "ロング"
-
 msgstr ""
 "ロング"
 
-msgid ""
+msgid "75"
 "大剣使い"
-
 msgstr ""
 "大剣使い"
 
-msgid ""
+msgid "76"
 "バスター"
-
 msgstr ""
 "バスター"
 
-msgid ""
+msgid "77"
 "鎚使い"
-
 msgstr ""
 "鎚使い"
 
-msgid ""
+msgid "78"
 "ハンマー"
-
 msgstr ""
 "ハンマー"
 
-msgid ""
+msgid "79"
 "槍使い"
-
 msgstr ""
 "槍使い"
 
-msgid ""
+msgid "80"
 "スピア"
-
 msgstr ""
 "スピア"
 
-msgid ""
+msgid "81"
 "強襲型使い"
-
 msgstr ""
 "強襲型使い"
 
-msgid ""
+msgid "82"
 "アサルト"
-
 msgstr ""
 "アサルト"
 
-msgid ""
+msgid "83"
 "狙撃型使い"
-
 msgstr ""
 "狙撃型使い"
 
-msgid ""
+msgid "84"
 "スナイパー"
-
 msgstr ""
 "スナイパー"
 
-msgid ""
+msgid "85"
 "重火型使い"
-
 msgstr ""
 "重火型使い"
 
-msgid ""
+msgid "86"
 "ブラスト"
-
 msgstr ""
 "ブラスト"
 
-msgid ""
+msgid "87"
 "近接型使い"
-
 msgstr ""
 "近接型使い"
 
-msgid ""
+msgid "88"
 "ショットガン"
-
 msgstr ""
 "ショットガン"
 
-msgid ""
+msgid "89"
 "小盾使い"
-
 msgstr ""
 "小盾使い"
 
-msgid ""
+msgid "90"
 "バックラー"
-
 msgstr ""
 "バックラー"
 
-msgid ""
+msgid "91"
 "大盾使い"
-
 msgstr ""
 "大盾使い"
 
-msgid ""
+msgid "92"
 "シールド"
-
 msgstr ""
 "シールド"
 
-msgid ""
+msgid "93"
 "壁盾使い"
-
 msgstr ""
 "壁盾使い"
 
-msgid ""
+msgid "94"
 "タワーシールド"
-
 msgstr ""
 "タワーシールド"
 
-msgid ""
+msgid "95"
 "雷鳴"
-
 msgstr ""
 "雷鳴"
 
-msgid ""
+msgid "96"
 "ライトニング"
-
 msgstr ""
 "ライトニング"
 
-msgid ""
+msgid "97"
 "疾風迅雷"
-
 msgstr ""
 "疾風迅雷"
 
-msgid ""
+msgid "98"
 "灼熱"
-
 msgstr ""
 "灼熱"
 
-msgid ""
+msgid "99"
 "インフェルノ"
-
 msgstr ""
 "インフェルノ"
 
-msgid ""
+msgid "100"
 "風林火山"
-
 msgstr ""
 "風林火山"
 
-msgid ""
+msgid "101"
 "霧氷"
-
 msgstr ""
 "霧氷"
 
-msgid ""
+msgid "102"
 "ブリザード"
-
 msgstr ""
 "ブリザード"
 
-msgid ""
+msgid "103"
 "絶対零度"
-
 msgstr ""
 "絶対零度"
 
-msgid ""
+msgid "104"
 "光輝"
-
 msgstr ""
 "光輝"
 
-msgid ""
+msgid "105"
 "イノセント"
-
 msgstr ""
 "イノセント"
 
-msgid ""
+msgid "106"
 "流星光底"
-
 msgstr ""
 "流星光底"
 
-msgid ""
+msgid "107"
 "鋭貫"
-
 msgstr ""
 "鋭貫"
 
-msgid ""
+msgid "108"
 "スタッバー"
-
 msgstr ""
 "スタッバー"
 
-msgid ""
+msgid "109"
 "破壊"
-
 msgstr ""
 "破壊"
 
-msgid ""
+msgid "110"
 "クラッシャー"
-
 msgstr ""
 "クラッシャー"
 
-msgid ""
+msgid "111"
 "斬裂"
-
 msgstr ""
 "斬裂"
 
-msgid ""
+msgid "112"
 "リッパー"
-
 msgstr ""
 "リッパー"
 
-msgid ""
+msgid "113"
 "雷刃"
-
 msgstr ""
 "雷刃"
 
-msgid ""
+msgid "114"
 "雷槍"
-
 msgstr ""
 "雷槍"
 
-msgid ""
+msgid "115"
 "雷銃"
-
 msgstr ""
 "雷銃"
 
-msgid ""
+msgid "116"
 "雷壁"
-
 msgstr ""
 "雷壁"
 
-msgid ""
+msgid "117"
 "焔刃"
-
 msgstr ""
 "焔刃"
 
-msgid ""
+msgid "118"
 "焔槍"
-
 msgstr ""
 "焔槍"
 
-msgid ""
+msgid "119"
 "焔鎚"
-
 msgstr ""
 "焔鎚"
 
-msgid ""
+msgid "120"
 "焔銃"
-
 msgstr ""
 "焔銃"
 
-msgid ""
+msgid "121"
 "焔壁"
-
 msgstr ""
 "焔壁"
 
-msgid ""
+msgid "122"
 "氷刃"
-
 msgstr ""
 "氷刃"
 
-msgid ""
+msgid "123"
 "氷槍"
-
 msgstr ""
 "氷槍"
 
-msgid ""
+msgid "124"
 "氷鎚"
-
 msgstr ""
 "氷鎚"
 
-msgid ""
+msgid "125"
 "輝鎚"
-
 msgstr ""
 "輝鎚"
 
-msgid ""
+msgid "126"
 "輝刃"
-
 msgstr ""
 "輝刃"
 
-msgid ""
+msgid "127"
 "毒牙"
-
 msgstr ""
 "毒牙"
 
-msgid ""
+msgid "128"
 "空気"
-
 msgstr ""
 "空気"
 
-msgid ""
+msgid "129"
 "忍び足"
-
 msgstr ""
 "忍び足"
 
-msgid ""
+msgid "130"
 "存在感"
-
 msgstr ""
 "存在感"
 
-msgid ""
+msgid "131"
 "保身"
-
 msgstr ""
 "保身"
 
-msgid ""
+msgid "132"
 "回復担当"
-
 msgstr ""
 "回復担当"
 
-msgid ""
+msgid "133"
 "捕縛担当"
-
 msgstr ""
 "捕縛担当"
 
-msgid ""
+msgid "134"
 "生存本能"
-
 msgstr ""
 "生存本能"
 
-msgid ""
+msgid "135"
 "妖婦を狩る者"
-
 msgstr ""
 "妖婦を狩る者"
 
-msgid ""
+msgid "136"
 "期待"
-
 msgstr ""
 "期待"
 
-msgid ""
+msgid "137"
 "雷属性"
-
 msgstr ""
 "雷属性"
 
-msgid ""
+msgid "138"
 "火属性"
-
 msgstr ""
 "火属性"
 
-msgid ""
+msgid "139"
 "氷属性"
-
 msgstr ""
 "氷属性"
 
-msgid ""
+msgid "140"
 "神属性"
-
 msgstr ""
 "神属性"
 
-msgid ""
+msgid "141"
 "貫通"
-
 msgstr ""
 "貫通"
 
-msgid ""
+msgid "142"
 "破砕"
-
 msgstr ""
 "破砕"
 
-msgid ""
+msgid "143"
 "切断"
-
 msgstr ""
 "切断"
 
-msgid ""
+msgid "144"
 "雷鎚"
-
 msgstr ""
 "雷鎚"
 
-msgid ""
+msgid "145"
 "氷銃"
-
 msgstr ""
 "氷銃"
 
-msgid ""
+msgid "146"
 "氷壁"
-
 msgstr ""
 "氷壁"
 
-msgid ""
+msgid "147"
 "輝槍"
-
 msgstr ""
 "輝槍"
 
-msgid ""
+msgid "148"
 "輝鎚"
-
 msgstr ""
 "輝鎚"
 
-msgid ""
+msgid "149"
 "輝銃"
-
 msgstr ""
 "輝銃"
 
-msgid ""
+msgid "150"
 "輝壁"
-
 msgstr ""
 "輝壁"
 
-msgid ""
+msgid "151"
 "ドレッドパイク"
-
 msgstr ""
 "ドレッドパイク"
 
-msgid ""
+msgid "152"
 "対甲蟲"
-
 msgstr ""
 "対甲蟲"
 
-msgid ""
+msgid "153"
 "甲蟲キラー"
-
 msgstr ""
 "甲蟲キラー"
 
-msgid ""
+msgid "154"
 "コクーン"
-
 msgstr ""
 "コクーン"
 
-msgid ""
+msgid "155"
 "対鉄乙女"
-
 msgstr ""
 "対鉄乙女"
 
-msgid ""
+msgid "156"
 "コクーンキラー"
-
 msgstr ""
 "コクーンキラー"
 
-msgid ""
+msgid "157"
 "対火龍"
-
 msgstr ""
 "対火龍"
 
-msgid ""
+msgid "158"
 "対氷龍"
-
 msgstr ""
 "対氷龍"
 
-msgid ""
+msgid "159"
 "黄金狩り"
-
 msgstr ""
 "黄金狩り"
 
-msgid ""
+msgid "160"
 "対雷魔鳥"
-
 msgstr ""
 "対雷魔鳥"
 
-msgid ""
+msgid "161"
 "セクメト"
-
 msgstr ""
 "セクメト"
 
-msgid ""
+msgid "162"
 "対炎魔鳥"
-
 msgstr ""
 "対炎魔鳥"
 
-msgid ""
+msgid "163"
 "コンゴウ"
-
 msgstr ""
 "コンゴウ"
 
-msgid ""
+msgid "164"
 "対大猿"
-
 msgstr ""
 "対大猿"
 
-msgid ""
+msgid "165"
 "金剛狩人"
-
 msgstr ""
 "金剛狩人"
 
-msgid ""
+msgid "166"
 "対氷猿"
-
 msgstr ""
 "対氷猿"
 
-msgid ""
+msgid "167"
 "ハガンコンゴウ"
-
 msgstr ""
 "ハガンコンゴウ"
 
-msgid ""
+msgid "168"
 "対禁猿"
-
 msgstr ""
 "対禁猿"
 
-msgid ""
+msgid "169"
 "ヤクシャ"
-
 msgstr ""
 "ヤクシャ"
 
-msgid ""
+msgid "170"
 "対夜叉"
-
 msgstr ""
 "対夜叉"
 
-msgid ""
+msgid "171"
 "ヤクシャ討伐"
-
 msgstr ""
 "ヤクシャ討伐"
 
-msgid ""
+msgid "172"
 "対百鬼"
-
 msgstr ""
 "対百鬼"
 
-msgid ""
+msgid "173"
 "神機兵"
-
 msgstr ""
 "神機兵"
 
-msgid ""
+msgid "174"
 "対虚兵"
-
 msgstr ""
 "対虚兵"
 
-msgid ""
+msgid "175"
 "神機兵狩人"
-
 msgstr ""
 "神機兵狩人"
 
-msgid ""
+msgid "176"
 "対帝王"
-
 msgstr ""
 "対帝王"
 
-msgid ""
+msgid "177"
 "対女王"
-
 msgstr ""
 "対女王"
 
-msgid ""
+msgid "178"
 "ラーヴァナ"
-
 msgstr ""
 "ラーヴァナ"
 
-msgid ""
+msgid "179"
 "対焔獣"
-
 msgstr ""
 "対焔獣"
 
-msgid ""
+msgid "180"
 "ボルグ"
-
 msgstr ""
 "ボルグ"
 
-msgid ""
+msgid "181"
 "対蠍"
-
 msgstr ""
 "対蠍"
 
-msgid ""
+msgid "182"
 "ボルグキラー"
-
 msgstr ""
 "ボルグキラー"
 
-msgid ""
+msgid "183"
 "対火蠍"
-
 msgstr ""
 "対火蠍"
 
-msgid ""
+msgid "184"
 "対雷蠍"
-
 msgstr ""
 "対雷蠍"
 
-msgid ""
+msgid "185"
 "サリエル"
-
 msgstr ""
 "サリエル"
 
-msgid ""
+msgid "186"
 "対女神"
-
 msgstr ""
 "対女神"
 
-msgid ""
+msgid "187"
 "サリエル討伐"
-
 msgstr ""
 "サリエル討伐"
 
-msgid ""
+msgid "188"
 "対魔女"
-
 msgstr ""
 "対魔女"
 
-msgid ""
+msgid "189"
 "アイテール"
-
 msgstr ""
 "アイテール"
 
-msgid ""
+msgid "190"
 "対魔眼"
-
 msgstr ""
 "対魔眼"
 
-msgid ""
+msgid "191"
 "クアドリガ"
-
 msgstr ""
 "クアドリガ"
 
-msgid ""
+msgid "192"
 "対戦車"
-
 msgstr ""
 "対戦車"
 
-msgid ""
+msgid "193"
 "クアドリガ狩人"
-
 msgstr ""
 "クアドリガ狩人"
 
-msgid ""
+msgid "194"
 "ハンニバル"
-
 msgstr ""
 "ハンニバル"
 
-msgid ""
+msgid "195"
 "対真竜"
-
 msgstr ""
 "対真竜"
 
-msgid ""
+msgid "196"
 "火竜討伐"
-
 msgstr ""
 "火竜討伐"
 
-msgid ""
+msgid "197"
 "対幻影竜"
-
 msgstr ""
 "対幻影竜"
 
-msgid ""
+msgid "198"
 "カリギュラ"
-
 msgstr ""
 "カリギュラ"
 
-msgid ""
+msgid "199"
 "対竜帝"
-
 msgstr ""
 "対竜帝"
 
-msgid ""
+msgid "200"
 "デミウルゴス"
-
 msgstr ""
 "デミウルゴス"
 
-msgid ""
+msgid "201"
 "対闇神"
-
 msgstr ""
 "対闇神"
 
-msgid ""
+msgid "202"
 "闇神狩人"
-
 msgstr ""
 "闇神狩人"
 
-msgid ""
+msgid "203"
 "ツクヨミ"
-
 msgstr ""
 "ツクヨミ"
 
-msgid ""
+msgid "204"
 "対神蝕翁"
-
 msgstr ""
 "対神蝕翁"
 
-msgid ""
+msgid "205"
 "ツクヨミ討伐"
-
 msgstr ""
 "ツクヨミ討伐"
 
-msgid ""
+msgid "206"
 "スサノオ"
-
 msgstr ""
 "スサノオ"
 
-msgid ""
+msgid "207"
 "対神蝕皇"
-
 msgstr ""
 "対神蝕皇"
 
-msgid ""
+msgid "208"
 "スサノオキラー"
-
 msgstr ""
 "スサノオキラー"
 
-msgid ""
+msgid "209"
 "キュウビ"
-
 msgstr ""
 "キュウビ"
 
-msgid ""
+msgid "210"
 "対天狐"
-
 msgstr ""
 "対天狐"
 
-msgid ""
+msgid "211"
 "マガツキュウビ"
-
 msgstr ""
 "マガツキュウビ"
 
-msgid ""
+msgid "212"
 "対空狐"
-
 msgstr ""
 "対空狐"
 
-msgid ""
+msgid "213"
 "ウロヴォロス"
-
 msgstr ""
 "ウロヴォロス"
 
-msgid ""
+msgid "214"
 "対混沌"
-
 msgstr ""
 "対混沌"
 
-msgid ""
+msgid "215"
 "混沌神討伐"
-
 msgstr ""
 "混沌神討伐"
 
-msgid ""
+msgid "216"
 "対雷混沌"
-
 msgstr ""
 "対雷混沌"
 
-msgid ""
+msgid "217"
 "アマテラス"
-
 msgstr ""
 "アマテラス"
 
-msgid ""
+msgid "218"
 "神煌妃"
-
 msgstr ""
 "神煌妃"
 
-msgid ""
+msgid "219"
 "ヴィーナス"
-
 msgstr ""
 "ヴィーナス"
 
-msgid ""
+msgid "220"
 "対美神"
-
 msgstr ""
 "対美神"
 
-msgid ""
+msgid "221"
 "ヴィーナス狩人"
-
 msgstr ""
 "ヴィーナス狩人"
 
-msgid ""
+msgid "222"
 "零號神機兵"
-
 msgstr ""
 "零號神機兵"
 
-msgid ""
+msgid "223"
 "対虚神"
-
 msgstr ""
 "対虚神"
 
-msgid ""
+msgid "224"
 "虚神討伐"
-
 msgstr ""
 "虚神討伐"
 
-msgid ""
+msgid "225"
 "スパルタカス"
-
 msgstr ""
 "スパルタカス"
 
-msgid ""
+msgid "226"
 "対神鬼"
-
 msgstr ""
 "対神鬼"
 
-msgid ""
+msgid "227"
 "ニュクス"
-
 msgstr ""
 "ニュクス"
 
-msgid ""
+msgid "228"
 "対聖母"
-
 msgstr ""
 "対聖母"
 
-msgid ""
+msgid "229"
 "カバラ・カバラ"
-
 msgstr ""
 "カバラ・カバラ"
 
-msgid ""
+msgid "230"
 "対祭祀"
-
 msgstr ""
 "対祭祀"
 
-msgid ""
+msgid "231"
 "マルドゥーク"
-
 msgstr ""
 "マルドゥーク"
 
-msgid ""
+msgid "232"
 "対赤蝕狼"
-
 msgstr ""
 "対赤蝕狼"
 
-msgid ""
+msgid "233"
 "剣の達人"
-
 msgstr ""
 "剣の達人"
 
-msgid ""
+msgid "234"
 "赤狼の王"
-
 msgstr ""
 "赤狼の王"
 
-msgid ""
+msgid "235"
 "偽の聖母"
-
 msgstr ""
 "偽の聖母"
 
-msgid ""
+msgid "236"
 "戦鬼を喰らう"
-
 msgstr ""
 "戦鬼を喰らう"
 
-msgid ""
+msgid "237"
 "祭祀の終わり"
-
 msgstr ""
 "祭祀の終わり"
 
-msgid ""
+msgid "238"
 "堕ちた白狐"
-
 msgstr ""
 "堕ちた白狐"
 

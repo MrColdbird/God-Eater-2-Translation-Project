@@ -1,300 +1,250 @@
-msgid ""
+msgid "0"
 "2_ATK0"
-
 msgstr ""
 "2_ATK0"
 
-msgid ""
+msgid "1"
 "2_Tiger_Default"
-
 msgstr ""
 "2_Tiger_Default"
 
-msgid ""
+msgid "2"
 "2_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "2_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "3"
 "2_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "2_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "4"
 "2_Tiger_Cling_Base"
-
 msgstr ""
 "2_Tiger_Cling_Base"
 
-msgid ""
+msgid "5"
 "2_Tiger_Pounce_Base"
-
 msgstr ""
 "2_Tiger_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_Tiger_DashPounce_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "7"
 "2_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "8"
 "2_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "2_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "9"
 "2_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "10"
 "2_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "11"
 "2_Tiger_TestOracle"
-
 msgstr ""
 "2_Tiger_TestOracle"
 
-msgid ""
+msgid "12"
 "2_Tiger_Oracle_Pounce"
-
 msgstr ""
 "2_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "13"
 "2_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "14"
 "2_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "15"
 "2_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "16"
 "2_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "17"
 "2_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "18"
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "19"
 "2_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "20"
 "2_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "21"
 "2_Tiger_Oracle_Raise_IcePillar"
-
 msgstr ""
 "2_Tiger_Oracle_Raise_IcePillar"
 
-msgid ""
+msgid "22"
 "3_Scorpion_Default"
-
 msgstr ""
 "3_Scorpion_Default"
 
-msgid ""
+msgid "23"
 "3_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "3_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "24"
 "3_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "3_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "25"
 "3_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "3_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "26"
 "3_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "3_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "27"
 "3_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "3_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "28"
 "3_Scorpion_Spear_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Base"
 
-msgid ""
+msgid "29"
 "3_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "30"
 "3_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "3_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "31"
 "3_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "3_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "32"
 "3_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "3_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "33"
 "3_Scorpion_AttackTail_Base"
-
 msgstr ""
 "3_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "34"
 "3_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "35"
 "3_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "36"
 "3_Scorpion_Defense_Base"
-
 msgstr ""
 "3_Scorpion_Defense_Base"
 
-msgid ""
+msgid "37"
 "3_Scorpion_DefDash_Base"
-
 msgstr ""
 "3_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "38"
 "3_Scorpion_DefSpear_Base"
-
 msgstr ""
 "3_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "39"
 "3_Scorpion_DefShot_Base"
-
 msgstr ""
 "3_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "40"
 "3_Scorpion_DefAttack_Base"
-
 msgstr ""
 "3_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "41"
 "3_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "3_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "42"
 "3_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "3_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "43"
 "3_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "3_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "44"
 "3_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "3_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "45"
 "3_Scorpion_Oracle_TailFire"
-
 msgstr ""
 "3_Scorpion_Oracle_TailFire"
 
-msgid ""
+msgid "46"
 "3_Scorpion_Oracle_Defense_TailFire"
-
 msgstr ""
 "3_Scorpion_Oracle_Defense_TailFire"
 
-msgid ""
+msgid "47"
 "2_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "48"
 "3_Scorpion_Move_Default"
-
 msgstr ""
 "3_Scorpion_Move_Default"
 
-msgid ""
+msgid "49"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

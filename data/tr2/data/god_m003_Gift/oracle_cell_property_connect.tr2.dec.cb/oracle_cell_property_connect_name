@@ -1,78 +1,65 @@
-﻿msgid ""
+msgid "0"
 "ｱと同時に"
-
 msgstr ""
 "ｱと同時に"
 
-msgid ""
+msgid "1"
 "ｱの自然消滅時"
-
 msgstr ""
 "ｱの自然消滅時"
 
-msgid ""
+msgid "2"
 "ｱが何かに衝突時"
-
 msgstr ""
 "ｱが何かに衝突時"
 
-msgid ""
+msgid "3"
 "ｱが敵に衝突時"
-
 msgstr ""
 "ｱが敵に衝突時"
 
-msgid ""
+msgid "4"
 "ｱが地形に衝突時"
-
 msgstr ""
 "ｱが地形に衝突時"
 
-msgid ""
+msgid "5"
 "ｱが味方に衝突時"
-
 msgstr ""
 "ｱが味方に衝突時"
 
-msgid ""
+msgid "6"
 "ｱの発生から0.2秒"
-
 msgstr ""
 "ｱの発生から0.2秒"
 
-msgid ""
+msgid "7"
 "ｱの発生から0.5秒"
-
 msgstr ""
 "ｱの発生から0.5秒"
 
-msgid ""
+msgid "8"
 "ｱの発生から1秒"
-
 msgstr ""
 "ｱの発生から1秒"
 
-msgid ""
+msgid "9"
 "ｱの発生から2秒"
-
 msgstr ""
 "ｱの発生から2秒"
 
-msgid ""
+msgid "10"
 "ｱの発生から3秒"
-
 msgstr ""
 "ｱの発生から3秒"
 
-msgid ""
+msgid "11"
 "ｱの発生から5秒"
-
 msgstr ""
 "ｱの発生から5秒"
 
-msgid ""
+msgid "12"
 "ｱの発生から10秒"
-
 msgstr ""
 "ｱの発生から10秒"
 

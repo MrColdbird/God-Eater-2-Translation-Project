@@ -1,82 +1,68 @@
-﻿msgid ""
-
+msgid "0"
 msgstr ""
 
-msgid ""
+msgid "1"
 "ギル、通常表示"
-
 msgstr ""
 "ギル、通常表示"
 
-msgid ""
+msgid "2"
 "ナナ、オフセット表示"
-
 msgstr ""
 "ナナ、オフセット表示"
 
-msgid ""
+msgid "3"
 "ナナ、オフセット打ち消し"
-
 msgstr ""
 "ナナ、オフセット打ち消し"
 
-msgid ""
+msgid "4"
 "遠目のカメラ"
-
 msgstr ""
 "遠目のカメラ"
 
-msgid ""
+msgid "5"
 "カメラ切り替え"
-
 msgstr ""
 "カメラ切り替え"
 
-msgid ""
+msgid "6"
 "モーション切り替え"
-
 msgstr ""
 "モーション切り替え"
 
-msgid ""
+msgid "7"
 "汎用口パクに切り替え"
-
 msgstr ""
 "汎用口パクに切り替え"
 
-msgid ""
+msgid "8"
 "表情を笑顔に切り替え"
-
 msgstr ""
 "表情を笑顔に切り替え"
 
-msgid ""
+msgid "9"
 "ナナ→ギルへのターゲット"
-
 msgstr ""
 "ナナ→ギルへのターゲット"
 
-msgid ""
+msgid "10"
 "ナナ→ギルへのターゲット解除"
-
 msgstr ""
 "ナナ→ギルへのターゲット解除"
 
-msgid ""
+msgid "11"
 "ターゲッティングなし"
-
 msgstr ""
 "ターゲッティングなし"
 
-msgid ""
+msgid "12"
 "ギル→ナナへのターゲット（視線のみ）"
-
 msgstr ""
 "ギル→ナナへのターゲット（視線のみ）"
 
-msgid ""
+msgid "13"
 "ギル→ナナへのターゲット解除"
-
 msgstr ""
 "ギル→ナナへのターゲット解除"
 

@@ -1,264 +1,220 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Misc_Default"
-
 msgstr ""
 "2_CocoonMaiden_Misc_Default"
 
-msgid ""
+msgid "1"
 "3_CocoonMaiden_Misc_Default"
-
 msgstr ""
 "3_CocoonMaiden_Misc_Default"
 
-msgid ""
+msgid "2"
 "4_AngelEgg_Misc_Default"
-
 msgstr ""
 "4_AngelEgg_Misc_Default"
 
-msgid ""
+msgid "3"
 "4_AngelEgg_Mouth_Default"
-
 msgstr ""
 "4_AngelEgg_Mouth_Default"
 
-msgid ""
+msgid "4"
 "4_AngelEgg_Body_Default"
-
 msgstr ""
 "4_AngelEgg_Body_Default"
 
-msgid ""
+msgid "5"
 "4_AngelEgg_Cling_Base"
-
 msgstr ""
 "4_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "6"
 "4_AngelEgg_Tackle_Base"
-
 msgstr ""
 "4_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "7"
 "5_AngelEgg_Misc_Default"
-
 msgstr ""
 "5_AngelEgg_Misc_Default"
 
-msgid ""
+msgid "8"
 "5_AngelEgg_Mouth_Default"
-
 msgstr ""
 "5_AngelEgg_Mouth_Default"
 
-msgid ""
+msgid "9"
 "5_AngelEgg_Body_Default"
-
 msgstr ""
 "5_AngelEgg_Body_Default"
 
-msgid ""
+msgid "10"
 "5_AngelEgg_Cling_Base"
-
 msgstr ""
 "5_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "11"
 "5_AngelEgg_Tackle_Base"
-
 msgstr ""
 "5_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "12"
 "6_Wani_Misc_Default"
-
 msgstr ""
 "6_Wani_Misc_Default"
 
-msgid ""
+msgid "13"
 "6_Wani_Cling_Base"
-
 msgstr ""
 "6_Wani_Cling_Base"
 
-msgid ""
+msgid "14"
 "6_Wani_Cling_Arms_Base"
-
 msgstr ""
 "6_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "15"
 "6_Wani_Cling_Dash_Base"
-
 msgstr ""
 "6_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "16"
 "6_Wani_Go_Berserk_Base"
-
 msgstr ""
 "6_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "17"
 "6_Wani_Forehead_Default"
-
 msgstr ""
 "6_Wani_Forehead_Default"
 
-msgid ""
+msgid "18"
 "6_Wani_Body_Default"
-
 msgstr ""
 "6_Wani_Body_Default"
 
-msgid ""
+msgid "19"
 "6_Wani_Mouth_Default"
-
 msgstr ""
 "6_Wani_Mouth_Default"
 
-msgid ""
+msgid "20"
 "6_Wani_Arm_Default"
-
 msgstr ""
 "6_Wani_Arm_Default"
 
-msgid ""
+msgid "21"
 "6_Wani_Back_Default"
-
 msgstr ""
 "6_Wani_Back_Default"
 
-msgid ""
+msgid "22"
 "6_Wani_Tail_Default"
-
 msgstr ""
 "6_Wani_Tail_Default"
 
-msgid ""
+msgid "23"
 "6_Wani_Move_Default"
-
 msgstr ""
 "6_Wani_Move_Default"
 
-msgid ""
+msgid "24"
 "7_Devil_Misc_Default"
-
 msgstr ""
 "7_Devil_Misc_Default"
 
-msgid ""
+msgid "25"
 "7_Devil_Head_Default"
-
 msgstr ""
 "7_Devil_Head_Default"
 
-msgid ""
+msgid "26"
 "7_Devil_Neck_Default"
-
 msgstr ""
 "7_Devil_Neck_Default"
 
-msgid ""
+msgid "27"
 "7_Devil_Inside_RightForeFoot_Default"
-
 msgstr ""
 "7_Devil_Inside_RightForeFoot_Default"
 
-msgid ""
+msgid "28"
 "7_Devil_Inside_LeftForeFoot_Default"
-
 msgstr ""
 "7_Devil_Inside_LeftForeFoot_Default"
 
-msgid ""
+msgid "29"
 "7_Devil_Body_Default"
-
 msgstr ""
 "7_Devil_Body_Default"
 
-msgid ""
+msgid "30"
 "7_Devil_Back_Default"
-
 msgstr ""
 "7_Devil_Back_Default"
 
-msgid ""
+msgid "31"
 "7_Devil_Inside_HindFoot_Default"
-
 msgstr ""
 "7_Devil_Inside_HindFoot_Default"
 
-msgid ""
+msgid "32"
 "7_Devil_FootCover_Default"
-
 msgstr ""
 "7_Devil_FootCover_Default"
 
-msgid ""
+msgid "33"
 "7_Devil_Generic_Default"
-
 msgstr ""
 "7_Devil_Generic_Default"
 
-msgid ""
+msgid "34"
 "7_Devil_Kick_Base"
-
 msgstr ""
 "7_Devil_Kick_Base"
 
-msgid ""
+msgid "35"
 "7_Devil_ArmDispel_Base"
-
 msgstr ""
 "7_Devil_ArmDispel_Base"
 
-msgid ""
+msgid "36"
 "7_Devil_ArmStamp_Base"
-
 msgstr ""
 "7_Devil_ArmStamp_Base"
 
-msgid ""
+msgid "37"
 "7_Devil_StampDash_Base"
-
 msgstr ""
 "7_Devil_StampDash_Base"
 
-msgid ""
+msgid "38"
 "7_Devil_Tackle_Base"
-
 msgstr ""
 "7_Devil_Tackle_Base"
 
-msgid ""
+msgid "39"
 "7_Devil_DoubleArmStamp_Base"
-
 msgstr ""
 "7_Devil_DoubleArmStamp_Base"
 
-msgid ""
+msgid "40"
 "7_Devil_WideRange_IcePiller_Stamp_Base"
-
 msgstr ""
 "7_Devil_WideRange_IcePiller_Stamp_Base"
 
-msgid ""
+msgid "41"
 "7_Devil_BackJump_Base"
-
 msgstr ""
 "7_Devil_BackJump_Base"
 
-msgid ""
+msgid "42"
 "7_Devil_Move_Base"
-
 msgstr ""
 "7_Devil_Move_Base"
 
-msgid ""
+msgid "43"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

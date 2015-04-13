@@ -1,222 +1,185 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_QueenPapilam_Default"
-
 msgstr ""
 "3_QueenPapilam_Default"
 
-msgid ""
+msgid "9"
 "3_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "3_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "10"
 "3_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "11"
 "3_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "12"
 "3_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "3_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "13"
 "3_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "14"
 "3_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "15"
 "3_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "16"
 "3_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "17"
 "3_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "18"
 "3_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "19"
 "3_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "20"
 "3_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "21"
 "3_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "22"
 "3_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "23"
 "3_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "24"
 "4_OgreTail_Default"
-
 msgstr ""
 "4_OgreTail_Default"
 
-msgid ""
+msgid "25"
 "4_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "4_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "26"
 "4_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "4_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "27"
 "4_OgreTail_Cling_Base"
-
 msgstr ""
 "4_OgreTail_Cling_Base"
 
-msgid ""
+msgid "28"
 "4_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "4_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "29"
 "4_OgreTail_Pounce_Base"
-
 msgstr ""
 "4_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "30"
 "4_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "4_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "31"
 "4_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "4_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "32"
 "4_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "4_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "33"
 "5_ZakoCannon_Default"
-
 msgstr ""
 "5_ZakoCannon_Default"
 
-msgid ""
+msgid "34"
 "5_ZakoCannon_Oracle_ShotBomb"
-
 msgstr ""
 "5_ZakoCannon_Oracle_ShotBomb"
 
-msgid ""
+msgid "35"
 "5_ZakoCannon_Oracle_HealSphere"
-
 msgstr ""
 "5_ZakoCannon_Oracle_HealSphere"
 
-msgid ""
+msgid "36"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

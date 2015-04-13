@@ -1,426 +1,355 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Misc_Default"
-
 msgstr ""
 "2_OgreTail_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "2"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Head_Default"
-
 msgstr ""
 "2_OgreTail_Head_Default"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Forefoot_Default"
-
 msgstr ""
 "2_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Tail_Default"
-
 msgstr ""
 "2_OgreTail_Tail_Default"
 
-msgid ""
+msgid "8"
 "3_ABC"
-
 msgstr ""
 "3_ABC"
 
-msgid ""
+msgid "9"
 "3_Tiger_Misc_Default"
-
 msgstr ""
 "3_Tiger_Misc_Default"
 
-msgid ""
+msgid "10"
 "3_Tiger_Forefoot_Default"
-
 msgstr ""
 "3_Tiger_Forefoot_Default"
 
-msgid ""
+msgid "11"
 "3_Tiger_Hindfoot_Default"
-
 msgstr ""
 "3_Tiger_Hindfoot_Default"
 
-msgid ""
+msgid "12"
 "3_Tiger_Head_Default"
-
 msgstr ""
 "3_Tiger_Head_Default"
 
-msgid ""
+msgid "13"
 "3_Tiger_Shoulder_Default"
-
 msgstr ""
 "3_Tiger_Shoulder_Default"
 
-msgid ""
+msgid "14"
 "3_Tiger_Cloak_Default"
-
 msgstr ""
 "3_Tiger_Cloak_Default"
 
-msgid ""
+msgid "15"
 "3_Tiger_Body_Default"
-
 msgstr ""
 "3_Tiger_Body_Default"
 
-msgid ""
+msgid "16"
 "3_Tiger_Tail_Default"
-
 msgstr ""
 "3_Tiger_Tail_Default"
 
-msgid ""
+msgid "17"
 "3_Tiger_Thunder_Chop_Forefoot_Base"
-
 msgstr ""
 "3_Tiger_Thunder_Chop_Forefoot_Base"
 
-msgid ""
+msgid "18"
 "3_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "3_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "19"
 "3_Tiger_Cling_Base"
-
 msgstr ""
 "3_Tiger_Cling_Base"
 
-msgid ""
+msgid "20"
 "3_Tiger_Pounce_Base"
-
 msgstr ""
 "3_Tiger_Pounce_Base"
 
-msgid ""
+msgid "21"
 "3_Tiger_DashPounce_Base"
-
 msgstr ""
 "3_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "22"
 "3_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "3_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "23"
 "3_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "3_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "24"
 "3_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "3_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "25"
 "3_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "3_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "26"
 "4_Scorpion_Misc_Default"
-
 msgstr ""
 "4_Scorpion_Misc_Default"
 
-msgid ""
+msgid "27"
 "4_Scorpion_UpperBody_Default"
-
 msgstr ""
 "4_Scorpion_UpperBody_Default"
 
-msgid ""
+msgid "28"
 "4_Scorpion_Mouth_Default"
-
 msgstr ""
 "4_Scorpion_Mouth_Default"
 
-msgid ""
+msgid "29"
 "4_Scorpion_Arm_Default"
-
 msgstr ""
 "4_Scorpion_Arm_Default"
 
-msgid ""
+msgid "30"
 "4_Scorpion_LowerBody_Default"
-
 msgstr ""
 "4_Scorpion_LowerBody_Default"
 
-msgid ""
+msgid "31"
 "4_Scorpion_BackLeg_Default"
-
 msgstr ""
 "4_Scorpion_BackLeg_Default"
 
-msgid ""
+msgid "32"
 "4_Scorpion_Tail_Default"
-
 msgstr ""
 "4_Scorpion_Tail_Default"
 
-msgid ""
+msgid "33"
 "4_Scorpion_Needle_Default"
-
 msgstr ""
 "4_Scorpion_Needle_Default"
 
-msgid ""
+msgid "34"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "35"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "36"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "37"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "38"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "39"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "40"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "41"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "42"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "43"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "44"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "45"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "46"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "47"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "48"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "49"
 "5_Crocodile_Misc_Default"
-
 msgstr ""
 "5_Crocodile_Misc_Default"
 
-msgid ""
+msgid "50"
 "5_Crocodile_Head_Default"
-
 msgstr ""
 "5_Crocodile_Head_Default"
 
-msgid ""
+msgid "51"
 "5_Crocodile_Back_Default"
-
 msgstr ""
 "5_Crocodile_Back_Default"
 
-msgid ""
+msgid "52"
 "5_Crocodile_Belly_Default"
-
 msgstr ""
 "5_Crocodile_Belly_Default"
 
-msgid ""
+msgid "53"
 "5_Crocodile_Foot_Default"
-
 msgstr ""
 "5_Crocodile_Foot_Default"
 
-msgid ""
+msgid "54"
 "5_Crocodile_Tail_Default"
-
 msgstr ""
 "5_Crocodile_Tail_Default"
 
-msgid ""
+msgid "55"
 "5_Crocodile_Generic_Default"
-
 msgstr ""
 "5_Crocodile_Generic_Default"
 
-msgid ""
+msgid "56"
 "5_Crocodile_ShortDashBite_Base"
-
 msgstr ""
 "5_Crocodile_ShortDashBite_Base"
 
-msgid ""
+msgid "57"
 "5_Crocodile_TailHalfTurn_Base"
-
 msgstr ""
 "5_Crocodile_TailHalfTurn_Base"
 
-msgid ""
+msgid "58"
 "5_Crocodile_TailHalfTurn_Tail"
-
 msgstr ""
 "5_Crocodile_TailHalfTurn_Tail"
 
-msgid ""
+msgid "59"
 "5_Crocodile_SlidingBiteTurn__H_Base"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__H_Base"
 
-msgid ""
+msgid "60"
 "5_Crocodile_SlidingBiteTurn__M_Base"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__M_Base"
 
-msgid ""
+msgid "61"
 "5_Crocodile_SlidingBiteTurn__T_Base"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__T_Base"
 
-msgid ""
+msgid "62"
 "5_Crocodile_SlidingBiteTurn__T_Tail"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__T_Tail"
 
-msgid ""
+msgid "63"
 "5_Crocodile_ElectricBite_Base"
-
 msgstr ""
 "5_Crocodile_ElectricBite_Base"
 
-msgid ""
+msgid "64"
 "5_Crocodile_Bite_Base"
-
 msgstr ""
 "5_Crocodile_Bite_Base"
 
-msgid ""
+msgid "65"
 "5_Crocodile_SparkPounce__H_Base"
-
 msgstr ""
 "5_Crocodile_SparkPounce__H_Base"
 
-msgid ""
+msgid "66"
 "5_Crocodile_SparkPounce__M_Base"
-
 msgstr ""
 "5_Crocodile_SparkPounce__M_Base"
 
-msgid ""
+msgid "67"
 "5_Crocodile_SparkPounce__T_Base"
-
 msgstr ""
 "5_Crocodile_SparkPounce__T_Base"
 
-msgid ""
+msgid "68"
 "5_Crocodile_SparkPounce__M_Bite"
-
 msgstr ""
 "5_Crocodile_SparkPounce__M_Bite"
 
-msgid ""
+msgid "69"
 "5_Crocodile_Lightning_Base"
-
 msgstr ""
 "5_Crocodile_Lightning_Base"
 
-msgid ""
+msgid "70"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

@@ -1,252 +1,210 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_Yaksa_Default"
-
 msgstr ""
 "3_Yaksa_Default"
 
-msgid ""
+msgid "6"
 "3_Yaksa_Oracle_DawnHammer"
-
 msgstr ""
 "3_Yaksa_Oracle_DawnHammer"
 
-msgid ""
+msgid "7"
 "3_Yaksa_Oracle_RippleMassDriver"
-
 msgstr ""
 "3_Yaksa_Oracle_RippleMassDriver"
 
-msgid ""
+msgid "8"
 "3_Yaksa_Oracle_LightBallBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_LightBallBlast"
 
-msgid ""
+msgid "9"
 "3_Yaksa_Oracle_JumpShotBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_JumpShotBlast"
 
-msgid ""
+msgid "10"
 "3_Yaksa_Oracle_SlowLightBall"
-
 msgstr ""
 "3_Yaksa_Oracle_SlowLightBall"
 
-msgid ""
+msgid "11"
 "3_Yaksa_Oracle_YaksaCombo_ShockWave"
-
 msgstr ""
 "3_Yaksa_Oracle_YaksaCombo_ShockWave"
 
-msgid ""
+msgid "12"
 "3_Yaksa_Oracle_YaksaCombo_Blast"
-
 msgstr ""
 "3_Yaksa_Oracle_YaksaCombo_Blast"
 
-msgid ""
+msgid "13"
 "3_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
 
-msgid ""
+msgid "14"
 "3_Yaksa_UpperDispel_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Base"
 
-msgid ""
+msgid "15"
 "3_Yaksa_UpperDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Move_Base"
 
-msgid ""
+msgid "16"
 "3_Yaksa_Tackle_Base"
-
 msgstr ""
 "3_Yaksa_Tackle_Base"
 
-msgid ""
+msgid "17"
 "3_Yaksa_SerialDispel_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Base"
 
-msgid ""
+msgid "18"
 "3_Yaksa_SerialDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Move_Base"
 
-msgid ""
+msgid "19"
 "3_Yaksa_YaksaCombo_Blow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Blow_Base"
 
-msgid ""
+msgid "20"
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
 
-msgid ""
+msgid "21"
 "4_Vampire_Default"
-
 msgstr ""
 "4_Vampire_Default"
 
-msgid ""
+msgid "22"
 "4_Vampire_Pincer_Arms_Base"
-
 msgstr ""
 "4_Vampire_Pincer_Arms_Base"
 
-msgid ""
+msgid "23"
 "4_Vampire_Oracle_Jump_Kick"
-
 msgstr ""
 "4_Vampire_Oracle_Jump_Kick"
 
-msgid ""
+msgid "24"
 "4_Vampire_Oracle_Shot_Power_Charge"
-
 msgstr ""
 "4_Vampire_Oracle_Shot_Power_Charge"
 
-msgid ""
+msgid "25"
 "4_Vampire_Oracle_Loop_Shot_Power_Charge"
-
 msgstr ""
 "4_Vampire_Oracle_Loop_Shot_Power_Charge"
 
-msgid ""
+msgid "26"
 "4_Vampire_Oracle_Impact"
-
 msgstr ""
 "4_Vampire_Oracle_Impact"
 
-msgid ""
+msgid "27"
 "4_Vampire_Oracle_Shot_Homing"
-
 msgstr ""
 "4_Vampire_Oracle_Shot_Homing"
 
-msgid ""
+msgid "28"
 "4_Vampire_Oracle_Shock_Wave"
-
 msgstr ""
 "4_Vampire_Oracle_Shock_Wave"
 
-msgid ""
+msgid "29"
 "4_Vampire_Jump_Kick_Base"
-
 msgstr ""
 "4_Vampire_Jump_Kick_Base"
 
-msgid ""
+msgid "30"
 "4_Vampire_Jump_Turn_Arms_Base"
-
 msgstr ""
 "4_Vampire_Jump_Turn_Arms_Base"
 
-msgid ""
+msgid "31"
 "4_Vampire_Back_Jump_Base"
-
 msgstr ""
 "4_Vampire_Back_Jump_Base"
 
-msgid ""
+msgid "32"
 "4_Vampire_Side_Step_Base"
-
 msgstr ""
 "4_Vampire_Side_Step_Base"
 
-msgid ""
+msgid "33"
 "4_Vampire_Arms_Rot_Shock_Wave_Base"
-
 msgstr ""
 "4_Vampire_Arms_Rot_Shock_Wave_Base"
 
-msgid ""
+msgid "34"
 "4_Vampire_Gliding_Rush_Base"
-
 msgstr ""
 "4_Vampire_Gliding_Rush_Base"
 
-msgid ""
+msgid "35"
 "4_Vampire_Oracle_Arms_Rot_Shock_Wave"
-
 msgstr ""
 "4_Vampire_Oracle_Arms_Rot_Shock_Wave"
 
-msgid ""
+msgid "36"
 "4_Vampire_Oracle_Gliding_Rush"
-
 msgstr ""
 "4_Vampire_Oracle_Gliding_Rush"
 
-msgid ""
+msgid "37"
 "4_Vampire_Oracle_Explosion_Back_Jump"
-
 msgstr ""
 "4_Vampire_Oracle_Explosion_Back_Jump"
 
-msgid ""
+msgid "38"
 "4_Vampire_Oracle_Chop_SideStep"
-
 msgstr ""
 "4_Vampire_Oracle_Chop_SideStep"
 
-msgid ""
+msgid "39"
 "4_Vampire_Oracle_Angry_Gliding_Rush"
-
 msgstr ""
 "4_Vampire_Oracle_Angry_Gliding_Rush"
 
-msgid ""
+msgid "40"
 "4_Vampire_Move_Default"
-
 msgstr ""
 "4_Vampire_Move_Default"
 
-msgid ""
+msgid "41"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

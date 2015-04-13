@@ -1,246 +1,205 @@
-msgid ""
+msgid "0"
 "2_Scorpion_Default"
-
 msgstr ""
 "2_Scorpion_Default"
 
-msgid ""
+msgid "1"
 "2_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "2_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "2"
 "2_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "2_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "3"
 "2_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "2_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "4"
 "2_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "2_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "5"
 "2_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "2_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "6"
 "2_Scorpion_Spear_Base"
-
 msgstr ""
 "2_Scorpion_Spear_Base"
 
-msgid ""
+msgid "7"
 "2_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "2_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "8"
 "2_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "2_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "9"
 "2_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "2_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "10"
 "2_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "2_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "11"
 "2_Scorpion_AttackTail_Base"
-
 msgstr ""
 "2_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "12"
 "2_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "2_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "13"
 "2_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "2_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "14"
 "2_Scorpion_Defense_Base"
-
 msgstr ""
 "2_Scorpion_Defense_Base"
 
-msgid ""
+msgid "15"
 "2_Scorpion_DefDash_Base"
-
 msgstr ""
 "2_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "16"
 "2_Scorpion_DefSpear_Base"
-
 msgstr ""
 "2_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "17"
 "2_Scorpion_DefShot_Base"
-
 msgstr ""
 "2_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "18"
 "2_Scorpion_DefAttack_Base"
-
 msgstr ""
 "2_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "19"
 "2_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "2_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "20"
 "2_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "2_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "21"
 "2_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "2_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "22"
 "2_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "2_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "23"
 "3_QueenPapilam_Default"
-
 msgstr ""
 "3_QueenPapilam_Default"
 
-msgid ""
+msgid "24"
 "3_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "3_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "25"
 "3_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "26"
 "3_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "27"
 "3_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "3_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "28"
 "3_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "29"
 "3_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "30"
 "3_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "31"
 "3_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "32"
 "3_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "33"
 "3_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "34"
 "3_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "35"
 "3_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "36"
 "3_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "37"
 "2_Scorpion_Move_Default"
-
 msgstr ""
 "2_Scorpion_Move_Default"
 
-msgid ""
+msgid "38"
 "3_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "39"
 "3_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "40"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

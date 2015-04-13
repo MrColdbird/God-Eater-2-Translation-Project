@@ -1,474 +1,395 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_ATK0"
-
 msgstr ""
 "3_ATK0"
 
-msgid ""
+msgid "9"
 "3_Tiger_Default"
-
 msgstr ""
 "3_Tiger_Default"
 
-msgid ""
+msgid "10"
 "3_Tiger_TestOracle"
-
 msgstr ""
 "3_Tiger_TestOracle"
 
-msgid ""
+msgid "11"
 "3_Tiger_Oracle_Pounce"
-
 msgstr ""
 "3_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "12"
 "3_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "3_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "13"
 "3_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "3_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "14"
 "3_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "3_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "15"
 "3_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "3_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "16"
 "3_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "3_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "17"
 "3_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "3_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "18"
 "3_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "3_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "19"
 "3_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "3_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "20"
 "3_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "3_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "21"
 "3_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "3_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "22"
 "3_Tiger_Cling_Base"
-
 msgstr ""
 "3_Tiger_Cling_Base"
 
-msgid ""
+msgid "23"
 "3_Tiger_Pounce_Base"
-
 msgstr ""
 "3_Tiger_Pounce_Base"
 
-msgid ""
+msgid "24"
 "3_Tiger_DashPounce_Base"
-
 msgstr ""
 "3_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "25"
 "3_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "3_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "26"
 "3_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "3_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "27"
 "3_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "3_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "28"
 "3_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "3_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "29"
 "4_Scorpion_Default"
-
 msgstr ""
 "4_Scorpion_Default"
 
-msgid ""
+msgid "30"
 "4_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "31"
 "4_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "32"
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "33"
 "4_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "34"
 "4_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "4_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "35"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "36"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "37"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "38"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "39"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "40"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "41"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "42"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "43"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "44"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "45"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "46"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "47"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "48"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "49"
 "4_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "50"
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "51"
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "52"
 "2_OgreTail_Oracle_Thunder"
-
 msgstr ""
 "2_OgreTail_Oracle_Thunder"
 
-msgid ""
+msgid "53"
 "2_OgreTail_Oracle_SpotThunder"
-
 msgstr ""
 "2_OgreTail_Oracle_SpotThunder"
 
-msgid ""
+msgid "54"
 "2_OgreTail_Oracle_TailThunder"
-
 msgstr ""
 "2_OgreTail_Oracle_TailThunder"
 
-msgid ""
+msgid "55"
 "4_Scorpion_Oracle_TailThunder"
-
 msgstr ""
 "4_Scorpion_Oracle_TailThunder"
 
-msgid ""
+msgid "56"
 "4_Scorpion_Oracle_Defense_TailThunder"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_TailThunder"
 
-msgid ""
+msgid "57"
 "3_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "3_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "58"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "59"
 "5_Crocodile_Default"
-
 msgstr ""
 "5_Crocodile_Default"
 
-msgid ""
+msgid "60"
 "5_Crocodile_Oracle_ThunderTornado"
-
 msgstr ""
 "5_Crocodile_Oracle_ThunderTornado"
 
-msgid ""
+msgid "61"
 "5_Crocodile_Oracle_ThunderTornadoSmall"
-
 msgstr ""
 "5_Crocodile_Oracle_ThunderTornadoSmall"
 
-msgid ""
+msgid "62"
 "5_Crocodile_Oracle_ElectricBite"
-
 msgstr ""
 "5_Crocodile_Oracle_ElectricBite"
 
-msgid ""
+msgid "63"
 "5_Crocodile_Oracle_Lightning"
-
 msgstr ""
 "5_Crocodile_Oracle_Lightning"
 
-msgid ""
+msgid "64"
 "5_Crocodile_ShortDashBite_Base"
-
 msgstr ""
 "5_Crocodile_ShortDashBite_Base"
 
-msgid ""
+msgid "65"
 "5_Crocodile_TailHalfTurn_Base"
-
 msgstr ""
 "5_Crocodile_TailHalfTurn_Base"
 
-msgid ""
+msgid "66"
 "5_Crocodile_TailHalfTurn_Tail"
-
 msgstr ""
 "5_Crocodile_TailHalfTurn_Tail"
 
-msgid ""
+msgid "67"
 "5_Crocodile_SlidingBiteTurn__H_Base"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__H_Base"
 
-msgid ""
+msgid "68"
 "5_Crocodile_SlidingBiteTurn__M_Base"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__M_Base"
 
-msgid ""
+msgid "69"
 "5_Crocodile_SlidingBiteTurn__T_Base"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__T_Base"
 
-msgid ""
+msgid "70"
 "5_Crocodile_SlidingBiteTurn__T_Tail"
-
 msgstr ""
 "5_Crocodile_SlidingBiteTurn__T_Tail"
 
-msgid ""
+msgid "71"
 "5_Crocodile_ElectricBite_Base"
-
 msgstr ""
 "5_Crocodile_ElectricBite_Base"
 
-msgid ""
+msgid "72"
 "5_Crocodile_Bite_Base"
-
 msgstr ""
 "5_Crocodile_Bite_Base"
 
-msgid ""
+msgid "73"
 "5_Crocodile_SparkPounce__H_Base"
-
 msgstr ""
 "5_Crocodile_SparkPounce__H_Base"
 
-msgid ""
+msgid "74"
 "5_Crocodile_SparkPounce__M_Base"
-
 msgstr ""
 "5_Crocodile_SparkPounce__M_Base"
 
-msgid ""
+msgid "75"
 "5_Crocodile_SparkPounce__T_Base"
-
 msgstr ""
 "5_Crocodile_SparkPounce__T_Base"
 
-msgid ""
+msgid "76"
 "5_Crocodile_SparkPounce__M_Bite"
-
 msgstr ""
 "5_Crocodile_SparkPounce__M_Bite"
 
-msgid ""
+msgid "77"
 "5_Crocodile_Lightning_Base"
-
 msgstr ""
 "5_Crocodile_Lightning_Base"
 
-msgid ""
+msgid "78"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

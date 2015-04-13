@@ -1,432 +1,360 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_AngelEgg_Default"
-
 msgstr ""
 "3_AngelEgg_Default"
 
-msgid ""
+msgid "9"
 "3_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "3_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "10"
 "3_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "11"
 "3_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "12"
 "3_AngelEgg_Cling_Base"
-
 msgstr ""
 "3_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "13"
 "3_AngelEgg_Tackle_Base"
-
 msgstr ""
 "3_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "14"
 "4_Scorpion_Default"
-
 msgstr ""
 "4_Scorpion_Default"
 
-msgid ""
+msgid "15"
 "4_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "16"
 "4_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "17"
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "18"
 "4_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "19"
 "4_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "4_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "20"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "21"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "22"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "23"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "24"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "25"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "26"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "27"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "28"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "29"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "30"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "31"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "32"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "33"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "34"
 "4_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "35"
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "36"
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "37"
 "5_ManmosMan_Default"
-
 msgstr ""
 "5_ManmosMan_Default"
 
-msgid ""
+msgid "38"
 "5_ManmosMan_Oracle_Missile_Dash"
-
 msgstr ""
 "5_ManmosMan_Oracle_Missile_Dash"
 
-msgid ""
+msgid "39"
 "5_ManmosMan_Oracle_Stamp"
-
 msgstr ""
 "5_ManmosMan_Oracle_Stamp"
 
-msgid ""
+msgid "40"
 "5_ManmosMan_Oracle_Missile_Stamp"
-
 msgstr ""
 "5_ManmosMan_Oracle_Missile_Stamp"
 
-msgid ""
+msgid "41"
 "5_ManmosMan_Oracle_Tomahawk"
-
 msgstr ""
 "5_ManmosMan_Oracle_Tomahawk"
 
-msgid ""
+msgid "42"
 "5_ManmosMan_Oracle_Concentration_Missile"
-
 msgstr ""
 "5_ManmosMan_Oracle_Concentration_Missile"
 
-msgid ""
+msgid "43"
 "5_ManmosMan_Oracle_Diffusion_Missile"
-
 msgstr ""
 "5_ManmosMan_Oracle_Diffusion_Missile"
 
-msgid ""
+msgid "44"
 "5_ManmosMan_Oracle_Black_Napalm"
-
 msgstr ""
 "5_ManmosMan_Oracle_Black_Napalm"
 
-msgid ""
+msgid "45"
 "5_ManmosMan_Oracle_Black_Napalm_Tomahawk"
-
 msgstr ""
 "5_ManmosMan_Oracle_Black_Napalm_Tomahawk"
 
-msgid ""
+msgid "46"
 "5_ManmosMan_Oracle_Homing_Missile"
-
 msgstr ""
 "5_ManmosMan_Oracle_Homing_Missile"
 
-msgid ""
+msgid "47"
 "5_ManmosMan_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Dash_Base"
 
-msgid ""
+msgid "48"
 "5_ManmosMan_Oracle_Shock_Wave"
-
 msgstr ""
 "5_ManmosMan_Oracle_Shock_Wave"
 
-msgid ""
+msgid "49"
 "5_ManmosMan_First_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_First_Dash_Base"
 
-msgid ""
+msgid "50"
 "5_ManmosMan_Second_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Second_Dash_Base"
 
-msgid ""
+msgid "51"
 "5_ManmosMan_Long_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Long_Dash_Base"
 
-msgid ""
+msgid "52"
 "5_ManmosMan_Missile_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Missile_Dash_Base"
 
-msgid ""
+msgid "53"
 "5_ManmosMan_Back_Kick_Base"
-
 msgstr ""
 "5_ManmosMan_Back_Kick_Base"
 
-msgid ""
+msgid "54"
 "5_ManmosMan_Stamp_Base"
-
 msgstr ""
 "5_ManmosMan_Stamp_Base"
 
-msgid ""
+msgid "55"
 "5_ManmosMan_Missile_Stamp_Base"
-
 msgstr ""
 "5_ManmosMan_Missile_Stamp_Base"
 
-msgid ""
+msgid "56"
 "5_ManmosMan_Tomahawk_Base"
-
 msgstr ""
 "5_ManmosMan_Tomahawk_Base"
 
-msgid ""
+msgid "57"
 "5_ManmosMan_Concentration_Missile_Base"
-
 msgstr ""
 "5_ManmosMan_Concentration_Missile_Base"
 
-msgid ""
+msgid "58"
 "5_ManmosMan_Diffusion_Missile_Base"
-
 msgstr ""
 "5_ManmosMan_Diffusion_Missile_Base"
 
-msgid ""
+msgid "59"
 "5_ManmosMan_Black_Napalm_Tomahawk_Base"
-
 msgstr ""
 "5_ManmosMan_Black_Napalm_Tomahawk_Base"
 
-msgid ""
+msgid "60"
 "5_ManmosMan_Homing_Missile_Base"
-
 msgstr ""
 "5_ManmosMan_Homing_Missile_Base"
 
-msgid ""
+msgid "61"
 "2_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "2_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "62"
 "4_Scorpion_Oracle_TailFire"
-
 msgstr ""
 "4_Scorpion_Oracle_TailFire"
 
-msgid ""
+msgid "63"
 "4_Scorpion_Oracle_Defense_TailFire"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_TailFire"
 
-msgid ""
+msgid "64"
 "5_ManmosMan_Oracle_Angry_Tomahawk"
-
 msgstr ""
 "5_ManmosMan_Oracle_Angry_Tomahawk"
 
-msgid ""
+msgid "65"
 "5_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
-
 msgstr ""
 "5_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
 
-msgid ""
+msgid "66"
 "5_ManmosMan_Oracle_Back_Slide_Missile"
-
 msgstr ""
 "5_ManmosMan_Oracle_Back_Slide_Missile"
 
-msgid ""
+msgid "67"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "68"
 "5_ManmosMan_Move_Default"
-
 msgstr ""
 "5_ManmosMan_Move_Default"
 
-msgid ""
+msgid "69"
 "5_ManmosMan_Oracle_Super_LongRange_Tomahawk"
-
 msgstr ""
 "5_ManmosMan_Oracle_Super_LongRange_Tomahawk"
 
-msgid ""
+msgid "70"
 "5_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
-
 msgstr ""
 "5_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
 
-msgid ""
+msgid "71"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

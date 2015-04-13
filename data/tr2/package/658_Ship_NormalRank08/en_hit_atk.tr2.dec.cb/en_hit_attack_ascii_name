@@ -1,420 +1,350 @@
-msgid ""
+msgid "0"
 "2_Scorpion_Misc_Default"
-
 msgstr ""
 "2_Scorpion_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_Scorpion_UpperBody_Default"
-
 msgstr ""
 "2_Scorpion_UpperBody_Default"
 
-msgid ""
+msgid "2"
 "2_Scorpion_Mouth_Default"
-
 msgstr ""
 "2_Scorpion_Mouth_Default"
 
-msgid ""
+msgid "3"
 "2_Scorpion_Arm_Default"
-
 msgstr ""
 "2_Scorpion_Arm_Default"
 
-msgid ""
+msgid "4"
 "2_Scorpion_LowerBody_Default"
-
 msgstr ""
 "2_Scorpion_LowerBody_Default"
 
-msgid ""
+msgid "5"
 "2_Scorpion_BackLeg_Default"
-
 msgstr ""
 "2_Scorpion_BackLeg_Default"
 
-msgid ""
+msgid "6"
 "2_Scorpion_Tail_Default"
-
 msgstr ""
 "2_Scorpion_Tail_Default"
 
-msgid ""
+msgid "7"
 "2_Scorpion_Needle_Default"
-
 msgstr ""
 "2_Scorpion_Needle_Default"
 
-msgid ""
+msgid "8"
 "2_Scorpion_Spear_Base"
-
 msgstr ""
 "2_Scorpion_Spear_Base"
 
-msgid ""
+msgid "9"
 "2_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "2_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "10"
 "2_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "2_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "11"
 "2_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "2_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "12"
 "2_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "2_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "13"
 "2_Scorpion_AttackTail_Base"
-
 msgstr ""
 "2_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "14"
 "2_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "2_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "15"
 "2_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "2_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "16"
 "2_Scorpion_Defense_Base"
-
 msgstr ""
 "2_Scorpion_Defense_Base"
 
-msgid ""
+msgid "17"
 "2_Scorpion_DefDash_Base"
-
 msgstr ""
 "2_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "18"
 "2_Scorpion_DefSpear_Base"
-
 msgstr ""
 "2_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "19"
 "2_Scorpion_DefShot_Base"
-
 msgstr ""
 "2_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "20"
 "2_Scorpion_DefAttack_Base"
-
 msgstr ""
 "2_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "21"
 "2_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "2_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "22"
 "3_Scorpion_Misc_Default"
-
 msgstr ""
 "3_Scorpion_Misc_Default"
 
-msgid ""
+msgid "23"
 "3_Scorpion_UpperBody_Default"
-
 msgstr ""
 "3_Scorpion_UpperBody_Default"
 
-msgid ""
+msgid "24"
 "3_Scorpion_Mouth_Default"
-
 msgstr ""
 "3_Scorpion_Mouth_Default"
 
-msgid ""
+msgid "25"
 "3_Scorpion_Arm_Default"
-
 msgstr ""
 "3_Scorpion_Arm_Default"
 
-msgid ""
+msgid "26"
 "3_Scorpion_LowerBody_Default"
-
 msgstr ""
 "3_Scorpion_LowerBody_Default"
 
-msgid ""
+msgid "27"
 "3_Scorpion_BackLeg_Default"
-
 msgstr ""
 "3_Scorpion_BackLeg_Default"
 
-msgid ""
+msgid "28"
 "3_Scorpion_Tail_Default"
-
 msgstr ""
 "3_Scorpion_Tail_Default"
 
-msgid ""
+msgid "29"
 "3_Scorpion_Needle_Default"
-
 msgstr ""
 "3_Scorpion_Needle_Default"
 
-msgid ""
+msgid "30"
 "3_Scorpion_Spear_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Base"
 
-msgid ""
+msgid "31"
 "3_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "3_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "32"
 "3_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "33"
 "3_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "3_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "34"
 "3_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "3_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "35"
 "3_Scorpion_AttackTail_Base"
-
 msgstr ""
 "3_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "36"
 "3_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "37"
 "3_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "38"
 "3_Scorpion_Defense_Base"
-
 msgstr ""
 "3_Scorpion_Defense_Base"
 
-msgid ""
+msgid "39"
 "3_Scorpion_DefDash_Base"
-
 msgstr ""
 "3_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "40"
 "3_Scorpion_DefSpear_Base"
-
 msgstr ""
 "3_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "41"
 "3_Scorpion_DefShot_Base"
-
 msgstr ""
 "3_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "42"
 "3_Scorpion_DefAttack_Base"
-
 msgstr ""
 "3_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "43"
 "3_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "3_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "44"
 "4_Scorpion_Misc_Default"
-
 msgstr ""
 "4_Scorpion_Misc_Default"
 
-msgid ""
+msgid "45"
 "4_Scorpion_UpperBody_Default"
-
 msgstr ""
 "4_Scorpion_UpperBody_Default"
 
-msgid ""
+msgid "46"
 "4_Scorpion_Mouth_Default"
-
 msgstr ""
 "4_Scorpion_Mouth_Default"
 
-msgid ""
+msgid "47"
 "4_Scorpion_Arm_Default"
-
 msgstr ""
 "4_Scorpion_Arm_Default"
 
-msgid ""
+msgid "48"
 "4_Scorpion_LowerBody_Default"
-
 msgstr ""
 "4_Scorpion_LowerBody_Default"
 
-msgid ""
+msgid "49"
 "4_Scorpion_BackLeg_Default"
-
 msgstr ""
 "4_Scorpion_BackLeg_Default"
 
-msgid ""
+msgid "50"
 "4_Scorpion_Tail_Default"
-
 msgstr ""
 "4_Scorpion_Tail_Default"
 
-msgid ""
+msgid "51"
 "4_Scorpion_Needle_Default"
-
 msgstr ""
 "4_Scorpion_Needle_Default"
 
-msgid ""
+msgid "52"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "53"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "54"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "55"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "56"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "57"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "58"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "59"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "60"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "61"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "62"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "63"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "64"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "65"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "66"
 "2_Scorpion_Move_Default"
-
 msgstr ""
 "2_Scorpion_Move_Default"
 
-msgid ""
+msgid "67"
 "3_Scorpion_Move_Default"
-
 msgstr ""
 "3_Scorpion_Move_Default"
 
-msgid ""
+msgid "68"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "69"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

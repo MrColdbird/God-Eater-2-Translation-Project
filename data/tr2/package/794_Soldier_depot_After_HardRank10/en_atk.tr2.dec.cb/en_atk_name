@@ -1,372 +1,310 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_QueenPapilam_Default"
-
 msgstr ""
 "3_QueenPapilam_Default"
 
-msgid ""
+msgid "6"
 "3_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "3_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "7"
 "3_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "8"
 "3_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "9"
 "3_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "3_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "10"
 "3_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "11"
 "3_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "12"
 "3_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "13"
 "3_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "14"
 "3_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "15"
 "3_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "16"
 "3_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "17"
 "3_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "18"
 "3_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "19"
 "3_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "20"
 "3_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "21"
 "4_Soldier_Default"
-
 msgstr ""
 "4_Soldier_Default"
 
-msgid ""
+msgid "22"
 "4_Soldier_Oracle_FallDownBomb"
-
 msgstr ""
 "4_Soldier_Oracle_FallDownBomb"
 
-msgid ""
+msgid "23"
 "4_Soldier_Oracle_WildShot"
-
 msgstr ""
 "4_Soldier_Oracle_WildShot"
 
-msgid ""
+msgid "24"
 "4_Soldier_Oracle_ChargeVerticalSlash_Charge"
-
 msgstr ""
 "4_Soldier_Oracle_ChargeVerticalSlash_Charge"
 
-msgid ""
+msgid "25"
 "4_Soldier_Oracle_ChargeHorizontalSlash"
-
 msgstr ""
 "4_Soldier_Oracle_ChargeHorizontalSlash"
 
-msgid ""
+msgid "26"
 "4_Soldier_Oracle_ChargeVerticalSlash_ShockWave"
-
 msgstr ""
 "4_Soldier_Oracle_ChargeVerticalSlash_ShockWave"
 
-msgid ""
+msgid "27"
 "4_Soldier_RightStepSlash_Base"
-
 msgstr ""
 "4_Soldier_RightStepSlash_Base"
 
-msgid ""
+msgid "28"
 "4_Soldier_AngryRightStepSlash_Base"
-
 msgstr ""
 "4_Soldier_AngryRightStepSlash_Base"
 
-msgid ""
+msgid "29"
 "4_Soldier_Pounce_Base"
-
 msgstr ""
 "4_Soldier_Pounce_Base"
 
-msgid ""
+msgid "30"
 "4_Soldier_BackflipJump_Bridge_Base"
-
 msgstr ""
 "4_Soldier_BackflipJump_Bridge_Base"
 
-msgid ""
+msgid "31"
 "4_Soldier_BackflipJump_Move_Base"
-
 msgstr ""
 "4_Soldier_BackflipJump_Move_Base"
 
-msgid ""
+msgid "32"
 "4_Soldier_WideSlash_Base"
-
 msgstr ""
 "4_Soldier_WideSlash_Base"
 
-msgid ""
+msgid "33"
 "4_Soldier_ChargeVerticalSlash_Jump_Base"
-
 msgstr ""
 "4_Soldier_ChargeVerticalSlash_Jump_Base"
 
-msgid ""
+msgid "34"
 "4_Soldier_ChargeVerticalSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_ChargeVerticalSlash_Slash_Base"
 
-msgid ""
+msgid "35"
 "4_Soldier_AngryChargeVerticalSlash_Jump_Base"
-
 msgstr ""
 "4_Soldier_AngryChargeVerticalSlash_Jump_Base"
 
-msgid ""
+msgid "36"
 "4_Soldier_AngryChargeVerticalSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_AngryChargeVerticalSlash_Slash_Base"
 
-msgid ""
+msgid "37"
 "4_Soldier_ChargeHorizontalSlash_Hit_Base"
-
 msgstr ""
 "4_Soldier_ChargeHorizontalSlash_Hit_Base"
 
-msgid ""
+msgid "38"
 "4_Soldier_ChargeHorizontalSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_ChargeHorizontalSlash_Slash_Base"
 
-msgid ""
+msgid "39"
 "4_Soldier_Oracle_AngryChargeHorizontalSlash"
-
 msgstr ""
 "4_Soldier_Oracle_AngryChargeHorizontalSlash"
 
-msgid ""
+msgid "40"
 "4_Soldier_AngryChargeHorizontalSlash_Hit_Base"
-
 msgstr ""
 "4_Soldier_AngryChargeHorizontalSlash_Hit_Base"
 
-msgid ""
+msgid "41"
 "4_Soldier_AngryChargeHorizontalSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_AngryChargeHorizontalSlash_Slash_Base"
 
-msgid ""
+msgid "42"
 "5_Truetail_Default"
-
 msgstr ""
 "5_Truetail_Default"
 
-msgid ""
+msgid "43"
 "5_Truetail_Oracle_SomersaultWave"
-
 msgstr ""
 "5_Truetail_Oracle_SomersaultWave"
 
-msgid ""
+msgid "44"
 "5_Truetail_Oracle_HorizontalRagingStorm"
-
 msgstr ""
 "5_Truetail_Oracle_HorizontalRagingStorm"
 
-msgid ""
+msgid "45"
 "5_Truetail_Oracle_CircularSawTackle"
-
 msgstr ""
 "5_Truetail_Oracle_CircularSawTackle"
 
-msgid ""
+msgid "46"
 "5_Truetail_Oracle_SpinTornado"
-
 msgstr ""
 "5_Truetail_Oracle_SpinTornado"
 
-msgid ""
+msgid "47"
 "5_Truetail_Oracle_RotateFire"
-
 msgstr ""
 "5_Truetail_Oracle_RotateFire"
 
-msgid ""
+msgid "48"
 "5_Truetail_Oracle_MultiLockLaser"
-
 msgstr ""
 "5_Truetail_Oracle_MultiLockLaser"
 
-msgid ""
+msgid "49"
 "5_Truetail_Oracle_StunFieldShot"
-
 msgstr ""
 "5_Truetail_Oracle_StunFieldShot"
 
-msgid ""
+msgid "50"
 "5_Truetail_Oracle_ReflectLaser"
-
 msgstr ""
 "5_Truetail_Oracle_ReflectLaser"
 
-msgid ""
+msgid "51"
 "5_Truetail_Oracle_DashSprayFire"
-
 msgstr ""
 "5_Truetail_Oracle_DashSprayFire"
 
-msgid ""
+msgid "52"
 "5_Truetail_Oracle_Pounce"
-
 msgstr ""
 "5_Truetail_Oracle_Pounce"
 
-msgid ""
+msgid "53"
 "5_Truetail_Oracle_BHLaser"
-
 msgstr ""
 "5_Truetail_Oracle_BHLaser"
 
-msgid ""
+msgid "54"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 
-msgid ""
+msgid "55"
 "5_Truetail_ShoulderTackle_Base"
-
 msgstr ""
 "5_Truetail_ShoulderTackle_Base"
 
-msgid ""
+msgid "56"
 "5_Truetail_SomersaultWave_Base"
-
 msgstr ""
 "5_Truetail_SomersaultWave_Base"
 
-msgid ""
+msgid "57"
 "5_Truetail_HorizontalRagingStorm_Base"
-
 msgstr ""
 "5_Truetail_HorizontalRagingStorm_Base"
 
-msgid ""
+msgid "58"
 "5_Truetail_CircularSawTackle_Base"
-
 msgstr ""
 "5_Truetail_CircularSawTackle_Base"
 
-msgid ""
+msgid "59"
 "5_Truetail_DashSprayFire_Base"
-
 msgstr ""
 "5_Truetail_DashSprayFire_Base"
 
-msgid ""
+msgid "60"
 "5_Truetail_Pounce_Base"
-
 msgstr ""
 "5_Truetail_Pounce_Base"
 
-msgid ""
+msgid "61"
 "5_Truetail_Move_Base"
-
 msgstr ""
 "5_Truetail_Move_Base"
 

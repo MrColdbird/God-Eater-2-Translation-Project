@@ -1,402 +1,335 @@
-msgid ""
+msgid "0"
 "2_Tsukuyomi_Misc_Default"
-
 msgstr ""
 "2_Tsukuyomi_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_Tsukuyomi_HeadRing_Default"
-
 msgstr ""
 "2_Tsukuyomi_HeadRing_Default"
 
-msgid ""
+msgid "2"
 "2_Tsukuyomi_Hair_Default"
-
 msgstr ""
 "2_Tsukuyomi_Hair_Default"
 
-msgid ""
+msgid "3"
 "2_Tsukuyomi_UpperBody_Default"
-
 msgstr ""
 "2_Tsukuyomi_UpperBody_Default"
 
-msgid ""
+msgid "4"
 "2_Tsukuyomi_LowerBody_Default"
-
 msgstr ""
 "2_Tsukuyomi_LowerBody_Default"
 
-msgid ""
+msgid "5"
 "2_Tsukuyomi_Arm_Default"
-
 msgstr ""
 "2_Tsukuyomi_Arm_Default"
 
-msgid ""
+msgid "6"
 "2_Tsukuyomi_HandNeedle_Default"
-
 msgstr ""
 "2_Tsukuyomi_HandNeedle_Default"
 
-msgid ""
+msgid "7"
 "2_Tsukuyomi_ZoomSpit_Base"
-
 msgstr ""
 "2_Tsukuyomi_ZoomSpit_Base"
 
-msgid ""
+msgid "8"
 "2_Tsukuyomi_SequentialDispel_Base"
-
 msgstr ""
 "2_Tsukuyomi_SequentialDispel_Base"
 
-msgid ""
+msgid "9"
 "2_Tsukuyomi_ZoomShot_Base"
-
 msgstr ""
 "2_Tsukuyomi_ZoomShot_Base"
 
-msgid ""
+msgid "10"
 "2_Tsukuyomi_DisheveledHairCutter_Base"
-
 msgstr ""
 "2_Tsukuyomi_DisheveledHairCutter_Base"
 
-msgid ""
+msgid "11"
 "2_Tsukuyomi_4LimbsDash_Base"
-
 msgstr ""
 "2_Tsukuyomi_4LimbsDash_Base"
 
-msgid ""
+msgid "12"
 "2_Tsukuyomi_4LimbsMeanderingDash_Base"
-
 msgstr ""
 "2_Tsukuyomi_4LimbsMeanderingDash_Base"
 
-msgid ""
+msgid "13"
 "2_Tsukuyomi_ThrowPounce_Base"
-
 msgstr ""
 "2_Tsukuyomi_ThrowPounce_Base"
 
-msgid ""
+msgid "14"
 "2_Tsukuyomi_Pounce_HairCutter_Base"
-
 msgstr ""
 "2_Tsukuyomi_Pounce_HairCutter_Base"
 
-msgid ""
+msgid "15"
 "2_Tsukuyomi_Wield_Arms_Base"
-
 msgstr ""
 "2_Tsukuyomi_Wield_Arms_Base"
 
-msgid ""
+msgid "16"
 "3_Soldier_Misc_Default"
-
 msgstr ""
 "3_Soldier_Misc_Default"
 
-msgid ""
+msgid "17"
 "3_Soldier_Head_Default"
-
 msgstr ""
 "3_Soldier_Head_Default"
 
-msgid ""
+msgid "18"
 "3_Soldier_Body_Default"
-
 msgstr ""
 "3_Soldier_Body_Default"
 
-msgid ""
+msgid "19"
 "3_Soldier_Back_Default"
-
 msgstr ""
 "3_Soldier_Back_Default"
 
-msgid ""
+msgid "20"
 "3_Soldier_RightArm_Default"
-
 msgstr ""
 "3_Soldier_RightArm_Default"
 
-msgid ""
+msgid "21"
 "3_Soldier_LeftArm_Default"
-
 msgstr ""
 "3_Soldier_LeftArm_Default"
 
-msgid ""
+msgid "22"
 "3_Soldier_Foot_Default"
-
 msgstr ""
 "3_Soldier_Foot_Default"
 
-msgid ""
+msgid "23"
 "3_Soldier_Weapon_Default"
-
 msgstr ""
 "3_Soldier_Weapon_Default"
 
-msgid ""
+msgid "24"
 "3_Soldier_Generic_Default"
-
 msgstr ""
 "3_Soldier_Generic_Default"
 
-msgid ""
+msgid "25"
 "3_Soldier_RightStepSlash_Base"
-
 msgstr ""
 "3_Soldier_RightStepSlash_Base"
 
-msgid ""
+msgid "26"
 "3_Soldier_AngryRightStepSlash_Base"
-
 msgstr ""
 "3_Soldier_AngryRightStepSlash_Base"
 
-msgid ""
+msgid "27"
 "3_Soldier_Pounce_Base"
-
 msgstr ""
 "3_Soldier_Pounce_Base"
 
-msgid ""
+msgid "28"
 "3_Soldier_BackflipJump_Bridge_Base"
-
 msgstr ""
 "3_Soldier_BackflipJump_Bridge_Base"
 
-msgid ""
+msgid "29"
 "3_Soldier_BackflipJump_Move_Base"
-
 msgstr ""
 "3_Soldier_BackflipJump_Move_Base"
 
-msgid ""
+msgid "30"
 "3_Soldier_WideSlash_Base"
-
 msgstr ""
 "3_Soldier_WideSlash_Base"
 
-msgid ""
+msgid "31"
 "3_Soldier_ChargeVerticalSlash_Jump_Base"
-
 msgstr ""
 "3_Soldier_ChargeVerticalSlash_Jump_Base"
 
-msgid ""
+msgid "32"
 "3_Soldier_ChargeVerticalSlash_Slash_Base"
-
 msgstr ""
 "3_Soldier_ChargeVerticalSlash_Slash_Base"
 
-msgid ""
+msgid "33"
 "3_Soldier_AngryChargeVerticalSlash_Jump_Base"
-
 msgstr ""
 "3_Soldier_AngryChargeVerticalSlash_Jump_Base"
 
-msgid ""
+msgid "34"
 "3_Soldier_AngryChargeVerticalSlash_Slash_Base"
-
 msgstr ""
 "3_Soldier_AngryChargeVerticalSlash_Slash_Base"
 
-msgid ""
+msgid "35"
 "3_Soldier_ChargeHorizontalSlash_Hit_Base"
-
 msgstr ""
 "3_Soldier_ChargeHorizontalSlash_Hit_Base"
 
-msgid ""
+msgid "36"
 "3_Soldier_ChargeHorizontalSlash_Slash_Base"
-
 msgstr ""
 "3_Soldier_ChargeHorizontalSlash_Slash_Base"
 
-msgid ""
+msgid "37"
 "3_Soldier_AngryChargeHorizontalSlash_Hit_Base"
-
 msgstr ""
 "3_Soldier_AngryChargeHorizontalSlash_Hit_Base"
 
-msgid ""
+msgid "38"
 "3_Soldier_AngryChargeHorizontalSlash_Slash_Base"
-
 msgstr ""
 "3_Soldier_AngryChargeHorizontalSlash_Slash_Base"
 
-msgid ""
+msgid "39"
 "4_Soldier_Misc_Default"
-
 msgstr ""
 "4_Soldier_Misc_Default"
 
-msgid ""
+msgid "40"
 "4_Soldier_Head_Default"
-
 msgstr ""
 "4_Soldier_Head_Default"
 
-msgid ""
+msgid "41"
 "4_Soldier_Body_Default"
-
 msgstr ""
 "4_Soldier_Body_Default"
 
-msgid ""
+msgid "42"
 "4_Soldier_Back_Default"
-
 msgstr ""
 "4_Soldier_Back_Default"
 
-msgid ""
+msgid "43"
 "4_Soldier_RightArm_Default"
-
 msgstr ""
 "4_Soldier_RightArm_Default"
 
-msgid ""
+msgid "44"
 "4_Soldier_LeftArm_Default"
-
 msgstr ""
 "4_Soldier_LeftArm_Default"
 
-msgid ""
+msgid "45"
 "4_Soldier_Foot_Default"
-
 msgstr ""
 "4_Soldier_Foot_Default"
 
-msgid ""
+msgid "46"
 "4_Soldier_Weapon_Default"
-
 msgstr ""
 "4_Soldier_Weapon_Default"
 
-msgid ""
+msgid "47"
 "4_Soldier_Generic_Default"
-
 msgstr ""
 "4_Soldier_Generic_Default"
 
-msgid ""
+msgid "48"
 "4_Soldier_RightStepSlash_Base"
-
 msgstr ""
 "4_Soldier_RightStepSlash_Base"
 
-msgid ""
+msgid "49"
 "4_Soldier_AngryRightStepSlash_Base"
-
 msgstr ""
 "4_Soldier_AngryRightStepSlash_Base"
 
-msgid ""
+msgid "50"
 "4_Soldier_Pounce_Base"
-
 msgstr ""
 "4_Soldier_Pounce_Base"
 
-msgid ""
+msgid "51"
 "4_Soldier_BackflipJump_Bridge_Base"
-
 msgstr ""
 "4_Soldier_BackflipJump_Bridge_Base"
 
-msgid ""
+msgid "52"
 "4_Soldier_BackflipJump_Land_Base"
-
 msgstr ""
 "4_Soldier_BackflipJump_Land_Base"
 
-msgid ""
+msgid "53"
 "4_Soldier_TripleHomingSlash_1st_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_1st_Base"
 
-msgid ""
+msgid "54"
 "4_Soldier_TripleHomingSlash_2nd_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_2nd_Base"
 
-msgid ""
+msgid "55"
 "4_Soldier_TripleHomingSlash_3rd_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_3rd_Base"
 
-msgid ""
+msgid "56"
 "4_Soldier_TripleHomingSlash_arm_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_arm_Base"
 
-msgid ""
+msgid "57"
 "4_Soldier_TackleSlash_Tackle_Base"
-
 msgstr ""
 "4_Soldier_TackleSlash_Tackle_Base"
 
-msgid ""
+msgid "58"
 "4_Soldier_TackleSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_TackleSlash_Slash_Base"
 
-msgid ""
+msgid "59"
 "4_Soldier_AngryTackleSlash_Tackle_Base"
-
 msgstr ""
 "4_Soldier_AngryTackleSlash_Tackle_Base"
 
-msgid ""
+msgid "60"
 "4_Soldier_AngryTackleSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_AngryTackleSlash_Slash_Base"
 
-msgid ""
+msgid "61"
 "4_Soldier_AngrySlashAround_1st_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_1st_Base"
 
-msgid ""
+msgid "62"
 "4_Soldier_AngrySlashAround_2nd_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_2nd_Base"
 
-msgid ""
+msgid "63"
 "4_Soldier_AngrySlashAround_3rd_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_3rd_Base"
 
-msgid ""
+msgid "64"
 "4_Soldier_AngrySlashAround_4th_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_4th_Base"
 
-msgid ""
+msgid "65"
 "4_Soldier_AngrySlashAround_5th_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_5th_Base"
 
-msgid ""
+msgid "66"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

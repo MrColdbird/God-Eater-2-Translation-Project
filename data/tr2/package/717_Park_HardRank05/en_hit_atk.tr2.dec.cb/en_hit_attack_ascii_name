@@ -1,150 +1,125 @@
-msgid ""
+msgid "0"
 "2_QueenPapilam_Misc_Default"
-
 msgstr ""
 "2_QueenPapilam_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_QueenPapilam_Arm_Default"
-
 msgstr ""
 "2_QueenPapilam_Arm_Default"
 
-msgid ""
+msgid "2"
 "2_QueenPapilam_Body_Default"
-
 msgstr ""
 "2_QueenPapilam_Body_Default"
 
-msgid ""
+msgid "3"
 "2_QueenPapilam_Leg_Default"
-
 msgstr ""
 "2_QueenPapilam_Leg_Default"
 
-msgid ""
+msgid "4"
 "2_QueenPapilam_Skirt_Default"
-
 msgstr ""
 "2_QueenPapilam_Skirt_Default"
 
-msgid ""
+msgid "5"
 "2_QueenPapilam_Lunge_Default"
-
 msgstr ""
 "2_QueenPapilam_Lunge_Default"
 
-msgid ""
+msgid "6"
 "2_QueenPapilam_MeanderingLunge_Default"
-
 msgstr ""
 "2_QueenPapilam_MeanderingLunge_Default"
 
-msgid ""
+msgid "7"
 "2_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "8"
 "2_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "9"
 "3_Yaksa_Misc_Default"
-
 msgstr ""
 "3_Yaksa_Misc_Default"
 
-msgid ""
+msgid "10"
 "3_Yaksa_Head_Default"
-
 msgstr ""
 "3_Yaksa_Head_Default"
 
-msgid ""
+msgid "11"
 "3_Yaksa_FarArm_Default"
-
 msgstr ""
 "3_Yaksa_FarArm_Default"
 
-msgid ""
+msgid "12"
 "3_Yaksa_NearArm_Default"
-
 msgstr ""
 "3_Yaksa_NearArm_Default"
 
-msgid ""
+msgid "13"
 "3_Yaksa_Body_Default"
-
 msgstr ""
 "3_Yaksa_Body_Default"
 
-msgid ""
+msgid "14"
 "3_Yaksa_Foot_Default"
-
 msgstr ""
 "3_Yaksa_Foot_Default"
 
-msgid ""
+msgid "15"
 "3_Yaksa_ShoulderArmor_Default"
-
 msgstr ""
 "3_Yaksa_ShoulderArmor_Default"
 
-msgid ""
+msgid "16"
 "3_Yaksa_Generic_Default"
-
 msgstr ""
 "3_Yaksa_Generic_Default"
 
-msgid ""
+msgid "17"
 "3_Yaksa_UpperDispel_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Base"
 
-msgid ""
+msgid "18"
 "3_Yaksa_UpperDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Move_Base"
 
-msgid ""
+msgid "19"
 "3_Yaksa_Tackle_Base"
-
 msgstr ""
 "3_Yaksa_Tackle_Base"
 
-msgid ""
+msgid "20"
 "3_Yaksa_SerialDispel_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Base"
 
-msgid ""
+msgid "21"
 "3_Yaksa_SerialDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Move_Base"
 
-msgid ""
+msgid "22"
 "3_Yaksa_YaksaCombo_Blow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Blow_Base"
 
-msgid ""
+msgid "23"
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
 
-msgid ""
+msgid "24"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

@@ -1,1692 +1,1410 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_Scorpion_N_Idle"
-
 msgstr ""
 "2_Scorpion_N_Idle"
 
-msgid ""
+msgid "31"
 "2_Scorpion_N_Walk"
-
 msgstr ""
 "2_Scorpion_N_Walk"
 
-msgid ""
+msgid "32"
 "2_Scorpion_N_JumpToUpland__H"
-
 msgstr ""
 "2_Scorpion_N_JumpToUpland__H"
 
-msgid ""
+msgid "33"
 "2_Scorpion_N_JumpToUpland__M"
-
 msgstr ""
 "2_Scorpion_N_JumpToUpland__M"
 
-msgid ""
+msgid "34"
 "2_Scorpion_N_JumpToUpland__T"
-
 msgstr ""
 "2_Scorpion_N_JumpToUpland__T"
 
-msgid ""
+msgid "35"
 "2_Scorpion_N_JumpFromUpland__H"
-
 msgstr ""
 "2_Scorpion_N_JumpFromUpland__H"
 
-msgid ""
+msgid "36"
 "2_Scorpion_N_JumpFromUpland__M"
-
 msgstr ""
 "2_Scorpion_N_JumpFromUpland__M"
 
-msgid ""
+msgid "37"
 "2_Scorpion_N_JumpFromUpland__T"
-
 msgstr ""
 "2_Scorpion_N_JumpFromUpland__T"
 
-msgid ""
+msgid "38"
 "2_Scorpion_N_TurnLeft"
-
 msgstr ""
 "2_Scorpion_N_TurnLeft"
 
-msgid ""
+msgid "39"
 "2_Scorpion_N_TurnRight"
-
 msgstr ""
 "2_Scorpion_N_TurnRight"
 
-msgid ""
+msgid "40"
 "2_Scorpion_N_LargeTurnLeft"
-
 msgstr ""
 "2_Scorpion_N_LargeTurnLeft"
 
-msgid ""
+msgid "41"
 "2_Scorpion_N_LargeTurnRight"
-
 msgstr ""
 "2_Scorpion_N_LargeTurnRight"
 
-msgid ""
+msgid "42"
 "2_Scorpion_N_Eat"
-
 msgstr ""
 "2_Scorpion_N_Eat"
 
-msgid ""
+msgid "43"
 "2_Scorpion_Appear"
-
 msgstr ""
 "2_Scorpion_Appear"
 
-msgid ""
+msgid "44"
 "2_Scorpion_B_Idle"
-
 msgstr ""
 "2_Scorpion_B_Idle"
 
-msgid ""
+msgid "45"
 "2_Scorpion_B_Dash__H"
-
 msgstr ""
 "2_Scorpion_B_Dash__H"
 
-msgid ""
+msgid "46"
 "2_Scorpion_B_Dash__M"
-
 msgstr ""
 "2_Scorpion_B_Dash__M"
 
-msgid ""
+msgid "47"
 "2_Scorpion_B_Dash__T"
-
 msgstr ""
 "2_Scorpion_B_Dash__T"
 
-msgid ""
+msgid "48"
 "2_Scorpion_B_JumpToBossUpland"
-
 msgstr ""
 "2_Scorpion_B_JumpToBossUpland"
 
-msgid ""
+msgid "49"
 "2_Scorpion_B_JumpFromBossUpland"
-
 msgstr ""
 "2_Scorpion_B_JumpFromBossUpland"
 
-msgid ""
+msgid "50"
 "2_Scorpion_B_MoveLongPath__H"
-
 msgstr ""
 "2_Scorpion_B_MoveLongPath__H"
 
-msgid ""
+msgid "51"
 "2_Scorpion_B_MoveLongPath__M"
-
 msgstr ""
 "2_Scorpion_B_MoveLongPath__M"
 
-msgid ""
+msgid "52"
 "2_Scorpion_B_MoveLongPath__T"
-
 msgstr ""
 "2_Scorpion_B_MoveLongPath__T"
 
-msgid ""
+msgid "53"
 "2_Scorpion_B_TurnLeft"
-
 msgstr ""
 "2_Scorpion_B_TurnLeft"
 
-msgid ""
+msgid "54"
 "2_Scorpion_B_TurnRight"
-
 msgstr ""
 "2_Scorpion_B_TurnRight"
 
-msgid ""
+msgid "55"
 "2_Scorpion_B_LargeTurnLeft"
-
 msgstr ""
 "2_Scorpion_B_LargeTurnLeft"
 
-msgid ""
+msgid "56"
 "2_Scorpion_B_LargeTurnRight"
-
 msgstr ""
 "2_Scorpion_B_LargeTurnRight"
 
-msgid ""
+msgid "57"
 "2_Scorpion_B_FindComminate"
-
 msgstr ""
 "2_Scorpion_B_FindComminate"
 
-msgid ""
+msgid "58"
 "2_Scorpion_B_AngryComminate"
-
 msgstr ""
 "2_Scorpion_B_AngryComminate"
 
-msgid ""
+msgid "59"
 "2_Scorpion_B_ChagrinComminate"
-
 msgstr ""
 "2_Scorpion_B_ChagrinComminate"
 
-msgid ""
+msgid "60"
 "2_Scorpion_B_Stagger"
-
 msgstr ""
 "2_Scorpion_B_Stagger"
 
-msgid ""
+msgid "61"
 "2_Scorpion_B_Forefoot__H"
-
 msgstr ""
 "2_Scorpion_B_Forefoot__H"
 
-msgid ""
+msgid "62"
 "2_Scorpion_B_Forefoot__M"
-
 msgstr ""
 "2_Scorpion_B_Forefoot__M"
 
-msgid ""
+msgid "63"
 "2_Scorpion_B_Forefoot__T"
-
 msgstr ""
 "2_Scorpion_B_Forefoot__T"
 
-msgid ""
+msgid "64"
 "2_Scorpion_B_Hindfoot__H"
-
 msgstr ""
 "2_Scorpion_B_Hindfoot__H"
 
-msgid ""
+msgid "65"
 "2_Scorpion_B_Hindfoot__M"
-
 msgstr ""
 "2_Scorpion_B_Hindfoot__M"
 
-msgid ""
+msgid "66"
 "2_Scorpion_B_Hindfoot__T"
-
 msgstr ""
 "2_Scorpion_B_Hindfoot__T"
 
-msgid ""
+msgid "67"
 "2_Scorpion_B_SympathyBind__H"
-
 msgstr ""
 "2_Scorpion_B_SympathyBind__H"
 
-msgid ""
+msgid "68"
 "2_Scorpion_B_SympathyBind__M"
-
 msgstr ""
 "2_Scorpion_B_SympathyBind__M"
 
-msgid ""
+msgid "69"
 "2_Scorpion_B_SympathyBind__T"
-
 msgstr ""
 "2_Scorpion_B_SympathyBind__T"
 
-msgid ""
+msgid "70"
 "2_Scorpion_B_Hold__H"
-
 msgstr ""
 "2_Scorpion_B_Hold__H"
 
-msgid ""
+msgid "71"
 "2_Scorpion_B_Hold__M"
-
 msgstr ""
 "2_Scorpion_B_Hold__M"
 
-msgid ""
+msgid "72"
 "2_Scorpion_B_Hold__T"
-
 msgstr ""
 "2_Scorpion_B_Hold__T"
 
-msgid ""
+msgid "73"
 "2_Scorpion_B_Giddy"
-
 msgstr ""
 "2_Scorpion_B_Giddy"
 
-msgid ""
+msgid "74"
 "2_Scorpion_Dead__H"
-
 msgstr ""
 "2_Scorpion_Dead__H"
 
-msgid ""
+msgid "75"
 "2_Scorpion_Dead__M"
-
 msgstr ""
 "2_Scorpion_Dead__M"
 
-msgid ""
+msgid "76"
 "2_Scorpion_Dead__T"
-
 msgstr ""
 "2_Scorpion_Dead__T"
 
-msgid ""
+msgid "77"
 "2_Scorpion_B_Spear"
-
 msgstr ""
 "2_Scorpion_B_Spear"
 
-msgid ""
+msgid "78"
 "2_Scorpion_B_Spear_Combo"
-
 msgstr ""
 "2_Scorpion_B_Spear_Combo"
 
-msgid ""
+msgid "79"
 "2_Scorpion_B_ClingPounce__H"
-
 msgstr ""
 "2_Scorpion_B_ClingPounce__H"
 
-msgid ""
+msgid "80"
 "2_Scorpion_B_ClingPounce__M"
-
 msgstr ""
 "2_Scorpion_B_ClingPounce__M"
 
-msgid ""
+msgid "81"
 "2_Scorpion_B_ClingPounce__T"
-
 msgstr ""
 "2_Scorpion_B_ClingPounce__T"
 
-msgid ""
+msgid "82"
 "2_Scorpion_B_Shot_Umbos__H"
-
 msgstr ""
 "2_Scorpion_B_Shot_Umbos__H"
 
-msgid ""
+msgid "83"
 "2_Scorpion_B_Shot_Umbos__M"
-
 msgstr ""
 "2_Scorpion_B_Shot_Umbos__M"
 
-msgid ""
+msgid "84"
 "2_Scorpion_B_Splash_Umbos__H"
-
 msgstr ""
 "2_Scorpion_B_Splash_Umbos__H"
 
-msgid ""
+msgid "85"
 "2_Scorpion_B_Splash_Umbos__M"
-
 msgstr ""
 "2_Scorpion_B_Splash_Umbos__M"
 
-msgid ""
+msgid "86"
 "2_Scorpion_B_Attack_Tail"
-
 msgstr ""
 "2_Scorpion_B_Attack_Tail"
 
-msgid ""
+msgid "87"
 "2_Scorpion_B_Spear_Wildly_TypeA"
-
 msgstr ""
 "2_Scorpion_B_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "88"
 "2_Scorpion_B_Spear_Wildly_TypeB"
-
 msgstr ""
 "2_Scorpion_B_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "89"
 "2_Scorpion_B_Defense__H"
-
 msgstr ""
 "2_Scorpion_B_Defense__H"
 
-msgid ""
+msgid "90"
 "2_Scorpion_B_Defense__M"
-
 msgstr ""
 "2_Scorpion_B_Defense__M"
 
-msgid ""
+msgid "91"
 "2_Scorpion_B_Defense__T"
-
 msgstr ""
 "2_Scorpion_B_Defense__T"
 
-msgid ""
+msgid "92"
 "2_Scorpion_B_DefDash_Def__H"
-
 msgstr ""
 "2_Scorpion_B_DefDash_Def__H"
 
-msgid ""
+msgid "93"
 "2_Scorpion_B_DefDash_Def__M"
-
 msgstr ""
 "2_Scorpion_B_DefDash_Def__M"
 
-msgid ""
+msgid "94"
 "2_Scorpion_B_DefDash_Dash__H"
-
 msgstr ""
 "2_Scorpion_B_DefDash_Dash__H"
 
-msgid ""
+msgid "95"
 "2_Scorpion_B_DefDash_Dash__M"
-
 msgstr ""
 "2_Scorpion_B_DefDash_Dash__M"
 
-msgid ""
+msgid "96"
 "2_Scorpion_B_DefDash_Dash__T"
-
 msgstr ""
 "2_Scorpion_B_DefDash_Dash__T"
 
-msgid ""
+msgid "97"
 "2_Scorpion_B_DefDash_Finish"
-
 msgstr ""
 "2_Scorpion_B_DefDash_Finish"
 
-msgid ""
+msgid "98"
 "2_Scorpion_B_DefSpear_Def__H"
-
 msgstr ""
 "2_Scorpion_B_DefSpear_Def__H"
 
-msgid ""
+msgid "99"
 "2_Scorpion_B_DefSpear_Def__M"
-
 msgstr ""
 "2_Scorpion_B_DefSpear_Def__M"
 
-msgid ""
+msgid "100"
 "2_Scorpion_B_DefSpear_Spear"
-
 msgstr ""
 "2_Scorpion_B_DefSpear_Spear"
 
-msgid ""
+msgid "101"
 "2_Scorpion_B_DefSpear_Finish"
-
 msgstr ""
 "2_Scorpion_B_DefSpear_Finish"
 
-msgid ""
+msgid "102"
 "2_Scorpion_B_DefShot_Def__H"
-
 msgstr ""
 "2_Scorpion_B_DefShot_Def__H"
 
-msgid ""
+msgid "103"
 "2_Scorpion_B_DefShot_Def__M"
-
 msgstr ""
 "2_Scorpion_B_DefShot_Def__M"
 
-msgid ""
+msgid "104"
 "2_Scorpion_B_DefShot_Shot__H"
-
 msgstr ""
 "2_Scorpion_B_DefShot_Shot__H"
 
-msgid ""
+msgid "105"
 "2_Scorpion_B_DefShot_Shot__M"
-
 msgstr ""
 "2_Scorpion_B_DefShot_Shot__M"
 
-msgid ""
+msgid "106"
 "2_Scorpion_B_DefShot_Finish"
-
 msgstr ""
 "2_Scorpion_B_DefShot_Finish"
 
-msgid ""
+msgid "107"
 "2_Scorpion_B_DefAttack_Def__H"
-
 msgstr ""
 "2_Scorpion_B_DefAttack_Def__H"
 
-msgid ""
+msgid "108"
 "2_Scorpion_B_DefAttack_Def__M"
-
 msgstr ""
 "2_Scorpion_B_DefAttack_Def__M"
 
-msgid ""
+msgid "109"
 "2_Scorpion_B_DefAttack_Attack"
-
 msgstr ""
 "2_Scorpion_B_DefAttack_Attack"
 
-msgid ""
+msgid "110"
 "2_Scorpion_B_DefAttack_Finish"
-
 msgstr ""
 "2_Scorpion_B_DefAttack_Finish"
 
-msgid ""
+msgid "111"
 "2_Scorpion_B_Shot_Umbos_Local__H"
-
 msgstr ""
 "2_Scorpion_B_Shot_Umbos_Local__H"
 
-msgid ""
+msgid "112"
 "2_Scorpion_B_Shot_Umbos_Local__M"
-
 msgstr ""
 "2_Scorpion_B_Shot_Umbos_Local__M"
 
-msgid ""
+msgid "113"
 "2_Scorpion_B_Fumble"
-
 msgstr ""
 "2_Scorpion_B_Fumble"
 
-msgid ""
+msgid "114"
 "3_Scorpion_N_Idle"
-
 msgstr ""
 "3_Scorpion_N_Idle"
 
-msgid ""
+msgid "115"
 "3_Scorpion_N_Walk"
-
 msgstr ""
 "3_Scorpion_N_Walk"
 
-msgid ""
+msgid "116"
 "3_Scorpion_N_JumpToUpland__H"
-
 msgstr ""
 "3_Scorpion_N_JumpToUpland__H"
 
-msgid ""
+msgid "117"
 "3_Scorpion_N_JumpToUpland__M"
-
 msgstr ""
 "3_Scorpion_N_JumpToUpland__M"
 
-msgid ""
+msgid "118"
 "3_Scorpion_N_JumpToUpland__T"
-
 msgstr ""
 "3_Scorpion_N_JumpToUpland__T"
 
-msgid ""
+msgid "119"
 "3_Scorpion_N_JumpFromUpland__H"
-
 msgstr ""
 "3_Scorpion_N_JumpFromUpland__H"
 
-msgid ""
+msgid "120"
 "3_Scorpion_N_JumpFromUpland__M"
-
 msgstr ""
 "3_Scorpion_N_JumpFromUpland__M"
 
-msgid ""
+msgid "121"
 "3_Scorpion_N_JumpFromUpland__T"
-
 msgstr ""
 "3_Scorpion_N_JumpFromUpland__T"
 
-msgid ""
+msgid "122"
 "3_Scorpion_N_TurnLeft"
-
 msgstr ""
 "3_Scorpion_N_TurnLeft"
 
-msgid ""
+msgid "123"
 "3_Scorpion_N_TurnRight"
-
 msgstr ""
 "3_Scorpion_N_TurnRight"
 
-msgid ""
+msgid "124"
 "3_Scorpion_N_LargeTurnLeft"
-
 msgstr ""
 "3_Scorpion_N_LargeTurnLeft"
 
-msgid ""
+msgid "125"
 "3_Scorpion_N_LargeTurnRight"
-
 msgstr ""
 "3_Scorpion_N_LargeTurnRight"
 
-msgid ""
+msgid "126"
 "3_Scorpion_N_Eat"
-
 msgstr ""
 "3_Scorpion_N_Eat"
 
-msgid ""
+msgid "127"
 "3_Scorpion_Appear"
-
 msgstr ""
 "3_Scorpion_Appear"
 
-msgid ""
+msgid "128"
 "3_Scorpion_B_Idle"
-
 msgstr ""
 "3_Scorpion_B_Idle"
 
-msgid ""
+msgid "129"
 "3_Scorpion_B_Dash__H"
-
 msgstr ""
 "3_Scorpion_B_Dash__H"
 
-msgid ""
+msgid "130"
 "3_Scorpion_B_Dash__M"
-
 msgstr ""
 "3_Scorpion_B_Dash__M"
 
-msgid ""
+msgid "131"
 "3_Scorpion_B_Dash__T"
-
 msgstr ""
 "3_Scorpion_B_Dash__T"
 
-msgid ""
+msgid "132"
 "3_Scorpion_B_JumpToBossUpland"
-
 msgstr ""
 "3_Scorpion_B_JumpToBossUpland"
 
-msgid ""
+msgid "133"
 "3_Scorpion_B_JumpFromBossUpland"
-
 msgstr ""
 "3_Scorpion_B_JumpFromBossUpland"
 
-msgid ""
+msgid "134"
 "3_Scorpion_B_MoveLongPath__H"
-
 msgstr ""
 "3_Scorpion_B_MoveLongPath__H"
 
-msgid ""
+msgid "135"
 "3_Scorpion_B_MoveLongPath__M"
-
 msgstr ""
 "3_Scorpion_B_MoveLongPath__M"
 
-msgid ""
+msgid "136"
 "3_Scorpion_B_MoveLongPath__T"
-
 msgstr ""
 "3_Scorpion_B_MoveLongPath__T"
 
-msgid ""
+msgid "137"
 "3_Scorpion_B_TurnLeft"
-
 msgstr ""
 "3_Scorpion_B_TurnLeft"
 
-msgid ""
+msgid "138"
 "3_Scorpion_B_TurnRight"
-
 msgstr ""
 "3_Scorpion_B_TurnRight"
 
-msgid ""
+msgid "139"
 "3_Scorpion_B_LargeTurnLeft"
-
 msgstr ""
 "3_Scorpion_B_LargeTurnLeft"
 
-msgid ""
+msgid "140"
 "3_Scorpion_B_LargeTurnRight"
-
 msgstr ""
 "3_Scorpion_B_LargeTurnRight"
 
-msgid ""
+msgid "141"
 "3_Scorpion_B_FindComminate"
-
 msgstr ""
 "3_Scorpion_B_FindComminate"
 
-msgid ""
+msgid "142"
 "3_Scorpion_B_AngryComminate"
-
 msgstr ""
 "3_Scorpion_B_AngryComminate"
 
-msgid ""
+msgid "143"
 "3_Scorpion_B_ChagrinComminate"
-
 msgstr ""
 "3_Scorpion_B_ChagrinComminate"
 
-msgid ""
+msgid "144"
 "3_Scorpion_B_Stagger"
-
 msgstr ""
 "3_Scorpion_B_Stagger"
 
-msgid ""
+msgid "145"
 "3_Scorpion_B_Forefoot__H"
-
 msgstr ""
 "3_Scorpion_B_Forefoot__H"
 
-msgid ""
+msgid "146"
 "3_Scorpion_B_Forefoot__M"
-
 msgstr ""
 "3_Scorpion_B_Forefoot__M"
 
-msgid ""
+msgid "147"
 "3_Scorpion_B_Forefoot__T"
-
 msgstr ""
 "3_Scorpion_B_Forefoot__T"
 
-msgid ""
+msgid "148"
 "3_Scorpion_B_Hindfoot__H"
-
 msgstr ""
 "3_Scorpion_B_Hindfoot__H"
 
-msgid ""
+msgid "149"
 "3_Scorpion_B_Hindfoot__M"
-
 msgstr ""
 "3_Scorpion_B_Hindfoot__M"
 
-msgid ""
+msgid "150"
 "3_Scorpion_B_Hindfoot__T"
-
 msgstr ""
 "3_Scorpion_B_Hindfoot__T"
 
-msgid ""
+msgid "151"
 "3_Scorpion_B_SympathyBind__H"
-
 msgstr ""
 "3_Scorpion_B_SympathyBind__H"
 
-msgid ""
+msgid "152"
 "3_Scorpion_B_SympathyBind__M"
-
 msgstr ""
 "3_Scorpion_B_SympathyBind__M"
 
-msgid ""
+msgid "153"
 "3_Scorpion_B_SympathyBind__T"
-
 msgstr ""
 "3_Scorpion_B_SympathyBind__T"
 
-msgid ""
+msgid "154"
 "3_Scorpion_B_Hold__H"
-
 msgstr ""
 "3_Scorpion_B_Hold__H"
 
-msgid ""
+msgid "155"
 "3_Scorpion_B_Hold__M"
-
 msgstr ""
 "3_Scorpion_B_Hold__M"
 
-msgid ""
+msgid "156"
 "3_Scorpion_B_Hold__T"
-
 msgstr ""
 "3_Scorpion_B_Hold__T"
 
-msgid ""
+msgid "157"
 "3_Scorpion_B_Giddy"
-
 msgstr ""
 "3_Scorpion_B_Giddy"
 
-msgid ""
+msgid "158"
 "3_Scorpion_Dead__H"
-
 msgstr ""
 "3_Scorpion_Dead__H"
 
-msgid ""
+msgid "159"
 "3_Scorpion_Dead__M"
-
 msgstr ""
 "3_Scorpion_Dead__M"
 
-msgid ""
+msgid "160"
 "3_Scorpion_Dead__T"
-
 msgstr ""
 "3_Scorpion_Dead__T"
 
-msgid ""
+msgid "161"
 "3_Scorpion_B_Spear"
-
 msgstr ""
 "3_Scorpion_B_Spear"
 
-msgid ""
+msgid "162"
 "3_Scorpion_B_Spear_Combo"
-
 msgstr ""
 "3_Scorpion_B_Spear_Combo"
 
-msgid ""
+msgid "163"
 "3_Scorpion_B_ClingPounce__H"
-
 msgstr ""
 "3_Scorpion_B_ClingPounce__H"
 
-msgid ""
+msgid "164"
 "3_Scorpion_B_ClingPounce__M"
-
 msgstr ""
 "3_Scorpion_B_ClingPounce__M"
 
-msgid ""
+msgid "165"
 "3_Scorpion_B_ClingPounce__T"
-
 msgstr ""
 "3_Scorpion_B_ClingPounce__T"
 
-msgid ""
+msgid "166"
 "3_Scorpion_B_Shot_Umbos__H"
-
 msgstr ""
 "3_Scorpion_B_Shot_Umbos__H"
 
-msgid ""
+msgid "167"
 "3_Scorpion_B_Shot_Umbos__M"
-
 msgstr ""
 "3_Scorpion_B_Shot_Umbos__M"
 
-msgid ""
+msgid "168"
 "3_Scorpion_B_Splash_Umbos__H"
-
 msgstr ""
 "3_Scorpion_B_Splash_Umbos__H"
 
-msgid ""
+msgid "169"
 "3_Scorpion_B_Splash_Umbos__M"
-
 msgstr ""
 "3_Scorpion_B_Splash_Umbos__M"
 
-msgid ""
+msgid "170"
 "3_Scorpion_B_Attack_Tail"
-
 msgstr ""
 "3_Scorpion_B_Attack_Tail"
 
-msgid ""
+msgid "171"
 "3_Scorpion_B_Spear_Wildly_TypeA"
-
 msgstr ""
 "3_Scorpion_B_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "172"
 "3_Scorpion_B_Spear_Wildly_TypeB"
-
 msgstr ""
 "3_Scorpion_B_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "173"
 "3_Scorpion_B_Defense__H"
-
 msgstr ""
 "3_Scorpion_B_Defense__H"
 
-msgid ""
+msgid "174"
 "3_Scorpion_B_Defense__M"
-
 msgstr ""
 "3_Scorpion_B_Defense__M"
 
-msgid ""
+msgid "175"
 "3_Scorpion_B_Defense__T"
-
 msgstr ""
 "3_Scorpion_B_Defense__T"
 
-msgid ""
+msgid "176"
 "3_Scorpion_B_DefDash_Def__H"
-
 msgstr ""
 "3_Scorpion_B_DefDash_Def__H"
 
-msgid ""
+msgid "177"
 "3_Scorpion_B_DefDash_Def__M"
-
 msgstr ""
 "3_Scorpion_B_DefDash_Def__M"
 
-msgid ""
+msgid "178"
 "3_Scorpion_B_DefDash_Dash__H"
-
 msgstr ""
 "3_Scorpion_B_DefDash_Dash__H"
 
-msgid ""
+msgid "179"
 "3_Scorpion_B_DefDash_Dash__M"
-
 msgstr ""
 "3_Scorpion_B_DefDash_Dash__M"
 
-msgid ""
+msgid "180"
 "3_Scorpion_B_DefDash_Dash__T"
-
 msgstr ""
 "3_Scorpion_B_DefDash_Dash__T"
 
-msgid ""
+msgid "181"
 "3_Scorpion_B_DefDash_Finish"
-
 msgstr ""
 "3_Scorpion_B_DefDash_Finish"
 
-msgid ""
+msgid "182"
 "3_Scorpion_B_DefSpear_Def__H"
-
 msgstr ""
 "3_Scorpion_B_DefSpear_Def__H"
 
-msgid ""
+msgid "183"
 "3_Scorpion_B_DefSpear_Def__M"
-
 msgstr ""
 "3_Scorpion_B_DefSpear_Def__M"
 
-msgid ""
+msgid "184"
 "3_Scorpion_B_DefSpear_Spear"
-
 msgstr ""
 "3_Scorpion_B_DefSpear_Spear"
 
-msgid ""
+msgid "185"
 "3_Scorpion_B_DefSpear_Finish"
-
 msgstr ""
 "3_Scorpion_B_DefSpear_Finish"
 
-msgid ""
+msgid "186"
 "3_Scorpion_B_DefShot_Def__H"
-
 msgstr ""
 "3_Scorpion_B_DefShot_Def__H"
 
-msgid ""
+msgid "187"
 "3_Scorpion_B_DefShot_Def__M"
-
 msgstr ""
 "3_Scorpion_B_DefShot_Def__M"
 
-msgid ""
+msgid "188"
 "3_Scorpion_B_DefShot_Shot__H"
-
 msgstr ""
 "3_Scorpion_B_DefShot_Shot__H"
 
-msgid ""
+msgid "189"
 "3_Scorpion_B_DefShot_Shot__M"
-
 msgstr ""
 "3_Scorpion_B_DefShot_Shot__M"
 
-msgid ""
+msgid "190"
 "3_Scorpion_B_DefShot_Finish"
-
 msgstr ""
 "3_Scorpion_B_DefShot_Finish"
 
-msgid ""
+msgid "191"
 "3_Scorpion_B_DefAttack_Def__H"
-
 msgstr ""
 "3_Scorpion_B_DefAttack_Def__H"
 
-msgid ""
+msgid "192"
 "3_Scorpion_B_DefAttack_Def__M"
-
 msgstr ""
 "3_Scorpion_B_DefAttack_Def__M"
 
-msgid ""
+msgid "193"
 "3_Scorpion_B_DefAttack_Attack"
-
 msgstr ""
 "3_Scorpion_B_DefAttack_Attack"
 
-msgid ""
+msgid "194"
 "3_Scorpion_B_DefAttack_Finish"
-
 msgstr ""
 "3_Scorpion_B_DefAttack_Finish"
 
-msgid ""
+msgid "195"
 "3_Scorpion_B_Shot_Umbos_Local__H"
-
 msgstr ""
 "3_Scorpion_B_Shot_Umbos_Local__H"
 
-msgid ""
+msgid "196"
 "3_Scorpion_B_Shot_Umbos_Local__M"
-
 msgstr ""
 "3_Scorpion_B_Shot_Umbos_Local__M"
 
-msgid ""
+msgid "197"
 "3_Scorpion_B_Fumble"
-
 msgstr ""
 "3_Scorpion_B_Fumble"
 
-msgid ""
+msgid "198"
 "4_Scorpion_N_Idle"
-
 msgstr ""
 "4_Scorpion_N_Idle"
 
-msgid ""
+msgid "199"
 "4_Scorpion_N_Walk"
-
 msgstr ""
 "4_Scorpion_N_Walk"
 
-msgid ""
+msgid "200"
 "4_Scorpion_N_JumpToUpland__H"
-
 msgstr ""
 "4_Scorpion_N_JumpToUpland__H"
 
-msgid ""
+msgid "201"
 "4_Scorpion_N_JumpToUpland__M"
-
 msgstr ""
 "4_Scorpion_N_JumpToUpland__M"
 
-msgid ""
+msgid "202"
 "4_Scorpion_N_JumpToUpland__T"
-
 msgstr ""
 "4_Scorpion_N_JumpToUpland__T"
 
-msgid ""
+msgid "203"
 "4_Scorpion_N_JumpFromUpland__H"
-
 msgstr ""
 "4_Scorpion_N_JumpFromUpland__H"
 
-msgid ""
+msgid "204"
 "4_Scorpion_N_JumpFromUpland__M"
-
 msgstr ""
 "4_Scorpion_N_JumpFromUpland__M"
 
-msgid ""
+msgid "205"
 "4_Scorpion_N_JumpFromUpland__T"
-
 msgstr ""
 "4_Scorpion_N_JumpFromUpland__T"
 
-msgid ""
+msgid "206"
 "4_Scorpion_N_TurnLeft"
-
 msgstr ""
 "4_Scorpion_N_TurnLeft"
 
-msgid ""
+msgid "207"
 "4_Scorpion_N_TurnRight"
-
 msgstr ""
 "4_Scorpion_N_TurnRight"
 
-msgid ""
+msgid "208"
 "4_Scorpion_N_LargeTurnLeft"
-
 msgstr ""
 "4_Scorpion_N_LargeTurnLeft"
 
-msgid ""
+msgid "209"
 "4_Scorpion_N_LargeTurnRight"
-
 msgstr ""
 "4_Scorpion_N_LargeTurnRight"
 
-msgid ""
+msgid "210"
 "4_Scorpion_N_Eat"
-
 msgstr ""
 "4_Scorpion_N_Eat"
 
-msgid ""
+msgid "211"
 "4_Scorpion_Appear"
-
 msgstr ""
 "4_Scorpion_Appear"
 
-msgid ""
+msgid "212"
 "4_Scorpion_B_Idle"
-
 msgstr ""
 "4_Scorpion_B_Idle"
 
-msgid ""
+msgid "213"
 "4_Scorpion_B_Dash__H"
-
 msgstr ""
 "4_Scorpion_B_Dash__H"
 
-msgid ""
+msgid "214"
 "4_Scorpion_B_Dash__M"
-
 msgstr ""
 "4_Scorpion_B_Dash__M"
 
-msgid ""
+msgid "215"
 "4_Scorpion_B_Dash__T"
-
 msgstr ""
 "4_Scorpion_B_Dash__T"
 
-msgid ""
+msgid "216"
 "4_Scorpion_B_JumpToBossUpland"
-
 msgstr ""
 "4_Scorpion_B_JumpToBossUpland"
 
-msgid ""
+msgid "217"
 "4_Scorpion_B_JumpFromBossUpland"
-
 msgstr ""
 "4_Scorpion_B_JumpFromBossUpland"
 
-msgid ""
+msgid "218"
 "4_Scorpion_B_MoveLongPath__H"
-
 msgstr ""
 "4_Scorpion_B_MoveLongPath__H"
 
-msgid ""
+msgid "219"
 "4_Scorpion_B_MoveLongPath__M"
-
 msgstr ""
 "4_Scorpion_B_MoveLongPath__M"
 
-msgid ""
+msgid "220"
 "4_Scorpion_B_MoveLongPath__T"
-
 msgstr ""
 "4_Scorpion_B_MoveLongPath__T"
 
-msgid ""
+msgid "221"
 "4_Scorpion_B_TurnLeft"
-
 msgstr ""
 "4_Scorpion_B_TurnLeft"
 
-msgid ""
+msgid "222"
 "4_Scorpion_B_TurnRight"
-
 msgstr ""
 "4_Scorpion_B_TurnRight"
 
-msgid ""
+msgid "223"
 "4_Scorpion_B_LargeTurnLeft"
-
 msgstr ""
 "4_Scorpion_B_LargeTurnLeft"
 
-msgid ""
+msgid "224"
 "4_Scorpion_B_LargeTurnRight"
-
 msgstr ""
 "4_Scorpion_B_LargeTurnRight"
 
-msgid ""
+msgid "225"
 "4_Scorpion_B_FindComminate"
-
 msgstr ""
 "4_Scorpion_B_FindComminate"
 
-msgid ""
+msgid "226"
 "4_Scorpion_B_AngryComminate"
-
 msgstr ""
 "4_Scorpion_B_AngryComminate"
 
-msgid ""
+msgid "227"
 "4_Scorpion_B_ChagrinComminate"
-
 msgstr ""
 "4_Scorpion_B_ChagrinComminate"
 
-msgid ""
+msgid "228"
 "4_Scorpion_B_Stagger"
-
 msgstr ""
 "4_Scorpion_B_Stagger"
 
-msgid ""
+msgid "229"
 "4_Scorpion_B_Forefoot__H"
-
 msgstr ""
 "4_Scorpion_B_Forefoot__H"
 
-msgid ""
+msgid "230"
 "4_Scorpion_B_Forefoot__M"
-
 msgstr ""
 "4_Scorpion_B_Forefoot__M"
 
-msgid ""
+msgid "231"
 "4_Scorpion_B_Forefoot__T"
-
 msgstr ""
 "4_Scorpion_B_Forefoot__T"
 
-msgid ""
+msgid "232"
 "4_Scorpion_B_Hindfoot__H"
-
 msgstr ""
 "4_Scorpion_B_Hindfoot__H"
 
-msgid ""
+msgid "233"
 "4_Scorpion_B_Hindfoot__M"
-
 msgstr ""
 "4_Scorpion_B_Hindfoot__M"
 
-msgid ""
+msgid "234"
 "4_Scorpion_B_Hindfoot__T"
-
 msgstr ""
 "4_Scorpion_B_Hindfoot__T"
 
-msgid ""
+msgid "235"
 "4_Scorpion_B_SympathyBind__H"
-
 msgstr ""
 "4_Scorpion_B_SympathyBind__H"
 
-msgid ""
+msgid "236"
 "4_Scorpion_B_SympathyBind__M"
-
 msgstr ""
 "4_Scorpion_B_SympathyBind__M"
 
-msgid ""
+msgid "237"
 "4_Scorpion_B_SympathyBind__T"
-
 msgstr ""
 "4_Scorpion_B_SympathyBind__T"
 
-msgid ""
+msgid "238"
 "4_Scorpion_B_Hold__H"
-
 msgstr ""
 "4_Scorpion_B_Hold__H"
 
-msgid ""
+msgid "239"
 "4_Scorpion_B_Hold__M"
-
 msgstr ""
 "4_Scorpion_B_Hold__M"
 
-msgid ""
+msgid "240"
 "4_Scorpion_B_Hold__T"
-
 msgstr ""
 "4_Scorpion_B_Hold__T"
 
-msgid ""
+msgid "241"
 "4_Scorpion_B_Giddy"
-
 msgstr ""
 "4_Scorpion_B_Giddy"
 
-msgid ""
+msgid "242"
 "4_Scorpion_Dead__H"
-
 msgstr ""
 "4_Scorpion_Dead__H"
 
-msgid ""
+msgid "243"
 "4_Scorpion_Dead__M"
-
 msgstr ""
 "4_Scorpion_Dead__M"
 
-msgid ""
+msgid "244"
 "4_Scorpion_Dead__T"
-
 msgstr ""
 "4_Scorpion_Dead__T"
 
-msgid ""
+msgid "245"
 "4_Scorpion_B_Spear"
-
 msgstr ""
 "4_Scorpion_B_Spear"
 
-msgid ""
+msgid "246"
 "4_Scorpion_B_Spear_Combo"
-
 msgstr ""
 "4_Scorpion_B_Spear_Combo"
 
-msgid ""
+msgid "247"
 "4_Scorpion_B_ClingPounce__H"
-
 msgstr ""
 "4_Scorpion_B_ClingPounce__H"
 
-msgid ""
+msgid "248"
 "4_Scorpion_B_ClingPounce__M"
-
 msgstr ""
 "4_Scorpion_B_ClingPounce__M"
 
-msgid ""
+msgid "249"
 "4_Scorpion_B_ClingPounce__T"
-
 msgstr ""
 "4_Scorpion_B_ClingPounce__T"
 
-msgid ""
+msgid "250"
 "4_Scorpion_B_Shot_Umbos__H"
-
 msgstr ""
 "4_Scorpion_B_Shot_Umbos__H"
 
-msgid ""
+msgid "251"
 "4_Scorpion_B_Shot_Umbos__M"
-
 msgstr ""
 "4_Scorpion_B_Shot_Umbos__M"
 
-msgid ""
+msgid "252"
 "4_Scorpion_B_Splash_Umbos__H"
-
 msgstr ""
 "4_Scorpion_B_Splash_Umbos__H"
 
-msgid ""
+msgid "253"
 "4_Scorpion_B_Splash_Umbos__M"
-
 msgstr ""
 "4_Scorpion_B_Splash_Umbos__M"
 
-msgid ""
+msgid "254"
 "4_Scorpion_B_Attack_Tail"
-
 msgstr ""
 "4_Scorpion_B_Attack_Tail"
 
-msgid ""
+msgid "255"
 "4_Scorpion_B_Spear_Wildly_TypeA"
-
 msgstr ""
 "4_Scorpion_B_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "256"
 "4_Scorpion_B_Spear_Wildly_TypeB"
-
 msgstr ""
 "4_Scorpion_B_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "257"
 "4_Scorpion_B_Defense__H"
-
 msgstr ""
 "4_Scorpion_B_Defense__H"
 
-msgid ""
+msgid "258"
 "4_Scorpion_B_Defense__M"
-
 msgstr ""
 "4_Scorpion_B_Defense__M"
 
-msgid ""
+msgid "259"
 "4_Scorpion_B_Defense__T"
-
 msgstr ""
 "4_Scorpion_B_Defense__T"
 
-msgid ""
+msgid "260"
 "4_Scorpion_B_DefDash_Def__H"
-
 msgstr ""
 "4_Scorpion_B_DefDash_Def__H"
 
-msgid ""
+msgid "261"
 "4_Scorpion_B_DefDash_Def__M"
-
 msgstr ""
 "4_Scorpion_B_DefDash_Def__M"
 
-msgid ""
+msgid "262"
 "4_Scorpion_B_DefDash_Dash__H"
-
 msgstr ""
 "4_Scorpion_B_DefDash_Dash__H"
 
-msgid ""
+msgid "263"
 "4_Scorpion_B_DefDash_Dash__M"
-
 msgstr ""
 "4_Scorpion_B_DefDash_Dash__M"
 
-msgid ""
+msgid "264"
 "4_Scorpion_B_DefDash_Dash__T"
-
 msgstr ""
 "4_Scorpion_B_DefDash_Dash__T"
 
-msgid ""
+msgid "265"
 "4_Scorpion_B_DefDash_Finish"
-
 msgstr ""
 "4_Scorpion_B_DefDash_Finish"
 
-msgid ""
+msgid "266"
 "4_Scorpion_B_DefSpear_Def__H"
-
 msgstr ""
 "4_Scorpion_B_DefSpear_Def__H"
 
-msgid ""
+msgid "267"
 "4_Scorpion_B_DefSpear_Def__M"
-
 msgstr ""
 "4_Scorpion_B_DefSpear_Def__M"
 
-msgid ""
+msgid "268"
 "4_Scorpion_B_DefSpear_Spear"
-
 msgstr ""
 "4_Scorpion_B_DefSpear_Spear"
 
-msgid ""
+msgid "269"
 "4_Scorpion_B_DefSpear_Finish"
-
 msgstr ""
 "4_Scorpion_B_DefSpear_Finish"
 
-msgid ""
+msgid "270"
 "4_Scorpion_B_DefShot_Def__H"
-
 msgstr ""
 "4_Scorpion_B_DefShot_Def__H"
 
-msgid ""
+msgid "271"
 "4_Scorpion_B_DefShot_Def__M"
-
 msgstr ""
 "4_Scorpion_B_DefShot_Def__M"
 
-msgid ""
+msgid "272"
 "4_Scorpion_B_DefShot_Shot__H"
-
 msgstr ""
 "4_Scorpion_B_DefShot_Shot__H"
 
-msgid ""
+msgid "273"
 "4_Scorpion_B_DefShot_Shot__M"
-
 msgstr ""
 "4_Scorpion_B_DefShot_Shot__M"
 
-msgid ""
+msgid "274"
 "4_Scorpion_B_DefShot_Finish"
-
 msgstr ""
 "4_Scorpion_B_DefShot_Finish"
 
-msgid ""
+msgid "275"
 "4_Scorpion_B_DefAttack_Def__H"
-
 msgstr ""
 "4_Scorpion_B_DefAttack_Def__H"
 
-msgid ""
+msgid "276"
 "4_Scorpion_B_DefAttack_Def__M"
-
 msgstr ""
 "4_Scorpion_B_DefAttack_Def__M"
 
-msgid ""
+msgid "277"
 "4_Scorpion_B_DefAttack_Attack"
-
 msgstr ""
 "4_Scorpion_B_DefAttack_Attack"
 
-msgid ""
+msgid "278"
 "4_Scorpion_B_DefAttack_Finish"
-
 msgstr ""
 "4_Scorpion_B_DefAttack_Finish"
 
-msgid ""
+msgid "279"
 "4_Scorpion_B_Shot_Umbos_Local__H"
-
 msgstr ""
 "4_Scorpion_B_Shot_Umbos_Local__H"
 
-msgid ""
+msgid "280"
 "4_Scorpion_B_Shot_Umbos_Local__M"
-
 msgstr ""
 "4_Scorpion_B_Shot_Umbos_Local__M"
 
-msgid ""
+msgid "281"
 "4_Scorpion_B_Fumble"
-
 msgstr ""
 "4_Scorpion_B_Fumble"
 

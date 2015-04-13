@@ -1,506 +1,418 @@
-msgid ""
+msgid "0"
 "NP_001"
-
 msgstr ""
 "NP_001"
 
-msgid ""
+msgid "1"
 "NP_002"
-
 msgstr ""
 "NP_002"
 
-msgid ""
+msgid "2"
 "NP_003"
-
 msgstr ""
 "NP_003"
 
-msgid ""
+msgid "3"
 "NP_004"
-
 msgstr ""
 "NP_004"
 
-msgid ""
+msgid "4"
 "NP_005"
-
 msgstr ""
 "NP_005"
 
-msgid ""
+msgid "5"
 "NP_006"
-
 msgstr ""
 "NP_006"
 
-msgid ""
+msgid "6"
 "NP_007"
-
 msgstr ""
 "NP_007"
 
-msgid ""
+msgid "7"
 "NP_008"
-
 msgstr ""
 "NP_008"
 
-msgid ""
+msgid "8"
 "NP_009"
-
 msgstr ""
 "NP_009"
 
-msgid ""
+msgid "9"
 "NP_010"
-
 msgstr ""
 "NP_010"
 
-msgid ""
+msgid "10"
 "NP_011"
-
 msgstr ""
 "NP_011"
 
-msgid ""
+msgid "11"
 "NP_012"
-
 msgstr ""
 "NP_012"
 
-msgid ""
+msgid "12"
 "NP_013"
-
 msgstr ""
 "NP_013"
 
-msgid ""
+msgid "13"
 "NP_014"
-
 msgstr ""
 "NP_014"
 
-msgid ""
+msgid "14"
 "NP_015"
-
 msgstr ""
 "NP_015"
 
-msgid ""
+msgid "15"
 "NP_016"
-
 msgstr ""
 "NP_016"
 
-msgid ""
+msgid "16"
 "NP_101"
-
 msgstr ""
 "NP_101"
 
-msgid ""
+msgid "17"
 "NP_102"
-
 msgstr ""
 "NP_102"
 
-msgid ""
+msgid "18"
 "NP_103"
-
 msgstr ""
 "NP_103"
 
-msgid ""
+msgid "19"
 "NP_104"
-
 msgstr ""
 "NP_104"
 
-msgid ""
+msgid "20"
 "NP_105"
-
 msgstr ""
 "NP_105"
 
-msgid ""
+msgid "21"
 "NP_106"
-
 msgstr ""
 "NP_106"
 
-msgid ""
+msgid "22"
 "NP_107"
-
 msgstr ""
 "NP_107"
 
-msgid ""
+msgid "23"
 "NP_108"
-
 msgstr ""
 "NP_108"
 
-msgid ""
+msgid "24"
 "NP_109"
-
 msgstr ""
 "NP_109"
 
-msgid ""
+msgid "25"
 "NP_110"
-
 msgstr ""
 "NP_110"
 
-msgid ""
+msgid "26"
 "NP_205"
-
 msgstr ""
 "NP_205"
 
-msgid ""
+msgid "27"
 "NP_206"
-
 msgstr ""
 "NP_206"
 
-msgid ""
+msgid "28"
 "NP_207"
-
 msgstr ""
 "NP_207"
 
-msgid ""
+msgid "29"
 "NP_208"
-
 msgstr ""
 "NP_208"
 
-msgid ""
+msgid "30"
 "NP_209"
-
 msgstr ""
 "NP_209"
 
-msgid ""
+msgid "31"
 "NP_210"
-
 msgstr ""
 "NP_210"
 
-msgid ""
+msgid "32"
 "NP_211"
-
 msgstr ""
 "NP_211"
 
-msgid ""
+msgid "33"
 "NP_212"
-
 msgstr ""
 "NP_212"
 
-msgid ""
+msgid "34"
 "NP_213"
-
 msgstr ""
 "NP_213"
 
-msgid ""
+msgid "35"
 "NP_214"
-
 msgstr ""
 "NP_214"
 
-msgid ""
+msgid "36"
 "NP_215"
-
 msgstr ""
 "NP_215"
 
-msgid ""
+msgid "37"
 "NP_216"
-
 msgstr ""
 "NP_216"
 
-msgid ""
+msgid "38"
 "NP_218"
-
 msgstr ""
 "NP_218"
 
-msgid ""
+msgid "39"
 "NP_221"
-
 msgstr ""
 "NP_221"
 
-msgid ""
+msgid "40"
 "NP_222"
-
 msgstr ""
 "NP_222"
 
-msgid ""
+msgid "41"
 "NP_223"
-
 msgstr ""
 "NP_223"
 
-msgid ""
+msgid "42"
 "NP_230"
-
 msgstr ""
 "NP_230"
 
-msgid ""
+msgid "43"
 "NP_231"
-
 msgstr ""
 "NP_231"
 
-msgid ""
+msgid "44"
 "NP_232"
-
 msgstr ""
 "NP_232"
 
-msgid ""
+msgid "45"
 "NP_224"
-
 msgstr ""
 "NP_224"
 
-msgid ""
+msgid "46"
 "NP_225"
-
 msgstr ""
 "NP_225"
 
-msgid ""
+msgid "47"
 "NP_226"
-
 msgstr ""
 "NP_226"
 
-msgid ""
+msgid "48"
 "NP_227"
-
 msgstr ""
 "NP_227"
 
-msgid ""
+msgid "49"
 "B0A1_B0A4"
-
 msgstr ""
 "B0A1_B0A4"
 
-msgid ""
+msgid "50"
 "B0A4_B0A1"
-
 msgstr ""
 "B0A4_B0A1"
 
-msgid ""
+msgid "51"
 "B0A1_B0A5"
-
 msgstr ""
 "B0A1_B0A5"
 
-msgid ""
+msgid "52"
 "B0A5_B0A1"
-
 msgstr ""
 "B0A5_B0A1"
 
-msgid ""
+msgid "53"
 "B0A2_B0A6"
-
 msgstr ""
 "B0A2_B0A6"
 
-msgid ""
+msgid "54"
 "B0A6_B0A2"
-
 msgstr ""
 "B0A6_B0A2"
 
-msgid ""
+msgid "55"
 "B0A2_B0A8"
-
 msgstr ""
 "B0A2_B0A8"
 
-msgid ""
+msgid "56"
 "B0A8_B0A2"
-
 msgstr ""
 "B0A8_B0A2"
 
-msgid ""
+msgid "57"
 "B0A2_B0A9"
-
 msgstr ""
 "B0A2_B0A9"
 
-msgid ""
+msgid "58"
 "B0A9_B0A2"
-
 msgstr ""
 "B0A9_B0A2"
 
-msgid ""
+msgid "59"
 "B0A3_B0A7"
-
 msgstr ""
 "B0A3_B0A7"
 
-msgid ""
+msgid "60"
 "B0A7_B0A3"
-
 msgstr ""
 "B0A7_B0A3"
 
-msgid ""
+msgid "61"
 "B0A0"
-
 msgstr ""
 "B0A0"
 
-msgid ""
+msgid "62"
 "B0A1"
-
 msgstr ""
 "B0A1"
 
-msgid ""
+msgid "63"
 "B0A2"
-
 msgstr ""
 "B0A2"
 
-msgid ""
+msgid "64"
 "B0A3"
-
 msgstr ""
 "B0A3"
 
-msgid ""
+msgid "65"
 "B0A4"
-
 msgstr ""
 "B0A4"
 
-msgid ""
+msgid "66"
 "B0A5"
-
 msgstr ""
 "B0A5"
 
-msgid ""
+msgid "67"
 "B0A6"
-
 msgstr ""
 "B0A6"
 
-msgid ""
+msgid "68"
 "B0A7"
-
 msgstr ""
 "B0A7"
 
-msgid ""
+msgid "69"
 "B0A8"
-
 msgstr ""
 "B0A8"
 
-msgid ""
+msgid "70"
 "B0A9"
-
 msgstr ""
 "B0A9"
 
-msgid ""
+msgid "71"
 "B1A0"
-
 msgstr ""
 "B1A0"
 
-msgid ""
+msgid "72"
 "B2A0"
-
 msgstr ""
 "B2A0"
 
-msgid ""
+msgid "73"
 "B3A0"
-
 msgstr ""
 "B3A0"
 
-msgid ""
+msgid "74"
 "B3A1"
-
 msgstr ""
 "B3A1"
 
-msgid ""
+msgid "75"
+"B3A2"
+msgstr ""
 "B3A2"
 
-msgstr ""
-"B3A2"
-
-msgid ""
+msgid "76"
 "B4A0"
-
 msgstr ""
 "B4A0"
 
-msgid ""
-
+msgid "77"
 msgstr ""
 
-msgid ""
-
+msgid "78"
 msgstr ""
 
-msgid ""
-
+msgid "79"
 msgstr ""
 
-msgid ""
-
+msgid "80"
 msgstr ""
 
-msgid ""
-
+msgid "81"
 msgstr ""
 
-msgid ""
-
+msgid "82"
 msgstr ""
 
-msgid ""
-
+msgid "83"
 msgstr ""
 
-msgid ""
-
+msgid "84"
 msgstr ""
 
-msgid ""
-
+msgid "85"
 msgstr ""
 
-msgid ""
-
+msgid "86"
 msgstr ""
 
-msgid ""
-
+msgid "87"
 msgstr ""
 

@@ -1,270 +1,225 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "3_OgreTail_Default"
-
 msgstr ""
 "3_OgreTail_Default"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "3"
 "3_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "4"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "5"
 "3_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "7"
 "3_OgreTail_Cling_Base"
-
 msgstr ""
 "3_OgreTail_Cling_Base"
 
-msgid ""
+msgid "8"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "9"
 "3_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "10"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "11"
 "3_OgreTail_Pounce_Base"
-
 msgstr ""
 "3_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "12"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "13"
 "3_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "14"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "15"
 "3_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "3_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "16"
 "4_Scorpion_Default"
-
 msgstr ""
 "4_Scorpion_Default"
 
-msgid ""
+msgid "17"
 "4_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "18"
 "4_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "19"
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "4_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "20"
 "4_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "4_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "21"
 "4_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "4_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "22"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "23"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "24"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "25"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "26"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "27"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "28"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "29"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "30"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "31"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "32"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "33"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "34"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "35"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "36"
 "4_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "37"
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "38"
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "4_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "39"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "40"
 "5_ZakoWalker_Default"
-
 msgstr ""
 "5_ZakoWalker_Default"
 
-msgid ""
+msgid "41"
 "6_ZakoWalker_Default"
-
 msgstr ""
 "6_ZakoWalker_Default"
 
-msgid ""
+msgid "42"
 "5_ZakoWalker_Pounce_Base"
-
 msgstr ""
 "5_ZakoWalker_Pounce_Base"
 
-msgid ""
+msgid "43"
 "6_ZakoWalker_Pounce_Base"
-
 msgstr ""
 "6_ZakoWalker_Pounce_Base"
 
-msgid ""
+msgid "44"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

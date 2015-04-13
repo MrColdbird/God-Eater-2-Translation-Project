@@ -1,246 +1,205 @@
-msgid ""
+msgid "0"
 "2_ATK0"
-
 msgstr ""
 "2_ATK0"
 
-msgid ""
+msgid "1"
 "2_Tiger_Default"
-
 msgstr ""
 "2_Tiger_Default"
 
-msgid ""
+msgid "2"
 "2_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "2_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "3"
 "2_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "2_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "4"
 "2_Tiger_Cling_Base"
-
 msgstr ""
 "2_Tiger_Cling_Base"
 
-msgid ""
+msgid "5"
 "2_Tiger_Pounce_Base"
-
 msgstr ""
 "2_Tiger_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_Tiger_DashPounce_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "7"
 "2_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "8"
 "2_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "2_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "9"
 "2_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "10"
 "2_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "11"
 "2_Tiger_TestOracle"
-
 msgstr ""
 "2_Tiger_TestOracle"
 
-msgid ""
+msgid "12"
 "2_Tiger_Oracle_Pounce"
-
 msgstr ""
 "2_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "13"
 "2_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "14"
 "2_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "15"
 "2_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "16"
 "2_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "17"
 "2_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "18"
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "19"
 "2_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "20"
 "2_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "21"
 "2_Tiger_Oracle_Raise_IcePillar"
-
 msgstr ""
 "2_Tiger_Oracle_Raise_IcePillar"
 
-msgid ""
+msgid "22"
 "3_QueenPapilam_Default"
-
 msgstr ""
 "3_QueenPapilam_Default"
 
-msgid ""
+msgid "23"
 "3_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "3_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "24"
 "3_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "25"
 "3_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "26"
 "3_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "3_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "27"
 "3_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "28"
 "3_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "29"
 "3_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "30"
 "3_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "31"
 "3_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "32"
 "3_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "33"
 "3_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "34"
 "3_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "35"
 "3_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "36"
 "2_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "37"
 "3_QueenPapilam_Oracle_Lunge_ShockWave"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Lunge_ShockWave"
 
-msgid ""
+msgid "38"
 "3_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "39"
 "3_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "40"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

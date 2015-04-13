@@ -1,258 +1,215 @@
-msgid ""
+msgid "0"
 "2_Wani_Misc_Default"
-
 msgstr ""
 "2_Wani_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_Wani_Cling_Base"
-
 msgstr ""
 "2_Wani_Cling_Base"
 
-msgid ""
+msgid "2"
 "2_Wani_Cling_Arms_Base"
-
 msgstr ""
 "2_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "3"
 "2_Wani_Cling_Dash_Base"
-
 msgstr ""
 "2_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "4"
 "2_Wani_Go_Berserk_Base"
-
 msgstr ""
 "2_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "5"
 "2_Wani_Forehead_Default"
-
 msgstr ""
 "2_Wani_Forehead_Default"
 
-msgid ""
+msgid "6"
 "2_Wani_Body_Default"
-
 msgstr ""
 "2_Wani_Body_Default"
 
-msgid ""
+msgid "7"
 "2_Wani_Mouth_Default"
-
 msgstr ""
 "2_Wani_Mouth_Default"
 
-msgid ""
+msgid "8"
 "2_Wani_Arm_Default"
-
 msgstr ""
 "2_Wani_Arm_Default"
 
-msgid ""
+msgid "9"
 "2_Wani_Back_Default"
-
 msgstr ""
 "2_Wani_Back_Default"
 
-msgid ""
+msgid "10"
 "2_Wani_Tail_Default"
-
 msgstr ""
 "2_Wani_Tail_Default"
 
-msgid ""
+msgid "11"
 "3_Wani_Misc_Default"
-
 msgstr ""
 "3_Wani_Misc_Default"
 
-msgid ""
+msgid "12"
 "3_Wani_Cling_Base"
-
 msgstr ""
 "3_Wani_Cling_Base"
 
-msgid ""
+msgid "13"
 "3_Wani_Cling_Arms_Base"
-
 msgstr ""
 "3_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "14"
 "3_Wani_Cling_Dash_Base"
-
 msgstr ""
 "3_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "15"
 "3_Wani_Go_Berserk_Base"
-
 msgstr ""
 "3_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "16"
 "3_Wani_Forehead_Default"
-
 msgstr ""
 "3_Wani_Forehead_Default"
 
-msgid ""
+msgid "17"
 "3_Wani_Body_Default"
-
 msgstr ""
 "3_Wani_Body_Default"
 
-msgid ""
+msgid "18"
 "3_Wani_Mouth_Default"
-
 msgstr ""
 "3_Wani_Mouth_Default"
 
-msgid ""
+msgid "19"
 "3_Wani_Arm_Default"
-
 msgstr ""
 "3_Wani_Arm_Default"
 
-msgid ""
+msgid "20"
 "3_Wani_Back_Default"
-
 msgstr ""
 "3_Wani_Back_Default"
 
-msgid ""
+msgid "21"
 "3_Wani_Tail_Default"
-
 msgstr ""
 "3_Wani_Tail_Default"
 
-msgid ""
+msgid "22"
 "4_ABC"
-
 msgstr ""
 "4_ABC"
 
-msgid ""
+msgid "23"
 "4_Tiger_Misc_Default"
-
 msgstr ""
 "4_Tiger_Misc_Default"
 
-msgid ""
+msgid "24"
 "4_Tiger_Forefoot_Default"
-
 msgstr ""
 "4_Tiger_Forefoot_Default"
 
-msgid ""
+msgid "25"
 "4_Tiger_Hindfoot_Default"
-
 msgstr ""
 "4_Tiger_Hindfoot_Default"
 
-msgid ""
+msgid "26"
 "4_Tiger_Head_Default"
-
 msgstr ""
 "4_Tiger_Head_Default"
 
-msgid ""
+msgid "27"
 "4_Tiger_Shoulder_Default"
-
 msgstr ""
 "4_Tiger_Shoulder_Default"
 
-msgid ""
+msgid "28"
 "4_Tiger_Cloak_Default"
-
 msgstr ""
 "4_Tiger_Cloak_Default"
 
-msgid ""
+msgid "29"
 "4_Tiger_Body_Default"
-
 msgstr ""
 "4_Tiger_Body_Default"
 
-msgid ""
+msgid "30"
 "4_Tiger_Tail_Default"
-
 msgstr ""
 "4_Tiger_Tail_Default"
 
-msgid ""
+msgid "31"
 "4_Tiger_Thunder_Chop_Forefoot_Base"
-
 msgstr ""
 "4_Tiger_Thunder_Chop_Forefoot_Base"
 
-msgid ""
+msgid "32"
 "4_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "4_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "33"
 "4_Tiger_Cling_Base"
-
 msgstr ""
 "4_Tiger_Cling_Base"
 
-msgid ""
+msgid "34"
 "4_Tiger_Pounce_Base"
-
 msgstr ""
 "4_Tiger_Pounce_Base"
 
-msgid ""
+msgid "35"
 "4_Tiger_DashPounce_Base"
-
 msgstr ""
 "4_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "36"
 "4_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "4_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "37"
 "4_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "4_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "38"
 "4_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "4_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "39"
 "4_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "4_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "40"
 "2_Wani_Move_Default"
-
 msgstr ""
 "2_Wani_Move_Default"
 
-msgid ""
+msgid "41"
 "3_Wani_Move_Default"
-
 msgstr ""
 "3_Wani_Move_Default"
 
-msgid ""
+msgid "42"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

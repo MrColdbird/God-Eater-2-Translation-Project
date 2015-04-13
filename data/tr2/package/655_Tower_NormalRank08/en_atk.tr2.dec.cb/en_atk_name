@@ -1,282 +1,235 @@
-msgid ""
+msgid "0"
 "2_Vampire_Default"
-
 msgstr ""
 "2_Vampire_Default"
 
-msgid ""
+msgid "1"
 "2_Vampire_Pincer_Arms_Base"
-
 msgstr ""
 "2_Vampire_Pincer_Arms_Base"
 
-msgid ""
+msgid "2"
 "2_Vampire_Oracle_Jump_Kick"
-
 msgstr ""
 "2_Vampire_Oracle_Jump_Kick"
 
-msgid ""
+msgid "3"
 "2_Vampire_Oracle_Shot_Power_Charge"
-
 msgstr ""
 "2_Vampire_Oracle_Shot_Power_Charge"
 
-msgid ""
+msgid "4"
 "2_Vampire_Oracle_Loop_Shot_Power_Charge"
-
 msgstr ""
 "2_Vampire_Oracle_Loop_Shot_Power_Charge"
 
-msgid ""
+msgid "5"
 "2_Vampire_Oracle_Impact"
-
 msgstr ""
 "2_Vampire_Oracle_Impact"
 
-msgid ""
+msgid "6"
 "2_Vampire_Oracle_Shot_Homing"
-
 msgstr ""
 "2_Vampire_Oracle_Shot_Homing"
 
-msgid ""
+msgid "7"
 "2_Vampire_Oracle_Shock_Wave"
-
 msgstr ""
 "2_Vampire_Oracle_Shock_Wave"
 
-msgid ""
+msgid "8"
 "2_Vampire_Jump_Kick_Base"
-
 msgstr ""
 "2_Vampire_Jump_Kick_Base"
 
-msgid ""
+msgid "9"
 "2_Vampire_Jump_Turn_Arms_Base"
-
 msgstr ""
 "2_Vampire_Jump_Turn_Arms_Base"
 
-msgid ""
+msgid "10"
 "2_Vampire_Back_Jump_Base"
-
 msgstr ""
 "2_Vampire_Back_Jump_Base"
 
-msgid ""
+msgid "11"
 "2_Vampire_Side_Step_Base"
-
 msgstr ""
 "2_Vampire_Side_Step_Base"
 
-msgid ""
+msgid "12"
 "3_Scorpion_Default"
-
 msgstr ""
 "3_Scorpion_Default"
 
-msgid ""
+msgid "13"
 "3_Scorpion_Oracle_Shot_Umbos"
-
 msgstr ""
 "3_Scorpion_Oracle_Shot_Umbos"
 
-msgid ""
+msgid "14"
 "3_Scorpion_Oracle_Splash_Umbos"
-
 msgstr ""
 "3_Scorpion_Oracle_Splash_Umbos"
 
-msgid ""
+msgid "15"
 "3_Scorpion_Oracle_Defense_Shot_Umbos"
-
 msgstr ""
 "3_Scorpion_Oracle_Defense_Shot_Umbos"
 
-msgid ""
+msgid "16"
 "3_Scorpion_Oracle_Shot_Umbos_Local"
-
 msgstr ""
 "3_Scorpion_Oracle_Shot_Umbos_Local"
 
-msgid ""
+msgid "17"
 "3_Scorpion_Oracle_ShockWave"
-
 msgstr ""
 "3_Scorpion_Oracle_ShockWave"
 
-msgid ""
+msgid "18"
 "3_Scorpion_Spear_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Base"
 
-msgid ""
+msgid "19"
 "3_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "3_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "20"
 "3_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "3_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "21"
 "3_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "3_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "22"
 "3_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "3_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "23"
 "3_Scorpion_AttackTail_Base"
-
 msgstr ""
 "3_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "24"
 "3_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "25"
 "3_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "3_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "26"
 "3_Scorpion_Defense_Base"
-
 msgstr ""
 "3_Scorpion_Defense_Base"
 
-msgid ""
+msgid "27"
 "3_Scorpion_DefDash_Base"
-
 msgstr ""
 "3_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "28"
 "3_Scorpion_DefSpear_Base"
-
 msgstr ""
 "3_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "29"
 "3_Scorpion_DefShot_Base"
-
 msgstr ""
 "3_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "30"
 "3_Scorpion_DefAttack_Base"
-
 msgstr ""
 "3_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "31"
 "3_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "3_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "32"
 "3_Scorpion_Oracle_Spear_Combo"
-
 msgstr ""
 "3_Scorpion_Oracle_Spear_Combo"
 
-msgid ""
+msgid "33"
 "3_Scorpion_Oracle_Spear_Wildly_TypeA"
-
 msgstr ""
 "3_Scorpion_Oracle_Spear_Wildly_TypeA"
 
-msgid ""
+msgid "34"
 "3_Scorpion_Oracle_Spear_Wildly_TypeB"
-
 msgstr ""
 "3_Scorpion_Oracle_Spear_Wildly_TypeB"
 
-msgid ""
+msgid "35"
 "2_Vampire_Arms_Rot_Shock_Wave_Base"
-
 msgstr ""
 "2_Vampire_Arms_Rot_Shock_Wave_Base"
 
-msgid ""
+msgid "36"
 "2_Vampire_Gliding_Rush_Base"
-
 msgstr ""
 "2_Vampire_Gliding_Rush_Base"
 
-msgid ""
+msgid "37"
 "2_Vampire_Oracle_Arms_Rot_Shock_Wave"
-
 msgstr ""
 "2_Vampire_Oracle_Arms_Rot_Shock_Wave"
 
-msgid ""
+msgid "38"
 "2_Vampire_Oracle_Gliding_Rush"
-
 msgstr ""
 "2_Vampire_Oracle_Gliding_Rush"
 
-msgid ""
+msgid "39"
 "2_Vampire_Oracle_Explosion_Back_Jump"
-
 msgstr ""
 "2_Vampire_Oracle_Explosion_Back_Jump"
 
-msgid ""
+msgid "40"
 "2_Vampire_Oracle_Chop_SideStep"
-
 msgstr ""
 "2_Vampire_Oracle_Chop_SideStep"
 
-msgid ""
+msgid "41"
 "3_Scorpion_Oracle_TailThunder"
-
 msgstr ""
 "3_Scorpion_Oracle_TailThunder"
 
-msgid ""
+msgid "42"
 "3_Scorpion_Oracle_Defense_TailThunder"
-
 msgstr ""
 "3_Scorpion_Oracle_Defense_TailThunder"
 
-msgid ""
+msgid "43"
 "2_Vampire_Oracle_Angry_Gliding_Rush"
-
 msgstr ""
 "2_Vampire_Oracle_Angry_Gliding_Rush"
 
-msgid ""
+msgid "44"
 "2_Vampire_Move_Default"
-
 msgstr ""
 "2_Vampire_Move_Default"
 
-msgid ""
+msgid "45"
 "3_Scorpion_Move_Default"
-
 msgstr ""
 "3_Scorpion_Move_Default"
 
-msgid ""
+msgid "46"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

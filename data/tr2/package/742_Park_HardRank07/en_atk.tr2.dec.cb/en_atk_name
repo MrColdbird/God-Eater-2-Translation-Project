@@ -1,282 +1,235 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "2_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "2_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "9"
 "3_Yaksa_Default"
-
 msgstr ""
 "3_Yaksa_Default"
 
-msgid ""
+msgid "10"
 "3_Yaksa_Oracle_DawnHammer"
-
 msgstr ""
 "3_Yaksa_Oracle_DawnHammer"
 
-msgid ""
+msgid "11"
 "3_Yaksa_Oracle_RippleMassDriver"
-
 msgstr ""
 "3_Yaksa_Oracle_RippleMassDriver"
 
-msgid ""
+msgid "12"
 "3_Yaksa_Oracle_LightBallBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_LightBallBlast"
 
-msgid ""
+msgid "13"
 "3_Yaksa_Oracle_JumpShotBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_JumpShotBlast"
 
-msgid ""
+msgid "14"
 "3_Yaksa_Oracle_SlowLightBall"
-
 msgstr ""
 "3_Yaksa_Oracle_SlowLightBall"
 
-msgid ""
+msgid "15"
 "3_Yaksa_Oracle_YaksaCombo_ShockWave"
-
 msgstr ""
 "3_Yaksa_Oracle_YaksaCombo_ShockWave"
 
-msgid ""
+msgid "16"
 "3_Yaksa_Oracle_YaksaCombo_Blast"
-
 msgstr ""
 "3_Yaksa_Oracle_YaksaCombo_Blast"
 
-msgid ""
+msgid "17"
 "3_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
 
-msgid ""
+msgid "18"
 "3_Yaksa_UpperDispel_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Base"
 
-msgid ""
+msgid "19"
 "3_Yaksa_UpperDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Move_Base"
 
-msgid ""
+msgid "20"
 "3_Yaksa_Tackle_Base"
-
 msgstr ""
 "3_Yaksa_Tackle_Base"
 
-msgid ""
+msgid "21"
 "3_Yaksa_SerialDispel_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Base"
 
-msgid ""
+msgid "22"
 "3_Yaksa_SerialDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Move_Base"
 
-msgid ""
+msgid "23"
 "3_Yaksa_YaksaCombo_Blow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Blow_Base"
 
-msgid ""
+msgid "24"
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
 
-msgid ""
+msgid "25"
 "4_Wolf_Default"
-
 msgstr ""
 "4_Wolf_Default"
 
-msgid ""
+msgid "26"
 "4_Wolf_Oracle_RightHandSlam"
-
 msgstr ""
 "4_Wolf_Oracle_RightHandSlam"
 
-msgid ""
+msgid "27"
 "4_Wolf_Oracle_DispelSlam"
-
 msgstr ""
 "4_Wolf_Oracle_DispelSlam"
 
-msgid ""
+msgid "28"
 "4_Wolf_Oracle_DashBrakePounce"
-
 msgstr ""
 "4_Wolf_Oracle_DashBrakePounce"
 
-msgid ""
+msgid "29"
 "4_Wolf_Oracle_ShotMoltenRock"
-
 msgstr ""
 "4_Wolf_Oracle_ShotMoltenRock"
 
-msgid ""
+msgid "30"
 "4_Wolf_Oracle_ShotMoltenRock_Broken"
-
 msgstr ""
 "4_Wolf_Oracle_ShotMoltenRock_Broken"
 
-msgid ""
+msgid "31"
 "4_Wolf_Oracle_BurningCombo_AttachedFlame"
-
 msgstr ""
 "4_Wolf_Oracle_BurningCombo_AttachedFlame"
 
-msgid ""
+msgid "32"
 "4_Wolf_Oracle_BurningCombo_LandingFlame"
-
 msgstr ""
 "4_Wolf_Oracle_BurningCombo_LandingFlame"
 
-msgid ""
+msgid "33"
 "4_Wolf_RightHandSlam_Base"
-
 msgstr ""
 "4_Wolf_RightHandSlam_Base"
 
-msgid ""
+msgid "34"
 "4_Wolf_DispelSlam_Base"
-
 msgstr ""
 "4_Wolf_DispelSlam_Base"
 
-msgid ""
+msgid "35"
 "4_Wolf_RightArmImpact_Base"
-
 msgstr ""
 "4_Wolf_RightArmImpact_Base"
 
-msgid ""
+msgid "36"
 "4_Wolf_DashBrakePounce_Base"
-
 msgstr ""
 "4_Wolf_DashBrakePounce_Base"
 
-msgid ""
+msgid "37"
 "4_Wolf_Pounce_Base"
-
 msgstr ""
 "4_Wolf_Pounce_Base"
 
-msgid ""
+msgid "38"
 "4_Wolf_BiteBehind_Base"
-
 msgstr ""
 "4_Wolf_BiteBehind_Base"
 
-msgid ""
+msgid "39"
 "4_Wolf_TurnAroundDispel_Base"
-
 msgstr ""
 "4_Wolf_TurnAroundDispel_Base"
 
-msgid ""
+msgid "40"
 "4_Wolf_ShotMoltenRock_Base"
-
 msgstr ""
 "4_Wolf_ShotMoltenRock_Base"
 
-msgid ""
+msgid "41"
 "4_Wolf_BurningCombo_Base"
-
 msgstr ""
 "4_Wolf_BurningCombo_Base"
 
-msgid ""
+msgid "42"
 "4_Wolf_JumpSlam_Base"
-
 msgstr ""
 "4_Wolf_JumpSlam_Base"
 
-msgid ""
+msgid "43"
 "4_Wolf_DispelSlam_RightArm_Base"
-
 msgstr ""
 "4_Wolf_DispelSlam_RightArm_Base"
 
-msgid ""
+msgid "44"
 "4_Wolf_DashBrakePounce_Run_Base "
-
 msgstr ""
 "4_Wolf_DashBrakePounce_Run_Base "
 
-msgid ""
+msgid "45"
 "4_Wolf_Move_Base"
-
 msgstr ""
 "4_Wolf_Move_Base"
 
-msgid ""
+msgid "46"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

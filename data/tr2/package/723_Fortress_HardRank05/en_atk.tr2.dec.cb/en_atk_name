@@ -1,234 +1,195 @@
-msgid ""
+msgid "0"
 "2_ATK0"
-
 msgstr ""
 "2_ATK0"
 
-msgid ""
+msgid "1"
 "2_Tiger_Default"
-
 msgstr ""
 "2_Tiger_Default"
 
-msgid ""
+msgid "2"
 "2_Tiger_TestOracle"
-
 msgstr ""
 "2_Tiger_TestOracle"
 
-msgid ""
+msgid "3"
 "2_Tiger_Oracle_Pounce"
-
 msgstr ""
 "2_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "4"
 "2_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "5"
 "2_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "6"
 "2_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "7"
 "2_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "2_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "8"
 "2_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "9"
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "2_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "10"
 "2_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "11"
 "2_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "2_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "12"
 "2_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "2_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "13"
 "2_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "2_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "14"
 "2_Tiger_Cling_Base"
-
 msgstr ""
 "2_Tiger_Cling_Base"
 
-msgid ""
+msgid "15"
 "2_Tiger_Pounce_Base"
-
 msgstr ""
 "2_Tiger_Pounce_Base"
 
-msgid ""
+msgid "16"
 "2_Tiger_DashPounce_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "17"
 "2_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "2_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "18"
 "2_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "2_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "19"
 "2_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "20"
 "2_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "2_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "21"
 "2_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "2_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "22"
 "3_Yaksa_Default"
-
 msgstr ""
 "3_Yaksa_Default"
 
-msgid ""
+msgid "23"
 "3_Yaksa_Oracle_DawnHammer"
-
 msgstr ""
 "3_Yaksa_Oracle_DawnHammer"
 
-msgid ""
+msgid "24"
 "3_Yaksa_Oracle_RippleMassDriver"
-
 msgstr ""
 "3_Yaksa_Oracle_RippleMassDriver"
 
-msgid ""
+msgid "25"
 "3_Yaksa_Oracle_LightBallBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_LightBallBlast"
 
-msgid ""
+msgid "26"
 "3_Yaksa_Oracle_JumpShotBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_JumpShotBlast"
 
-msgid ""
+msgid "27"
 "3_Yaksa_Oracle_SlowLightBall"
-
 msgstr ""
 "3_Yaksa_Oracle_SlowLightBall"
 
-msgid ""
+msgid "28"
 "3_Yaksa_Oracle_YaksaCombo_ShockWave"
-
 msgstr ""
 "3_Yaksa_Oracle_YaksaCombo_ShockWave"
 
-msgid ""
+msgid "29"
 "3_Yaksa_Oracle_YaksaCombo_Blast"
-
 msgstr ""
 "3_Yaksa_Oracle_YaksaCombo_Blast"
 
-msgid ""
+msgid "30"
 "3_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
-
 msgstr ""
 "3_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
 
-msgid ""
+msgid "31"
 "3_Yaksa_UpperDispel_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Base"
 
-msgid ""
+msgid "32"
 "3_Yaksa_UpperDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Move_Base"
 
-msgid ""
+msgid "33"
 "3_Yaksa_Tackle_Base"
-
 msgstr ""
 "3_Yaksa_Tackle_Base"
 
-msgid ""
+msgid "34"
 "3_Yaksa_SerialDispel_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Base"
 
-msgid ""
+msgid "35"
 "3_Yaksa_SerialDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Move_Base"
 
-msgid ""
+msgid "36"
 "3_Yaksa_YaksaCombo_Blow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Blow_Base"
 
-msgid ""
+msgid "37"
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
 
-msgid ""
+msgid "38"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

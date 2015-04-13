@@ -1,252 +1,210 @@
-msgid ""
+msgid "0"
 "2_QueenPapilam_Default"
-
 msgstr ""
 "2_QueenPapilam_Default"
 
-msgid ""
+msgid "1"
 "2_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "2_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "2"
 "2_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "3"
 "2_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "4"
 "2_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "2_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "5"
 "2_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "6"
 "2_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "7"
 "2_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "2_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "8"
 "2_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "2_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "9"
 "2_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "10"
 "2_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "11"
 "2_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "12"
 "2_QueenPapilam_Oracle_Big_Dawn_of_Hammer"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Big_Dawn_of_Hammer"
 
-msgid ""
+msgid "13"
 "2_QueenPapilam_Oracle_Big"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Big"
 
-msgid ""
+msgid "14"
 "2_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "15"
 "2_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "16"
 "2_QueenPapilam_Oracle_Lunge_ShockWave"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Lunge_ShockWave"
 
-msgid ""
+msgid "17"
 "2_QueenPapilam_Oracle_Angry_FastShineWall"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Angry_FastShineWall"
 
-msgid ""
+msgid "18"
 "3_Tsukuyomi_Default"
-
 msgstr ""
 "3_Tsukuyomi_Default"
 
-msgid ""
+msgid "19"
 "3_Tsukuyomi_Oracle_SuperNova"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_SuperNova"
 
-msgid ""
+msgid "20"
 "3_Tsukuyomi_Oracle_SNovaLaser"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_SNovaLaser"
 
-msgid ""
+msgid "21"
 "3_Tsukuyomi_Oracle_SLightBall"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_SLightBall"
 
-msgid ""
+msgid "22"
 "3_Tsukuyomi_Oracle_NovaLaser"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_NovaLaser"
 
-msgid ""
+msgid "23"
 "3_Tsukuyomi_Oracle_ZoomShot"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_ZoomShot"
 
-msgid ""
+msgid "24"
 "3_Tsukuyomi_Oracle_ZoomSpit"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_ZoomSpit"
 
-msgid ""
+msgid "25"
 "3_Tsukuyomi_Oracle_SequentialDispel"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_SequentialDispel"
 
-msgid ""
+msgid "26"
 "3_Tsukuyomi_Oracle_WieldArms"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_WieldArms"
 
-msgid ""
+msgid "27"
 "3_Tsukuyomi_Oracle_FourLeggedHairCutterDash"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_FourLeggedHairCutterDash"
 
-msgid ""
+msgid "28"
 "3_Tsukuyomi_Oracle_HairCutter"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_HairCutter"
 
-msgid ""
+msgid "29"
 "3_Tsukuyomi_Oracle_PounceHairCutter"
-
 msgstr ""
 "3_Tsukuyomi_Oracle_PounceHairCutter"
 
-msgid ""
+msgid "30"
 "3_Tsukuyomi_ZoomSpit_Base"
-
 msgstr ""
 "3_Tsukuyomi_ZoomSpit_Base"
 
-msgid ""
+msgid "31"
 "3_Tsukuyomi_SequentialDispel_Base"
-
 msgstr ""
 "3_Tsukuyomi_SequentialDispel_Base"
 
-msgid ""
+msgid "32"
 "3_Tsukuyomi_ZoomShot_Base"
-
 msgstr ""
 "3_Tsukuyomi_ZoomShot_Base"
 
-msgid ""
+msgid "33"
 "3_Tsukuyomi_DisheveledHairCutter_Base"
-
 msgstr ""
 "3_Tsukuyomi_DisheveledHairCutter_Base"
 
-msgid ""
+msgid "34"
 "3_Tsukuyomi_4LimbsDash_Base"
-
 msgstr ""
 "3_Tsukuyomi_4LimbsDash_Base"
 
-msgid ""
+msgid "35"
 "3_Tsukuyomi_4LimbsMeanderingDash_Base"
-
 msgstr ""
 "3_Tsukuyomi_4LimbsMeanderingDash_Base"
 
-msgid ""
+msgid "36"
 "3_Tsukuyomi_ThrowPounce_Base"
-
 msgstr ""
 "3_Tsukuyomi_ThrowPounce_Base"
 
-msgid ""
+msgid "37"
 "3_Tsukuyomi_Pounce_HairCutter_Base"
-
 msgstr ""
 "3_Tsukuyomi_Pounce_HairCutter_Base"
 
-msgid ""
+msgid "38"
 "3_Tsukuyomi_Wield_Arms_Base"
-
 msgstr ""
 "3_Tsukuyomi_Wield_Arms_Base"
 
-msgid ""
+msgid "39"
 "2_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "40"
 "2_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "41"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

@@ -1,288 +1,240 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_QueenPapilam_Default"
-
 msgstr ""
 "3_QueenPapilam_Default"
 
-msgid ""
+msgid "9"
 "3_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "3_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "10"
 "3_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "11"
 "3_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "12"
 "3_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "3_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "13"
 "3_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "14"
 "3_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "15"
 "3_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "16"
 "3_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "17"
 "3_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "18"
 "3_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "19"
 "3_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "20"
 "2_OgreTail_Oracle_TailFire"
-
 msgstr ""
 "2_OgreTail_Oracle_TailFire"
 
-msgid ""
+msgid "21"
 "3_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "22"
 "3_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "3_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "23"
 "3_QueenPapilam_Oracle_Lunge_ShockWave"
-
 msgstr ""
 "3_QueenPapilam_Oracle_Lunge_ShockWave"
 
-msgid ""
+msgid "24"
 "3_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "25"
 "3_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "26"
 "4_Hannibal_Default"
-
 msgstr ""
 "4_Hannibal_Default"
 
-msgid ""
+msgid "27"
 "4_Hannibal_Oracle_SpearGlide_ShockWave"
-
 msgstr ""
 "4_Hannibal_Oracle_SpearGlide_ShockWave"
 
-msgid ""
+msgid "28"
 "4_Hannibal_Oracle_Shot_PlasmaBall"
-
 msgstr ""
 "4_Hannibal_Oracle_Shot_PlasmaBall"
 
-msgid ""
+msgid "29"
 "4_Hannibal_Oracle_FireBreath_LtoR"
-
 msgstr ""
 "4_Hannibal_Oracle_FireBreath_LtoR"
 
-msgid ""
+msgid "30"
 "4_Hannibal_Oracle_FireBreath_RtoL"
-
 msgstr ""
 "4_Hannibal_Oracle_FireBreath_RtoL"
 
-msgid ""
+msgid "31"
 "4_Hannibal_Oracle_FireStorm"
-
 msgstr ""
 "4_Hannibal_Oracle_FireStorm"
 
-msgid ""
+msgid "32"
 "4_Hannibal_Oracle_Call_FirePillar"
-
 msgstr ""
 "4_Hannibal_Oracle_Call_FirePillar"
 
-msgid ""
+msgid "33"
 "4_Hannibal_LeftArmDispel_Base"
-
 msgstr ""
 "4_Hannibal_LeftArmDispel_Base"
 
-msgid ""
+msgid "34"
 "4_Hannibal_ArmDispel_Base"
-
 msgstr ""
 "4_Hannibal_ArmDispel_Base"
 
-msgid ""
+msgid "35"
 "4_Hannibal_ArmDispel_Move_Base"
-
 msgstr ""
 "4_Hannibal_ArmDispel_Move_Base"
 
-msgid ""
+msgid "36"
 "4_Hannibal_SpearGlide_Base"
-
 msgstr ""
 "4_Hannibal_SpearGlide_Base"
 
-msgid ""
+msgid "37"
 "4_Hannibal_HormingDashPounce_Base"
-
 msgstr ""
 "4_Hannibal_HormingDashPounce_Base"
 
-msgid ""
+msgid "38"
 "4_Hannibal_TailDispel_Base"
-
 msgstr ""
 "4_Hannibal_TailDispel_Base"
 
-msgid ""
+msgid "39"
 "4_Hannibal_BackJump_Base"
-
 msgstr ""
 "4_Hannibal_BackJump_Base"
 
-msgid ""
+msgid "40"
 "4_Hannibal_HalfTurn_Base"
-
 msgstr ""
 "4_Hannibal_HalfTurn_Base"
 
-msgid ""
+msgid "41"
 "4_Hannibal_WeaponCombo_Base"
-
 msgstr ""
 "4_Hannibal_WeaponCombo_Base"
 
-msgid ""
+msgid "42"
 "4_Hannibal_WeaponCombo_Move_Base"
-
 msgstr ""
 "4_Hannibal_WeaponCombo_Move_Base"
 
-msgid ""
+msgid "43"
 "4_Hannibal_LoopPunch_Base"
-
 msgstr ""
 "4_Hannibal_LoopPunch_Base"
 
-msgid ""
+msgid "44"
 "4_Hannibal_Call_LocalFirePillar_Base"
-
 msgstr ""
 "4_Hannibal_Call_LocalFirePillar_Base"
 
-msgid ""
+msgid "45"
 "4_Hannibal_Move_Base"
-
 msgstr ""
 "4_Hannibal_Move_Base"
 
-msgid ""
+msgid "46"
 "4_Hannibal_HormingDashPounce_Finish_Base"
-
 msgstr ""
 "4_Hannibal_HormingDashPounce_Finish_Base"
 
-msgid ""
+msgid "47"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

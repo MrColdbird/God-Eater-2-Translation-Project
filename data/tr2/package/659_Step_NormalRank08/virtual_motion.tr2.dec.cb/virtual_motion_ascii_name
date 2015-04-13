@@ -1,1140 +1,950 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_CocoonMaiden_N_Idle"
-
 msgstr ""
 "2_CocoonMaiden_N_Idle"
 
-msgid ""
+msgid "31"
 "2_CocoonMaiden_N_TurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_N_TurnLeft"
 
-msgid ""
+msgid "32"
 "2_CocoonMaiden_N_TurnRight"
-
 msgstr ""
 "2_CocoonMaiden_N_TurnRight"
 
-msgid ""
+msgid "33"
 "2_CocoonMaiden_N_LargeTurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_N_LargeTurnLeft"
 
-msgid ""
+msgid "34"
 "2_CocoonMaiden_N_LargeTurnRight"
-
 msgstr ""
 "2_CocoonMaiden_N_LargeTurnRight"
 
-msgid ""
+msgid "35"
 "2_CocoonMaiden_Appear"
-
 msgstr ""
 "2_CocoonMaiden_Appear"
 
-msgid ""
+msgid "36"
 "2_CocoonMaiden_B_Idle"
-
 msgstr ""
 "2_CocoonMaiden_B_Idle"
 
-msgid ""
+msgid "37"
 "2_CocoonMaiden_B_TurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_B_TurnLeft"
 
-msgid ""
+msgid "38"
 "2_CocoonMaiden_B_TurnRight"
-
 msgstr ""
 "2_CocoonMaiden_B_TurnRight"
 
-msgid ""
+msgid "39"
 "2_CocoonMaiden_B_LargeTurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_B_LargeTurnLeft"
 
-msgid ""
+msgid "40"
 "2_CocoonMaiden_B_LargeTurnRight"
-
 msgstr ""
 "2_CocoonMaiden_B_LargeTurnRight"
 
-msgid ""
+msgid "41"
 "2_CocoonMaiden_B_FindComminate"
-
 msgstr ""
 "2_CocoonMaiden_B_FindComminate"
 
-msgid ""
+msgid "42"
 "2_CocoonMaiden_B_ChagrinComminate"
-
 msgstr ""
 "2_CocoonMaiden_B_ChagrinComminate"
 
-msgid ""
+msgid "43"
 "2_CocoonMaiden_B_Stagger"
-
 msgstr ""
 "2_CocoonMaiden_B_Stagger"
 
-msgid ""
+msgid "44"
 "2_CocoonMaiden_B_Default__H"
-
 msgstr ""
 "2_CocoonMaiden_B_Default__H"
 
-msgid ""
+msgid "45"
 "2_CocoonMaiden_B_Default__M"
-
 msgstr ""
 "2_CocoonMaiden_B_Default__M"
 
-msgid ""
+msgid "46"
 "2_CocoonMaiden_B_Default__T"
-
 msgstr ""
 "2_CocoonMaiden_B_Default__T"
 
-msgid ""
+msgid "47"
 "2_CocoonMaiden_B_SympathyBind__H"
-
 msgstr ""
 "2_CocoonMaiden_B_SympathyBind__H"
 
-msgid ""
+msgid "48"
 "2_CocoonMaiden_B_SympathyBind__M"
-
 msgstr ""
 "2_CocoonMaiden_B_SympathyBind__M"
 
-msgid ""
+msgid "49"
 "2_CocoonMaiden_B_SympathyBind__T"
-
 msgstr ""
 "2_CocoonMaiden_B_SympathyBind__T"
 
-msgid ""
+msgid "50"
 "2_CocoonMaiden_B_Hold__H"
-
 msgstr ""
 "2_CocoonMaiden_B_Hold__H"
 
-msgid ""
+msgid "51"
 "2_CocoonMaiden_B_Hold__M"
-
 msgstr ""
 "2_CocoonMaiden_B_Hold__M"
 
-msgid ""
+msgid "52"
 "2_CocoonMaiden_B_Hold__T"
-
 msgstr ""
 "2_CocoonMaiden_B_Hold__T"
 
-msgid ""
+msgid "53"
 "2_CocoonMaiden_B_Giddy"
-
 msgstr ""
 "2_CocoonMaiden_B_Giddy"
 
-msgid ""
+msgid "54"
 "2_CocoonMaiden_Dead__H"
-
 msgstr ""
 "2_CocoonMaiden_Dead__H"
 
-msgid ""
+msgid "55"
 "2_CocoonMaiden_Dead__M"
-
 msgstr ""
 "2_CocoonMaiden_Dead__M"
 
-msgid ""
+msgid "56"
 "2_CocoonMaiden_Dead__T"
-
 msgstr ""
 "2_CocoonMaiden_Dead__T"
 
-msgid ""
+msgid "57"
 "2_CocoonMaiden_B_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_B_ShotNeedle"
 
-msgid ""
+msgid "58"
 "2_CocoonMaiden_B_Beam"
-
 msgstr ""
 "2_CocoonMaiden_B_Beam"
 
-msgid ""
+msgid "59"
 "2_CocoonMaiden_B_ShotNeedle_All"
-
 msgstr ""
 "2_CocoonMaiden_B_ShotNeedle_All"
 
-msgid ""
+msgid "60"
 "2_CocoonMaiden_B_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_B_ReflactBeam"
 
-msgid ""
+msgid "61"
 "2_CocoonMaiden_B_DyingFumble"
-
 msgstr ""
 "2_CocoonMaiden_B_DyingFumble"
 
-msgid ""
+msgid "62"
 "3_AngelEgg_N_Idle"
-
 msgstr ""
 "3_AngelEgg_N_Idle"
 
-msgid ""
+msgid "63"
 "3_AngelEgg_N_Walk"
-
 msgstr ""
 "3_AngelEgg_N_Walk"
 
-msgid ""
+msgid "64"
 "3_AngelEgg_N_JumpToUpland__H"
-
 msgstr ""
 "3_AngelEgg_N_JumpToUpland__H"
 
-msgid ""
+msgid "65"
 "3_AngelEgg_N_JumpToUpland__M"
-
 msgstr ""
 "3_AngelEgg_N_JumpToUpland__M"
 
-msgid ""
+msgid "66"
 "3_AngelEgg_N_JumpToUpland__T"
-
 msgstr ""
 "3_AngelEgg_N_JumpToUpland__T"
 
-msgid ""
+msgid "67"
 "3_AngelEgg_N_JumpFromUpland__H"
-
 msgstr ""
 "3_AngelEgg_N_JumpFromUpland__H"
 
-msgid ""
+msgid "68"
 "3_AngelEgg_N_JumpFromUpland__M"
-
 msgstr ""
 "3_AngelEgg_N_JumpFromUpland__M"
 
-msgid ""
+msgid "69"
 "3_AngelEgg_N_JumpFromUpland__T"
-
 msgstr ""
 "3_AngelEgg_N_JumpFromUpland__T"
 
-msgid ""
+msgid "70"
 "3_AngelEgg_N_TurnLeft"
-
 msgstr ""
 "3_AngelEgg_N_TurnLeft"
 
-msgid ""
+msgid "71"
 "3_AngelEgg_N_TurnRight"
-
 msgstr ""
 "3_AngelEgg_N_TurnRight"
 
-msgid ""
+msgid "72"
 "3_AngelEgg_N_LargeTurnLeft"
-
 msgstr ""
 "3_AngelEgg_N_LargeTurnLeft"
 
-msgid ""
+msgid "73"
 "3_AngelEgg_N_LargeTurnRight"
-
 msgstr ""
 "3_AngelEgg_N_LargeTurnRight"
 
-msgid ""
+msgid "74"
 "3_AngelEgg_Appear"
-
 msgstr ""
 "3_AngelEgg_Appear"
 
-msgid ""
+msgid "75"
 "3_AngelEgg_B_Idle"
-
 msgstr ""
 "3_AngelEgg_B_Idle"
 
-msgid ""
+msgid "76"
 "3_AngelEgg_B_Dash__H"
-
 msgstr ""
 "3_AngelEgg_B_Dash__H"
 
-msgid ""
+msgid "77"
 "3_AngelEgg_B_Dash__M"
-
 msgstr ""
 "3_AngelEgg_B_Dash__M"
 
-msgid ""
+msgid "78"
 "3_AngelEgg_B_Dash__T"
-
 msgstr ""
 "3_AngelEgg_B_Dash__T"
 
-msgid ""
+msgid "79"
 "3_AngelEgg_B_TurnLeft"
-
 msgstr ""
 "3_AngelEgg_B_TurnLeft"
 
-msgid ""
+msgid "80"
 "3_AngelEgg_B_TurnRight"
-
 msgstr ""
 "3_AngelEgg_B_TurnRight"
 
-msgid ""
+msgid "81"
 "3_AngelEgg_B_LargeTurnLeft"
-
 msgstr ""
 "3_AngelEgg_B_LargeTurnLeft"
 
-msgid ""
+msgid "82"
 "3_AngelEgg_B_LargeTurnRight"
-
 msgstr ""
 "3_AngelEgg_B_LargeTurnRight"
 
-msgid ""
+msgid "83"
 "3_AngelEgg_B_FindComminate"
-
 msgstr ""
 "3_AngelEgg_B_FindComminate"
 
-msgid ""
+msgid "84"
 "3_AngelEgg_B_ChagrinComminate"
-
 msgstr ""
 "3_AngelEgg_B_ChagrinComminate"
 
-msgid ""
+msgid "85"
 "3_AngelEgg_B_Stagger"
-
 msgstr ""
 "3_AngelEgg_B_Stagger"
 
-msgid ""
+msgid "86"
 "3_AngelEgg_B_ForefootDown__H"
-
 msgstr ""
 "3_AngelEgg_B_ForefootDown__H"
 
-msgid ""
+msgid "87"
 "3_AngelEgg_B_ForefootDown__M"
-
 msgstr ""
 "3_AngelEgg_B_ForefootDown__M"
 
-msgid ""
+msgid "88"
 "3_AngelEgg_B_ForefootDown__T"
-
 msgstr ""
 "3_AngelEgg_B_ForefootDown__T"
 
-msgid ""
+msgid "89"
 "3_AngelEgg_B_Hold__H"
-
 msgstr ""
 "3_AngelEgg_B_Hold__H"
 
-msgid ""
+msgid "90"
 "3_AngelEgg_B_Hold__M"
-
 msgstr ""
 "3_AngelEgg_B_Hold__M"
 
-msgid ""
+msgid "91"
 "3_AngelEgg_B_Hold__T"
-
 msgstr ""
 "3_AngelEgg_B_Hold__T"
 
-msgid ""
+msgid "92"
 "3_AngelEgg_B_SympathyBind__H"
-
 msgstr ""
 "3_AngelEgg_B_SympathyBind__H"
 
-msgid ""
+msgid "93"
 "3_AngelEgg_B_SympathyBind__M"
-
 msgstr ""
 "3_AngelEgg_B_SympathyBind__M"
 
-msgid ""
+msgid "94"
 "3_AngelEgg_B_SympathyBind__T"
-
 msgstr ""
 "3_AngelEgg_B_SympathyBind__T"
 
-msgid ""
+msgid "95"
 "3_AngelEgg_B_Giddy"
-
 msgstr ""
 "3_AngelEgg_B_Giddy"
 
-msgid ""
+msgid "96"
 "3_AngelEgg_Dead__H"
-
 msgstr ""
 "3_AngelEgg_Dead__H"
 
-msgid ""
+msgid "97"
 "3_AngelEgg_Dead__M"
-
 msgstr ""
 "3_AngelEgg_Dead__M"
 
-msgid ""
+msgid "98"
 "3_AngelEgg_Dead__T"
-
 msgstr ""
 "3_AngelEgg_Dead__T"
 
-msgid ""
+msgid "99"
 "3_AngelEgg_B_Cling"
-
 msgstr ""
 "3_AngelEgg_B_Cling"
 
-msgid ""
+msgid "100"
 "3_AngelEgg_B_Tackle"
-
 msgstr ""
 "3_AngelEgg_B_Tackle"
 
-msgid ""
+msgid "101"
 "3_AngelEgg_B_ShotWind__H"
-
 msgstr ""
 "3_AngelEgg_B_ShotWind__H"
 
-msgid ""
+msgid "102"
 "3_AngelEgg_B_ShotWind__M"
-
 msgstr ""
 "3_AngelEgg_B_ShotWind__M"
 
-msgid ""
+msgid "103"
 "3_AngelEgg_B_ShotWind__T"
-
 msgstr ""
 "3_AngelEgg_B_ShotWind__T"
 
-msgid ""
+msgid "104"
 "3_AngelEgg_B_StinkGas__H"
-
 msgstr ""
 "3_AngelEgg_B_StinkGas__H"
 
-msgid ""
+msgid "105"
 "3_AngelEgg_B_StinkGas__M"
-
 msgstr ""
 "3_AngelEgg_B_StinkGas__M"
 
-msgid ""
+msgid "106"
 "3_AngelEgg_B_StinkGas__T"
-
 msgstr ""
 "3_AngelEgg_B_StinkGas__T"
 
-msgid ""
+msgid "107"
 "3_AngelEgg_B_StinkGasLob__H"
-
 msgstr ""
 "3_AngelEgg_B_StinkGasLob__H"
 
-msgid ""
+msgid "108"
 "3_AngelEgg_B_StinkGasLob__M"
-
 msgstr ""
 "3_AngelEgg_B_StinkGasLob__M"
 
-msgid ""
+msgid "109"
 "3_AngelEgg_B_StinkGasLob__T"
-
 msgstr ""
 "3_AngelEgg_B_StinkGasLob__T"
 
-msgid ""
+msgid "110"
 "3_AngelEgg_B_DyingFumble"
-
 msgstr ""
 "3_AngelEgg_B_DyingFumble"
 
-msgid ""
+msgid "111"
 "4_Tsukuyomi_N_Idle"
-
 msgstr ""
 "4_Tsukuyomi_N_Idle"
 
-msgid ""
+msgid "112"
 "4_Tsukuyomi_N_Walk"
-
 msgstr ""
 "4_Tsukuyomi_N_Walk"
 
-msgid ""
+msgid "113"
 "4_Tsukuyomi_N_TurnLeft"
-
 msgstr ""
 "4_Tsukuyomi_N_TurnLeft"
 
-msgid ""
+msgid "114"
 "4_Tsukuyomi_N_TurnRight"
-
 msgstr ""
 "4_Tsukuyomi_N_TurnRight"
 
-msgid ""
+msgid "115"
 "4_Tsukuyomi_N_LargeTurnLeft"
-
 msgstr ""
 "4_Tsukuyomi_N_LargeTurnLeft"
 
-msgid ""
+msgid "116"
 "4_Tsukuyomi_N_LargeTurnRight"
-
 msgstr ""
 "4_Tsukuyomi_N_LargeTurnRight"
 
-msgid ""
+msgid "117"
 "4_Tsukuyomi_Appear"
-
 msgstr ""
 "4_Tsukuyomi_Appear"
 
-msgid ""
+msgid "118"
 "4_Tsukuyomi_B_Idle"
-
 msgstr ""
 "4_Tsukuyomi_B_Idle"
 
-msgid ""
+msgid "119"
 "4_Tsukuyomi_B_Dash__H"
-
 msgstr ""
 "4_Tsukuyomi_B_Dash__H"
 
-msgid ""
+msgid "120"
 "4_Tsukuyomi_B_Dash__M"
-
 msgstr ""
 "4_Tsukuyomi_B_Dash__M"
 
-msgid ""
+msgid "121"
 "4_Tsukuyomi_B_Dash__T"
-
 msgstr ""
 "4_Tsukuyomi_B_Dash__T"
 
-msgid ""
+msgid "122"
 "4_Tsukuyomi_B_JumpToBossUpland"
-
 msgstr ""
 "4_Tsukuyomi_B_JumpToBossUpland"
 
-msgid ""
+msgid "123"
 "4_Tsukuyomi_B_JumpFromBossUpland"
-
 msgstr ""
 "4_Tsukuyomi_B_JumpFromBossUpland"
 
-msgid ""
+msgid "124"
 "4_Tsukuyomi_B_TurnLeft"
-
 msgstr ""
 "4_Tsukuyomi_B_TurnLeft"
 
-msgid ""
+msgid "125"
 "4_Tsukuyomi_B_TurnRight"
-
 msgstr ""
 "4_Tsukuyomi_B_TurnRight"
 
-msgid ""
+msgid "126"
 "4_Tsukuyomi_B_LargeTurnLeft"
-
 msgstr ""
 "4_Tsukuyomi_B_LargeTurnLeft"
 
-msgid ""
+msgid "127"
 "4_Tsukuyomi_B_LargeTurnRight"
-
 msgstr ""
 "4_Tsukuyomi_B_LargeTurnRight"
 
-msgid ""
+msgid "128"
 "4_Tsukuyomi_B_FindComminate"
-
 msgstr ""
 "4_Tsukuyomi_B_FindComminate"
 
-msgid ""
+msgid "129"
 "4_Tsukuyomi_B_AngryComminate"
-
 msgstr ""
 "4_Tsukuyomi_B_AngryComminate"
 
-msgid ""
+msgid "130"
 "4_Tsukuyomi_B_ChagrinComminate"
-
 msgstr ""
 "4_Tsukuyomi_B_ChagrinComminate"
 
-msgid ""
+msgid "131"
 "4_Tsukuyomi_B_Stagger"
-
 msgstr ""
 "4_Tsukuyomi_B_Stagger"
 
-msgid ""
+msgid "132"
 "4_Tsukuyomi_B_LowBodyDown__H"
-
 msgstr ""
 "4_Tsukuyomi_B_LowBodyDown__H"
 
-msgid ""
+msgid "133"
 "4_Tsukuyomi_B_LowBodyDown__M"
-
 msgstr ""
 "4_Tsukuyomi_B_LowBodyDown__M"
 
-msgid ""
+msgid "134"
 "4_Tsukuyomi_B_LowBodyDown__T"
-
 msgstr ""
 "4_Tsukuyomi_B_LowBodyDown__T"
 
-msgid ""
+msgid "135"
 "4_Tsukuyomi_B_UpBodyDown__H"
-
 msgstr ""
 "4_Tsukuyomi_B_UpBodyDown__H"
 
-msgid ""
+msgid "136"
 "4_Tsukuyomi_B_UpBodyDown__M"
-
 msgstr ""
 "4_Tsukuyomi_B_UpBodyDown__M"
 
-msgid ""
+msgid "137"
 "4_Tsukuyomi_B_UpBodyDown__T"
-
 msgstr ""
 "4_Tsukuyomi_B_UpBodyDown__T"
 
-msgid ""
+msgid "138"
 "4_Tsukuyomi_B_Hold__H"
-
 msgstr ""
 "4_Tsukuyomi_B_Hold__H"
 
-msgid ""
+msgid "139"
 "4_Tsukuyomi_B_Hold__M"
-
 msgstr ""
 "4_Tsukuyomi_B_Hold__M"
 
-msgid ""
+msgid "140"
 "4_Tsukuyomi_B_Hold__T"
-
 msgstr ""
 "4_Tsukuyomi_B_Hold__T"
 
-msgid ""
+msgid "141"
 "4_Tsukuyomi_B_Giddy"
-
 msgstr ""
 "4_Tsukuyomi_B_Giddy"
 
-msgid ""
+msgid "142"
 "4_Tsukuyomi_Dead__H"
-
 msgstr ""
 "4_Tsukuyomi_Dead__H"
 
-msgid ""
+msgid "143"
 "4_Tsukuyomi_Dead__M"
-
 msgstr ""
 "4_Tsukuyomi_Dead__M"
 
-msgid ""
+msgid "144"
 "4_Tsukuyomi_Dead__T"
-
 msgstr ""
 "4_Tsukuyomi_Dead__T"
 
-msgid ""
+msgid "145"
 "4_Tsukuyomi_D_ZoomSpear"
-
 msgstr ""
 "4_Tsukuyomi_D_ZoomSpear"
 
-msgid ""
+msgid "146"
 "4_Tsukuyomi_D_SeriesDispel"
-
 msgstr ""
 "4_Tsukuyomi_D_SeriesDispel"
 
-msgid ""
+msgid "147"
 "4_Tsukuyomi_D_ZoomShot"
-
 msgstr ""
 "4_Tsukuyomi_D_ZoomShot"
 
-msgid ""
+msgid "148"
 "4_Tsukuyomi_D_DisheveledHairCutter"
-
 msgstr ""
 "4_Tsukuyomi_D_DisheveledHairCutter"
 
-msgid ""
+msgid "149"
 "4_Tsukuyomi_D_4LimbsDash__H"
-
 msgstr ""
 "4_Tsukuyomi_D_4LimbsDash__H"
 
-msgid ""
+msgid "150"
 "4_Tsukuyomi_D_4LimbsDash__M"
-
 msgstr ""
 "4_Tsukuyomi_D_4LimbsDash__M"
 
-msgid ""
+msgid "151"
 "4_Tsukuyomi_D_4LimbsDash__T"
-
 msgstr ""
 "4_Tsukuyomi_D_4LimbsDash__T"
 
-msgid ""
+msgid "152"
 "4_Tkym_D_4LimbsMeanderingDash__H"
-
 msgstr ""
 "4_Tkym_D_4LimbsMeanderingDash__H"
 
-msgid ""
+msgid "153"
 "4_Tkym_D_4LimbsMeanderingDash__M"
-
 msgstr ""
 "4_Tkym_D_4LimbsMeanderingDash__M"
 
-msgid ""
+msgid "154"
 "4_Tkym_D_4LimbsMeanderingDash__T"
-
 msgstr ""
 "4_Tkym_D_4LimbsMeanderingDash__T"
 
-msgid ""
+msgid "155"
 "4_Tsukuyomi_D_ThrowPounce__H"
-
 msgstr ""
 "4_Tsukuyomi_D_ThrowPounce__H"
 
-msgid ""
+msgid "156"
 "4_Tsukuyomi_D_ThrowPounce__M"
-
 msgstr ""
 "4_Tsukuyomi_D_ThrowPounce__M"
 
-msgid ""
+msgid "157"
 "4_Tsukuyomi_D_ThrowPounce__T"
-
 msgstr ""
 "4_Tsukuyomi_D_ThrowPounce__T"
 
-msgid ""
+msgid "158"
 "4_Tsukuyomi_D_Shot_NovaLaser"
-
 msgstr ""
 "4_Tsukuyomi_D_Shot_NovaLaser"
 
-msgid ""
+msgid "159"
 "4_Tsukuyomi_D_Shot_NovaBall"
-
 msgstr ""
 "4_Tsukuyomi_D_Shot_NovaBall"
 
-msgid ""
+msgid "160"
 "4_Tsukuyomi_D_Vanish_Oracle"
-
 msgstr ""
 "4_Tsukuyomi_D_Vanish_Oracle"
 
-msgid ""
+msgid "161"
 "4_Tsukuyomi_D_SwayBack"
-
 msgstr ""
 "4_Tsukuyomi_D_SwayBack"
 
-msgid ""
+msgid "162"
 "4_Tsukuyomi_D_Pounce_HairCutter__H"
-
 msgstr ""
 "4_Tsukuyomi_D_Pounce_HairCutter__H"
 
-msgid ""
+msgid "163"
 "4_Tsukuyomi_D_Pounce_HairCutter__M"
-
 msgstr ""
 "4_Tsukuyomi_D_Pounce_HairCutter__M"
 
-msgid ""
+msgid "164"
 "4_Tsukuyomi_D_Pounce_HairCutter__T"
-
 msgstr ""
 "4_Tsukuyomi_D_Pounce_HairCutter__T"
 
-msgid ""
+msgid "165"
 "4_Tsukuyomi_D_Shot_SNovaLaser"
-
 msgstr ""
 "4_Tsukuyomi_D_Shot_SNovaLaser"
 
-msgid ""
+msgid "166"
 "4_Tsukuyomi_D_SuperNova"
-
 msgstr ""
 "4_Tsukuyomi_D_SuperNova"
 
-msgid ""
+msgid "167"
 "4_Tsukuyomi_ZoomSpear"
-
 msgstr ""
 "4_Tsukuyomi_ZoomSpear"
 
-msgid ""
+msgid "168"
 "4_Tsukuyomi_SeriesDispel"
-
 msgstr ""
 "4_Tsukuyomi_SeriesDispel"
 
-msgid ""
+msgid "169"
 "4_Tsukuyomi_ZoomShot"
-
 msgstr ""
 "4_Tsukuyomi_ZoomShot"
 
-msgid ""
+msgid "170"
 "4_Tsukuyomi_DisheveledHairCutter"
-
 msgstr ""
 "4_Tsukuyomi_DisheveledHairCutter"
 
-msgid ""
+msgid "171"
 "4_Tsukuyomi_4LimbsDash__H"
-
 msgstr ""
 "4_Tsukuyomi_4LimbsDash__H"
 
-msgid ""
+msgid "172"
 "4_Tsukuyomi_4LimbsDash__M"
-
 msgstr ""
 "4_Tsukuyomi_4LimbsDash__M"
 
-msgid ""
+msgid "173"
 "4_Tsukuyomi_4LimbsDash__T"
-
 msgstr ""
 "4_Tsukuyomi_4LimbsDash__T"
 
-msgid ""
+msgid "174"
 "4_Tsukuyomi_4LimbMeanderingDash__H"
-
 msgstr ""
 "4_Tsukuyomi_4LimbMeanderingDash__H"
 
-msgid ""
+msgid "175"
 "4_Tsukuyomi_4LimbMeanderingDash__M"
-
 msgstr ""
 "4_Tsukuyomi_4LimbMeanderingDash__M"
 
-msgid ""
+msgid "176"
 "4_Tsukuyomi_4LimbMeanderingDash__T"
-
 msgstr ""
 "4_Tsukuyomi_4LimbMeanderingDash__T"
 
-msgid ""
+msgid "177"
 "4_Tsukuyomi_Shot_NovaLaser"
-
 msgstr ""
 "4_Tsukuyomi_Shot_NovaLaser"
 
-msgid ""
+msgid "178"
 "4_Tsukuyomi_Shot_NovaBall"
-
 msgstr ""
 "4_Tsukuyomi_Shot_NovaBall"
 
-msgid ""
+msgid "179"
 "4_Tsukuyomi_SwayBack"
-
 msgstr ""
 "4_Tsukuyomi_SwayBack"
 
-msgid ""
+msgid "180"
 "4_Tsukuyomi_Pounce_HairCutter__H"
-
 msgstr ""
 "4_Tsukuyomi_Pounce_HairCutter__H"
 
-msgid ""
+msgid "181"
 "4_Tsukuyomi_Pounce_HairCutter__M"
-
 msgstr ""
 "4_Tsukuyomi_Pounce_HairCutter__M"
 
-msgid ""
+msgid "182"
 "4_Tsukuyomi_Pounce_HairCutter__T"
-
 msgstr ""
 "4_Tsukuyomi_Pounce_HairCutter__T"
 
-msgid ""
+msgid "183"
 "4_Tsukuyomi_Shot_SNovaLaser"
-
 msgstr ""
 "4_Tsukuyomi_Shot_SNovaLaser"
 
-msgid ""
+msgid "184"
 "4_Tsukuyomi_SuperNova"
-
 msgstr ""
 "4_Tsukuyomi_SuperNova"
 
-msgid ""
+msgid "185"
 "4_Tsukuyomi_Wield_Arms"
-
 msgstr ""
 "4_Tsukuyomi_Wield_Arms"
 
-msgid ""
+msgid "186"
 "4_Tsukuyomi_HairCutter_Dash__H"
-
 msgstr ""
 "4_Tsukuyomi_HairCutter_Dash__H"
 
-msgid ""
+msgid "187"
 "4_Tsukuyomi_HairCutter_Dash__M"
-
 msgstr ""
 "4_Tsukuyomi_HairCutter_Dash__M"
 
-msgid ""
+msgid "188"
 "4_Tsukuyomi_HairCutter_Dash__T"
-
 msgstr ""
 "4_Tsukuyomi_HairCutter_Dash__T"
 
-msgid ""
+msgid "189"
 "4_Tsukuyomi_Fumble"
-
 msgstr ""
 "4_Tsukuyomi_Fumble"
 

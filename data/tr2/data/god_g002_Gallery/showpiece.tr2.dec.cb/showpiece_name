@@ -1,1074 +1,895 @@
-﻿msgid ""
+msgid "0"
 "タイトル"
-
 msgstr ""
 "タイトル"
 
-msgid ""
+msgid "1"
 "リザルト"
-
 msgstr ""
 "リザルト"
 
-msgid ""
+msgid "2"
 "フライア　１"
-
 msgstr ""
 "フライア　１"
 
-msgid ""
+msgid "3"
 "フライア　２"
-
 msgstr ""
 "フライア　２"
 
-msgid ""
+msgid "4"
 "アナグラ　１"
-
 msgstr ""
 "アナグラ　１"
 
-msgid ""
+msgid "5"
 "アナグラ　２"
-
 msgstr ""
 "アナグラ　２"
 
-msgid ""
+msgid "6"
 "ラウンジ"
-
 msgstr ""
 "ラウンジ"
 
-msgid ""
+msgid "7"
 "悲劇"
-
 msgstr ""
 "悲劇"
 
-msgid ""
+msgid "8"
 "決戦前"
-
 msgstr ""
 "決戦前"
 
-msgid ""
+msgid "9"
 "黎明の亡都　１"
-
 msgstr ""
 "黎明の亡都　１"
 
-msgid ""
+msgid "10"
 "黎明の亡都　２"
-
 msgstr ""
 "黎明の亡都　２"
 
-msgid ""
+msgid "11"
 "嘆きの平原　１"
-
 msgstr ""
 "嘆きの平原　１"
 
-msgid ""
+msgid "12"
 "嘆きの平原　２"
-
 msgstr ""
 "嘆きの平原　２"
 
-msgid ""
+msgid "13"
 "嘆きの平原　３"
-
 msgstr ""
 "嘆きの平原　３"
 
-msgid ""
+msgid "14"
 "鉄塔の森　１"
-
 msgstr ""
 "鉄塔の森　１"
 
-msgid ""
+msgid "15"
 "鉄塔の森　２"
-
 msgstr ""
 "鉄塔の森　２"
 
-msgid ""
+msgid "16"
 "蒼氷の渓谷　１"
-
 msgstr ""
 "蒼氷の渓谷　１"
 
-msgid ""
+msgid "17"
 "蒼氷の渓谷　２"
-
 msgstr ""
 "蒼氷の渓谷　２"
 
-msgid ""
+msgid "18"
 "贖罪の街　１"
-
 msgstr ""
 "贖罪の街　１"
 
-msgid ""
+msgid "19"
 "贖罪の街　２"
-
 msgstr ""
 "贖罪の街　２"
 
-msgid ""
+msgid "20"
 "贖罪の街　３"
-
 msgstr ""
 "贖罪の街　３"
 
-msgid ""
+msgid "21"
 "鎮魂の廃寺　１"
-
 msgstr ""
 "鎮魂の廃寺　１"
 
-msgid ""
+msgid "22"
 "鎮魂の廃寺　２"
-
 msgstr ""
 "鎮魂の廃寺　２"
 
-msgid ""
+msgid "23"
 "鎮魂の廃寺　３"
-
 msgstr ""
 "鎮魂の廃寺　３"
 
-msgid ""
+msgid "24"
 "エイジス　１"
-
 msgstr ""
 "エイジス　１"
 
-msgid ""
+msgid "25"
 "エイジス　２"
-
 msgstr ""
 "エイジス　２"
 
-msgid ""
+msgid "26"
 "エイジス　３"
-
 msgstr ""
 "エイジス　３"
 
-msgid ""
+msgid "27"
 "煉獄の地下街　１"
-
 msgstr ""
 "煉獄の地下街　１"
 
-msgid ""
+msgid "28"
 "煉獄の地下街　２"
-
 msgstr ""
 "煉獄の地下街　２"
 
-msgid ""
+msgid "29"
 "煉獄の地下街　３"
-
 msgstr ""
 "煉獄の地下街　３"
 
-msgid ""
+msgid "30"
 "愚者の空母　１"
-
 msgstr ""
 "愚者の空母　１"
 
-msgid ""
+msgid "31"
 "愚者の空母　２"
-
 msgstr ""
 "愚者の空母　２"
 
-msgid ""
+msgid "32"
 "愚者の空母　３"
-
 msgstr ""
 "愚者の空母　３"
 
-msgid ""
+msgid "33"
 "創痕の防壁　１"
-
 msgstr ""
 "創痕の防壁　１"
 
-msgid ""
+msgid "34"
 "創痕の防壁　２"
-
 msgstr ""
 "創痕の防壁　２"
 
-msgid ""
+msgid "35"
 "神機兵保管庫　１"
-
 msgstr ""
 "神機兵保管庫　１"
 
-msgid ""
+msgid "36"
 "神機兵保管庫　２"
-
 msgstr ""
 "神機兵保管庫　２"
 
-msgid ""
+msgid "37"
 "ルフス・カリギュラ"
-
 msgstr ""
 "ルフス・カリギュラ"
 
-msgid ""
+msgid "38"
 "感応種"
-
 msgstr ""
 "感応種"
 
-msgid ""
+msgid "39"
 "Wings of Tomorrow"
-
 msgstr ""
 "Wings of Tomorrow"
 
-msgid ""
+msgid "40"
 "ハンニバル"
-
 msgstr ""
 "ハンニバル"
 
-msgid ""
+msgid "41"
 "神機兵"
-
 msgstr ""
 "神機兵"
 
-msgid ""
+msgid "42"
 "暴走神機兵"
-
 msgstr ""
 "暴走神機兵"
 
-msgid ""
+msgid "43"
 "超大型アラガミ"
-
 msgstr ""
 "超大型アラガミ"
 
-msgid ""
+msgid "44"
 "零號神機兵"
-
 msgstr ""
 "零號神機兵"
 
-msgid ""
+msgid "45"
 "ラストバトル"
-
 msgstr ""
 "ラストバトル"
 
-msgid ""
+msgid "46"
 "No Way Back　１"
-
 msgstr ""
 "No Way Back　１"
 
-msgid ""
+msgid "47"
 "No Way Back　２"
-
 msgstr ""
 "No Way Back　２"
 
-msgid ""
+msgid "48"
 "キュウビ"
-
 msgstr ""
 "キュウビ"
 
-msgid ""
+msgid "49"
 "マガツキュウビ"
-
 msgstr ""
 "マガツキュウビ"
 
-msgid ""
+msgid "50"
 "終わりなき侵喰"
-
 msgstr ""
 "終わりなき侵喰"
 
-msgid ""
+msgid "51"
 "Deo Volente"
-
 msgstr ""
 "Deo Volente"
 
-msgid ""
+msgid "52"
 "イベント　１"
-
 msgstr ""
 "イベント　１"
 
-msgid ""
+msgid "53"
 "イベント　２"
-
 msgstr ""
 "イベント　２"
 
-msgid ""
+msgid "54"
 "イベント　３"
-
 msgstr ""
 "イベント　３"
 
-msgid ""
+msgid "55"
 "イベント　４"
-
 msgstr ""
 "イベント　４"
 
-msgid ""
+msgid "56"
 "イベント　５"
-
 msgstr ""
 "イベント　５"
 
-msgid ""
+msgid "57"
 "イベント　６"
-
 msgstr ""
 "イベント　６"
 
-msgid ""
+msgid "58"
 "コイメカ　カラオケ"
-
 msgstr ""
 "コイメカ　カラオケ"
 
-msgid ""
+msgid "59"
 "戦術マニュアル「ガードについて」"
-
 msgstr ""
 "戦術マニュアル「ガードについて」"
 
-msgid ""
+msgid "60"
 "戦術マニュアル「捕喰について」"
-
 msgstr ""
 "戦術マニュアル「捕喰について」"
 
-msgid ""
+msgid "61"
 "戦術マニュアル「ショートブレード」"
-
 msgstr ""
 "戦術マニュアル「ショートブレード」"
 
-msgid ""
+msgid "62"
 "戦術マニュアル「ロングブレード」"
-
 msgstr ""
 "戦術マニュアル「ロングブレード」"
 
-msgid ""
+msgid "63"
 "戦術マニュアル「バスターブレード」"
-
 msgstr ""
 "戦術マニュアル「バスターブレード」"
 
-msgid ""
+msgid "64"
 "戦術マニュアル「ブーストハンマー」"
-
 msgstr ""
 "戦術マニュアル「ブーストハンマー」"
 
-msgid ""
+msgid "65"
 "戦術マニュアル「チャージスピア」"
-
 msgstr ""
 "戦術マニュアル「チャージスピア」"
 
-msgid ""
+msgid "66"
 "戦術マニュアル「スナイパー」"
-
 msgstr ""
 "戦術マニュアル「スナイパー」"
 
-msgid ""
+msgid "67"
 "戦術マニュアル「アサルト」"
-
 msgstr ""
 "戦術マニュアル「アサルト」"
 
-msgid ""
+msgid "68"
 "戦術マニュアル「ブラスト」"
-
 msgstr ""
 "戦術マニュアル「ブラスト」"
 
-msgid ""
+msgid "69"
 "戦術マニュアル「ショットガン」"
-
 msgstr ""
 "戦術マニュアル「ショットガン」"
 
-msgid ""
+msgid "70"
 "赤い雨"
-
 msgstr ""
 "赤い雨"
 
-msgid ""
+msgid "71"
 "適合試験"
-
 msgstr ""
 "適合試験"
 
-msgid ""
+msgid "72"
 "ジュリウスとの出会い"
-
 msgstr ""
 "ジュリウスとの出会い"
 
-msgid ""
+msgid "73"
 "ナナとの出会い"
-
 msgstr ""
 "ナナとの出会い"
 
-msgid ""
+msgid "74"
 "ロミオとの出会い"
-
 msgstr ""
 "ロミオとの出会い"
 
-msgid ""
+msgid "75"
 "特殊部隊ブラッド"
-
 msgstr ""
 "特殊部隊ブラッド"
 
-msgid ""
+msgid "76"
 "初陣"
-
 msgstr ""
 "初陣"
 
-msgid ""
+msgid "77"
 "意志の力"
-
 msgstr ""
 "意志の力"
 
-msgid ""
+msgid "78"
 "歌姫ユノ"
-
 msgstr ""
 "歌姫ユノ"
 
-msgid ""
+msgid "79"
 "グレム局長"
-
 msgstr ""
 "グレム局長"
 
-msgid ""
+msgid "80"
 "ギルとの出会い"
-
 msgstr ""
 "ギルとの出会い"
 
-msgid ""
+msgid "81"
 "ギルとの会話"
-
 msgstr ""
 "ギルとの会話"
 
-msgid ""
+msgid "82"
 "エミール・フォン・シュトラスブルク"
-
 msgstr ""
 "エミール・フォン・シュトラスブルク"
 
-msgid ""
+msgid "83"
 "騎士道精神"
-
 msgstr ""
 "騎士道精神"
 
-msgid ""
+msgid "84"
 "血の覚醒"
-
 msgstr ""
 "血の覚醒"
 
-msgid ""
+msgid "85"
 "シエルとの出会い"
-
 msgstr ""
 "シエルとの出会い"
 
-msgid ""
+msgid "86"
 "シエルとの情報共有"
-
 msgstr ""
 "シエルとの情報共有"
 
-msgid ""
+msgid "87"
 "シエルの過去"
-
 msgstr ""
 "シエルの過去"
 
-msgid ""
+msgid "88"
 "友達になってください！"
-
 msgstr ""
 "友達になってください！"
 
-msgid ""
+msgid "89"
 "絡みつく思惑"
-
 msgstr ""
 "絡みつく思惑"
 
-msgid ""
+msgid "90"
 "神機兵護衛任務"
-
 msgstr ""
 "神機兵護衛任務"
 
-msgid ""
+msgid "91"
 "大切なもの"
-
 msgstr ""
 "大切なもの"
 
-msgid ""
+msgid "92"
 "バレット検証実験"
-
 msgstr ""
 "バレット検証実験"
 
-msgid ""
+msgid "93"
 "未知の挙動"
-
 msgstr ""
 "未知の挙動"
 
-msgid ""
+msgid "94"
 "血の導き手"
-
 msgstr ""
 "血の導き手"
 
-msgid ""
+msgid "95"
 "ギルの忠告"
-
 msgstr ""
 "ギルの忠告"
 
-msgid ""
+msgid "96"
 "極東支部へ"
-
 msgstr ""
 "極東支部へ"
 
-msgid ""
+msgid "97"
 "極東支部長ペイラー・サカキ"
-
 msgstr ""
 "極東支部長ペイラー・サカキ"
 
-msgid ""
+msgid "98"
 "極東支部 第一部隊"
-
 msgstr ""
 "極東支部 第一部隊"
 
-msgid ""
+msgid "99"
 "ユノとの再会"
-
 msgstr ""
 "ユノとの再会"
 
-msgid ""
+msgid "100"
 "歓迎会"
-
 msgstr ""
 "歓迎会"
 
-msgid ""
+msgid "101"
 "ブラッドバレット"
-
 msgstr ""
 "ブラッドバレット"
 
-msgid ""
+msgid "102"
 "ブラッドバレットの可能性"
-
 msgstr ""
 "ブラッドバレットの可能性"
 
-msgid ""
+msgid "103"
 "神機兵シルブプレ♪"
-
 msgstr ""
 "神機兵シルブプレ♪"
 
-msgid ""
+msgid "104"
 "リンクサポートデバイス"
-
 msgstr ""
 "リンクサポートデバイス"
 
-msgid ""
+msgid "105"
 "試作品の動作テスト"
-
 msgstr ""
 "試作品の動作テスト"
 
-msgid ""
+msgid "106"
 "プロジェクトスタート"
-
 msgstr ""
 "プロジェクトスタート"
 
-msgid ""
+msgid "107"
 "ギルとハルオミ"
-
 msgstr ""
 "ギルとハルオミ"
 
-msgid ""
+msgid "108"
 "フラッギングギル"
-
 msgstr ""
 "フラッギングギル"
 
-msgid ""
+msgid "109"
 "まっすぐな瞳"
-
 msgstr ""
 "まっすぐな瞳"
 
-msgid ""
+msgid "110"
 "命の重さ"
-
 msgstr ""
 "命の重さ"
 
-msgid ""
+msgid "111"
 "敵討ち"
-
 msgstr ""
 "敵討ち"
 
-msgid ""
+msgid "112"
 "前を向いて"
-
 msgstr ""
 "前を向いて"
 
-msgid ""
+msgid "113"
 "サテライト拠点"
-
 msgstr ""
 "サテライト拠点"
 
-msgid ""
+msgid "114"
 "教官先生！"
-
 msgstr ""
 "教官先生！"
 
-msgid ""
+msgid "115"
 "ナナの思い出"
-
 msgstr ""
 "ナナの思い出"
 
-msgid ""
+msgid "116"
 "覚醒の兆候"
-
 msgstr ""
 "覚醒の兆候"
 
-msgid ""
+msgid "117"
 "血の暴走"
-
 msgstr ""
 "血の暴走"
 
-msgid ""
+msgid "118"
 "アラガミ侵入"
-
 msgstr ""
 "アラガミ侵入"
 
-msgid ""
+msgid "119"
 "確かな絆"
-
 msgstr ""
 "確かな絆"
 
-msgid ""
+msgid "120"
 "幸せの味"
-
 msgstr ""
 "幸せの味"
 
-msgid ""
+msgid "121"
 "ナナの手料理？"
-
 msgstr ""
 "ナナの手料理？"
 
-msgid ""
+msgid "122"
 "ナナの才能？"
-
 msgstr ""
 "ナナの才能？"
 
-msgid ""
+msgid "123"
 "救援要請"
-
 msgstr ""
 "救援要請"
 
-msgid ""
+msgid "124"
 "ブラッドの真価"
-
 msgstr ""
 "ブラッドの真価"
 
-msgid ""
+msgid "125"
 "アリサの依頼"
-
 msgstr ""
 "アリサの依頼"
 
-msgid ""
+msgid "126"
 "ロミオの焦り"
-
 msgstr ""
 "ロミオの焦り"
 
-msgid ""
+msgid "127"
 "ロミオとギルの衝突"
-
 msgstr ""
 "ロミオとギルの衝突"
 
-msgid ""
+msgid "128"
 "理解者"
-
 msgstr ""
 "理解者"
 
-msgid ""
+msgid "129"
 "帰るべき場所"
-
 msgstr ""
 "帰るべき場所"
 
-msgid ""
+msgid "130"
 "ラケルとソーマ"
-
 msgstr ""
 "ラケルとソーマ"
 
-msgid ""
+msgid "131"
 "クジョウ博士"
-
 msgstr ""
 "クジョウ博士"
 
-msgid ""
+msgid "132"
 "生体制御装置"
-
 msgstr ""
 "生体制御装置"
 
-msgid ""
+msgid "133"
 "ロミオの決意"
-
 msgstr ""
 "ロミオの決意"
 
-msgid ""
+msgid "134"
 "絶望の種"
-
 msgstr ""
 "絶望の種"
 
-msgid ""
+msgid "135"
 "鎮魂歌"
-
 msgstr ""
 "鎮魂歌"
 
-msgid ""
+msgid "136"
 "ジュリウスの離脱"
-
 msgstr ""
 "ジュリウスの離脱"
 
-msgid ""
+msgid "137"
 "極東支部への移籍"
-
 msgstr ""
 "極東支部への移籍"
 
-msgid ""
+msgid "138"
 "死神の影"
-
 msgstr ""
 "死神の影"
 
-msgid ""
+msgid "139"
 "新たな一歩"
-
 msgstr ""
 "新たな一歩"
 
-msgid ""
+msgid "140"
 "マルドゥークとの邂逅"
-
 msgstr ""
 "マルドゥークとの邂逅"
 
-msgid ""
+msgid "141"
 "寂寥たる勝利"
-
 msgstr ""
 "寂寥たる勝利"
 
-msgid ""
+msgid "142"
 "変わらぬ想い"
-
 msgstr ""
 "変わらぬ想い"
 
-msgid ""
+msgid "143"
 "ジャーナリスト"
-
 msgstr ""
 "ジャーナリスト"
 
-msgid ""
+msgid "144"
 "疑惑"
-
 msgstr ""
 "疑惑"
 
-msgid ""
+msgid "145"
 "レアの投降"
-
 msgstr ""
 "レアの投降"
 
-msgid ""
+msgid "146"
 "レアの尋問１"
-
 msgstr ""
 "レアの尋問１"
 
-msgid ""
+msgid "147"
 "元凶"
-
 msgstr ""
 "元凶"
 
-msgid ""
+msgid "148"
 "レアの尋問２"
-
 msgstr ""
 "レアの尋問２"
 
-msgid ""
+msgid "149"
 "胎動"
-
 msgstr ""
 "胎動"
 
-msgid ""
+msgid "150"
 "レアの尋問３"
-
 msgstr ""
 "レアの尋問３"
 
-msgid ""
+msgid "151"
 "試練"
-
 msgstr ""
 "試練"
 
-msgid ""
+msgid "152"
 "暴かれた陰謀"
-
 msgstr ""
 "暴かれた陰謀"
 
-msgid ""
+msgid "153"
 "ユノの感染"
-
 msgstr ""
 "ユノの感染"
 
-msgid ""
+msgid "154"
 "病室のユノ"
-
 msgstr ""
 "病室のユノ"
 
-msgid ""
+msgid "155"
 "クーデター"
-
 msgstr ""
 "クーデター"
 
-msgid ""
+msgid "156"
 "アーク計画"
-
 msgstr ""
 "アーク計画"
 
-msgid ""
+msgid "157"
 "特異点"
-
 msgstr ""
 "特異点"
 
-msgid ""
+msgid "158"
 "最後の試練"
-
 msgstr ""
 "最後の試練"
 
-msgid ""
+msgid "159"
 "創世の繭"
-
 msgstr ""
 "創世の繭"
 
-msgid ""
+msgid "160"
 "終末の晩餐"
-
 msgstr ""
 "終末の晩餐"
 
-msgid ""
+msgid "161"
 "新しい秩序"
-
 msgstr ""
 "新しい秩序"
 
-msgid ""
+msgid "162"
 "サカキの覚悟"
-
 msgstr ""
 "サカキの覚悟"
 
-msgid ""
+msgid "163"
 "ブラッドの意志"
-
 msgstr ""
 "ブラッドの意志"
 
-msgid ""
+msgid "164"
 "意志を束ねて"
-
 msgstr ""
 "意志を束ねて"
 
-msgid ""
+msgid "165"
 "世界を拓く者"
-
 msgstr ""
 "世界を拓く者"
 
-msgid ""
+msgid "166"
 "２つの終末捕喰"
-
 msgstr ""
 "２つの終末捕喰"
 
-msgid ""
+msgid "167"
 "光のアリア"
-
 msgstr ""
 "光のアリア"
 
-msgid ""
+msgid "168"
 "願い"
-
 msgstr ""
 "願い"
 
-msgid ""
+msgid "169"
 "「GOD EATER2」 エンディングムービー"
-
 msgstr ""
 "「GOD EATER2」 エンディングムービー"
 
-msgid ""
+msgid "170"
 "螺旋の樹"
-
 msgstr ""
 "螺旋の樹"
 
-msgid ""
+msgid "171"
 "ソーマ博士"
-
 msgstr ""
 "ソーマ博士"
 
-msgid ""
+msgid "172"
 "エイジストラップ"
-
 msgstr ""
 "エイジストラップ"
 
-msgid ""
+msgid "173"
 "リンドウの帰還"
-
 msgstr ""
 "リンドウの帰還"
 
-msgid ""
+msgid "174"
 "純血のアラガミ"
-
 msgstr ""
 "純血のアラガミ"
 
-msgid ""
+msgid "175"
 "決戦への序曲"
-
 msgstr ""
 "決戦への序曲"
 
-msgid ""
+msgid "176"
 "キュウビ撃破"
-
 msgstr ""
 "キュウビ撃破"
 
-msgid ""
+msgid "177"
 "ゆりかご"
-
 msgstr ""
 "ゆりかご"
 
-msgid ""
+msgid "178"
 "「GOD EATER2」 オープニングムービー"
-
 msgstr ""
 "「GOD EATER2」 オープニングムービー"
 

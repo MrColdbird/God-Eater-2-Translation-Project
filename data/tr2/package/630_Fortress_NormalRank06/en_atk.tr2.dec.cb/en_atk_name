@@ -1,258 +1,215 @@
-msgid ""
+msgid "0"
 "2_Soldier_Default"
-
 msgstr ""
 "2_Soldier_Default"
 
-msgid ""
+msgid "1"
 "2_Soldier_Oracle_FallDownBomb"
-
 msgstr ""
 "2_Soldier_Oracle_FallDownBomb"
 
-msgid ""
+msgid "2"
 "2_Soldier_Oracle_WildShot"
-
 msgstr ""
 "2_Soldier_Oracle_WildShot"
 
-msgid ""
+msgid "3"
 "2_Soldier_Oracle_ChargeVerticalSlash_Charge"
-
 msgstr ""
 "2_Soldier_Oracle_ChargeVerticalSlash_Charge"
 
-msgid ""
+msgid "4"
 "2_Soldier_Oracle_ChargeHorizontalSlash"
-
 msgstr ""
 "2_Soldier_Oracle_ChargeHorizontalSlash"
 
-msgid ""
+msgid "5"
 "2_Soldier_Oracle_ChargeVerticalSlash_ShockWave"
-
 msgstr ""
 "2_Soldier_Oracle_ChargeVerticalSlash_ShockWave"
 
-msgid ""
+msgid "6"
 "2_Soldier_RightStepSlash_Base"
-
 msgstr ""
 "2_Soldier_RightStepSlash_Base"
 
-msgid ""
+msgid "7"
 "2_Soldier_AngryRightStepSlash_Base"
-
 msgstr ""
 "2_Soldier_AngryRightStepSlash_Base"
 
-msgid ""
+msgid "8"
 "2_Soldier_Pounce_Base"
-
 msgstr ""
 "2_Soldier_Pounce_Base"
 
-msgid ""
+msgid "9"
 "2_Soldier_BackflipJump_Bridge_Base"
-
 msgstr ""
 "2_Soldier_BackflipJump_Bridge_Base"
 
-msgid ""
+msgid "10"
 "2_Soldier_BackflipJump_Move_Base"
-
 msgstr ""
 "2_Soldier_BackflipJump_Move_Base"
 
-msgid ""
+msgid "11"
 "2_Soldier_WideSlash_Base"
-
 msgstr ""
 "2_Soldier_WideSlash_Base"
 
-msgid ""
+msgid "12"
 "2_Soldier_ChargeVerticalSlash_Jump_Base"
-
 msgstr ""
 "2_Soldier_ChargeVerticalSlash_Jump_Base"
 
-msgid ""
+msgid "13"
 "2_Soldier_ChargeVerticalSlash_Slash_Base"
-
 msgstr ""
 "2_Soldier_ChargeVerticalSlash_Slash_Base"
 
-msgid ""
+msgid "14"
 "2_Soldier_AngryChargeVerticalSlash_Jump_Base"
-
 msgstr ""
 "2_Soldier_AngryChargeVerticalSlash_Jump_Base"
 
-msgid ""
+msgid "15"
 "2_Soldier_AngryChargeVerticalSlash_Slash_Base"
-
 msgstr ""
 "2_Soldier_AngryChargeVerticalSlash_Slash_Base"
 
-msgid ""
+msgid "16"
 "2_Soldier_ChargeHorizontalSlash_Hit_Base"
-
 msgstr ""
 "2_Soldier_ChargeHorizontalSlash_Hit_Base"
 
-msgid ""
+msgid "17"
 "2_Soldier_ChargeHorizontalSlash_Slash_Base"
-
 msgstr ""
 "2_Soldier_ChargeHorizontalSlash_Slash_Base"
 
-msgid ""
+msgid "18"
 "2_Soldier_Oracle_AngryChargeHorizontalSlash"
-
 msgstr ""
 "2_Soldier_Oracle_AngryChargeHorizontalSlash"
 
-msgid ""
+msgid "19"
 "2_Soldier_AngryChargeHorizontalSlash_Hit_Base"
-
 msgstr ""
 "2_Soldier_AngryChargeHorizontalSlash_Hit_Base"
 
-msgid ""
+msgid "20"
 "2_Soldier_AngryChargeHorizontalSlash_Slash_Base"
-
 msgstr ""
 "2_Soldier_AngryChargeHorizontalSlash_Slash_Base"
 
-msgid ""
+msgid "21"
 "3_Soldier_Default"
-
 msgstr ""
 "3_Soldier_Default"
 
-msgid ""
+msgid "22"
 "3_Soldier_Oracle_FallDownBomb"
-
 msgstr ""
 "3_Soldier_Oracle_FallDownBomb"
 
-msgid ""
+msgid "23"
 "3_Soldier_Oracle_WildShot"
-
 msgstr ""
 "3_Soldier_Oracle_WildShot"
 
-msgid ""
+msgid "24"
 "3_Soldier_RightStepSlash_Base"
-
 msgstr ""
 "3_Soldier_RightStepSlash_Base"
 
-msgid ""
+msgid "25"
 "3_Soldier_AngryRightStepSlash_Base"
-
 msgstr ""
 "3_Soldier_AngryRightStepSlash_Base"
 
-msgid ""
+msgid "26"
 "3_Soldier_Pounce_Base"
-
 msgstr ""
 "3_Soldier_Pounce_Base"
 
-msgid ""
+msgid "27"
 "3_Soldier_BackflipJump_Bridge_Base"
-
 msgstr ""
 "3_Soldier_BackflipJump_Bridge_Base"
 
-msgid ""
+msgid "28"
 "3_Soldier_BackflipJump_Land_Base"
-
 msgstr ""
 "3_Soldier_BackflipJump_Land_Base"
 
-msgid ""
+msgid "29"
 "3_Soldier_TripleHomingSlash_1st_Base"
-
 msgstr ""
 "3_Soldier_TripleHomingSlash_1st_Base"
 
-msgid ""
+msgid "30"
 "3_Soldier_TripleHomingSlash_2nd_Base"
-
 msgstr ""
 "3_Soldier_TripleHomingSlash_2nd_Base"
 
-msgid ""
+msgid "31"
 "3_Soldier_TripleHomingSlash_3rd_Base"
-
 msgstr ""
 "3_Soldier_TripleHomingSlash_3rd_Base"
 
-msgid ""
+msgid "32"
 "3_Soldier_TripleHomingSlash_arm_Base"
-
 msgstr ""
 "3_Soldier_TripleHomingSlash_arm_Base"
 
-msgid ""
+msgid "33"
 "3_Soldier_TackleSlash_Tackle_Base"
-
 msgstr ""
 "3_Soldier_TackleSlash_Tackle_Base"
 
-msgid ""
+msgid "34"
 "3_Soldier_TackleSlash_Slash_Base"
-
 msgstr ""
 "3_Soldier_TackleSlash_Slash_Base"
 
-msgid ""
+msgid "35"
 "3_Soldier_AngryTackleSlash_Tackle_Base"
-
 msgstr ""
 "3_Soldier_AngryTackleSlash_Tackle_Base"
 
-msgid ""
+msgid "36"
 "3_Soldier_AngryTackleSlash_Slash_Base"
-
 msgstr ""
 "3_Soldier_AngryTackleSlash_Slash_Base"
 
-msgid ""
+msgid "37"
 "3_Soldier_AngrySlashAround_1st_Base"
-
 msgstr ""
 "3_Soldier_AngrySlashAround_1st_Base"
 
-msgid ""
+msgid "38"
 "3_Soldier_AngrySlashAround_2nd_Base"
-
 msgstr ""
 "3_Soldier_AngrySlashAround_2nd_Base"
 
-msgid ""
+msgid "39"
 "3_Soldier_AngrySlashAround_3rd_Base"
-
 msgstr ""
 "3_Soldier_AngrySlashAround_3rd_Base"
 
-msgid ""
+msgid "40"
 "3_Soldier_AngrySlashAround_4th_Base"
-
 msgstr ""
 "3_Soldier_AngrySlashAround_4th_Base"
 
-msgid ""
+msgid "41"
 "3_Soldier_AngrySlashAround_5th_Base"
-
 msgstr ""
 "3_Soldier_AngrySlashAround_5th_Base"
 
-msgid ""
+msgid "42"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

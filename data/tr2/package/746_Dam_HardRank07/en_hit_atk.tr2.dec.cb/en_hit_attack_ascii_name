@@ -1,288 +1,240 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Misc_Default"
-
 msgstr ""
 "2_OgreTail_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "2"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Head_Default"
-
 msgstr ""
 "2_OgreTail_Head_Default"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Forefoot_Default"
-
 msgstr ""
 "2_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Tail_Default"
-
 msgstr ""
 "2_OgreTail_Tail_Default"
 
-msgid ""
+msgid "8"
 "3_AngelEgg_Misc_Default"
-
 msgstr ""
 "3_AngelEgg_Misc_Default"
 
-msgid ""
+msgid "9"
 "3_AngelEgg_Mouth_Default"
-
 msgstr ""
 "3_AngelEgg_Mouth_Default"
 
-msgid ""
+msgid "10"
 "3_AngelEgg_Body_Default"
-
 msgstr ""
 "3_AngelEgg_Body_Default"
 
-msgid ""
+msgid "11"
 "3_AngelEgg_Cling_Base"
-
 msgstr ""
 "3_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "12"
 "3_AngelEgg_Tackle_Base"
-
 msgstr ""
 "3_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "13"
 "4_Gorilla_Misc_Default"
-
 msgstr ""
 "4_Gorilla_Misc_Default"
 
-msgid ""
+msgid "14"
 "4_Gorilla_Arm_Default"
-
 msgstr ""
 "4_Gorilla_Arm_Default"
 
-msgid ""
+msgid "15"
 "4_Gorilla_Foot_Default"
-
 msgstr ""
 "4_Gorilla_Foot_Default"
 
-msgid ""
+msgid "16"
 "4_Gorilla_Body_Default"
-
 msgstr ""
 "4_Gorilla_Body_Default"
 
-msgid ""
+msgid "17"
 "4_Gorilla_Tail_Default"
-
 msgstr ""
 "4_Gorilla_Tail_Default"
 
-msgid ""
+msgid "18"
 "4_Gorilla_Punch_Base"
-
 msgstr ""
 "4_Gorilla_Punch_Base"
 
-msgid ""
+msgid "19"
 "4_Gorilla_Niou_Punch_Base"
-
 msgstr ""
 "4_Gorilla_Niou_Punch_Base"
 
-msgid ""
+msgid "20"
 "4_Gorilla_Arm_Stamp_Base"
-
 msgstr ""
 "4_Gorilla_Arm_Stamp_Base"
 
-msgid ""
+msgid "21"
 "4_Gorilla_Rolling_Attack_Base"
-
 msgstr ""
 "4_Gorilla_Rolling_Attack_Base"
 
-msgid ""
+msgid "22"
 "4_Gorilla_Double_Lariat_Base"
-
 msgstr ""
 "4_Gorilla_Double_Lariat_Base"
 
-msgid ""
+msgid "23"
 "5_ManmosMan_Misc_Default"
-
 msgstr ""
 "5_ManmosMan_Misc_Default"
 
-msgid ""
+msgid "24"
 "5_ManmosMan_FrontLeg_Default"
-
 msgstr ""
 "5_ManmosMan_FrontLeg_Default"
 
-msgid ""
+msgid "25"
 "5_ManmosMan_BackLeg_Default"
-
 msgstr ""
 "5_ManmosMan_BackLeg_Default"
 
-msgid ""
+msgid "26"
 "5_ManmosMan_BodyFront_Default"
-
 msgstr ""
 "5_ManmosMan_BodyFront_Default"
 
-msgid ""
+msgid "27"
 "5_ManmosMan_BodyBack_Default"
-
 msgstr ""
 "5_ManmosMan_BodyBack_Default"
 
-msgid ""
+msgid "28"
 "5_ManmosMan_UpperBody_Default"
-
 msgstr ""
 "5_ManmosMan_UpperBody_Default"
 
-msgid ""
+msgid "29"
 "5_ManmosMan_Arm_Default"
-
 msgstr ""
 "5_ManmosMan_Arm_Default"
 
-msgid ""
+msgid "30"
 "5_ManmosMan_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Dash_Base"
 
-msgid ""
+msgid "31"
 "5_ManmosMan_First_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_First_Dash_Base"
 
-msgid ""
+msgid "32"
 "5_ManmosMan_Second_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Second_Dash_Base"
 
-msgid ""
+msgid "33"
 "5_ManmosMan_Long_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Long_Dash_Base"
 
-msgid ""
+msgid "34"
 "5_ManmosMan_Missile_Dash_Base"
-
 msgstr ""
 "5_ManmosMan_Missile_Dash_Base"
 
-msgid ""
+msgid "35"
 "5_ManmosMan_Back_Kick_Base"
-
 msgstr ""
 "5_ManmosMan_Back_Kick_Base"
 
-msgid ""
+msgid "36"
 "5_ManmosMan_Stamp_Base"
-
 msgstr ""
 "5_ManmosMan_Stamp_Base"
 
-msgid ""
+msgid "37"
 "5_ManmosMan_Missile_Stamp_Base"
-
 msgstr ""
 "5_ManmosMan_Missile_Stamp_Base"
 
-msgid ""
+msgid "38"
 "5_ManmosMan_Tomahawk_Base"
-
 msgstr ""
 "5_ManmosMan_Tomahawk_Base"
 
-msgid ""
+msgid "39"
 "5_ManmosMan_Concentration_Missile_Base"
-
 msgstr ""
 "5_ManmosMan_Concentration_Missile_Base"
 
-msgid ""
+msgid "40"
 "5_ManmosMan_Diffusion_Missile_Base"
-
 msgstr ""
 "5_ManmosMan_Diffusion_Missile_Base"
 
-msgid ""
+msgid "41"
 "5_ManmosMan_Black_Napalm_Tomahawk_Base"
-
 msgstr ""
 "5_ManmosMan_Black_Napalm_Tomahawk_Base"
 
-msgid ""
+msgid "42"
 "5_ManmosMan_Homing_Missile_Base"
-
 msgstr ""
 "5_ManmosMan_Homing_Missile_Base"
 
-msgid ""
+msgid "43"
 "4_Gorilla_Plumage_Default"
-
 msgstr ""
 "4_Gorilla_Plumage_Default"
 
-msgid ""
+msgid "44"
 "4_Gorilla_Move_Default"
-
 msgstr ""
 "4_Gorilla_Move_Default"
 
-msgid ""
+msgid "45"
 "4_Gorilla_BackJump_Base"
-
 msgstr ""
 "4_Gorilla_BackJump_Base"
 
-msgid ""
+msgid "46"
 "5_ManmosMan_Move_Default"
-
 msgstr ""
 "5_ManmosMan_Move_Default"
 
-msgid ""
+msgid "47"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

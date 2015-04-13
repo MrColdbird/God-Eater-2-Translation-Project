@@ -1,1302 +1,1085 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_CocoonMaiden_N_Idle"
-
 msgstr ""
 "2_CocoonMaiden_N_Idle"
 
-msgid ""
+msgid "31"
 "2_CocoonMaiden_N_TurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_N_TurnLeft"
 
-msgid ""
+msgid "32"
 "2_CocoonMaiden_N_TurnRight"
-
 msgstr ""
 "2_CocoonMaiden_N_TurnRight"
 
-msgid ""
+msgid "33"
 "2_CocoonMaiden_N_LargeTurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_N_LargeTurnLeft"
 
-msgid ""
+msgid "34"
 "2_CocoonMaiden_N_LargeTurnRight"
-
 msgstr ""
 "2_CocoonMaiden_N_LargeTurnRight"
 
-msgid ""
+msgid "35"
 "2_CocoonMaiden_Appear"
-
 msgstr ""
 "2_CocoonMaiden_Appear"
 
-msgid ""
+msgid "36"
 "2_CocoonMaiden_B_Idle"
-
 msgstr ""
 "2_CocoonMaiden_B_Idle"
 
-msgid ""
+msgid "37"
 "2_CocoonMaiden_B_TurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_B_TurnLeft"
 
-msgid ""
+msgid "38"
 "2_CocoonMaiden_B_TurnRight"
-
 msgstr ""
 "2_CocoonMaiden_B_TurnRight"
 
-msgid ""
+msgid "39"
 "2_CocoonMaiden_B_LargeTurnLeft"
-
 msgstr ""
 "2_CocoonMaiden_B_LargeTurnLeft"
 
-msgid ""
+msgid "40"
 "2_CocoonMaiden_B_LargeTurnRight"
-
 msgstr ""
 "2_CocoonMaiden_B_LargeTurnRight"
 
-msgid ""
+msgid "41"
 "2_CocoonMaiden_B_FindComminate"
-
 msgstr ""
 "2_CocoonMaiden_B_FindComminate"
 
-msgid ""
+msgid "42"
 "2_CocoonMaiden_B_ChagrinComminate"
-
 msgstr ""
 "2_CocoonMaiden_B_ChagrinComminate"
 
-msgid ""
+msgid "43"
 "2_CocoonMaiden_B_Stagger"
-
 msgstr ""
 "2_CocoonMaiden_B_Stagger"
 
-msgid ""
+msgid "44"
 "2_CocoonMaiden_B_Default__H"
-
 msgstr ""
 "2_CocoonMaiden_B_Default__H"
 
-msgid ""
+msgid "45"
 "2_CocoonMaiden_B_Default__M"
-
 msgstr ""
 "2_CocoonMaiden_B_Default__M"
 
-msgid ""
+msgid "46"
 "2_CocoonMaiden_B_Default__T"
-
 msgstr ""
 "2_CocoonMaiden_B_Default__T"
 
-msgid ""
+msgid "47"
 "2_CocoonMaiden_B_SympathyBind__H"
-
 msgstr ""
 "2_CocoonMaiden_B_SympathyBind__H"
 
-msgid ""
+msgid "48"
 "2_CocoonMaiden_B_SympathyBind__M"
-
 msgstr ""
 "2_CocoonMaiden_B_SympathyBind__M"
 
-msgid ""
+msgid "49"
 "2_CocoonMaiden_B_SympathyBind__T"
-
 msgstr ""
 "2_CocoonMaiden_B_SympathyBind__T"
 
-msgid ""
+msgid "50"
 "2_CocoonMaiden_B_Hold__H"
-
 msgstr ""
 "2_CocoonMaiden_B_Hold__H"
 
-msgid ""
+msgid "51"
 "2_CocoonMaiden_B_Hold__M"
-
 msgstr ""
 "2_CocoonMaiden_B_Hold__M"
 
-msgid ""
+msgid "52"
 "2_CocoonMaiden_B_Hold__T"
-
 msgstr ""
 "2_CocoonMaiden_B_Hold__T"
 
-msgid ""
+msgid "53"
 "2_CocoonMaiden_B_Giddy"
-
 msgstr ""
 "2_CocoonMaiden_B_Giddy"
 
-msgid ""
+msgid "54"
 "2_CocoonMaiden_Dead__H"
-
 msgstr ""
 "2_CocoonMaiden_Dead__H"
 
-msgid ""
+msgid "55"
 "2_CocoonMaiden_Dead__M"
-
 msgstr ""
 "2_CocoonMaiden_Dead__M"
 
-msgid ""
+msgid "56"
 "2_CocoonMaiden_Dead__T"
-
 msgstr ""
 "2_CocoonMaiden_Dead__T"
 
-msgid ""
+msgid "57"
 "2_CocoonMaiden_B_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_B_ShotNeedle"
 
-msgid ""
+msgid "58"
 "2_CocoonMaiden_B_Beam"
-
 msgstr ""
 "2_CocoonMaiden_B_Beam"
 
-msgid ""
+msgid "59"
 "2_CocoonMaiden_B_ShotNeedle_All"
-
 msgstr ""
 "2_CocoonMaiden_B_ShotNeedle_All"
 
-msgid ""
+msgid "60"
 "2_CocoonMaiden_B_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_B_ReflactBeam"
 
-msgid ""
+msgid "61"
 "2_CocoonMaiden_B_DyingFumble"
-
 msgstr ""
 "2_CocoonMaiden_B_DyingFumble"
 
-msgid ""
+msgid "62"
 "3_CocoonMaiden_N_Idle"
-
 msgstr ""
 "3_CocoonMaiden_N_Idle"
 
-msgid ""
+msgid "63"
 "3_CocoonMaiden_N_TurnLeft"
-
 msgstr ""
 "3_CocoonMaiden_N_TurnLeft"
 
-msgid ""
+msgid "64"
 "3_CocoonMaiden_N_TurnRight"
-
 msgstr ""
 "3_CocoonMaiden_N_TurnRight"
 
-msgid ""
+msgid "65"
 "3_CocoonMaiden_N_LargeTurnLeft"
-
 msgstr ""
 "3_CocoonMaiden_N_LargeTurnLeft"
 
-msgid ""
+msgid "66"
 "3_CocoonMaiden_N_LargeTurnRight"
-
 msgstr ""
 "3_CocoonMaiden_N_LargeTurnRight"
 
-msgid ""
+msgid "67"
 "3_CocoonMaiden_Appear"
-
 msgstr ""
 "3_CocoonMaiden_Appear"
 
-msgid ""
+msgid "68"
 "3_CocoonMaiden_B_Idle"
-
 msgstr ""
 "3_CocoonMaiden_B_Idle"
 
-msgid ""
+msgid "69"
 "3_CocoonMaiden_B_TurnLeft"
-
 msgstr ""
 "3_CocoonMaiden_B_TurnLeft"
 
-msgid ""
+msgid "70"
 "3_CocoonMaiden_B_TurnRight"
-
 msgstr ""
 "3_CocoonMaiden_B_TurnRight"
 
-msgid ""
+msgid "71"
 "3_CocoonMaiden_B_LargeTurnLeft"
-
 msgstr ""
 "3_CocoonMaiden_B_LargeTurnLeft"
 
-msgid ""
+msgid "72"
 "3_CocoonMaiden_B_LargeTurnRight"
-
 msgstr ""
 "3_CocoonMaiden_B_LargeTurnRight"
 
-msgid ""
+msgid "73"
 "3_CocoonMaiden_B_FindComminate"
-
 msgstr ""
 "3_CocoonMaiden_B_FindComminate"
 
-msgid ""
+msgid "74"
 "3_CocoonMaiden_B_ChagrinComminate"
-
 msgstr ""
 "3_CocoonMaiden_B_ChagrinComminate"
 
-msgid ""
+msgid "75"
 "3_CocoonMaiden_B_Stagger"
-
 msgstr ""
 "3_CocoonMaiden_B_Stagger"
 
-msgid ""
+msgid "76"
 "3_CocoonMaiden_B_Default__H"
-
 msgstr ""
 "3_CocoonMaiden_B_Default__H"
 
-msgid ""
+msgid "77"
 "3_CocoonMaiden_B_Default__M"
-
 msgstr ""
 "3_CocoonMaiden_B_Default__M"
 
-msgid ""
+msgid "78"
 "3_CocoonMaiden_B_Default__T"
-
 msgstr ""
 "3_CocoonMaiden_B_Default__T"
 
-msgid ""
+msgid "79"
 "3_CocoonMaiden_B_SympathyBind__H"
-
 msgstr ""
 "3_CocoonMaiden_B_SympathyBind__H"
 
-msgid ""
+msgid "80"
 "3_CocoonMaiden_B_SympathyBind__M"
-
 msgstr ""
 "3_CocoonMaiden_B_SympathyBind__M"
 
-msgid ""
+msgid "81"
 "3_CocoonMaiden_B_SympathyBind__T"
-
 msgstr ""
 "3_CocoonMaiden_B_SympathyBind__T"
 
-msgid ""
+msgid "82"
 "3_CocoonMaiden_B_Hold__H"
-
 msgstr ""
 "3_CocoonMaiden_B_Hold__H"
 
-msgid ""
+msgid "83"
 "3_CocoonMaiden_B_Hold__M"
-
 msgstr ""
 "3_CocoonMaiden_B_Hold__M"
 
-msgid ""
+msgid "84"
 "3_CocoonMaiden_B_Hold__T"
-
 msgstr ""
 "3_CocoonMaiden_B_Hold__T"
 
-msgid ""
+msgid "85"
 "3_CocoonMaiden_B_Giddy"
-
 msgstr ""
 "3_CocoonMaiden_B_Giddy"
 
-msgid ""
+msgid "86"
 "3_CocoonMaiden_Dead__H"
-
 msgstr ""
 "3_CocoonMaiden_Dead__H"
 
-msgid ""
+msgid "87"
 "3_CocoonMaiden_Dead__M"
-
 msgstr ""
 "3_CocoonMaiden_Dead__M"
 
-msgid ""
+msgid "88"
 "3_CocoonMaiden_Dead__T"
-
 msgstr ""
 "3_CocoonMaiden_Dead__T"
 
-msgid ""
+msgid "89"
 "3_CocoonMaiden_B_ShotNeedle"
-
 msgstr ""
 "3_CocoonMaiden_B_ShotNeedle"
 
-msgid ""
+msgid "90"
 "3_CocoonMaiden_B_Beam"
-
 msgstr ""
 "3_CocoonMaiden_B_Beam"
 
-msgid ""
+msgid "91"
 "3_CocoonMaiden_B_ShotNeedle_All"
-
 msgstr ""
 "3_CocoonMaiden_B_ShotNeedle_All"
 
-msgid ""
+msgid "92"
 "3_CocoonMaiden_B_ReflactBeam"
-
 msgstr ""
 "3_CocoonMaiden_B_ReflactBeam"
 
-msgid ""
+msgid "93"
 "3_CocoonMaiden_B_DyingFumble"
-
 msgstr ""
 "3_CocoonMaiden_B_DyingFumble"
 
-msgid ""
+msgid "94"
 "4_Wani_N_Idle"
-
 msgstr ""
 "4_Wani_N_Idle"
 
-msgid ""
+msgid "95"
 "4_Wani_N_Walk"
-
 msgstr ""
 "4_Wani_N_Walk"
 
-msgid ""
+msgid "96"
 "4_Wani_N_JumpToUpland__H"
-
 msgstr ""
 "4_Wani_N_JumpToUpland__H"
 
-msgid ""
+msgid "97"
 "4_Wani_N_JumpToUpland__M"
-
 msgstr ""
 "4_Wani_N_JumpToUpland__M"
 
-msgid ""
+msgid "98"
 "4_Wani_N_JumpToUpland__T"
-
 msgstr ""
 "4_Wani_N_JumpToUpland__T"
 
-msgid ""
+msgid "99"
 "4_Wani_N_JumpFromUpland__H"
-
 msgstr ""
 "4_Wani_N_JumpFromUpland__H"
 
-msgid ""
+msgid "100"
 "4_Wani_N_JumpFromUpland__M"
-
 msgstr ""
 "4_Wani_N_JumpFromUpland__M"
 
-msgid ""
+msgid "101"
 "4_Wani_N_JumpFromUpland__T"
-
 msgstr ""
 "4_Wani_N_JumpFromUpland__T"
 
-msgid ""
+msgid "102"
 "4_Wani_N_TurnLeft"
-
 msgstr ""
 "4_Wani_N_TurnLeft"
 
-msgid ""
+msgid "103"
 "4_Wani_N_TurnRight"
-
 msgstr ""
 "4_Wani_N_TurnRight"
 
-msgid ""
+msgid "104"
 "4_Wani_N_LargeTurnLeft"
-
 msgstr ""
 "4_Wani_N_LargeTurnLeft"
 
-msgid ""
+msgid "105"
 "4_Wani_N_LargeTurnRight"
-
 msgstr ""
 "4_Wani_N_LargeTurnRight"
 
-msgid ""
+msgid "106"
 "4_Wani_N_Eat"
-
 msgstr ""
 "4_Wani_N_Eat"
 
-msgid ""
+msgid "107"
 "4_Wani_Appear"
-
 msgstr ""
 "4_Wani_Appear"
 
-msgid ""
+msgid "108"
 "4_Wani_B_Idle"
-
 msgstr ""
 "4_Wani_B_Idle"
 
-msgid ""
+msgid "109"
 "4_Wani_B_Dash__H"
-
 msgstr ""
 "4_Wani_B_Dash__H"
 
-msgid ""
+msgid "110"
 "4_Wani_B_Dash__M"
-
 msgstr ""
 "4_Wani_B_Dash__M"
 
-msgid ""
+msgid "111"
 "4_Wani_B_Dash__T"
-
 msgstr ""
 "4_Wani_B_Dash__T"
 
-msgid ""
+msgid "112"
 "4_Wani_B_MoveLongPath__H"
-
 msgstr ""
 "4_Wani_B_MoveLongPath__H"
 
-msgid ""
+msgid "113"
 "4_Wani_B_MoveLongPath__M"
-
 msgstr ""
 "4_Wani_B_MoveLongPath__M"
 
-msgid ""
+msgid "114"
 "4_Wani_B_MoveLongPath__T"
-
 msgstr ""
 "4_Wani_B_MoveLongPath__T"
 
-msgid ""
+msgid "115"
 "4_Wani_B_TurnLeft"
-
 msgstr ""
 "4_Wani_B_TurnLeft"
 
-msgid ""
+msgid "116"
 "4_Wani_B_TurnRight"
-
 msgstr ""
 "4_Wani_B_TurnRight"
 
-msgid ""
+msgid "117"
 "4_Wani_B_LargeTurnLeft"
-
 msgstr ""
 "4_Wani_B_LargeTurnLeft"
 
-msgid ""
+msgid "118"
 "4_Wani_B_LargeTurnRight"
-
 msgstr ""
 "4_Wani_B_LargeTurnRight"
 
-msgid ""
+msgid "119"
 "4_Wani_B_FindComminate"
-
 msgstr ""
 "4_Wani_B_FindComminate"
 
-msgid ""
+msgid "120"
 "4_Wani_B_AngryComminate"
-
 msgstr ""
 "4_Wani_B_AngryComminate"
 
-msgid ""
+msgid "121"
 "4_Wani_B_ChagrinComminate"
-
 msgstr ""
 "4_Wani_B_ChagrinComminate"
 
-msgid ""
+msgid "122"
 "4_Wani_B_Stagger"
-
 msgstr ""
 "4_Wani_B_Stagger"
 
-msgid ""
+msgid "123"
 "4_Wani_B_ArmDown__H"
-
 msgstr ""
 "4_Wani_B_ArmDown__H"
 
-msgid ""
+msgid "124"
 "4_Wani_B_ArmDown__M"
-
 msgstr ""
 "4_Wani_B_ArmDown__M"
 
-msgid ""
+msgid "125"
 "4_Wani_B_ArmDown__T"
-
 msgstr ""
 "4_Wani_B_ArmDown__T"
 
-msgid ""
+msgid "126"
 "4_Wani_B_BodyDown__H"
-
 msgstr ""
 "4_Wani_B_BodyDown__H"
 
-msgid ""
+msgid "127"
 "4_Wani_B_BodyDown__M"
-
 msgstr ""
 "4_Wani_B_BodyDown__M"
 
-msgid ""
+msgid "128"
 "4_Wani_B_BodyDown__T"
-
 msgstr ""
 "4_Wani_B_BodyDown__T"
 
-msgid ""
+msgid "129"
 "4_Wani_B_SympathyBind__H"
-
 msgstr ""
 "4_Wani_B_SympathyBind__H"
 
-msgid ""
+msgid "130"
 "4_Wani_B_SympathyBind__M"
-
 msgstr ""
 "4_Wani_B_SympathyBind__M"
 
-msgid ""
+msgid "131"
 "4_Wani_B_SympathyBind__T"
-
 msgstr ""
 "4_Wani_B_SympathyBind__T"
 
-msgid ""
+msgid "132"
 "4_Wani_B_Hold__H"
-
 msgstr ""
 "4_Wani_B_Hold__H"
 
-msgid ""
+msgid "133"
 "4_Wani_B_Hold__M"
-
 msgstr ""
 "4_Wani_B_Hold__M"
 
-msgid ""
+msgid "134"
 "4_Wani_B_Hold__T"
-
 msgstr ""
 "4_Wani_B_Hold__T"
 
-msgid ""
+msgid "135"
 "4_Wani_B_Giddy"
-
 msgstr ""
 "4_Wani_B_Giddy"
 
-msgid ""
+msgid "136"
 "4_Wani_Dead__H"
-
 msgstr ""
 "4_Wani_Dead__H"
 
-msgid ""
+msgid "137"
 "4_Wani_Dead__M"
-
 msgstr ""
 "4_Wani_Dead__M"
 
-msgid ""
+msgid "138"
 "4_Wani_Dead__T"
-
 msgstr ""
 "4_Wani_Dead__T"
 
-msgid ""
+msgid "139"
 "4_Wani_B_Cling"
-
 msgstr ""
 "4_Wani_B_Cling"
 
-msgid ""
+msgid "140"
 "4_Wani_B_Cling_Arms"
-
 msgstr ""
 "4_Wani_B_Cling_Arms"
 
-msgid ""
+msgid "141"
 "4_Wani_B_Cling_Dash_Dash__H"
-
 msgstr ""
 "4_Wani_B_Cling_Dash_Dash__H"
 
-msgid ""
+msgid "142"
 "4_Wani_B_Cling_Dash_Dash__M"
-
 msgstr ""
 "4_Wani_B_Cling_Dash_Dash__M"
 
-msgid ""
+msgid "143"
 "4_Wani_B_Cling_Dash_Cling"
-
 msgstr ""
 "4_Wani_B_Cling_Dash_Cling"
 
-msgid ""
+msgid "144"
 "4_Wani_B_Shot_SmallWaterBall__H"
-
 msgstr ""
 "4_Wani_B_Shot_SmallWaterBall__H"
 
-msgid ""
+msgid "145"
 "4_Wani_B_Shot_SmallWaterBall__M"
-
 msgstr ""
 "4_Wani_B_Shot_SmallWaterBall__M"
 
-msgid ""
+msgid "146"
 "4_Wani_B_Shot_SmallWaterBall__T"
-
 msgstr ""
 "4_Wani_B_Shot_SmallWaterBall__T"
 
-msgid ""
+msgid "147"
 "4_Wani_B_Splash_SmallWaterBall__H"
-
 msgstr ""
 "4_Wani_B_Splash_SmallWaterBall__H"
 
-msgid ""
+msgid "148"
 "4_Wani_B_Splash_SmallWaterBall__M"
-
 msgstr ""
 "4_Wani_B_Splash_SmallWaterBall__M"
 
-msgid ""
+msgid "149"
 "4_Wani_B_Go_Berserk__H"
-
 msgstr ""
 "4_Wani_B_Go_Berserk__H"
 
-msgid ""
+msgid "150"
 "4_Wani_B_Go_Berserk__M"
-
 msgstr ""
 "4_Wani_B_Go_Berserk__M"
 
-msgid ""
+msgid "151"
 "4_Wani_B_Go_Berserk__T"
-
 msgstr ""
 "4_Wani_B_Go_Berserk__T"
 
-msgid ""
+msgid "152"
 "4_Wani_B_Splash_AcidFog__H"
-
 msgstr ""
 "4_Wani_B_Splash_AcidFog__H"
 
-msgid ""
+msgid "153"
 "4_Wani_B_Splash_AcidFog__M"
-
 msgstr ""
 "4_Wani_B_Splash_AcidFog__M"
 
-msgid ""
+msgid "154"
 "4_Wani_B_BackStep__H"
-
 msgstr ""
 "4_Wani_B_BackStep__H"
 
-msgid ""
+msgid "155"
 "4_Wani_B_BackStep__M"
-
 msgstr ""
 "4_Wani_B_BackStep__M"
 
-msgid ""
+msgid "156"
 "4_Wani_B_BackStep__T"
-
 msgstr ""
 "4_Wani_B_BackStep__T"
 
-msgid ""
+msgid "157"
 "4_Wani_B_Splash_AcidFog_Local__H"
-
 msgstr ""
 "4_Wani_B_Splash_AcidFog_Local__H"
 
-msgid ""
+msgid "158"
 "4_Wani_B_Splash_AcidFog_Local__M"
-
 msgstr ""
 "4_Wani_B_Splash_AcidFog_Local__M"
 
-msgid ""
+msgid "159"
 "4_Wani_B_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "4_Wani_B_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "160"
 "4_Wani_B_Fumble"
-
 msgstr ""
 "4_Wani_B_Fumble"
 
-msgid ""
+msgid "161"
 "5_ZakoCannon_N_Idle"
-
 msgstr ""
 "5_ZakoCannon_N_Idle"
 
-msgid ""
+msgid "162"
 "5_ZakoCannon_N_TurnLeft"
-
 msgstr ""
 "5_ZakoCannon_N_TurnLeft"
 
-msgid ""
+msgid "163"
 "5_ZakoCannon_N_TurnRight"
-
 msgstr ""
 "5_ZakoCannon_N_TurnRight"
 
-msgid ""
+msgid "164"
 "5_ZakoCannon_N_LargeTurnLeft"
-
 msgstr ""
 "5_ZakoCannon_N_LargeTurnLeft"
 
-msgid ""
+msgid "165"
 "5_ZakoCannon_N_LargeTurnRight"
-
 msgstr ""
 "5_ZakoCannon_N_LargeTurnRight"
 
-msgid ""
+msgid "166"
 "5_ZakoCannon_N_Appear"
-
 msgstr ""
 "5_ZakoCannon_N_Appear"
 
-msgid ""
+msgid "167"
 "5_ZakoCannon_B_Idle"
-
 msgstr ""
 "5_ZakoCannon_B_Idle"
 
-msgid ""
+msgid "168"
 "5_ZakoCannon_B_TurnLeft"
-
 msgstr ""
 "5_ZakoCannon_B_TurnLeft"
 
-msgid ""
+msgid "169"
 "5_ZakoCannon_B_TurnRight"
-
 msgstr ""
 "5_ZakoCannon_B_TurnRight"
 
-msgid ""
+msgid "170"
 "5_ZakoCannon_B_LargeTurnLeft"
-
 msgstr ""
 "5_ZakoCannon_B_LargeTurnLeft"
 
-msgid ""
+msgid "171"
 "5_ZakoCannon_B_LargeTurnRight"
-
 msgstr ""
 "5_ZakoCannon_B_LargeTurnRight"
 
-msgid ""
+msgid "172"
 "5_ZakoCannon_B_FindComminate"
-
 msgstr ""
 "5_ZakoCannon_B_FindComminate"
 
-msgid ""
+msgid "173"
 "5_ZakoCannon_B_ChagrinComminate"
-
 msgstr ""
 "5_ZakoCannon_B_ChagrinComminate"
 
-msgid ""
+msgid "174"
 "5_ZakoCannon_B_Stagger"
-
 msgstr ""
 "5_ZakoCannon_B_Stagger"
 
-msgid ""
+msgid "175"
 "5_ZakoCannon_B_Down__H"
-
 msgstr ""
 "5_ZakoCannon_B_Down__H"
 
-msgid ""
+msgid "176"
 "5_ZakoCannon_B_Down__M"
-
 msgstr ""
 "5_ZakoCannon_B_Down__M"
 
-msgid ""
+msgid "177"
 "5_ZakoCannon_B_Down__T"
-
 msgstr ""
 "5_ZakoCannon_B_Down__T"
 
-msgid ""
+msgid "178"
 "5_ZakoCannon_B_SympathyBind__H"
-
 msgstr ""
 "5_ZakoCannon_B_SympathyBind__H"
 
-msgid ""
+msgid "179"
 "5_ZakoCannon_B_SympathyBind__M"
-
 msgstr ""
 "5_ZakoCannon_B_SympathyBind__M"
 
-msgid ""
+msgid "180"
 "5_ZakoCannon_B_SympathyBind__T"
-
 msgstr ""
 "5_ZakoCannon_B_SympathyBind__T"
 
-msgid ""
+msgid "181"
 "5_ZakoCannon_B_Hold__H"
-
 msgstr ""
 "5_ZakoCannon_B_Hold__H"
 
-msgid ""
+msgid "182"
 "5_ZakoCannon_B_Hold__M"
-
 msgstr ""
 "5_ZakoCannon_B_Hold__M"
 
-msgid ""
+msgid "183"
 "5_ZakoCannon_B_Hold__T"
-
 msgstr ""
 "5_ZakoCannon_B_Hold__T"
 
-msgid ""
+msgid "184"
 "5_ZakoCannon_B_Giddy"
-
 msgstr ""
 "5_ZakoCannon_B_Giddy"
 
-msgid ""
+msgid "185"
 "5_ZakoCannon_Dead__H"
-
 msgstr ""
 "5_ZakoCannon_Dead__H"
 
-msgid ""
+msgid "186"
 "5_ZakoCannon_Dead__M"
-
 msgstr ""
 "5_ZakoCannon_Dead__M"
 
-msgid ""
+msgid "187"
 "5_ZakoCannon_Dead__T"
-
 msgstr ""
 "5_ZakoCannon_Dead__T"
 
-msgid ""
+msgid "188"
 "5_ZakoCannon_B_ShotBomb"
-
 msgstr ""
 "5_ZakoCannon_B_ShotBomb"
 
-msgid ""
+msgid "189"
 "6_ZakoCannon_N_Idle"
-
 msgstr ""
 "6_ZakoCannon_N_Idle"
 
-msgid ""
+msgid "190"
 "6_ZakoCannon_N_TurnLeft"
-
 msgstr ""
 "6_ZakoCannon_N_TurnLeft"
 
-msgid ""
+msgid "191"
 "6_ZakoCannon_N_TurnRight"
-
 msgstr ""
 "6_ZakoCannon_N_TurnRight"
 
-msgid ""
+msgid "192"
 "6_ZakoCannon_N_LargeTurnLeft"
-
 msgstr ""
 "6_ZakoCannon_N_LargeTurnLeft"
 
-msgid ""
+msgid "193"
 "6_ZakoCannon_N_LargeTurnRight"
-
 msgstr ""
 "6_ZakoCannon_N_LargeTurnRight"
 
-msgid ""
+msgid "194"
 "6_ZakoCannon_N_Appear"
-
 msgstr ""
 "6_ZakoCannon_N_Appear"
 
-msgid ""
+msgid "195"
 "6_ZakoCannon_B_Idle"
-
 msgstr ""
 "6_ZakoCannon_B_Idle"
 
-msgid ""
+msgid "196"
 "6_ZakoCannon_B_TurnLeft"
-
 msgstr ""
 "6_ZakoCannon_B_TurnLeft"
 
-msgid ""
+msgid "197"
 "6_ZakoCannon_B_TurnRight"
-
 msgstr ""
 "6_ZakoCannon_B_TurnRight"
 
-msgid ""
+msgid "198"
 "6_ZakoCannon_B_LargeTurnLeft"
-
 msgstr ""
 "6_ZakoCannon_B_LargeTurnLeft"
 
-msgid ""
+msgid "199"
 "6_ZakoCannon_B_LargeTurnRight"
-
 msgstr ""
 "6_ZakoCannon_B_LargeTurnRight"
 
-msgid ""
+msgid "200"
 "6_ZakoCannon_B_FindComminate"
-
 msgstr ""
 "6_ZakoCannon_B_FindComminate"
 
-msgid ""
+msgid "201"
 "6_ZakoCannon_B_ChagrinComminate"
-
 msgstr ""
 "6_ZakoCannon_B_ChagrinComminate"
 
-msgid ""
+msgid "202"
 "6_ZakoCannon_B_Stagger"
-
 msgstr ""
 "6_ZakoCannon_B_Stagger"
 
-msgid ""
+msgid "203"
 "6_ZakoCannon_B_Down__H"
-
 msgstr ""
 "6_ZakoCannon_B_Down__H"
 
-msgid ""
+msgid "204"
 "6_ZakoCannon_B_Down__M"
-
 msgstr ""
 "6_ZakoCannon_B_Down__M"
 
-msgid ""
+msgid "205"
 "6_ZakoCannon_B_Down__T"
-
 msgstr ""
 "6_ZakoCannon_B_Down__T"
 
-msgid ""
+msgid "206"
 "6_ZakoCannon_B_SympathyBind__H"
-
 msgstr ""
 "6_ZakoCannon_B_SympathyBind__H"
 
-msgid ""
+msgid "207"
 "6_ZakoCannon_B_SympathyBind__M"
-
 msgstr ""
 "6_ZakoCannon_B_SympathyBind__M"
 
-msgid ""
+msgid "208"
 "6_ZakoCannon_B_SympathyBind__T"
-
 msgstr ""
 "6_ZakoCannon_B_SympathyBind__T"
 
-msgid ""
+msgid "209"
 "6_ZakoCannon_B_Hold__H"
-
 msgstr ""
 "6_ZakoCannon_B_Hold__H"
 
-msgid ""
+msgid "210"
 "6_ZakoCannon_B_Hold__M"
-
 msgstr ""
 "6_ZakoCannon_B_Hold__M"
 
-msgid ""
+msgid "211"
 "6_ZakoCannon_B_Hold__T"
-
 msgstr ""
 "6_ZakoCannon_B_Hold__T"
 
-msgid ""
+msgid "212"
 "6_ZakoCannon_B_Giddy"
-
 msgstr ""
 "6_ZakoCannon_B_Giddy"
 
-msgid ""
+msgid "213"
 "6_ZakoCannon_Dead__H"
-
 msgstr ""
 "6_ZakoCannon_Dead__H"
 
-msgid ""
+msgid "214"
 "6_ZakoCannon_Dead__M"
-
 msgstr ""
 "6_ZakoCannon_Dead__M"
 
-msgid ""
+msgid "215"
 "6_ZakoCannon_Dead__T"
-
 msgstr ""
 "6_ZakoCannon_Dead__T"
 
-msgid ""
+msgid "216"
 "6_ZakoCannon_B_ShotBomb"
-
 msgstr ""
 "6_ZakoCannon_B_ShotBomb"
 

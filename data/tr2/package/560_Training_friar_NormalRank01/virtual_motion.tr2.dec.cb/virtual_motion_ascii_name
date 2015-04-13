@@ -1,168 +1,140 @@
-msgid ""
+msgid "0"
 "1_ZakoCannon_N_Idle"
-
 msgstr ""
 "1_ZakoCannon_N_Idle"
 
-msgid ""
+msgid "1"
 "1_ZakoCannon_N_TurnLeft"
-
 msgstr ""
 "1_ZakoCannon_N_TurnLeft"
 
-msgid ""
+msgid "2"
 "1_ZakoCannon_N_TurnRight"
-
 msgstr ""
 "1_ZakoCannon_N_TurnRight"
 
-msgid ""
+msgid "3"
 "1_ZakoCannon_N_LargeTurnLeft"
-
 msgstr ""
 "1_ZakoCannon_N_LargeTurnLeft"
 
-msgid ""
+msgid "4"
 "1_ZakoCannon_N_LargeTurnRight"
-
 msgstr ""
 "1_ZakoCannon_N_LargeTurnRight"
 
-msgid ""
+msgid "5"
 "1_ZakoCannon_N_Appear"
-
 msgstr ""
 "1_ZakoCannon_N_Appear"
 
-msgid ""
+msgid "6"
 "1_ZakoCannon_B_Idle"
-
 msgstr ""
 "1_ZakoCannon_B_Idle"
 
-msgid ""
+msgid "7"
 "1_ZakoCannon_B_TurnLeft"
-
 msgstr ""
 "1_ZakoCannon_B_TurnLeft"
 
-msgid ""
+msgid "8"
 "1_ZakoCannon_B_TurnRight"
-
 msgstr ""
 "1_ZakoCannon_B_TurnRight"
 
-msgid ""
+msgid "9"
 "1_ZakoCannon_B_LargeTurnLeft"
-
 msgstr ""
 "1_ZakoCannon_B_LargeTurnLeft"
 
-msgid ""
+msgid "10"
 "1_ZakoCannon_B_LargeTurnRight"
-
 msgstr ""
 "1_ZakoCannon_B_LargeTurnRight"
 
-msgid ""
+msgid "11"
 "1_ZakoCannon_B_FindComminate"
-
 msgstr ""
 "1_ZakoCannon_B_FindComminate"
 
-msgid ""
+msgid "12"
 "1_ZakoCannon_B_ChagrinComminate"
-
 msgstr ""
 "1_ZakoCannon_B_ChagrinComminate"
 
-msgid ""
+msgid "13"
 "1_ZakoCannon_B_Stagger"
-
 msgstr ""
 "1_ZakoCannon_B_Stagger"
 
-msgid ""
+msgid "14"
 "1_ZakoCannon_B_Down__H"
-
 msgstr ""
 "1_ZakoCannon_B_Down__H"
 
-msgid ""
+msgid "15"
 "1_ZakoCannon_B_Down__M"
-
 msgstr ""
 "1_ZakoCannon_B_Down__M"
 
-msgid ""
+msgid "16"
 "1_ZakoCannon_B_Down__T"
-
 msgstr ""
 "1_ZakoCannon_B_Down__T"
 
-msgid ""
+msgid "17"
 "1_ZakoCannon_B_SympathyBind__H"
-
 msgstr ""
 "1_ZakoCannon_B_SympathyBind__H"
 
-msgid ""
+msgid "18"
 "1_ZakoCannon_B_SympathyBind__M"
-
 msgstr ""
 "1_ZakoCannon_B_SympathyBind__M"
 
-msgid ""
+msgid "19"
 "1_ZakoCannon_B_SympathyBind__T"
-
 msgstr ""
 "1_ZakoCannon_B_SympathyBind__T"
 
-msgid ""
+msgid "20"
 "1_ZakoCannon_B_Hold__H"
-
 msgstr ""
 "1_ZakoCannon_B_Hold__H"
 
-msgid ""
+msgid "21"
 "1_ZakoCannon_B_Hold__M"
-
 msgstr ""
 "1_ZakoCannon_B_Hold__M"
 
-msgid ""
+msgid "22"
 "1_ZakoCannon_B_Hold__T"
-
 msgstr ""
 "1_ZakoCannon_B_Hold__T"
 
-msgid ""
+msgid "23"
 "1_ZakoCannon_B_Giddy"
-
 msgstr ""
 "1_ZakoCannon_B_Giddy"
 
-msgid ""
+msgid "24"
 "1_ZakoCannon_Dead__H"
-
 msgstr ""
 "1_ZakoCannon_Dead__H"
 
-msgid ""
+msgid "25"
 "1_ZakoCannon_Dead__M"
-
 msgstr ""
 "1_ZakoCannon_Dead__M"
 
-msgid ""
+msgid "26"
 "1_ZakoCannon_Dead__T"
-
 msgstr ""
 "1_ZakoCannon_Dead__T"
 
-msgid ""
+msgid "27"
 "1_ZakoCannon_B_ShotBomb"
-
 msgstr ""
 "1_ZakoCannon_B_ShotBomb"
 

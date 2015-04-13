@@ -1,252 +1,210 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Misc_Default"
-
 msgstr ""
 "2_OgreTail_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "2"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Head_Default"
-
 msgstr ""
 "2_OgreTail_Head_Default"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Forefoot_Default"
-
 msgstr ""
 "2_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Tail_Default"
-
 msgstr ""
 "2_OgreTail_Tail_Default"
 
-msgid ""
+msgid "8"
 "3_QueenPapilam_Misc_Default"
-
 msgstr ""
 "3_QueenPapilam_Misc_Default"
 
-msgid ""
+msgid "9"
 "3_QueenPapilam_Arm_Default"
-
 msgstr ""
 "3_QueenPapilam_Arm_Default"
 
-msgid ""
+msgid "10"
 "3_QueenPapilam_Body_Default"
-
 msgstr ""
 "3_QueenPapilam_Body_Default"
 
-msgid ""
+msgid "11"
 "3_QueenPapilam_Leg_Default"
-
 msgstr ""
 "3_QueenPapilam_Leg_Default"
 
-msgid ""
+msgid "12"
 "3_QueenPapilam_Skirt_Default"
-
 msgstr ""
 "3_QueenPapilam_Skirt_Default"
 
-msgid ""
+msgid "13"
 "3_QueenPapilam_Lunge_Default"
-
 msgstr ""
 "3_QueenPapilam_Lunge_Default"
 
-msgid ""
+msgid "14"
 "3_QueenPapilam_MeanderingLunge_Default"
-
 msgstr ""
 "3_QueenPapilam_MeanderingLunge_Default"
 
-msgid ""
+msgid "15"
 "3_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "16"
 "3_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "3_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "17"
 "4_Hannibal_Misc_Default"
-
 msgstr ""
 "4_Hannibal_Misc_Default"
 
-msgid ""
+msgid "18"
 "4_Hannibal_Head_Default"
-
 msgstr ""
 "4_Hannibal_Head_Default"
 
-msgid ""
+msgid "19"
 "4_Hannibal_Neck_Default"
-
 msgstr ""
 "4_Hannibal_Neck_Default"
 
-msgid ""
+msgid "20"
 "4_Hannibal_RightArm_Default"
-
 msgstr ""
 "4_Hannibal_RightArm_Default"
 
-msgid ""
+msgid "21"
 "4_Hannibal_LeftArm_Default"
-
 msgstr ""
 "4_Hannibal_LeftArm_Default"
 
-msgid ""
+msgid "22"
 "4_Hannibal_Belly_Default"
-
 msgstr ""
 "4_Hannibal_Belly_Default"
 
-msgid ""
+msgid "23"
 "4_Hannibal_Back_Default"
-
 msgstr ""
 "4_Hannibal_Back_Default"
 
-msgid ""
+msgid "24"
 "4_Hannibal_Foot_Default"
-
 msgstr ""
 "4_Hannibal_Foot_Default"
 
-msgid ""
+msgid "25"
 "4_Hannibal_Tail_Default"
-
 msgstr ""
 "4_Hannibal_Tail_Default"
 
-msgid ""
+msgid "26"
 "4_Hannibal_LeftArmDispel_Base"
-
 msgstr ""
 "4_Hannibal_LeftArmDispel_Base"
 
-msgid ""
+msgid "27"
 "4_Hannibal_ArmDispel_Base"
-
 msgstr ""
 "4_Hannibal_ArmDispel_Base"
 
-msgid ""
+msgid "28"
 "4_Hannibal_ArmDispel_Move_Base"
-
 msgstr ""
 "4_Hannibal_ArmDispel_Move_Base"
 
-msgid ""
+msgid "29"
 "4_Hannibal_SpearGlide_Base"
-
 msgstr ""
 "4_Hannibal_SpearGlide_Base"
 
-msgid ""
+msgid "30"
 "4_Hannibal_HormingDashPounce_Base"
-
 msgstr ""
 "4_Hannibal_HormingDashPounce_Base"
 
-msgid ""
+msgid "31"
 "4_Hannibal_TailDispel_Base"
-
 msgstr ""
 "4_Hannibal_TailDispel_Base"
 
-msgid ""
+msgid "32"
 "4_Hannibal_BackJump_Base"
-
 msgstr ""
 "4_Hannibal_BackJump_Base"
 
-msgid ""
+msgid "33"
 "4_Hannibal_HalfTurn_Base"
-
 msgstr ""
 "4_Hannibal_HalfTurn_Base"
 
-msgid ""
+msgid "34"
 "4_Hannibal_WeaponCombo_Base"
-
 msgstr ""
 "4_Hannibal_WeaponCombo_Base"
 
-msgid ""
+msgid "35"
 "4_Hannibal_WeaponCombo_Move_Base"
-
 msgstr ""
 "4_Hannibal_WeaponCombo_Move_Base"
 
-msgid ""
+msgid "36"
 "4_Hannibal_LoopPunch_Base"
-
 msgstr ""
 "4_Hannibal_LoopPunch_Base"
 
-msgid ""
+msgid "37"
 "4_Hannibal_Call_LocalFirePillar_Base"
-
 msgstr ""
 "4_Hannibal_Call_LocalFirePillar_Base"
 
-msgid ""
+msgid "38"
 "4_Hannibal_Move_Base"
-
 msgstr ""
 "4_Hannibal_Move_Base"
 
-msgid ""
+msgid "39"
 "4_Hannibal_HormingDashPounce_Finish_Base"
-
 msgstr ""
 "4_Hannibal_HormingDashPounce_Finish_Base"
 
-msgid ""
+msgid "40"
 "4_Hannibal_Generic_Default"
-
 msgstr ""
 "4_Hannibal_Generic_Default"
 
-msgid ""
+msgid "41"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

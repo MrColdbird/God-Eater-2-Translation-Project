@@ -1,1902 +1,1585 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_AngelEgg_N_Idle"
-
 msgstr ""
 "2_AngelEgg_N_Idle"
 
-msgid ""
+msgid "31"
 "2_AngelEgg_N_Walk"
-
 msgstr ""
 "2_AngelEgg_N_Walk"
 
-msgid ""
+msgid "32"
 "2_AngelEgg_N_JumpToUpland__H"
-
 msgstr ""
 "2_AngelEgg_N_JumpToUpland__H"
 
-msgid ""
+msgid "33"
 "2_AngelEgg_N_JumpToUpland__M"
-
 msgstr ""
 "2_AngelEgg_N_JumpToUpland__M"
 
-msgid ""
+msgid "34"
 "2_AngelEgg_N_JumpToUpland__T"
-
 msgstr ""
 "2_AngelEgg_N_JumpToUpland__T"
 
-msgid ""
+msgid "35"
 "2_AngelEgg_N_JumpFromUpland__H"
-
 msgstr ""
 "2_AngelEgg_N_JumpFromUpland__H"
 
-msgid ""
+msgid "36"
 "2_AngelEgg_N_JumpFromUpland__M"
-
 msgstr ""
 "2_AngelEgg_N_JumpFromUpland__M"
 
-msgid ""
+msgid "37"
 "2_AngelEgg_N_JumpFromUpland__T"
-
 msgstr ""
 "2_AngelEgg_N_JumpFromUpland__T"
 
-msgid ""
+msgid "38"
 "2_AngelEgg_N_TurnLeft"
-
 msgstr ""
 "2_AngelEgg_N_TurnLeft"
 
-msgid ""
+msgid "39"
 "2_AngelEgg_N_TurnRight"
-
 msgstr ""
 "2_AngelEgg_N_TurnRight"
 
-msgid ""
+msgid "40"
 "2_AngelEgg_N_LargeTurnLeft"
-
 msgstr ""
 "2_AngelEgg_N_LargeTurnLeft"
 
-msgid ""
+msgid "41"
 "2_AngelEgg_N_LargeTurnRight"
-
 msgstr ""
 "2_AngelEgg_N_LargeTurnRight"
 
-msgid ""
+msgid "42"
 "2_AngelEgg_Appear"
-
 msgstr ""
 "2_AngelEgg_Appear"
 
-msgid ""
+msgid "43"
 "2_AngelEgg_B_Idle"
-
 msgstr ""
 "2_AngelEgg_B_Idle"
 
-msgid ""
+msgid "44"
 "2_AngelEgg_B_Dash__H"
-
 msgstr ""
 "2_AngelEgg_B_Dash__H"
 
-msgid ""
+msgid "45"
 "2_AngelEgg_B_Dash__M"
-
 msgstr ""
 "2_AngelEgg_B_Dash__M"
 
-msgid ""
+msgid "46"
 "2_AngelEgg_B_Dash__T"
-
 msgstr ""
 "2_AngelEgg_B_Dash__T"
 
-msgid ""
+msgid "47"
 "2_AngelEgg_B_TurnLeft"
-
 msgstr ""
 "2_AngelEgg_B_TurnLeft"
 
-msgid ""
+msgid "48"
 "2_AngelEgg_B_TurnRight"
-
 msgstr ""
 "2_AngelEgg_B_TurnRight"
 
-msgid ""
+msgid "49"
 "2_AngelEgg_B_LargeTurnLeft"
-
 msgstr ""
 "2_AngelEgg_B_LargeTurnLeft"
 
-msgid ""
+msgid "50"
 "2_AngelEgg_B_LargeTurnRight"
-
 msgstr ""
 "2_AngelEgg_B_LargeTurnRight"
 
-msgid ""
+msgid "51"
 "2_AngelEgg_B_FindComminate"
-
 msgstr ""
 "2_AngelEgg_B_FindComminate"
 
-msgid ""
+msgid "52"
 "2_AngelEgg_B_ChagrinComminate"
-
 msgstr ""
 "2_AngelEgg_B_ChagrinComminate"
 
-msgid ""
+msgid "53"
 "2_AngelEgg_B_Stagger"
-
 msgstr ""
 "2_AngelEgg_B_Stagger"
 
-msgid ""
+msgid "54"
 "2_AngelEgg_B_ForefootDown__H"
-
 msgstr ""
 "2_AngelEgg_B_ForefootDown__H"
 
-msgid ""
+msgid "55"
 "2_AngelEgg_B_ForefootDown__M"
-
 msgstr ""
 "2_AngelEgg_B_ForefootDown__M"
 
-msgid ""
+msgid "56"
 "2_AngelEgg_B_ForefootDown__T"
-
 msgstr ""
 "2_AngelEgg_B_ForefootDown__T"
 
-msgid ""
+msgid "57"
 "2_AngelEgg_B_Hold__H"
-
 msgstr ""
 "2_AngelEgg_B_Hold__H"
 
-msgid ""
+msgid "58"
 "2_AngelEgg_B_Hold__M"
-
 msgstr ""
 "2_AngelEgg_B_Hold__M"
 
-msgid ""
+msgid "59"
 "2_AngelEgg_B_Hold__T"
-
 msgstr ""
 "2_AngelEgg_B_Hold__T"
 
-msgid ""
+msgid "60"
 "2_AngelEgg_B_SympathyBind__H"
-
 msgstr ""
 "2_AngelEgg_B_SympathyBind__H"
 
-msgid ""
+msgid "61"
 "2_AngelEgg_B_SympathyBind__M"
-
 msgstr ""
 "2_AngelEgg_B_SympathyBind__M"
 
-msgid ""
+msgid "62"
 "2_AngelEgg_B_SympathyBind__T"
-
 msgstr ""
 "2_AngelEgg_B_SympathyBind__T"
 
-msgid ""
+msgid "63"
 "2_AngelEgg_B_Giddy"
-
 msgstr ""
 "2_AngelEgg_B_Giddy"
 
-msgid ""
+msgid "64"
 "2_AngelEgg_Dead__H"
-
 msgstr ""
 "2_AngelEgg_Dead__H"
 
-msgid ""
+msgid "65"
 "2_AngelEgg_Dead__M"
-
 msgstr ""
 "2_AngelEgg_Dead__M"
 
-msgid ""
+msgid "66"
 "2_AngelEgg_Dead__T"
-
 msgstr ""
 "2_AngelEgg_Dead__T"
 
-msgid ""
+msgid "67"
 "2_AngelEgg_B_Cling"
-
 msgstr ""
 "2_AngelEgg_B_Cling"
 
-msgid ""
+msgid "68"
 "2_AngelEgg_B_Tackle"
-
 msgstr ""
 "2_AngelEgg_B_Tackle"
 
-msgid ""
+msgid "69"
 "2_AngelEgg_B_ShotWind__H"
-
 msgstr ""
 "2_AngelEgg_B_ShotWind__H"
 
-msgid ""
+msgid "70"
 "2_AngelEgg_B_ShotWind__M"
-
 msgstr ""
 "2_AngelEgg_B_ShotWind__M"
 
-msgid ""
+msgid "71"
 "2_AngelEgg_B_ShotWind__T"
-
 msgstr ""
 "2_AngelEgg_B_ShotWind__T"
 
-msgid ""
+msgid "72"
 "2_AngelEgg_B_StinkGas__H"
-
 msgstr ""
 "2_AngelEgg_B_StinkGas__H"
 
-msgid ""
+msgid "73"
 "2_AngelEgg_B_StinkGas__M"
-
 msgstr ""
 "2_AngelEgg_B_StinkGas__M"
 
-msgid ""
+msgid "74"
 "2_AngelEgg_B_StinkGas__T"
-
 msgstr ""
 "2_AngelEgg_B_StinkGas__T"
 
-msgid ""
+msgid "75"
 "2_AngelEgg_B_StinkGasLob__H"
-
 msgstr ""
 "2_AngelEgg_B_StinkGasLob__H"
 
-msgid ""
+msgid "76"
 "2_AngelEgg_B_StinkGasLob__M"
-
 msgstr ""
 "2_AngelEgg_B_StinkGasLob__M"
 
-msgid ""
+msgid "77"
 "2_AngelEgg_B_StinkGasLob__T"
-
 msgstr ""
 "2_AngelEgg_B_StinkGasLob__T"
 
-msgid ""
+msgid "78"
 "2_AngelEgg_B_DyingFumble"
-
 msgstr ""
 "2_AngelEgg_B_DyingFumble"
 
-msgid ""
+msgid "79"
 "3_AngelEgg_N_Idle"
-
 msgstr ""
 "3_AngelEgg_N_Idle"
 
-msgid ""
+msgid "80"
 "3_AngelEgg_N_Walk"
-
 msgstr ""
 "3_AngelEgg_N_Walk"
 
-msgid ""
+msgid "81"
 "3_AngelEgg_N_JumpToUpland__H"
-
 msgstr ""
 "3_AngelEgg_N_JumpToUpland__H"
 
-msgid ""
+msgid "82"
 "3_AngelEgg_N_JumpToUpland__M"
-
 msgstr ""
 "3_AngelEgg_N_JumpToUpland__M"
 
-msgid ""
+msgid "83"
 "3_AngelEgg_N_JumpToUpland__T"
-
 msgstr ""
 "3_AngelEgg_N_JumpToUpland__T"
 
-msgid ""
+msgid "84"
 "3_AngelEgg_N_JumpFromUpland__H"
-
 msgstr ""
 "3_AngelEgg_N_JumpFromUpland__H"
 
-msgid ""
+msgid "85"
 "3_AngelEgg_N_JumpFromUpland__M"
-
 msgstr ""
 "3_AngelEgg_N_JumpFromUpland__M"
 
-msgid ""
+msgid "86"
 "3_AngelEgg_N_JumpFromUpland__T"
-
 msgstr ""
 "3_AngelEgg_N_JumpFromUpland__T"
 
-msgid ""
+msgid "87"
 "3_AngelEgg_N_TurnLeft"
-
 msgstr ""
 "3_AngelEgg_N_TurnLeft"
 
-msgid ""
+msgid "88"
 "3_AngelEgg_N_TurnRight"
-
 msgstr ""
 "3_AngelEgg_N_TurnRight"
 
-msgid ""
+msgid "89"
 "3_AngelEgg_N_LargeTurnLeft"
-
 msgstr ""
 "3_AngelEgg_N_LargeTurnLeft"
 
-msgid ""
+msgid "90"
 "3_AngelEgg_N_LargeTurnRight"
-
 msgstr ""
 "3_AngelEgg_N_LargeTurnRight"
 
-msgid ""
+msgid "91"
 "3_AngelEgg_Appear"
-
 msgstr ""
 "3_AngelEgg_Appear"
 
-msgid ""
+msgid "92"
 "3_AngelEgg_B_Idle"
-
 msgstr ""
 "3_AngelEgg_B_Idle"
 
-msgid ""
+msgid "93"
 "3_AngelEgg_B_Dash__H"
-
 msgstr ""
 "3_AngelEgg_B_Dash__H"
 
-msgid ""
+msgid "94"
 "3_AngelEgg_B_Dash__M"
-
 msgstr ""
 "3_AngelEgg_B_Dash__M"
 
-msgid ""
+msgid "95"
 "3_AngelEgg_B_Dash__T"
-
 msgstr ""
 "3_AngelEgg_B_Dash__T"
 
-msgid ""
+msgid "96"
 "3_AngelEgg_B_TurnLeft"
-
 msgstr ""
 "3_AngelEgg_B_TurnLeft"
 
-msgid ""
+msgid "97"
 "3_AngelEgg_B_TurnRight"
-
 msgstr ""
 "3_AngelEgg_B_TurnRight"
 
-msgid ""
+msgid "98"
 "3_AngelEgg_B_LargeTurnLeft"
-
 msgstr ""
 "3_AngelEgg_B_LargeTurnLeft"
 
-msgid ""
+msgid "99"
 "3_AngelEgg_B_LargeTurnRight"
-
 msgstr ""
 "3_AngelEgg_B_LargeTurnRight"
 
-msgid ""
+msgid "100"
 "3_AngelEgg_B_FindComminate"
-
 msgstr ""
 "3_AngelEgg_B_FindComminate"
 
-msgid ""
+msgid "101"
 "3_AngelEgg_B_ChagrinComminate"
-
 msgstr ""
 "3_AngelEgg_B_ChagrinComminate"
 
-msgid ""
+msgid "102"
 "3_AngelEgg_B_Stagger"
-
 msgstr ""
 "3_AngelEgg_B_Stagger"
 
-msgid ""
+msgid "103"
 "3_AngelEgg_B_ForefootDown__H"
-
 msgstr ""
 "3_AngelEgg_B_ForefootDown__H"
 
-msgid ""
+msgid "104"
 "3_AngelEgg_B_ForefootDown__M"
-
 msgstr ""
 "3_AngelEgg_B_ForefootDown__M"
 
-msgid ""
+msgid "105"
 "3_AngelEgg_B_ForefootDown__T"
-
 msgstr ""
 "3_AngelEgg_B_ForefootDown__T"
 
-msgid ""
+msgid "106"
 "3_AngelEgg_B_Hold__H"
-
 msgstr ""
 "3_AngelEgg_B_Hold__H"
 
-msgid ""
+msgid "107"
 "3_AngelEgg_B_Hold__M"
-
 msgstr ""
 "3_AngelEgg_B_Hold__M"
 
-msgid ""
+msgid "108"
 "3_AngelEgg_B_Hold__T"
-
 msgstr ""
 "3_AngelEgg_B_Hold__T"
 
-msgid ""
+msgid "109"
 "3_AngelEgg_B_SympathyBind__H"
-
 msgstr ""
 "3_AngelEgg_B_SympathyBind__H"
 
-msgid ""
+msgid "110"
 "3_AngelEgg_B_SympathyBind__M"
-
 msgstr ""
 "3_AngelEgg_B_SympathyBind__M"
 
-msgid ""
+msgid "111"
 "3_AngelEgg_B_SympathyBind__T"
-
 msgstr ""
 "3_AngelEgg_B_SympathyBind__T"
 
-msgid ""
+msgid "112"
 "3_AngelEgg_B_Giddy"
-
 msgstr ""
 "3_AngelEgg_B_Giddy"
 
-msgid ""
+msgid "113"
 "3_AngelEgg_Dead__H"
-
 msgstr ""
 "3_AngelEgg_Dead__H"
 
-msgid ""
+msgid "114"
 "3_AngelEgg_Dead__M"
-
 msgstr ""
 "3_AngelEgg_Dead__M"
 
-msgid ""
+msgid "115"
 "3_AngelEgg_Dead__T"
-
 msgstr ""
 "3_AngelEgg_Dead__T"
 
-msgid ""
+msgid "116"
 "3_AngelEgg_B_Cling"
-
 msgstr ""
 "3_AngelEgg_B_Cling"
 
-msgid ""
+msgid "117"
 "3_AngelEgg_B_Tackle"
-
 msgstr ""
 "3_AngelEgg_B_Tackle"
 
-msgid ""
+msgid "118"
 "3_AngelEgg_B_ShotWind__H"
-
 msgstr ""
 "3_AngelEgg_B_ShotWind__H"
 
-msgid ""
+msgid "119"
 "3_AngelEgg_B_ShotWind__M"
-
 msgstr ""
 "3_AngelEgg_B_ShotWind__M"
 
-msgid ""
+msgid "120"
 "3_AngelEgg_B_ShotWind__T"
-
 msgstr ""
 "3_AngelEgg_B_ShotWind__T"
 
-msgid ""
+msgid "121"
 "3_AngelEgg_B_StinkGas__H"
-
 msgstr ""
 "3_AngelEgg_B_StinkGas__H"
 
-msgid ""
+msgid "122"
 "3_AngelEgg_B_StinkGas__M"
-
 msgstr ""
 "3_AngelEgg_B_StinkGas__M"
 
-msgid ""
+msgid "123"
 "3_AngelEgg_B_StinkGas__T"
-
 msgstr ""
 "3_AngelEgg_B_StinkGas__T"
 
-msgid ""
+msgid "124"
 "3_AngelEgg_B_StinkGasLob__H"
-
 msgstr ""
 "3_AngelEgg_B_StinkGasLob__H"
 
-msgid ""
+msgid "125"
 "3_AngelEgg_B_StinkGasLob__M"
-
 msgstr ""
 "3_AngelEgg_B_StinkGasLob__M"
 
-msgid ""
+msgid "126"
 "3_AngelEgg_B_StinkGasLob__T"
-
 msgstr ""
 "3_AngelEgg_B_StinkGasLob__T"
 
-msgid ""
+msgid "127"
 "3_AngelEgg_B_DyingFumble"
-
 msgstr ""
 "3_AngelEgg_B_DyingFumble"
 
-msgid ""
+msgid "128"
 "4_OgreTail_N_Idle"
-
 msgstr ""
 "4_OgreTail_N_Idle"
 
-msgid ""
+msgid "129"
 "4_OgreTail_N_Walk"
-
 msgstr ""
 "4_OgreTail_N_Walk"
 
-msgid ""
+msgid "130"
 "4_OgreTail_N_JumpToUpland__H"
-
 msgstr ""
 "4_OgreTail_N_JumpToUpland__H"
 
-msgid ""
+msgid "131"
 "4_OgreTail_N_JumpToUpland__M"
-
 msgstr ""
 "4_OgreTail_N_JumpToUpland__M"
 
-msgid ""
+msgid "132"
 "4_OgreTail_N_JumpToUpland__T"
-
 msgstr ""
 "4_OgreTail_N_JumpToUpland__T"
 
-msgid ""
+msgid "133"
 "4_OgreTail_N_JumpFromUpland__H"
-
 msgstr ""
 "4_OgreTail_N_JumpFromUpland__H"
 
-msgid ""
+msgid "134"
 "4_OgreTail_N_JumpFromUpland__M"
-
 msgstr ""
 "4_OgreTail_N_JumpFromUpland__M"
 
-msgid ""
+msgid "135"
 "4_OgreTail_N_JumpFromUpland__T"
-
 msgstr ""
 "4_OgreTail_N_JumpFromUpland__T"
 
-msgid ""
+msgid "136"
 "4_OgreTail_N_TurnLeft"
-
 msgstr ""
 "4_OgreTail_N_TurnLeft"
 
-msgid ""
+msgid "137"
 "4_OgreTail_N_TurnRight"
-
 msgstr ""
 "4_OgreTail_N_TurnRight"
 
-msgid ""
+msgid "138"
 "4_OgreTail_N_LargeTurnLeft"
-
 msgstr ""
 "4_OgreTail_N_LargeTurnLeft"
 
-msgid ""
+msgid "139"
 "4_OgreTail_N_LargeTurnRight"
-
 msgstr ""
 "4_OgreTail_N_LargeTurnRight"
 
-msgid ""
+msgid "140"
 "4_OgreTail_N_Eat"
-
 msgstr ""
 "4_OgreTail_N_Eat"
 
-msgid ""
+msgid "141"
 "4_OgreTail_Appear"
-
 msgstr ""
 "4_OgreTail_Appear"
 
-msgid ""
+msgid "142"
 "4_OgreTail_B_Idle"
-
 msgstr ""
 "4_OgreTail_B_Idle"
 
-msgid ""
+msgid "143"
 "4_OgreTail_B_Dash__H"
-
 msgstr ""
 "4_OgreTail_B_Dash__H"
 
-msgid ""
+msgid "144"
 "4_OgreTail_B_Dash__M"
-
 msgstr ""
 "4_OgreTail_B_Dash__M"
 
-msgid ""
+msgid "145"
 "4_OgreTail_B_Dash__T"
-
 msgstr ""
 "4_OgreTail_B_Dash__T"
 
-msgid ""
+msgid "146"
 "4_OgreTail_B_TurnLeft"
-
 msgstr ""
 "4_OgreTail_B_TurnLeft"
 
-msgid ""
+msgid "147"
 "4_OgreTail_B_TurnRight"
-
 msgstr ""
 "4_OgreTail_B_TurnRight"
 
-msgid ""
+msgid "148"
 "4_OgreTail_B_LargeTurnLeft"
-
 msgstr ""
 "4_OgreTail_B_LargeTurnLeft"
 
-msgid ""
+msgid "149"
 "4_OgreTail_B_LargeTurnRight"
-
 msgstr ""
 "4_OgreTail_B_LargeTurnRight"
 
-msgid ""
+msgid "150"
 "4_OgreTail_B_FindComminate"
-
 msgstr ""
 "4_OgreTail_B_FindComminate"
 
-msgid ""
+msgid "151"
 "4_OgreTail_B_ChagrinComminate"
-
 msgstr ""
 "4_OgreTail_B_ChagrinComminate"
 
-msgid ""
+msgid "152"
 "4_OgreTail_B_Stagger"
-
 msgstr ""
 "4_OgreTail_B_Stagger"
 
-msgid ""
+msgid "153"
 "4_OgreTail_B_ForefootDown__H"
-
 msgstr ""
 "4_OgreTail_B_ForefootDown__H"
 
-msgid ""
+msgid "154"
 "4_OgreTail_B_ForefootDown__M"
-
 msgstr ""
 "4_OgreTail_B_ForefootDown__M"
 
-msgid ""
+msgid "155"
 "4_OgreTail_B_ForefootDown__T"
-
 msgstr ""
 "4_OgreTail_B_ForefootDown__T"
 
-msgid ""
+msgid "156"
 "4_OgreTail_B_Hold__H"
-
 msgstr ""
 "4_OgreTail_B_Hold__H"
 
-msgid ""
+msgid "157"
 "4_OgreTail_B_Hold__M"
-
 msgstr ""
 "4_OgreTail_B_Hold__M"
 
-msgid ""
+msgid "158"
 "4_OgreTail_B_Hold__T"
-
 msgstr ""
 "4_OgreTail_B_Hold__T"
 
-msgid ""
+msgid "159"
 "4_OgreTail_B_SympathyBind__H"
-
 msgstr ""
 "4_OgreTail_B_SympathyBind__H"
 
-msgid ""
+msgid "160"
 "4_OgreTail_B_SympathyBind__M"
-
 msgstr ""
 "4_OgreTail_B_SympathyBind__M"
 
-msgid ""
+msgid "161"
 "4_OgreTail_B_SympathyBind__T"
-
 msgstr ""
 "4_OgreTail_B_SympathyBind__T"
 
-msgid ""
+msgid "162"
 "4_OgreTail_B_Giddy"
-
 msgstr ""
 "4_OgreTail_B_Giddy"
 
-msgid ""
+msgid "163"
 "4_OgreTail_Dead__H"
-
 msgstr ""
 "4_OgreTail_Dead__H"
 
-msgid ""
+msgid "164"
 "4_OgreTail_Dead__M"
-
 msgstr ""
 "4_OgreTail_Dead__M"
 
-msgid ""
+msgid "165"
 "4_OgreTail_Dead__T"
-
 msgstr ""
 "4_OgreTail_Dead__T"
 
-msgid ""
+msgid "166"
 "4_OgreTail_B_Cling"
-
 msgstr ""
 "4_OgreTail_B_Cling"
 
-msgid ""
+msgid "167"
 "4_OgreTail_B_RightTailAttack"
-
 msgstr ""
 "4_OgreTail_B_RightTailAttack"
 
-msgid ""
+msgid "168"
 "4_OgreTail_B_Pounce__H"
-
 msgstr ""
 "4_OgreTail_B_Pounce__H"
 
-msgid ""
+msgid "169"
 "4_OgreTail_B_Pounce__M"
-
 msgstr ""
 "4_OgreTail_B_Pounce__M"
 
-msgid ""
+msgid "170"
 "4_OgreTail_B_Pounce__T"
-
 msgstr ""
 "4_OgreTail_B_Pounce__T"
 
-msgid ""
+msgid "171"
 "4_OgreTail_B_Shot_Needle__H"
-
 msgstr ""
 "4_OgreTail_B_Shot_Needle__H"
 
-msgid ""
+msgid "172"
 "4_OgreTail_B_Shot_Needle__M"
-
 msgstr ""
 "4_OgreTail_B_Shot_Needle__M"
 
-msgid ""
+msgid "173"
 "4_OgreTail_B_LeftTailAttack"
-
 msgstr ""
 "4_OgreTail_B_LeftTailAttack"
 
-msgid ""
+msgid "174"
 "4_OgreTail_B_BackStep__H"
-
 msgstr ""
 "4_OgreTail_B_BackStep__H"
 
-msgid ""
+msgid "175"
 "4_OgreTail_B_BackStep__M"
-
 msgstr ""
 "4_OgreTail_B_BackStep__M"
 
-msgid ""
+msgid "176"
 "4_OgreTail_B_BackStep__T"
-
 msgstr ""
 "4_OgreTail_B_BackStep__T"
 
-msgid ""
+msgid "177"
 "4_OgreTail_B_DyingFumble"
-
 msgstr ""
 "4_OgreTail_B_DyingFumble"
 
-msgid ""
+msgid "178"
 "5_OgreTail_N_Idle"
-
 msgstr ""
 "5_OgreTail_N_Idle"
 
-msgid ""
+msgid "179"
 "5_OgreTail_N_Walk"
-
 msgstr ""
 "5_OgreTail_N_Walk"
 
-msgid ""
+msgid "180"
 "5_OgreTail_N_JumpToUpland__H"
-
 msgstr ""
 "5_OgreTail_N_JumpToUpland__H"
 
-msgid ""
+msgid "181"
 "5_OgreTail_N_JumpToUpland__M"
-
 msgstr ""
 "5_OgreTail_N_JumpToUpland__M"
 
-msgid ""
+msgid "182"
 "5_OgreTail_N_JumpToUpland__T"
-
 msgstr ""
 "5_OgreTail_N_JumpToUpland__T"
 
-msgid ""
+msgid "183"
 "5_OgreTail_N_JumpFromUpland__H"
-
 msgstr ""
 "5_OgreTail_N_JumpFromUpland__H"
 
-msgid ""
+msgid "184"
 "5_OgreTail_N_JumpFromUpland__M"
-
 msgstr ""
 "5_OgreTail_N_JumpFromUpland__M"
 
-msgid ""
+msgid "185"
 "5_OgreTail_N_JumpFromUpland__T"
-
 msgstr ""
 "5_OgreTail_N_JumpFromUpland__T"
 
-msgid ""
+msgid "186"
 "5_OgreTail_N_TurnLeft"
-
 msgstr ""
 "5_OgreTail_N_TurnLeft"
 
-msgid ""
+msgid "187"
 "5_OgreTail_N_TurnRight"
-
 msgstr ""
 "5_OgreTail_N_TurnRight"
 
-msgid ""
+msgid "188"
 "5_OgreTail_N_LargeTurnLeft"
-
 msgstr ""
 "5_OgreTail_N_LargeTurnLeft"
 
-msgid ""
+msgid "189"
 "5_OgreTail_N_LargeTurnRight"
-
 msgstr ""
 "5_OgreTail_N_LargeTurnRight"
 
-msgid ""
+msgid "190"
 "5_OgreTail_N_Eat"
-
 msgstr ""
 "5_OgreTail_N_Eat"
 
-msgid ""
+msgid "191"
 "5_OgreTail_Appear"
-
 msgstr ""
 "5_OgreTail_Appear"
 
-msgid ""
+msgid "192"
 "5_OgreTail_B_Idle"
-
 msgstr ""
 "5_OgreTail_B_Idle"
 
-msgid ""
+msgid "193"
 "5_OgreTail_B_Dash__H"
-
 msgstr ""
 "5_OgreTail_B_Dash__H"
 
-msgid ""
+msgid "194"
 "5_OgreTail_B_Dash__M"
-
 msgstr ""
 "5_OgreTail_B_Dash__M"
 
-msgid ""
+msgid "195"
 "5_OgreTail_B_Dash__T"
-
 msgstr ""
 "5_OgreTail_B_Dash__T"
 
-msgid ""
+msgid "196"
 "5_OgreTail_B_TurnLeft"
-
 msgstr ""
 "5_OgreTail_B_TurnLeft"
 
-msgid ""
+msgid "197"
 "5_OgreTail_B_TurnRight"
-
 msgstr ""
 "5_OgreTail_B_TurnRight"
 
-msgid ""
+msgid "198"
 "5_OgreTail_B_LargeTurnLeft"
-
 msgstr ""
 "5_OgreTail_B_LargeTurnLeft"
 
-msgid ""
+msgid "199"
 "5_OgreTail_B_LargeTurnRight"
-
 msgstr ""
 "5_OgreTail_B_LargeTurnRight"
 
-msgid ""
+msgid "200"
 "5_OgreTail_B_FindComminate"
-
 msgstr ""
 "5_OgreTail_B_FindComminate"
 
-msgid ""
+msgid "201"
 "5_OgreTail_B_ChagrinComminate"
-
 msgstr ""
 "5_OgreTail_B_ChagrinComminate"
 
-msgid ""
+msgid "202"
 "5_OgreTail_B_Stagger"
-
 msgstr ""
 "5_OgreTail_B_Stagger"
 
-msgid ""
+msgid "203"
 "5_OgreTail_B_ForefootDown__H"
-
 msgstr ""
 "5_OgreTail_B_ForefootDown__H"
 
-msgid ""
+msgid "204"
 "5_OgreTail_B_ForefootDown__M"
-
 msgstr ""
 "5_OgreTail_B_ForefootDown__M"
 
-msgid ""
+msgid "205"
 "5_OgreTail_B_ForefootDown__T"
-
 msgstr ""
 "5_OgreTail_B_ForefootDown__T"
 
-msgid ""
+msgid "206"
 "5_OgreTail_B_Hold__H"
-
 msgstr ""
 "5_OgreTail_B_Hold__H"
 
-msgid ""
+msgid "207"
 "5_OgreTail_B_Hold__M"
-
 msgstr ""
 "5_OgreTail_B_Hold__M"
 
-msgid ""
+msgid "208"
 "5_OgreTail_B_Hold__T"
-
 msgstr ""
 "5_OgreTail_B_Hold__T"
 
-msgid ""
+msgid "209"
 "5_OgreTail_B_SympathyBind__H"
-
 msgstr ""
 "5_OgreTail_B_SympathyBind__H"
 
-msgid ""
+msgid "210"
 "5_OgreTail_B_SympathyBind__M"
-
 msgstr ""
 "5_OgreTail_B_SympathyBind__M"
 
-msgid ""
+msgid "211"
 "5_OgreTail_B_SympathyBind__T"
-
 msgstr ""
 "5_OgreTail_B_SympathyBind__T"
 
-msgid ""
+msgid "212"
 "5_OgreTail_B_Giddy"
-
 msgstr ""
 "5_OgreTail_B_Giddy"
 
-msgid ""
+msgid "213"
 "5_OgreTail_Dead__H"
-
 msgstr ""
 "5_OgreTail_Dead__H"
 
-msgid ""
+msgid "214"
 "5_OgreTail_Dead__M"
-
 msgstr ""
 "5_OgreTail_Dead__M"
 
-msgid ""
+msgid "215"
 "5_OgreTail_Dead__T"
-
 msgstr ""
 "5_OgreTail_Dead__T"
 
-msgid ""
+msgid "216"
 "5_OgreTail_B_Cling"
-
 msgstr ""
 "5_OgreTail_B_Cling"
 
-msgid ""
+msgid "217"
 "5_OgreTail_B_RightTailAttack"
-
 msgstr ""
 "5_OgreTail_B_RightTailAttack"
 
-msgid ""
+msgid "218"
 "5_OgreTail_B_Pounce__H"
-
 msgstr ""
 "5_OgreTail_B_Pounce__H"
 
-msgid ""
+msgid "219"
 "5_OgreTail_B_Pounce__M"
-
 msgstr ""
 "5_OgreTail_B_Pounce__M"
 
-msgid ""
+msgid "220"
 "5_OgreTail_B_Pounce__T"
-
 msgstr ""
 "5_OgreTail_B_Pounce__T"
 
-msgid ""
+msgid "221"
 "5_OgreTail_B_Shot_Needle__H"
-
 msgstr ""
 "5_OgreTail_B_Shot_Needle__H"
 
-msgid ""
+msgid "222"
 "5_OgreTail_B_Shot_Needle__M"
-
 msgstr ""
 "5_OgreTail_B_Shot_Needle__M"
 
-msgid ""
+msgid "223"
 "5_OgreTail_B_LeftTailAttack"
-
 msgstr ""
 "5_OgreTail_B_LeftTailAttack"
 
-msgid ""
+msgid "224"
 "5_OgreTail_B_BackStep__H"
-
 msgstr ""
 "5_OgreTail_B_BackStep__H"
 
-msgid ""
+msgid "225"
 "5_OgreTail_B_BackStep__M"
-
 msgstr ""
 "5_OgreTail_B_BackStep__M"
 
-msgid ""
+msgid "226"
 "5_OgreTail_B_BackStep__T"
-
 msgstr ""
 "5_OgreTail_B_BackStep__T"
 
-msgid ""
+msgid "227"
 "5_OgreTail_B_DyingFumble"
-
 msgstr ""
 "5_OgreTail_B_DyingFumble"
 
-msgid ""
+msgid "228"
 "6_Wolf_N_Idle"
-
 msgstr ""
 "6_Wolf_N_Idle"
 
-msgid ""
+msgid "229"
 "6_Wolf_N_Walk"
-
 msgstr ""
 "6_Wolf_N_Walk"
 
-msgid ""
+msgid "230"
 "6_Wolf_N_JumpToUpland__H"
-
 msgstr ""
 "6_Wolf_N_JumpToUpland__H"
 
-msgid ""
+msgid "231"
 "6_Wolf_N_JumpToUpland__M"
-
 msgstr ""
 "6_Wolf_N_JumpToUpland__M"
 
-msgid ""
+msgid "232"
 "6_Wolf_N_JumpToUpland__T"
-
 msgstr ""
 "6_Wolf_N_JumpToUpland__T"
 
-msgid ""
+msgid "233"
 "6_Wolf_N_JumpFromUpland__H"
-
 msgstr ""
 "6_Wolf_N_JumpFromUpland__H"
 
-msgid ""
+msgid "234"
 "6_Wolf_N_JumpFromUpland__M"
-
 msgstr ""
 "6_Wolf_N_JumpFromUpland__M"
 
-msgid ""
+msgid "235"
 "6_Wolf_N_JumpFromUpland__T"
-
 msgstr ""
 "6_Wolf_N_JumpFromUpland__T"
 
-msgid ""
+msgid "236"
 "6_Wolf_N_TurnLeft"
-
 msgstr ""
 "6_Wolf_N_TurnLeft"
 
-msgid ""
+msgid "237"
 "6_Wolf_N_TurnRight"
-
 msgstr ""
 "6_Wolf_N_TurnRight"
 
-msgid ""
+msgid "238"
 "6_Wolf_N_LargeTurnLeft"
-
 msgstr ""
 "6_Wolf_N_LargeTurnLeft"
 
-msgid ""
+msgid "239"
 "6_Wolf_N_LargeTurnRight"
-
 msgstr ""
 "6_Wolf_N_LargeTurnRight"
 
-msgid ""
+msgid "240"
 "6_Wolf_N_Eat"
-
 msgstr ""
 "6_Wolf_N_Eat"
 
-msgid ""
+msgid "241"
 "6_Wolf_Appear"
-
 msgstr ""
 "6_Wolf_Appear"
 
-msgid ""
+msgid "242"
 "6_Wolf_B_Idle"
-
 msgstr ""
 "6_Wolf_B_Idle"
 
-msgid ""
+msgid "243"
 "6_Wolf_B_Dash__H"
-
 msgstr ""
 "6_Wolf_B_Dash__H"
 
-msgid ""
+msgid "244"
 "6_Wolf_B_Dash__M"
-
 msgstr ""
 "6_Wolf_B_Dash__M"
 
-msgid ""
+msgid "245"
 "6_Wolf_B_Dash__T"
-
 msgstr ""
 "6_Wolf_B_Dash__T"
 
-msgid ""
+msgid "246"
 "6_Wolf_B_JumpToBossUpland"
-
 msgstr ""
 "6_Wolf_B_JumpToBossUpland"
 
-msgid ""
+msgid "247"
 "6_Wolf_B_JumpFromBossUpland"
-
 msgstr ""
 "6_Wolf_B_JumpFromBossUpland"
 
-msgid ""
+msgid "248"
 "6_Wolf_B_MoveLongPath__H"
-
 msgstr ""
 "6_Wolf_B_MoveLongPath__H"
 
-msgid ""
+msgid "249"
 "6_Wolf_B_MoveLongPath__M"
-
 msgstr ""
 "6_Wolf_B_MoveLongPath__M"
 
-msgid ""
+msgid "250"
 "6_Wolf_B_MoveLongPath__T"
-
 msgstr ""
 "6_Wolf_B_MoveLongPath__T"
 
-msgid ""
+msgid "251"
 "6_Wolf_B_TurnLeft"
-
 msgstr ""
 "6_Wolf_B_TurnLeft"
 
-msgid ""
+msgid "252"
 "6_Wolf_B_TurnRight"
-
 msgstr ""
 "6_Wolf_B_TurnRight"
 
-msgid ""
+msgid "253"
 "6_Wolf_B_LargeTurnLeft"
-
 msgstr ""
 "6_Wolf_B_LargeTurnLeft"
 
-msgid ""
+msgid "254"
 "6_Wolf_B_LargeTurnRight"
-
 msgstr ""
 "6_Wolf_B_LargeTurnRight"
 
-msgid ""
+msgid "255"
 "6_Wolf_B_FindComminate"
-
 msgstr ""
 "6_Wolf_B_FindComminate"
 
-msgid ""
+msgid "256"
 "6_Wolf_B_AngryComminate"
-
 msgstr ""
 "6_Wolf_B_AngryComminate"
 
-msgid ""
+msgid "257"
 "6_Wolf_B_ChagrinComminate"
-
 msgstr ""
 "6_Wolf_B_ChagrinComminate"
 
-msgid ""
+msgid "258"
 "6_Wolf_B_Stagger"
-
 msgstr ""
 "6_Wolf_B_Stagger"
 
-msgid ""
+msgid "259"
 "6_Wolf_B_ArmDown__H"
-
 msgstr ""
 "6_Wolf_B_ArmDown__H"
 
-msgid ""
+msgid "260"
 "6_Wolf_B_ArmDown__M"
-
 msgstr ""
 "6_Wolf_B_ArmDown__M"
 
-msgid ""
+msgid "261"
 "6_Wolf_B_ArmDown__T"
-
 msgstr ""
 "6_Wolf_B_ArmDown__T"
 
-msgid ""
+msgid "262"
 "6_Wolf_B_HindfootDown__H"
-
 msgstr ""
 "6_Wolf_B_HindfootDown__H"
 
-msgid ""
+msgid "263"
 "6_Wolf_B_HindfootDown__M"
-
 msgstr ""
 "6_Wolf_B_HindfootDown__M"
 
-msgid ""
+msgid "264"
 "6_Wolf_B_HindfootDown__T"
-
 msgstr ""
 "6_Wolf_B_HindfootDown__T"
 
-msgid ""
+msgid "265"
 "6_Wolf_B_Hold__H"
-
 msgstr ""
 "6_Wolf_B_Hold__H"
 
-msgid ""
+msgid "266"
 "6_Wolf_B_Hold__M"
-
 msgstr ""
 "6_Wolf_B_Hold__M"
 
-msgid ""
+msgid "267"
 "6_Wolf_B_Hold__T"
-
 msgstr ""
 "6_Wolf_B_Hold__T"
 
-msgid ""
+msgid "268"
 "6_Wolf_B_Giddy"
-
 msgstr ""
 "6_Wolf_B_Giddy"
 
-msgid ""
+msgid "269"
 "6_Wolf_Dead__H"
-
 msgstr ""
 "6_Wolf_Dead__H"
 
-msgid ""
+msgid "270"
 "6_Wolf_Dead__M"
-
 msgstr ""
 "6_Wolf_Dead__M"
 
-msgid ""
+msgid "271"
 "6_Wolf_Dead__T"
-
 msgstr ""
 "6_Wolf_Dead__T"
 
-msgid ""
+msgid "272"
 "6_Wolf_RightHandSlam"
-
 msgstr ""
 "6_Wolf_RightHandSlam"
 
-msgid ""
+msgid "273"
 "6_Wolf_RightHandSlam_Broken"
-
 msgstr ""
 "6_Wolf_RightHandSlam_Broken"
 
-msgid ""
+msgid "274"
 "6_Wolf_DispelSlam__Right"
-
 msgstr ""
 "6_Wolf_DispelSlam__Right"
 
-msgid ""
+msgid "275"
 "6_Wolf_DispelSlam__Back"
-
 msgstr ""
 "6_Wolf_DispelSlam__Back"
 
-msgid ""
+msgid "276"
 "6_Wolf_DispelSlam__Slam"
-
 msgstr ""
 "6_Wolf_DispelSlam__Slam"
 
-msgid ""
+msgid "277"
 "6_Wolf_DispelSlam_Broken__Right"
-
 msgstr ""
 "6_Wolf_DispelSlam_Broken__Right"
 
-msgid ""
+msgid "278"
 "6_Wolf_DispelSlam_Broken__Stop"
-
 msgstr ""
 "6_Wolf_DispelSlam_Broken__Stop"
 
-msgid ""
+msgid "279"
 "6_Wolf_DispelSlam_Broken__Slam"
-
 msgstr ""
 "6_Wolf_DispelSlam_Broken__Slam"
 
-msgid ""
+msgid "280"
 "6_Wolf_RightArmImpact"
-
 msgstr ""
 "6_Wolf_RightArmImpact"
 
-msgid ""
+msgid "281"
 "6_Wolf_DashBrakePounce_Dash__H"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Dash__H"
 
-msgid ""
+msgid "282"
 "6_Wolf_DashBrakePounce_Dash__M"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Dash__M"
 
-msgid ""
+msgid "283"
 "6_Wolf_DashBrakePounce_Brake__H"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Brake__H"
 
-msgid ""
+msgid "284"
 "6_Wolf_DashBrakePounce_Brake__M"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Brake__M"
 
-msgid ""
+msgid "285"
 "6_Wolf_DashBrakePounce_Brake__T"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Brake__T"
 
-msgid ""
+msgid "286"
 "6_Wolf_DashBrakePounce_Pounce__M"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Pounce__M"
 
-msgid ""
+msgid "287"
 "6_Wolf_DashBrakePounce_Pounce__T"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_Pounce__T"
 
-msgid ""
+msgid "288"
 "6_Wolf_DashBrakePounce_B_Dash__H"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_B_Dash__H"
 
-msgid ""
+msgid "289"
 "6_Wolf_DashBrakePounce_B_Dash__M"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_B_Dash__M"
 
-msgid ""
+msgid "290"
 "6_Wolf_DashBrakePounce_B_Dash__T"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_B_Dash__T"
 
-msgid ""
+msgid "291"
 "6_Wolf_DashBrakePounce_B_Pounce__M"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_B_Pounce__M"
 
-msgid ""
+msgid "292"
 "6_Wolf_DashBrakePounce_B_Pounce__T"
-
 msgstr ""
 "6_Wolf_DashBrakePounce_B_Pounce__T"
 
-msgid ""
+msgid "293"
 "6_Wolf_Pounce__H"
-
 msgstr ""
 "6_Wolf_Pounce__H"
 
-msgid ""
+msgid "294"
 "6_Wolf_Pounce__M"
-
 msgstr ""
 "6_Wolf_Pounce__M"
 
-msgid ""
+msgid "295"
 "6_Wolf_Pounce__T"
-
 msgstr ""
 "6_Wolf_Pounce__T"
 
-msgid ""
+msgid "296"
 "6_Wolf_PounceToBehind__H"
-
 msgstr ""
 "6_Wolf_PounceToBehind__H"
 
-msgid ""
+msgid "297"
 "6_Wolf_PounceToBehind__M"
-
 msgstr ""
 "6_Wolf_PounceToBehind__M"
 
-msgid ""
+msgid "298"
 "6_Wolf_PounceToBehind__T"
-
 msgstr ""
 "6_Wolf_PounceToBehind__T"
 
-msgid ""
+msgid "299"
 "6_Wolf_TurnAroundDispel__Turn"
-
 msgstr ""
 "6_Wolf_TurnAroundDispel__Turn"
 
-msgid ""
+msgid "300"
 "6_Wolf_TurnAroundDispel__R"
-
 msgstr ""
 "6_Wolf_TurnAroundDispel__R"
 
-msgid ""
+msgid "301"
 "6_Wolf_TurnAroundDispel__L"
-
 msgstr ""
 "6_Wolf_TurnAroundDispel__L"
 
-msgid ""
+msgid "302"
 "6_Wolf_AngryTurnAroundDispel__Turn"
-
 msgstr ""
 "6_Wolf_AngryTurnAroundDispel__Turn"
 
-msgid ""
+msgid "303"
 "6_Wolf_AngryTurnAroundDispel__R"
-
 msgstr ""
 "6_Wolf_AngryTurnAroundDispel__R"
 
-msgid ""
+msgid "304"
 "6_Wolf_AngryTurnAroundDispel__L"
-
 msgstr ""
 "6_Wolf_AngryTurnAroundDispel__L"
 
-msgid ""
+msgid "305"
 "6_Wolf_ShotMoltenRock"
-
 msgstr ""
 "6_Wolf_ShotMoltenRock"
 
-msgid ""
+msgid "306"
 "6_Wolf_ShotMoltenRock_Broken"
-
 msgstr ""
 "6_Wolf_ShotMoltenRock_Broken"
 
-msgid ""
+msgid "307"
 "6_Wolf_BurningCombo_Tackle__H"
-
 msgstr ""
 "6_Wolf_BurningCombo_Tackle__H"
 
-msgid ""
+msgid "308"
 "6_Wolf_BurningCombo_Tackle__M"
-
 msgstr ""
 "6_Wolf_BurningCombo_Tackle__M"
 
-msgid ""
+msgid "309"
 "6_Wolf_BurningCombo_Tackle__T"
-
 msgstr ""
 "6_Wolf_BurningCombo_Tackle__T"
 
-msgid ""
+msgid "310"
 "6_Wolf_BurningCombo_Jump__M"
-
 msgstr ""
 "6_Wolf_BurningCombo_Jump__M"
 
-msgid ""
+msgid "311"
 "6_Wolf_BurningCombo_Jump__T"
-
 msgstr ""
 "6_Wolf_BurningCombo_Jump__T"
 
-msgid ""
+msgid "312"
 "6_Wolf_JumpSlam__H"
-
 msgstr ""
 "6_Wolf_JumpSlam__H"
 
-msgid ""
+msgid "313"
 "6_Wolf_JumpSlam__M"
-
 msgstr ""
 "6_Wolf_JumpSlam__M"
 
-msgid ""
+msgid "314"
 "6_Wolf_JumpSlam__T"
-
 msgstr ""
 "6_Wolf_JumpSlam__T"
 
-msgid ""
+msgid "315"
 "6_Wolf_Fumble"
-
 msgstr ""
 "6_Wolf_Fumble"
 
-msgid ""
+msgid "316"
 "6_Wolf_WarningComminate"
-
 msgstr ""
 "6_Wolf_WarningComminate"
 

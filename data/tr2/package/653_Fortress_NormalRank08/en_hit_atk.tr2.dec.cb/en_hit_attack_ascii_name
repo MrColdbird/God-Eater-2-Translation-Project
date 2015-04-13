@@ -1,258 +1,215 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Misc_Default"
-
 msgstr ""
 "2_OgreTail_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "2"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Head_Default"
-
 msgstr ""
 "2_OgreTail_Head_Default"
 
-msgid ""
+msgid "6"
 "2_OgreTail_Forefoot_Default"
-
 msgstr ""
 "2_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Tail_Default"
-
 msgstr ""
 "2_OgreTail_Tail_Default"
 
-msgid ""
+msgid "8"
 "3_OgreTail_Misc_Default"
-
 msgstr ""
 "3_OgreTail_Misc_Default"
 
-msgid ""
+msgid "9"
 "3_OgreTail_Cling_Base"
-
 msgstr ""
 "3_OgreTail_Cling_Base"
 
-msgid ""
+msgid "10"
 "3_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "11"
 "3_OgreTail_Pounce_Base"
-
 msgstr ""
 "3_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "12"
 "3_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "3_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "13"
 "3_OgreTail_Head_Default"
-
 msgstr ""
 "3_OgreTail_Head_Default"
 
-msgid ""
+msgid "14"
 "3_OgreTail_Forefoot_Default"
-
 msgstr ""
 "3_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "15"
 "3_OgreTail_Tail_Default"
-
 msgstr ""
 "3_OgreTail_Tail_Default"
 
-msgid ""
+msgid "16"
 "4_OgreTail_Misc_Default"
-
 msgstr ""
 "4_OgreTail_Misc_Default"
 
-msgid ""
+msgid "17"
 "4_OgreTail_Cling_Base"
-
 msgstr ""
 "4_OgreTail_Cling_Base"
 
-msgid ""
+msgid "18"
 "4_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "4_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "19"
 "4_OgreTail_Pounce_Base"
-
 msgstr ""
 "4_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "20"
 "4_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "4_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "21"
 "4_OgreTail_Head_Default"
-
 msgstr ""
 "4_OgreTail_Head_Default"
 
-msgid ""
+msgid "22"
 "4_OgreTail_Forefoot_Default"
-
 msgstr ""
 "4_OgreTail_Forefoot_Default"
 
-msgid ""
+msgid "23"
 "4_OgreTail_Tail_Default"
-
 msgstr ""
 "4_OgreTail_Tail_Default"
 
-msgid ""
+msgid "24"
 "5_ABC"
-
 msgstr ""
 "5_ABC"
 
-msgid ""
+msgid "25"
 "5_Tiger_Misc_Default"
-
 msgstr ""
 "5_Tiger_Misc_Default"
 
-msgid ""
+msgid "26"
 "5_Tiger_Forefoot_Default"
-
 msgstr ""
 "5_Tiger_Forefoot_Default"
 
-msgid ""
+msgid "27"
 "5_Tiger_Hindfoot_Default"
-
 msgstr ""
 "5_Tiger_Hindfoot_Default"
 
-msgid ""
+msgid "28"
 "5_Tiger_Head_Default"
-
 msgstr ""
 "5_Tiger_Head_Default"
 
-msgid ""
+msgid "29"
 "5_Tiger_Shoulder_Default"
-
 msgstr ""
 "5_Tiger_Shoulder_Default"
 
-msgid ""
+msgid "30"
 "5_Tiger_Cloak_Default"
-
 msgstr ""
 "5_Tiger_Cloak_Default"
 
-msgid ""
+msgid "31"
 "5_Tiger_Body_Default"
-
 msgstr ""
 "5_Tiger_Body_Default"
 
-msgid ""
+msgid "32"
 "5_Tiger_Tail_Default"
-
 msgstr ""
 "5_Tiger_Tail_Default"
 
-msgid ""
+msgid "33"
 "5_Tiger_Thunder_Chop_Forefoot_Base"
-
 msgstr ""
 "5_Tiger_Thunder_Chop_Forefoot_Base"
 
-msgid ""
+msgid "34"
 "5_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "5_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "35"
 "5_Tiger_Cling_Base"
-
 msgstr ""
 "5_Tiger_Cling_Base"
 
-msgid ""
+msgid "36"
 "5_Tiger_Pounce_Base"
-
 msgstr ""
 "5_Tiger_Pounce_Base"
 
-msgid ""
+msgid "37"
 "5_Tiger_DashPounce_Base"
-
 msgstr ""
 "5_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "38"
 "5_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "5_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "39"
 "5_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "5_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "40"
 "5_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "5_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "41"
 "5_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "5_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "42"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

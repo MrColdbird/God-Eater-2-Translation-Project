@@ -1,336 +1,280 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_CocoonMaiden_Default"
-
 msgstr ""
 "3_CocoonMaiden_Default"
 
-msgid ""
+msgid "6"
 "3_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "7"
 "3_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "8"
 "3_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "9"
 "3_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "3_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "10"
 "4_Gorilla_Default"
-
 msgstr ""
 "4_Gorilla_Default"
 
-msgid ""
+msgid "11"
 "4_Gorilla_Oracle_Shot"
-
 msgstr ""
 "4_Gorilla_Oracle_Shot"
 
-msgid ""
+msgid "12"
 "4_Gorilla_Oracle_AroundShockWave"
-
 msgstr ""
 "4_Gorilla_Oracle_AroundShockWave"
 
-msgid ""
+msgid "13"
 "4_Gorilla_Oracle_DirectedSound"
-
 msgstr ""
 "4_Gorilla_Oracle_DirectedSound"
 
-msgid ""
+msgid "14"
 "4_Gorilla_Punch_Base"
-
 msgstr ""
 "4_Gorilla_Punch_Base"
 
-msgid ""
+msgid "15"
 "4_Gorilla_Niou_Punch_Base"
-
 msgstr ""
 "4_Gorilla_Niou_Punch_Base"
 
-msgid ""
+msgid "16"
 "4_Gorilla_Arm_Stamp_Base"
-
 msgstr ""
 "4_Gorilla_Arm_Stamp_Base"
 
-msgid ""
+msgid "17"
 "4_Gorilla_Rolling_Attack_Base"
-
 msgstr ""
 "4_Gorilla_Rolling_Attack_Base"
 
-msgid ""
+msgid "18"
 "4_Gorilla_Double_Lariat_Base"
-
 msgstr ""
 "4_Gorilla_Double_Lariat_Base"
 
-msgid ""
+msgid "19"
 "4_Gorilla_Oracle_ArmStamp"
-
 msgstr ""
 "4_Gorilla_Oracle_ArmStamp"
 
-msgid ""
+msgid "20"
 "5_Vampire_Default"
-
 msgstr ""
 "5_Vampire_Default"
 
-msgid ""
+msgid "21"
 "5_Vampire_Pincer_Arms_Base"
-
 msgstr ""
 "5_Vampire_Pincer_Arms_Base"
 
-msgid ""
+msgid "22"
 "5_Vampire_Oracle_Jump_Kick"
-
 msgstr ""
 "5_Vampire_Oracle_Jump_Kick"
 
-msgid ""
+msgid "23"
 "5_Vampire_Oracle_Shot_Power_Charge"
-
 msgstr ""
 "5_Vampire_Oracle_Shot_Power_Charge"
 
-msgid ""
+msgid "24"
 "5_Vampire_Oracle_Loop_Shot_Power_Charge"
-
 msgstr ""
 "5_Vampire_Oracle_Loop_Shot_Power_Charge"
 
-msgid ""
+msgid "25"
 "5_Vampire_Oracle_Impact"
-
 msgstr ""
 "5_Vampire_Oracle_Impact"
 
-msgid ""
+msgid "26"
 "5_Vampire_Oracle_Shot_Homing"
-
 msgstr ""
 "5_Vampire_Oracle_Shot_Homing"
 
-msgid ""
+msgid "27"
 "5_Vampire_Oracle_Shock_Wave"
-
 msgstr ""
 "5_Vampire_Oracle_Shock_Wave"
 
-msgid ""
+msgid "28"
 "5_Vampire_Jump_Kick_Base"
-
 msgstr ""
 "5_Vampire_Jump_Kick_Base"
 
-msgid ""
+msgid "29"
 "5_Vampire_Jump_Turn_Arms_Base"
-
 msgstr ""
 "5_Vampire_Jump_Turn_Arms_Base"
 
-msgid ""
+msgid "30"
 "5_Vampire_Back_Jump_Base"
-
 msgstr ""
 "5_Vampire_Back_Jump_Base"
 
-msgid ""
+msgid "31"
 "5_Vampire_Side_Step_Base"
-
 msgstr ""
 "5_Vampire_Side_Step_Base"
 
-msgid ""
+msgid "32"
 "5_Vampire_Arms_Rot_Shock_Wave_Base"
-
 msgstr ""
 "5_Vampire_Arms_Rot_Shock_Wave_Base"
 
-msgid ""
+msgid "33"
 "5_Vampire_Gliding_Rush_Base"
-
 msgstr ""
 "5_Vampire_Gliding_Rush_Base"
 
-msgid ""
+msgid "34"
 "5_Vampire_Oracle_Arms_Rot_Shock_Wave"
-
 msgstr ""
 "5_Vampire_Oracle_Arms_Rot_Shock_Wave"
 
-msgid ""
+msgid "35"
 "5_Vampire_Oracle_Gliding_Rush"
-
 msgstr ""
 "5_Vampire_Oracle_Gliding_Rush"
 
-msgid ""
+msgid "36"
 "4_Gorilla_Move_Default"
-
 msgstr ""
 "4_Gorilla_Move_Default"
 
-msgid ""
+msgid "37"
 "4_Gorilla_BackJump_Base"
-
 msgstr ""
 "4_Gorilla_BackJump_Base"
 
-msgid ""
+msgid "38"
 "5_Vampire_Move_Default"
-
 msgstr ""
 "5_Vampire_Move_Default"
 
-msgid ""
+msgid "39"
 "6_Yaksa_Default"
-
 msgstr ""
 "6_Yaksa_Default"
 
-msgid ""
+msgid "40"
 "6_Yaksa_Oracle_DawnHammer"
-
 msgstr ""
 "6_Yaksa_Oracle_DawnHammer"
 
-msgid ""
+msgid "41"
 "6_Yaksa_Oracle_RippleMassDriver"
-
 msgstr ""
 "6_Yaksa_Oracle_RippleMassDriver"
 
-msgid ""
+msgid "42"
 "6_Yaksa_Oracle_LightBallBlast"
-
 msgstr ""
 "6_Yaksa_Oracle_LightBallBlast"
 
-msgid ""
+msgid "43"
 "6_Yaksa_Oracle_JumpShotBlast"
-
 msgstr ""
 "6_Yaksa_Oracle_JumpShotBlast"
 
-msgid ""
+msgid "44"
 "6_Yaksa_Oracle_SlowLightBall"
-
 msgstr ""
 "6_Yaksa_Oracle_SlowLightBall"
 
-msgid ""
+msgid "45"
 "6_Yaksa_Oracle_YaksaCombo_ShockWave"
-
 msgstr ""
 "6_Yaksa_Oracle_YaksaCombo_ShockWave"
 
-msgid ""
+msgid "46"
 "6_Yaksa_Oracle_YaksaCombo_Blast"
-
 msgstr ""
 "6_Yaksa_Oracle_YaksaCombo_Blast"
 
-msgid ""
+msgid "47"
 "6_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
-
 msgstr ""
 "6_Yaksa_Oracle_SerialDispel_JumpShotBlast_Combo_JumpShotBlast"
 
-msgid ""
+msgid "48"
 "6_Yaksa_UpperDispel_Base"
-
 msgstr ""
 "6_Yaksa_UpperDispel_Base"
 
-msgid ""
+msgid "49"
 "6_Yaksa_UpperDispel_Move_Base"
-
 msgstr ""
 "6_Yaksa_UpperDispel_Move_Base"
 
-msgid ""
+msgid "50"
 "6_Yaksa_Tackle_Base"
-
 msgstr ""
 "6_Yaksa_Tackle_Base"
 
-msgid ""
+msgid "51"
 "6_Yaksa_SerialDispel_Base"
-
 msgstr ""
 "6_Yaksa_SerialDispel_Base"
 
-msgid ""
+msgid "52"
 "6_Yaksa_SerialDispel_Move_Base"
-
 msgstr ""
 "6_Yaksa_SerialDispel_Move_Base"
 
-msgid ""
+msgid "53"
 "6_Yaksa_YaksaCombo_Blow_Base"
-
 msgstr ""
 "6_Yaksa_YaksaCombo_Blow_Base"
 
-msgid ""
+msgid "54"
 "6_Yaksa_YaksaCombo_JumpBlow_Base"
-
 msgstr ""
 "6_Yaksa_YaksaCombo_JumpBlow_Base"
 
-msgid ""
+msgid "55"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

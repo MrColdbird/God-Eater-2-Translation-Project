@@ -1,400 +1,300 @@
-﻿# 1
-msgid ""
-"□ボタン攻撃"
-
 # 1
+msgid "0"
+"□ボタン攻撃"
 msgstr ""
 "□ボタン攻撃"
 
 # 2
-msgid ""
+msgid "1"
 "△ボタン攻撃１"
-
-# 2
 msgstr ""
 "△ボタン攻撃１"
 
 # 3
-msgid ""
+msgid "2"
 "△ボタン攻撃２"
-
-# 3
 msgstr ""
 "△ボタン攻撃２"
 
 # 4
-msgid ""
+msgid "3"
 "ステップ攻撃"
-
-# 4
 msgstr ""
 "ステップ攻撃"
 
 # 5
-msgid ""
+msgid "4"
 "空中□ボタン攻撃"
-
-# 5
 msgstr ""
 "空中□ボタン攻撃"
 
 # 6
-msgid ""
+msgid "5"
 "空中△ボタン攻撃１"
-
-# 6
 msgstr ""
 "空中△ボタン攻撃１"
 
 # 7
-msgid ""
+msgid "6"
 "空中△ボタン攻撃２"
-
-# 7
 msgstr ""
 "空中△ボタン攻撃２"
 
 # 8
-msgid ""
+msgid "7"
 "ライジングエッジ"
-
-# 8
 msgstr ""
 "ライジングエッジ"
 
 # 9
-msgid ""
+msgid "8"
 "ショート9"
-
-# 9
 msgstr ""
 "ショート9"
 
 # 10
-msgid ""
+msgid "9"
 "ショート10"
-
-# 10
 msgstr ""
 "ショート10"
 
 # 11
-msgid ""
+msgid "10"
 "□ボタン攻撃１"
-
-# 11
 msgstr ""
 "□ボタン攻撃１"
 
 # 12
-msgid ""
+msgid "11"
 "□ボタン攻撃２"
-
-# 12
 msgstr ""
 "□ボタン攻撃２"
 
 # 13
-msgid ""
+msgid "12"
 "△ボタン攻撃"
-
-# 13
 msgstr ""
 "△ボタン攻撃"
 
 # 14
-msgid ""
+msgid "13"
 "空中□ボタン攻撃"
-
-# 14
 msgstr ""
 "空中□ボタン攻撃"
 
 # 15
-msgid ""
+msgid "14"
 "空中△ボタン攻撃"
-
-# 15
 msgstr ""
 "空中△ボタン攻撃"
 
 # 16
-msgid ""
+msgid "15"
 "ゼロスタンス"
-
-# 16
 msgstr ""
 "ゼロスタンス"
 
 # 17
-msgid ""
+msgid "16"
 "インパルスエッジ１"
-
-# 17
 msgstr ""
 "インパルスエッジ１"
 
 # 18
-msgid ""
+msgid "17"
 "インパルスエッジ２"
-
-# 18
 msgstr ""
 "インパルスエッジ２"
 
 # 19
-msgid ""
+msgid "18"
 "ロング9"
-
-# 19
 msgstr ""
 "ロング9"
 
 # 20
-msgid ""
+msgid "19"
 "ロング10"
-
-# 20
 msgstr ""
 "ロング10"
 
 # 21
-msgid ""
+msgid "20"
 "□ボタン攻撃"
-
-# 21
 msgstr ""
 "□ボタン攻撃"
 
 # 22
-msgid ""
+msgid "21"
 "△ボタン攻撃"
-
-# 22
 msgstr ""
 "△ボタン攻撃"
 
 # 23
-msgid ""
+msgid "22"
 "ステップ攻撃"
-
-# 23
 msgstr ""
 "ステップ攻撃"
 
 # 24
-msgid ""
+msgid "23"
 "空中△ボタン攻撃"
-
-# 24
 msgstr ""
 "空中△ボタン攻撃"
 
 # 25
-msgid ""
+msgid "24"
 "チャージクラッシュ１"
-
-# 25
 msgstr ""
 "チャージクラッシュ１"
 
 # 26
-msgid ""
+msgid "25"
 "チャージクラッシュ２"
-
-# 26
 msgstr ""
 "チャージクラッシュ２"
 
 # 27
-msgid ""
+msgid "26"
 "パリングアッパー"
-
-# 27
 msgstr ""
 "パリングアッパー"
 
 # 28
-msgid ""
+msgid "27"
 "バスター8"
-
-# 28
 msgstr ""
 "バスター8"
 
 # 29
-msgid ""
+msgid "28"
 "バスター9"
-
-# 29
 msgstr ""
 "バスター9"
 
 # 30
-msgid ""
+msgid "29"
 "バスター10"
-
-# 30
 msgstr ""
 "バスター10"
 
 # 31
-msgid ""
+msgid "30"
 "□ボタン攻撃"
-
-# 31
 msgstr ""
 "□ボタン攻撃"
 
 # 32
-msgid ""
+msgid "31"
 "△ボタン攻撃１"
-
-# 32
 msgstr ""
 "△ボタン攻撃１"
 
 # 33
-msgid ""
+msgid "32"
 "△ボタン攻撃２"
-
-# 33
 msgstr ""
 "△ボタン攻撃２"
 
 # 34
-msgid ""
+msgid "33"
 "空中□ボタン攻撃"
-
-# 34
 msgstr ""
 "空中□ボタン攻撃"
 
 # 35
-msgid ""
+msgid "34"
 "空中△ボタン攻撃"
-
-# 35
 msgstr ""
 "空中△ボタン攻撃"
 
 # 36
-msgid ""
+msgid "35"
 "チャージグライド１"
-
-# 36
 msgstr ""
 "チャージグライド１"
 
 # 37
-msgid ""
+msgid "36"
 "チャージグライド２"
-
-# 37
 msgstr ""
 "チャージグライド２"
 
 # 38
-msgid ""
+msgid "37"
 "スピア8"
-
-# 38
 msgstr ""
 "スピア8"
 
 # 39
-msgid ""
+msgid "38"
 "スピア9"
-
-# 39
 msgstr ""
 "スピア9"
 
 # 40
-msgid ""
+msgid "39"
 "スピア10"
-
-# 40
 msgstr ""
 "スピア10"
 
 # 41
-msgid ""
+msgid "40"
 "□・△ボタン攻撃１"
-
-# 41
 msgstr ""
 "□・△ボタン攻撃１"
 
 # 42
-msgid ""
+msgid "41"
 "□・△ボタン攻撃２"
-
-# 42
 msgstr ""
 "□・△ボタン攻撃２"
 
 # 43
-msgid ""
+msgid "42"
 "ステップ攻撃"
-
-# 43
 msgstr ""
 "ステップ攻撃"
 
 # 44
-msgid ""
+msgid "43"
 "空中□・△攻撃"
-
-# 44
 msgstr ""
 "空中□・△攻撃"
 
 # 45
-msgid ""
+msgid "44"
 "ブースト行動"
-
-# 45
 msgstr ""
 "ブースト行動"
 
 # 46
-msgid ""
+msgid "45"
 "ブーストラッシュ"
-
-# 46
 msgstr ""
 "ブーストラッシュ"
 
 # 47
-msgid ""
+msgid "46"
 "ブーストドライブ"
-
-# 47
 msgstr ""
 "ブーストドライブ"
 
 # 48
-msgid ""
+msgid "47"
 "ブーストインパクト"
-
-# 48
 msgstr ""
 "ブーストインパクト"
 
 # 49
-msgid ""
+msgid "48"
 "ハンマー9"
-
-# 49
 msgstr ""
 "ハンマー9"
 
 # 50
-msgid ""
+msgid "49"
 "ハンマー10"
-
-# 50
 msgstr ""
 "ハンマー10"
 

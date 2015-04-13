@@ -1,234 +1,195 @@
-msgid ""
+msgid "0"
 "2_ManmosMan_Misc_Default"
-
 msgstr ""
 "2_ManmosMan_Misc_Default"
 
-msgid ""
+msgid "1"
 "2_ManmosMan_FrontLeg_Default"
-
 msgstr ""
 "2_ManmosMan_FrontLeg_Default"
 
-msgid ""
+msgid "2"
 "2_ManmosMan_BackLeg_Default"
-
 msgstr ""
 "2_ManmosMan_BackLeg_Default"
 
-msgid ""
+msgid "3"
 "2_ManmosMan_BodyFront_Default"
-
 msgstr ""
 "2_ManmosMan_BodyFront_Default"
 
-msgid ""
+msgid "4"
 "2_ManmosMan_BodyBack_Default"
-
 msgstr ""
 "2_ManmosMan_BodyBack_Default"
 
-msgid ""
+msgid "5"
 "2_ManmosMan_UpperBody_Default"
-
 msgstr ""
 "2_ManmosMan_UpperBody_Default"
 
-msgid ""
+msgid "6"
 "2_ManmosMan_Arm_Default"
-
 msgstr ""
 "2_ManmosMan_Arm_Default"
 
-msgid ""
+msgid "7"
 "2_ManmosMan_Dash_Base"
-
 msgstr ""
 "2_ManmosMan_Dash_Base"
 
-msgid ""
+msgid "8"
 "2_ManmosMan_First_Dash_Base"
-
 msgstr ""
 "2_ManmosMan_First_Dash_Base"
 
-msgid ""
+msgid "9"
 "2_ManmosMan_Second_Dash_Base"
-
 msgstr ""
 "2_ManmosMan_Second_Dash_Base"
 
-msgid ""
+msgid "10"
 "2_ManmosMan_Long_Dash_Base"
-
 msgstr ""
 "2_ManmosMan_Long_Dash_Base"
 
-msgid ""
+msgid "11"
 "2_ManmosMan_Missile_Dash_Base"
-
 msgstr ""
 "2_ManmosMan_Missile_Dash_Base"
 
-msgid ""
+msgid "12"
 "2_ManmosMan_Back_Kick_Base"
-
 msgstr ""
 "2_ManmosMan_Back_Kick_Base"
 
-msgid ""
+msgid "13"
 "2_ManmosMan_Stamp_Base"
-
 msgstr ""
 "2_ManmosMan_Stamp_Base"
 
-msgid ""
+msgid "14"
 "2_ManmosMan_Missile_Stamp_Base"
-
 msgstr ""
 "2_ManmosMan_Missile_Stamp_Base"
 
-msgid ""
+msgid "15"
 "2_ManmosMan_Tomahawk_Base"
-
 msgstr ""
 "2_ManmosMan_Tomahawk_Base"
 
-msgid ""
+msgid "16"
 "2_ManmosMan_Concentration_Missile_Base"
-
 msgstr ""
 "2_ManmosMan_Concentration_Missile_Base"
 
-msgid ""
+msgid "17"
 "2_ManmosMan_Diffusion_Missile_Base"
-
 msgstr ""
 "2_ManmosMan_Diffusion_Missile_Base"
 
-msgid ""
+msgid "18"
 "2_ManmosMan_Black_Napalm_Tomahawk_Base"
-
 msgstr ""
 "2_ManmosMan_Black_Napalm_Tomahawk_Base"
 
-msgid ""
+msgid "19"
 "2_ManmosMan_Homing_Missile_Base"
-
 msgstr ""
 "2_ManmosMan_Homing_Missile_Base"
 
-msgid ""
+msgid "20"
 "2_ManmosMan_Move_Default"
-
 msgstr ""
 "2_ManmosMan_Move_Default"
 
-msgid ""
+msgid "21"
 "3_Yaksa_Misc_Default"
-
 msgstr ""
 "3_Yaksa_Misc_Default"
 
-msgid ""
+msgid "22"
 "3_Yaksa_Head_Default"
-
 msgstr ""
 "3_Yaksa_Head_Default"
 
-msgid ""
+msgid "23"
 "3_Yaksa_FarArm_Default"
-
 msgstr ""
 "3_Yaksa_FarArm_Default"
 
-msgid ""
+msgid "24"
 "3_Yaksa_NearArm_Default"
-
 msgstr ""
 "3_Yaksa_NearArm_Default"
 
-msgid ""
+msgid "25"
 "3_Yaksa_Body_Default"
-
 msgstr ""
 "3_Yaksa_Body_Default"
 
-msgid ""
+msgid "26"
 "3_Yaksa_Foot_Default"
-
 msgstr ""
 "3_Yaksa_Foot_Default"
 
-msgid ""
+msgid "27"
 "3_Yaksa_ShoulderArmor_Default"
-
 msgstr ""
 "3_Yaksa_ShoulderArmor_Default"
 
-msgid ""
+msgid "28"
 "3_Yaksa_Generic_Default"
-
 msgstr ""
 "3_Yaksa_Generic_Default"
 
-msgid ""
+msgid "29"
 "3_Yaksa_UpperDispel_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Base"
 
-msgid ""
+msgid "30"
 "3_Yaksa_UpperDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_UpperDispel_Move_Base"
 
-msgid ""
+msgid "31"
 "3_Yaksa_Tackle_Base"
-
 msgstr ""
 "3_Yaksa_Tackle_Base"
 
-msgid ""
+msgid "32"
 "3_Yaksa_SerialDispel_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Base"
 
-msgid ""
+msgid "33"
 "3_Yaksa_SerialDispel_Move_Base"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Move_Base"
 
-msgid ""
+msgid "34"
 "3_Yaksa_YaksaCombo_Blow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Blow_Base"
 
-msgid ""
+msgid "35"
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_JumpBlow_Base"
 
-msgid ""
+msgid "36"
 "4_ZakoWalker_Misc_Default"
-
 msgstr ""
 "4_ZakoWalker_Misc_Default"
 
-msgid ""
+msgid "37"
 "4_ZakoWalker_Pounce_Base"
-
 msgstr ""
 "4_ZakoWalker_Pounce_Base"
 
-msgid ""
+msgid "38"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

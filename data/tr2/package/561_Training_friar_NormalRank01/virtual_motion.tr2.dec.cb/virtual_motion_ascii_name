@@ -1,300 +1,250 @@
-msgid ""
+msgid "0"
 "1_OgreTail_N_Idle"
-
 msgstr ""
 "1_OgreTail_N_Idle"
 
-msgid ""
+msgid "1"
 "1_OgreTail_N_Walk"
-
 msgstr ""
 "1_OgreTail_N_Walk"
 
-msgid ""
+msgid "2"
 "1_OgreTail_N_JumpToUpland__H"
-
 msgstr ""
 "1_OgreTail_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_OgreTail_N_JumpToUpland__M"
-
 msgstr ""
 "1_OgreTail_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_OgreTail_N_JumpToUpland__T"
-
 msgstr ""
 "1_OgreTail_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_OgreTail_N_JumpFromUpland__H"
-
 msgstr ""
 "1_OgreTail_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_OgreTail_N_JumpFromUpland__M"
-
 msgstr ""
 "1_OgreTail_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_OgreTail_N_JumpFromUpland__T"
-
 msgstr ""
 "1_OgreTail_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_OgreTail_N_TurnLeft"
-
 msgstr ""
 "1_OgreTail_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_OgreTail_N_TurnRight"
-
 msgstr ""
 "1_OgreTail_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_OgreTail_N_LargeTurnLeft"
-
 msgstr ""
 "1_OgreTail_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_OgreTail_N_LargeTurnRight"
-
 msgstr ""
 "1_OgreTail_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_OgreTail_N_Eat"
-
 msgstr ""
 "1_OgreTail_N_Eat"
 
-msgid ""
+msgid "13"
 "1_OgreTail_Appear"
-
 msgstr ""
 "1_OgreTail_Appear"
 
-msgid ""
+msgid "14"
 "1_OgreTail_B_Idle"
-
 msgstr ""
 "1_OgreTail_B_Idle"
 
-msgid ""
+msgid "15"
 "1_OgreTail_B_Dash__H"
-
 msgstr ""
 "1_OgreTail_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_OgreTail_B_Dash__M"
-
 msgstr ""
 "1_OgreTail_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_OgreTail_B_Dash__T"
-
 msgstr ""
 "1_OgreTail_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_OgreTail_B_TurnLeft"
-
 msgstr ""
 "1_OgreTail_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_OgreTail_B_TurnRight"
-
 msgstr ""
 "1_OgreTail_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_OgreTail_B_LargeTurnLeft"
-
 msgstr ""
 "1_OgreTail_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_OgreTail_B_LargeTurnRight"
-
 msgstr ""
 "1_OgreTail_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_OgreTail_B_FindComminate"
-
 msgstr ""
 "1_OgreTail_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_OgreTail_B_ChagrinComminate"
-
 msgstr ""
 "1_OgreTail_B_ChagrinComminate"
 
-msgid ""
+msgid "24"
 "1_OgreTail_B_Stagger"
-
 msgstr ""
 "1_OgreTail_B_Stagger"
 
-msgid ""
+msgid "25"
 "1_OgreTail_B_ForefootDown__H"
-
 msgstr ""
 "1_OgreTail_B_ForefootDown__H"
 
-msgid ""
+msgid "26"
 "1_OgreTail_B_ForefootDown__M"
-
 msgstr ""
 "1_OgreTail_B_ForefootDown__M"
 
-msgid ""
+msgid "27"
 "1_OgreTail_B_ForefootDown__T"
-
 msgstr ""
 "1_OgreTail_B_ForefootDown__T"
 
-msgid ""
+msgid "28"
 "1_OgreTail_B_Hold__H"
-
 msgstr ""
 "1_OgreTail_B_Hold__H"
 
-msgid ""
+msgid "29"
 "1_OgreTail_B_Hold__M"
-
 msgstr ""
 "1_OgreTail_B_Hold__M"
 
-msgid ""
+msgid "30"
 "1_OgreTail_B_Hold__T"
-
 msgstr ""
 "1_OgreTail_B_Hold__T"
 
-msgid ""
+msgid "31"
 "1_OgreTail_B_SympathyBind__H"
-
 msgstr ""
 "1_OgreTail_B_SympathyBind__H"
 
-msgid ""
+msgid "32"
 "1_OgreTail_B_SympathyBind__M"
-
 msgstr ""
 "1_OgreTail_B_SympathyBind__M"
 
-msgid ""
+msgid "33"
 "1_OgreTail_B_SympathyBind__T"
-
 msgstr ""
 "1_OgreTail_B_SympathyBind__T"
 
-msgid ""
+msgid "34"
 "1_OgreTail_B_Giddy"
-
 msgstr ""
 "1_OgreTail_B_Giddy"
 
-msgid ""
+msgid "35"
 "1_OgreTail_Dead__H"
-
 msgstr ""
 "1_OgreTail_Dead__H"
 
-msgid ""
+msgid "36"
 "1_OgreTail_Dead__M"
-
 msgstr ""
 "1_OgreTail_Dead__M"
 
-msgid ""
+msgid "37"
 "1_OgreTail_Dead__T"
-
 msgstr ""
 "1_OgreTail_Dead__T"
 
-msgid ""
+msgid "38"
 "1_OgreTail_B_Cling"
-
 msgstr ""
 "1_OgreTail_B_Cling"
 
-msgid ""
+msgid "39"
 "1_OgreTail_B_RightTailAttack"
-
 msgstr ""
 "1_OgreTail_B_RightTailAttack"
 
-msgid ""
+msgid "40"
 "1_OgreTail_B_Pounce__H"
-
 msgstr ""
 "1_OgreTail_B_Pounce__H"
 
-msgid ""
+msgid "41"
 "1_OgreTail_B_Pounce__M"
-
 msgstr ""
 "1_OgreTail_B_Pounce__M"
 
-msgid ""
+msgid "42"
 "1_OgreTail_B_Pounce__T"
-
 msgstr ""
 "1_OgreTail_B_Pounce__T"
 
-msgid ""
+msgid "43"
 "1_OgreTail_B_Shot_Needle__H"
-
 msgstr ""
 "1_OgreTail_B_Shot_Needle__H"
 
-msgid ""
+msgid "44"
 "1_OgreTail_B_Shot_Needle__M"
-
 msgstr ""
 "1_OgreTail_B_Shot_Needle__M"
 
-msgid ""
+msgid "45"
 "1_OgreTail_B_LeftTailAttack"
-
 msgstr ""
 "1_OgreTail_B_LeftTailAttack"
 
-msgid ""
+msgid "46"
 "1_OgreTail_B_BackStep__H"
-
 msgstr ""
 "1_OgreTail_B_BackStep__H"
 
-msgid ""
+msgid "47"
 "1_OgreTail_B_BackStep__M"
-
 msgstr ""
 "1_OgreTail_B_BackStep__M"
 
-msgid ""
+msgid "48"
 "1_OgreTail_B_BackStep__T"
-
 msgstr ""
 "1_OgreTail_B_BackStep__T"
 
-msgid ""
+msgid "49"
 "1_OgreTail_B_DyingFumble"
-
 msgstr ""
 "1_OgreTail_B_DyingFumble"
 

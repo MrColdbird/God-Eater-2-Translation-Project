@@ -1,1404 +1,1170 @@
-﻿msgid ""
+msgid "0"
 "ヴェノム小"
-
 msgstr ""
 "ヴェノム小"
 
-msgid ""
+msgid "1"
 "ホールド小"
-
 msgstr ""
 "ホールド小"
 
-msgid ""
+msgid "2"
 "封神小"
-
 msgstr ""
 "封神小"
 
-msgid ""
+msgid "3"
 "ヴェノム中"
-
 msgstr ""
 "ヴェノム中"
 
-msgid ""
+msgid "4"
 "ホールド中"
-
 msgstr ""
 "ホールド中"
 
-msgid ""
+msgid "5"
 "封神中"
-
 msgstr ""
 "封神中"
 
-msgid ""
+msgid "6"
 "ヴェノム大"
-
 msgstr ""
 "ヴェノム大"
 
-msgid ""
+msgid "7"
 "ホールド大"
-
 msgstr ""
 "ホールド大"
 
-msgid ""
+msgid "8"
 "封神大"
-
 msgstr ""
 "封神大"
 
-msgid ""
+msgid "9"
 "捕喰弾丸効果↑"
-
 msgstr ""
 "捕喰弾丸効果↑"
 
-msgid ""
+msgid "10"
 "オートガード"
-
 msgstr ""
 "オートガード"
 
-msgid ""
+msgid "11"
 "敵体力視覚化"
-
 msgstr ""
 "敵体力視覚化"
 
-msgid ""
+msgid "12"
 "近接攻撃速度↓解除"
-
 msgstr ""
 "近接攻撃速度↓解除"
 
-msgid ""
+msgid "13"
 "鈍足解除"
-
 msgstr ""
 "鈍足解除"
 
-msgid ""
+msgid "14"
 "全力攻撃"
-
 msgstr ""
 "全力攻撃"
 
-msgid ""
+msgid "15"
 "全員レア追加報酬率↑"
-
 msgstr ""
 "全員レア追加報酬率↑"
 
-msgid ""
+msgid "16"
 "レアモノの女神"
-
 msgstr ""
 "レアモノの女神"
 
-msgid ""
+msgid "17"
 "全員換金獲得率↑"
-
 msgstr ""
 "全員換金獲得率↑"
 
-msgid ""
+msgid "18"
 "銃形態時ロックオン"
-
 msgstr ""
 "銃形態時ロックオン"
 
-msgid ""
+msgid "19"
 "ホーミング不能"
-
 msgstr ""
 "ホーミング不能"
 
-msgid ""
+msgid "20"
 "オートエイム"
-
 msgstr ""
 "オートエイム"
 
-msgid ""
+msgid "21"
 "隠密集団"
-
 msgstr ""
 "隠密集団"
 
-msgid ""
+msgid "22"
 "アクロバットチーム"
-
 msgstr ""
 "アクロバットチーム"
 
-msgid ""
+msgid "23"
 "剣の達人"
-
 msgstr ""
 "剣の達人"
 
-msgid ""
+msgid "24"
 "おおげさ"
-
 msgstr ""
 "おおげさ"
 
-msgid ""
+msgid "25"
 "総合攻撃力↑"
-
 msgstr ""
 "総合攻撃力↑"
 
-msgid ""
+msgid "26"
 "切断攻撃力↑"
-
 msgstr ""
 "切断攻撃力↑"
 
-msgid ""
+msgid "27"
 "破砕攻撃力↑"
-
 msgstr ""
 "破砕攻撃力↑"
 
-msgid ""
+msgid "28"
 "貫通攻撃力↑"
-
 msgstr ""
 "貫通攻撃力↑"
 
-msgid ""
+msgid "29"
 "火攻撃力↑"
-
 msgstr ""
 "火攻撃力↑"
 
-msgid ""
+msgid "30"
 "氷攻撃力↑"
-
 msgstr ""
 "氷攻撃力↑"
 
-msgid ""
+msgid "31"
 "雷攻撃力↑"
-
 msgstr ""
 "雷攻撃力↑"
 
-msgid ""
+msgid "32"
 "神攻撃力↑"
-
 msgstr ""
 "神攻撃力↑"
 
-msgid ""
+msgid "33"
 "ハイドアタック"
-
 msgstr ""
 "ハイドアタック"
 
-msgid ""
+msgid "34"
 "復讐への憤怒"
-
 msgstr ""
 "復讐への憤怒"
 
-msgid ""
+msgid "35"
 "㌫回復アイテム速度↑"
-
 msgstr ""
 "㌫回復アイテム速度↑"
 
-msgid ""
+msgid "36"
 "㌫回復弾消費量↓"
-
 msgstr ""
 "㌫回復弾消費量↓"
 
-msgid ""
+msgid "37"
 "㌫近接攻撃力↑"
-
 msgstr ""
 "㌫近接攻撃力↑"
 
-msgid ""
+msgid "38"
 "㌫近接攻撃力↓"
-
 msgstr ""
 "㌫近接攻撃力↓"
 
-msgid ""
+msgid "39"
 "㌫銃攻撃力↑"
-
 msgstr ""
 "㌫銃攻撃力↑"
 
-msgid ""
+msgid "40"
 "㌫銃攻撃力↓"
-
 msgstr ""
 "㌫銃攻撃力↓"
 
-msgid ""
+msgid "41"
 "㌫状態異常付与↑"
-
 msgstr ""
 "㌫状態異常付与↑"
 
-msgid ""
+msgid "42"
 "㌫被ダメージ増加"
-
 msgstr ""
 "㌫被ダメージ増加"
 
-msgid ""
+msgid "43"
 "㌫被ダメージ大幅増加"
-
 msgstr ""
 "㌫被ダメージ大幅増加"
 
-msgid ""
+msgid "44"
 "㌫近接攻撃力大幅↑"
-
 msgstr ""
 "㌫近接攻撃力大幅↑"
 
-msgid ""
+msgid "45"
 "㌫近接攻撃体力吸収"
-
 msgstr ""
 "㌫近接攻撃体力吸収"
 
-msgid ""
+msgid "46"
 "㌫ガードスタミナ半減"
-
 msgstr ""
 "㌫ガードスタミナ半減"
 
-msgid ""
+msgid "47"
 "㌫存在感"
-
 msgstr ""
 "㌫存在感"
 
-msgid ""
+msgid "48"
 "㌫敵注目率↑"
-
 msgstr ""
 "㌫敵注目率↑"
 
-msgid ""
+msgid "49"
 "総合攻撃力↓"
-
 msgstr ""
 "総合攻撃力↓"
 
-msgid ""
+msgid "50"
 "切断攻撃力↓"
-
 msgstr ""
 "切断攻撃力↓"
 
-msgid ""
+msgid "51"
 "破砕攻撃力↓"
-
 msgstr ""
 "破砕攻撃力↓"
 
-msgid ""
+msgid "52"
 "貫通攻撃力↓"
-
 msgstr ""
 "貫通攻撃力↓"
 
-msgid ""
+msgid "53"
 "火攻撃力↓"
-
 msgstr ""
 "火攻撃力↓"
 
-msgid ""
+msgid "54"
 "氷攻撃力↓"
-
 msgstr ""
 "氷攻撃力↓"
 
-msgid ""
+msgid "55"
 "雷攻撃力↓"
-
 msgstr ""
 "雷攻撃力↓"
 
-msgid ""
+msgid "56"
 "神攻撃力↓"
-
 msgstr ""
 "神攻撃力↓"
 
-msgid ""
+msgid "57"
 "㌫オラクル吸収量↑"
-
 msgstr ""
 "㌫オラクル吸収量↑"
 
-msgid ""
+msgid "58"
 "㌫空中近接攻撃力↑"
-
 msgstr ""
 "㌫空中近接攻撃力↑"
 
-msgid ""
+msgid "59"
 "㌫アイテム効果↑"
-
 msgstr ""
 "㌫アイテム効果↑"
 
-msgid ""
+msgid "60"
 "㌫アイテム効果持続↑"
-
 msgstr ""
 "㌫アイテム効果持続↑"
 
-msgid ""
+msgid "61"
 "㌫アイテム速度↑"
-
 msgstr ""
 "㌫アイテム速度↑"
 
-msgid ""
+msgid "62"
 "㌫総合攻撃力↑"
-
 msgstr ""
 "㌫総合攻撃力↑"
 
-msgid ""
+msgid "63"
 "㌫被ダメージ減少"
-
 msgstr ""
 "㌫被ダメージ減少"
 
-msgid ""
+msgid "64"
 "㌫捕喰時獲得弾数↑"
-
 msgstr ""
 "㌫捕喰時獲得弾数↑"
 
-msgid ""
+msgid "65"
 "㌫体力自動回復"
-
 msgstr ""
 "㌫体力自動回復"
 
-msgid ""
+msgid "66"
 "㌫オラクル自動回復↑"
-
 msgstr ""
 "㌫オラクル自動回復↑"
 
-msgid ""
+msgid "67"
 "㌫スタミナ自動回復↑"
-
 msgstr ""
 "㌫スタミナ自動回復↑"
 
-msgid ""
+msgid "68"
 "㌫リンクエイド強化"
-
 msgstr ""
 "㌫リンクエイド強化"
 
-msgid ""
+msgid "69"
 "㌫敵体力視覚化"
-
 msgstr ""
 "㌫敵体力視覚化"
 
-msgid ""
+msgid "70"
 "㌫超消音"
-
 msgstr ""
 "㌫超消音"
 
-msgid ""
+msgid "71"
 "㌫ふんばり"
-
 msgstr ""
 "㌫ふんばり"
 
-msgid ""
+msgid "72"
 "㌫覚悟"
-
 msgstr ""
 "㌫覚悟"
 
-msgid ""
+msgid "73"
 "総合被ダメージ減少"
-
 msgstr ""
 "総合被ダメージ減少"
 
-msgid ""
+msgid "74"
 "切断被ダメージ減少■"
-
 msgstr ""
 "切断被ダメージ減少■"
 
-msgid ""
+msgid "75"
 "破砕被ダメージ減少■"
-
 msgstr ""
 "破砕被ダメージ減少■"
 
-msgid ""
+msgid "76"
 "貫通被ダメージ減少■"
-
 msgstr ""
 "貫通被ダメージ減少■"
 
-msgid ""
+msgid "77"
 "火被ダメージ減少"
-
 msgstr ""
 "火被ダメージ減少"
 
-msgid ""
+msgid "78"
 "氷被ダメージ減少"
-
 msgstr ""
 "氷被ダメージ減少"
 
-msgid ""
+msgid "79"
 "雷被ダメージ減少"
-
 msgstr ""
 "雷被ダメージ減少"
 
-msgid ""
+msgid "80"
 "神被ダメージ減少"
-
 msgstr ""
 "神被ダメージ減少"
 
-msgid ""
+msgid "81"
 "㌫状態異常耐性"
-
 msgstr ""
 "㌫状態異常耐性"
 
-msgid ""
+msgid "82"
 "㌫コンボマスター"
-
 msgstr ""
 "㌫コンボマスター"
 
-msgid ""
+msgid "83"
 "㌫ユーバーセンス"
-
 msgstr ""
 "㌫ユーバーセンス"
 
-msgid ""
+msgid "84"
 "㌫空気"
-
 msgstr ""
 "㌫空気"
 
-msgid ""
+msgid "85"
 "㌫ガード被ダメ減少"
-
 msgstr ""
 "㌫ガード被ダメ減少"
 
-msgid ""
+msgid "86"
 "ガード速度↑"
-
 msgstr ""
 "ガード速度↑"
 
-msgid ""
+msgid "87"
 "ガード速度↓"
-
 msgstr ""
 "ガード速度↓"
 
-msgid ""
+msgid "88"
 "総合被ダメージ増加"
-
 msgstr ""
 "総合被ダメージ増加"
 
-msgid ""
+msgid "89"
 "切断被ダメージ増加■"
-
 msgstr ""
 "切断被ダメージ増加■"
 
-msgid ""
+msgid "90"
 "破砕被ダメージ増加■"
-
 msgstr ""
 "破砕被ダメージ増加■"
 
-msgid ""
+msgid "91"
 "貫通被ダメージ増加■"
-
 msgstr ""
 "貫通被ダメージ増加■"
 
-msgid ""
+msgid "92"
 "火被ダメージ増加"
-
 msgstr ""
 "火被ダメージ増加"
 
-msgid ""
+msgid "93"
 "氷被ダメージ増加"
-
 msgstr ""
 "氷被ダメージ増加"
 
-msgid ""
+msgid "94"
 "雷被ダメージ増加"
-
 msgstr ""
 "雷被ダメージ増加"
 
-msgid ""
+msgid "95"
 "神被ダメージ増加"
-
 msgstr ""
 "神被ダメージ増加"
 
-msgid ""
+msgid "96"
 "体力↑小"
-
 msgstr ""
 "体力↑小"
 
-msgid ""
+msgid "97"
 "体力↑中"
-
 msgstr ""
 "体力↑中"
 
-msgid ""
+msgid "98"
 "体力↑大"
-
 msgstr ""
 "体力↑大"
 
-msgid ""
+msgid "99"
 "体力↓小"
-
 msgstr ""
 "体力↓小"
 
-msgid ""
+msgid "100"
 "体力↓中"
-
 msgstr ""
 "体力↓中"
 
-msgid ""
+msgid "101"
 "体力↓大"
-
 msgstr ""
 "体力↓大"
 
-msgid ""
+msgid "102"
 "オラクル↑小"
-
 msgstr ""
 "オラクル↑小"
 
-msgid ""
+msgid "103"
 "オラクル↑中"
-
 msgstr ""
 "オラクル↑中"
 
-msgid ""
+msgid "104"
 "オラクル↑大"
-
 msgstr ""
 "オラクル↑大"
 
-msgid ""
+msgid "105"
 "オラクル↓小"
-
 msgstr ""
 "オラクル↓小"
 
-msgid ""
+msgid "106"
 "オラクル↓中"
-
 msgstr ""
 "オラクル↓中"
 
-msgid ""
+msgid "107"
 "オラクル↓大"
-
 msgstr ""
 "オラクル↓大"
 
-msgid ""
+msgid "108"
 "スタミナ↑小"
-
 msgstr ""
 "スタミナ↑小"
 
-msgid ""
+msgid "109"
 "スタミナ↑中"
-
 msgstr ""
 "スタミナ↑中"
 
-msgid ""
+msgid "110"
 "スタミナ↑大"
-
 msgstr ""
 "スタミナ↑大"
 
-msgid ""
+msgid "111"
 "スタミナ↓小"
-
 msgstr ""
 "スタミナ↓小"
 
-msgid ""
+msgid "112"
 "スタミナ↓中"
-
 msgstr ""
 "スタミナ↓中"
 
-msgid ""
+msgid "113"
 "スタミナ↓大"
-
 msgstr ""
 "スタミナ↓大"
 
-msgid ""
+msgid "114"
 "近接攻撃速度↓"
-
 msgstr ""
 "近接攻撃速度↓"
 
-msgid ""
+msgid "115"
 "オラクル吸収量↑"
-
 msgstr ""
 "オラクル吸収量↑"
 
-msgid ""
+msgid "116"
 "オラクル吸収量↓"
-
 msgstr ""
 "オラクル吸収量↓"
 
-msgid ""
+msgid "117"
 "ガード被ダメージ減少"
-
 msgstr ""
 "ガード被ダメージ減少"
 
-msgid ""
+msgid "118"
 "ガード被ダメージ増加"
-
 msgstr ""
 "ガード被ダメージ増加"
 
-msgid ""
+msgid "119"
 "ガード範囲拡大"
-
 msgstr ""
 "ガード範囲拡大"
 
-msgid ""
+msgid "120"
 "ガード範囲縮小"
-
 msgstr ""
 "ガード範囲縮小"
 
-msgid ""
+msgid "121"
 "インパルスエッジ増強"
-
 msgstr ""
 "インパルスエッジ増強"
 
-msgid ""
+msgid "122"
 "インパルスエッジ弱体"
-
 msgstr ""
 "インパルスエッジ弱体"
 
-msgid ""
+msgid "123"
 "捕喰吸収量↑"
-
 msgstr ""
 "捕喰吸収量↑"
 
-msgid ""
+msgid "124"
 "捕喰吸収量↓"
-
 msgstr ""
 "捕喰吸収量↓"
 
-msgid ""
+msgid "125"
 "コンボマスター"
-
 msgstr ""
 "コンボマスター"
 
-msgid ""
+msgid "126"
 "ステップ距離↑"
-
 msgstr ""
 "ステップ距離↑"
 
-msgid ""
+msgid "127"
 "ノックバック距離↑"
-
 msgstr ""
 "ノックバック距離↑"
 
-msgid ""
+msgid "128"
 "ノックバック距離↓"
-
 msgstr ""
 "ノックバック距離↓"
 
-msgid ""
+msgid "129"
 "神医"
-
 msgstr ""
 "神医"
 
-msgid ""
+msgid "130"
 "名医"
-
 msgstr ""
 "名医"
 
-msgid ""
+msgid "131"
 "ヤブ"
-
 msgstr ""
 "ヤブ"
 
-msgid ""
+msgid "132"
 "救命回復量↑"
-
 msgstr ""
 "救命回復量↑"
 
-msgid ""
+msgid "133"
 "救命回復量↓"
-
 msgstr ""
 "救命回復量↓"
 
-msgid ""
+msgid "134"
 "自己犠牲"
-
 msgstr ""
 "自己犠牲"
 
-msgid ""
+msgid "135"
 "奉仕の心"
-
 msgstr ""
 "奉仕の心"
 
-msgid ""
+msgid "136"
 "保身"
-
 msgstr ""
 "保身"
 
-msgid ""
+msgid "137"
 "状態異常攻撃↑"
-
 msgstr ""
 "状態異常攻撃↑"
 
-msgid ""
+msgid "138"
 "状態異常攻撃↓"
-
 msgstr ""
 "状態異常攻撃↓"
 
-msgid ""
+msgid "139"
 "器用"
-
 msgstr ""
 "器用"
 
-msgid ""
+msgid "140"
 "不器用"
-
 msgstr ""
 "不器用"
 
-msgid ""
+msgid "141"
 "チャージ速度↑■"
-
 msgstr ""
 "チャージ速度↑■"
 
-msgid ""
+msgid "142"
 "チャージ速度↓■"
-
 msgstr ""
 "チャージ速度↓■"
 
-msgid ""
+msgid "143"
 "チャージ攻撃力↑■"
-
 msgstr ""
 "チャージ攻撃力↑■"
 
-msgid ""
+msgid "144"
 "生存本能"
-
 msgstr ""
 "生存本能"
 
-msgid ""
+msgid "145"
 "生存本能全開"
-
 msgstr ""
 "生存本能全開"
 
-msgid ""
+msgid "146"
 "ふんばり"
-
 msgstr ""
 "ふんばり"
 
-msgid ""
+msgid "147"
 "覚悟"
-
 msgstr ""
 "覚悟"
 
-msgid ""
+msgid "148"
 "駆除技術"
-
 msgstr ""
 "駆除技術"
 
-msgid ""
+msgid "149"
 "弾丸マスター"
-
 msgstr ""
 "弾丸マスター"
 
-msgid ""
+msgid "150"
 "レーザーマスター"
-
 msgstr ""
 "レーザーマスター"
 
-msgid ""
+msgid "151"
 "パイロマスター"
-
 msgstr ""
 "パイロマスター"
 
-msgid ""
+msgid "152"
 "ボムマスター"
-
 msgstr ""
 "ボムマスター"
 
-msgid ""
+msgid "153"
 "アイテム使用速度↑"
-
 msgstr ""
 "アイテム使用速度↑"
 
-msgid ""
+msgid "154"
 "アイテム使用速度↓"
-
 msgstr ""
 "アイテム使用速度↓"
 
-msgid ""
+msgid "155"
 "アイテム効果↑"
-
 msgstr ""
 "アイテム効果↑"
 
-msgid ""
+msgid "156"
 "アイテム効果↓"
-
 msgstr ""
 "アイテム効果↓"
 
-msgid ""
+msgid "157"
 "アイテム効果持続↑"
-
 msgstr ""
 "アイテム効果持続↑"
 
-msgid ""
+msgid "158"
 "アイテム効果持続↓"
-
 msgstr ""
 "アイテム効果持続↓"
 
-msgid ""
+msgid "159"
 "運動不足"
-
 msgstr ""
 "運動不足"
 
-msgid ""
+msgid "160"
 "アスリート"
-
 msgstr ""
 "アスリート"
 
-msgid ""
+msgid "161"
 "ステップマスター"
-
 msgstr ""
 "ステップマスター"
 
-msgid ""
+msgid "162"
 "整息"
-
 msgstr ""
 "整息"
 
-msgid ""
+msgid "163"
 "息切れ"
-
 msgstr ""
 "息切れ"
 
-msgid ""
+msgid "164"
 "スタミナ自動回復量↑"
-
 msgstr ""
 "スタミナ自動回復量↑"
 
-msgid ""
+msgid "165"
 "スタミナ自動回復量↓"
-
 msgstr ""
 "スタミナ自動回復量↓"
 
-msgid ""
+msgid "166"
 "ユーバーセンス"
-
 msgstr ""
 "ユーバーセンス"
 
-msgid ""
+msgid "167"
 "捕捉不能■"
-
 msgstr ""
 "捕捉不能■"
 
-msgid ""
+msgid "168"
 "捕捉時間↑■"
-
 msgstr ""
 "捕捉時間↑■"
 
-msgid ""
+msgid "169"
 "捕捉時間↓■"
-
 msgstr ""
 "捕捉時間↓■"
 
-msgid ""
+msgid "170"
 "空中ジャンプ"
-
 msgstr ""
 "空中ジャンプ"
 
-msgid ""
+msgid "171"
 "鈍足"
-
 msgstr ""
 "鈍足"
 
-msgid ""
+msgid "172"
 "カリスマ"
-
 msgstr ""
 "カリスマ"
 
-msgid ""
+msgid "173"
 "ヘタレ"
-
 msgstr ""
 "ヘタレ"
 
-msgid ""
+msgid "174"
 "ヴェノム無効"
-
 msgstr ""
 "ヴェノム無効"
 
-msgid ""
+msgid "175"
 "リーク無効"
-
 msgstr ""
 "リーク無効"
 
-msgid ""
+msgid "176"
 "ジャミング無効"
-
 msgstr ""
 "ジャミング無効"
 
-msgid ""
+msgid "177"
 "スタン無効"
-
 msgstr ""
 "スタン無効"
 
-msgid ""
+msgid "178"
 "ヴェノム耐性"
-
 msgstr ""
 "ヴェノム耐性"
 
-msgid ""
+msgid "179"
 "リーク耐性"
-
 msgstr ""
 "リーク耐性"
 
-msgid ""
+msgid "180"
 "ジャミング耐性"
-
 msgstr ""
 "ジャミング耐性"
 
-msgid ""
+msgid "181"
 "スタン耐性"
-
 msgstr ""
 "スタン耐性"
 
-msgid ""
+msgid "182"
 "ヴェノム倍加"
-
 msgstr ""
 "ヴェノム倍加"
 
-msgid ""
+msgid "183"
 "リーク倍加"
-
 msgstr ""
 "リーク倍加"
 
-msgid ""
+msgid "184"
 "ジャミング倍加"
-
 msgstr ""
 "ジャミング倍加"
 
-msgid ""
+msgid "185"
 "スタン倍加"
-
 msgstr ""
 "スタン倍加"
 
-msgid ""
+msgid "186"
 "目利き"
-
 msgstr ""
 "目利き"
 
-msgid ""
+msgid "187"
 "素人"
-
 msgstr ""
 "素人"
 
-msgid ""
+msgid "188"
 "グルメ"
-
 msgstr ""
 "グルメ"
 
-msgid ""
+msgid "189"
 "悪食"
-
 msgstr ""
 "悪食"
 
-msgid ""
+msgid "190"
 "欲張り"
-
 msgstr ""
 "欲張り"
 
-msgid ""
+msgid "191"
 "遠慮"
-
 msgstr ""
 "遠慮"
 
-msgid ""
+msgid "192"
 "消音"
-
 msgstr ""
 "消音"
 
-msgid ""
+msgid "193"
 "騒音"
-
 msgstr ""
 "騒音"
 
-msgid ""
+msgid "194"
 "大吉"
-
 msgstr ""
 "大吉"
 
-msgid ""
+msgid "195"
 "大凶"
-
 msgstr ""
 "大凶"
 
-msgid ""
+msgid "196"
 "存在感"
-
 msgstr ""
 "存在感"
 
-msgid ""
+msgid "197"
 "空気"
-
 msgstr ""
 "空気"
 
-msgid ""
+msgid "198"
 "バースト時間↑"
-
 msgstr ""
 "バースト時間↑"
 
-msgid ""
+msgid "199"
 "バースト時間↓"
-
 msgstr ""
 "バースト時間↓"
 
-msgid ""
+msgid "200"
 "節約"
-
 msgstr ""
 "節約"
 
-msgid ""
+msgid "201"
 "浪費"
-
 msgstr ""
 "浪費"
 
-msgid ""
+msgid "202"
 "トリガーハッピー"
-
 msgstr ""
 "トリガーハッピー"
 
-msgid ""
+msgid "203"
 "NPC:Op自動回復"
-
 msgstr ""
 "NPC:Op自動回復"
 
-msgid ""
+msgid "204"
 "NPC:Op消費量減"
-
 msgstr ""
 "NPC:Op消費量減"
 
-msgid ""
+msgid "205"
 "㌫ブラッドアーツ強化"
-
 msgstr ""
 "㌫ブラッドアーツ強化"
 
-msgid ""
+msgid "206"
 "群れ解除"
-
 msgstr ""
 "群れ解除"
 
-msgid ""
+msgid "207"
 "癒し効果"
-
 msgstr ""
 "癒し効果"
 
-msgid ""
+msgid "208"
 "煽り効果"
-
 msgstr ""
 "煽り効果"
 
-msgid ""
+msgid "209"
 "物理被ダメージ減少"
-
 msgstr ""
 "物理被ダメージ減少"
 
-msgid ""
+msgid "210"
 "物理被ダメージ増加"
-
 msgstr ""
 "物理被ダメージ増加"
 
-msgid ""
+msgid "211"
 "友情"
-
 msgstr ""
 "友情"
 
-msgid ""
+msgid "212"
 "親愛"
-
 msgstr ""
 "親愛"
 
-msgid ""
+msgid "213"
 "血の活性（刀身）小"
-
 msgstr ""
 "血の活性（刀身）小"
 
-msgid ""
+msgid "214"
 "血の活性（刀身）大"
-
 msgstr ""
 "血の活性（刀身）大"
 
-msgid ""
+msgid "215"
 "救命対象バースト化"
-
 msgstr ""
 "救命対象バースト化"
 
-msgid ""
+msgid "216"
 "鎧通し"
-
 msgstr ""
 "鎧通し"
 
-msgid ""
+msgid "217"
 "鎧破壊"
-
 msgstr ""
 "鎧破壊"
 
-msgid ""
+msgid "218"
 "弾受け渡しバースト化"
-
 msgstr ""
 "弾受け渡しバースト化"
 
-msgid ""
+msgid "219"
 "血の活性（銃身）小"
-
 msgstr ""
 "血の活性（銃身）小"
 
-msgid ""
+msgid "220"
 "血の活性（銃身）大"
-
 msgstr ""
 "血の活性（銃身）大"
 
-msgid ""
+msgid "221"
 "無我の境地"
-
 msgstr ""
 "無我の境地"
 
-msgid ""
+msgid "222"
 "ＪＧＯＰ回復"
-
 msgstr ""
 "ＪＧＯＰ回復"
 
-msgid ""
+msgid "223"
 "ＪＧＳＴ回復"
-
 msgstr ""
 "ＪＧＳＴ回復"
 
-msgid ""
+msgid "224"
 "ＪＧＨＰ回復"
-
 msgstr ""
 "ＪＧＨＰ回復"
 
-msgid ""
+msgid "225"
 "乱戦時被ダメージ減少"
-
 msgstr ""
 "乱戦時被ダメージ減少"
 
-msgid ""
+msgid "226"
 "乱戦時攻撃力↑"
-
 msgstr ""
 "乱戦時攻撃力↑"
 
-msgid ""
+msgid "227"
 "捕喰時体力回復"
-
 msgstr ""
 "捕喰時体力回復"
 
-msgid ""
+msgid "228"
 "銃特殊行動阻害無効"
-
 msgstr ""
 "銃特殊行動阻害無効"
 
-msgid ""
+msgid "229"
 "銃特殊行動速度↑"
-
 msgstr ""
 "銃特殊行動速度↑"
 
-msgid ""
+msgid "230"
 "近接特殊攻撃威力↑"
-
 msgstr ""
 "近接特殊攻撃威力↑"
 
-msgid ""
+msgid "231"
 "近接攻撃ＳＴ消費↓"
-
 msgstr ""
 "近接攻撃ＳＴ消費↓"
 
-msgid ""
+msgid "232"
 "溜め動作速度ＵＰ"
-
 msgstr ""
 "溜め動作速度ＵＰ"
 
-msgid ""
+msgid "233"
 "血の力"
-
 msgstr ""
 "血の力"
 

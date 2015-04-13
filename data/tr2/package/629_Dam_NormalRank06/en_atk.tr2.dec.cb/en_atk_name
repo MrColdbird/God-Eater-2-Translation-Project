@@ -1,336 +1,280 @@
-msgid ""
+msgid "0"
 "2_Gorilla_Default"
-
 msgstr ""
 "2_Gorilla_Default"
 
-msgid ""
+msgid "1"
 "2_Gorilla_Oracle_Shot"
-
 msgstr ""
 "2_Gorilla_Oracle_Shot"
 
-msgid ""
+msgid "2"
 "2_Gorilla_Oracle_AroundShockWave"
-
 msgstr ""
 "2_Gorilla_Oracle_AroundShockWave"
 
-msgid ""
+msgid "3"
 "2_Gorilla_Oracle_DirectedSound"
-
 msgstr ""
 "2_Gorilla_Oracle_DirectedSound"
 
-msgid ""
+msgid "4"
 "2_Gorilla_Punch_Base"
-
 msgstr ""
 "2_Gorilla_Punch_Base"
 
-msgid ""
+msgid "5"
 "2_Gorilla_Niou_Punch_Base"
-
 msgstr ""
 "2_Gorilla_Niou_Punch_Base"
 
-msgid ""
+msgid "6"
 "2_Gorilla_Arm_Stamp_Base"
-
 msgstr ""
 "2_Gorilla_Arm_Stamp_Base"
 
-msgid ""
+msgid "7"
 "2_Gorilla_Rolling_Attack_Base"
-
 msgstr ""
 "2_Gorilla_Rolling_Attack_Base"
 
-msgid ""
+msgid "8"
 "2_Gorilla_Double_Lariat_Base"
-
 msgstr ""
 "2_Gorilla_Double_Lariat_Base"
 
-msgid ""
+msgid "9"
 "2_Gorilla_Oracle_ArmStamp"
-
 msgstr ""
 "2_Gorilla_Oracle_ArmStamp"
 
-msgid ""
+msgid "10"
 "3_ATK0"
-
 msgstr ""
 "3_ATK0"
 
-msgid ""
+msgid "11"
 "3_Tiger_Default"
-
 msgstr ""
 "3_Tiger_Default"
 
-msgid ""
+msgid "12"
 "3_Tiger_TestOracle"
-
 msgstr ""
 "3_Tiger_TestOracle"
 
-msgid ""
+msgid "13"
 "3_Tiger_Oracle_Pounce"
-
 msgstr ""
 "3_Tiger_Oracle_Pounce"
 
-msgid ""
+msgid "14"
 "3_Tiger_Oracle_Discharge_Allround"
-
 msgstr ""
 "3_Tiger_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "15"
 "3_Tiger_Oracle_Shot_BigThunderBall"
-
 msgstr ""
 "3_Tiger_Oracle_Shot_BigThunderBall"
 
-msgid ""
+msgid "16"
 "3_Tiger_Oracle_DashPounce_Thunder"
-
 msgstr ""
 "3_Tiger_Oracle_DashPounce_Thunder"
 
-msgid ""
+msgid "17"
 "3_Tiger_Oracle_DashPounceTurn"
-
 msgstr ""
 "3_Tiger_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "18"
 "3_Tiger_Oracle_Call_SmallThunderBall"
-
 msgstr ""
 "3_Tiger_Oracle_Call_SmallThunderBall"
 
-msgid ""
+msgid "19"
 "3_Tiger_Oracle_BackJumpWildShot_ThunderBall"
-
 msgstr ""
 "3_Tiger_Oracle_BackJumpWildShot_ThunderBall"
 
-msgid ""
+msgid "20"
 "3_Tiger_Oracle_Local_Discharge"
-
 msgstr ""
 "3_Tiger_Oracle_Local_Discharge"
 
-msgid ""
+msgid "21"
 "3_Tiger_Oracle_Drop_Discharge"
-
 msgstr ""
 "3_Tiger_Oracle_Drop_Discharge"
 
-msgid ""
+msgid "22"
 "3_Tiger_Thunder_Chop_Base"
-
 msgstr ""
 "3_Tiger_Thunder_Chop_Base"
 
-msgid ""
+msgid "23"
 "3_Tiger_Chop_Forefoot_Base"
-
 msgstr ""
 "3_Tiger_Chop_Forefoot_Base"
 
-msgid ""
+msgid "24"
 "3_Tiger_Cling_Base"
-
 msgstr ""
 "3_Tiger_Cling_Base"
 
-msgid ""
+msgid "25"
 "3_Tiger_Pounce_Base"
-
 msgstr ""
 "3_Tiger_Pounce_Base"
 
-msgid ""
+msgid "26"
 "3_Tiger_DashPounce_Base"
-
 msgstr ""
 "3_Tiger_DashPounce_Base"
 
-msgid ""
+msgid "27"
 "3_Tiger_DashPounce_Thunder_Base"
-
 msgstr ""
 "3_Tiger_DashPounce_Thunder_Base"
 
-msgid ""
+msgid "28"
 "3_Tiger_DashPounceCircling_Base"
-
 msgstr ""
 "3_Tiger_DashPounceCircling_Base"
 
-msgid ""
+msgid "29"
 "3_Tiger_OggSomersault_Base_Shoulder"
-
 msgstr ""
 "3_Tiger_OggSomersault_Base_Shoulder"
 
-msgid ""
+msgid "30"
 "3_Tiger_OggSomersault_Base_Cloak"
-
 msgstr ""
 "3_Tiger_OggSomersault_Base_Cloak"
 
-msgid ""
+msgid "31"
 "3_Tiger_Oracle_Angry_Discharge_Allround"
-
 msgstr ""
 "3_Tiger_Oracle_Angry_Discharge_Allround"
 
-msgid ""
+msgid "32"
 "2_Gorilla_Move_Default"
-
 msgstr ""
 "2_Gorilla_Move_Default"
 
-msgid ""
+msgid "33"
 "2_Gorilla_BackJump_Base"
-
 msgstr ""
 "2_Gorilla_BackJump_Base"
 
-msgid ""
+msgid "34"
 "4_Soldier_Default"
-
 msgstr ""
 "4_Soldier_Default"
 
-msgid ""
+msgid "35"
 "4_Soldier_Oracle_FallDownBomb"
-
 msgstr ""
 "4_Soldier_Oracle_FallDownBomb"
 
-msgid ""
+msgid "36"
 "4_Soldier_Oracle_WildShot"
-
 msgstr ""
 "4_Soldier_Oracle_WildShot"
 
-msgid ""
+msgid "37"
 "4_Soldier_RightStepSlash_Base"
-
 msgstr ""
 "4_Soldier_RightStepSlash_Base"
 
-msgid ""
+msgid "38"
 "4_Soldier_AngryRightStepSlash_Base"
-
 msgstr ""
 "4_Soldier_AngryRightStepSlash_Base"
 
-msgid ""
+msgid "39"
 "4_Soldier_Pounce_Base"
-
 msgstr ""
 "4_Soldier_Pounce_Base"
 
-msgid ""
+msgid "40"
 "4_Soldier_BackflipJump_Bridge_Base"
-
 msgstr ""
 "4_Soldier_BackflipJump_Bridge_Base"
 
-msgid ""
+msgid "41"
 "4_Soldier_BackflipJump_Land_Base"
-
 msgstr ""
 "4_Soldier_BackflipJump_Land_Base"
 
-msgid ""
+msgid "42"
 "4_Soldier_TripleHomingSlash_1st_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_1st_Base"
 
-msgid ""
+msgid "43"
 "4_Soldier_TripleHomingSlash_2nd_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_2nd_Base"
 
-msgid ""
+msgid "44"
 "4_Soldier_TripleHomingSlash_3rd_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_3rd_Base"
 
-msgid ""
+msgid "45"
 "4_Soldier_TripleHomingSlash_arm_Base"
-
 msgstr ""
 "4_Soldier_TripleHomingSlash_arm_Base"
 
-msgid ""
+msgid "46"
 "4_Soldier_TackleSlash_Tackle_Base"
-
 msgstr ""
 "4_Soldier_TackleSlash_Tackle_Base"
 
-msgid ""
+msgid "47"
 "4_Soldier_TackleSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_TackleSlash_Slash_Base"
 
-msgid ""
+msgid "48"
 "4_Soldier_AngryTackleSlash_Tackle_Base"
-
 msgstr ""
 "4_Soldier_AngryTackleSlash_Tackle_Base"
 
-msgid ""
+msgid "49"
 "4_Soldier_AngryTackleSlash_Slash_Base"
-
 msgstr ""
 "4_Soldier_AngryTackleSlash_Slash_Base"
 
-msgid ""
+msgid "50"
 "4_Soldier_AngrySlashAround_1st_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_1st_Base"
 
-msgid ""
+msgid "51"
 "4_Soldier_AngrySlashAround_2nd_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_2nd_Base"
 
-msgid ""
+msgid "52"
 "4_Soldier_AngrySlashAround_3rd_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_3rd_Base"
 
-msgid ""
+msgid "53"
 "4_Soldier_AngrySlashAround_4th_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_4th_Base"
 
-msgid ""
+msgid "54"
 "4_Soldier_AngrySlashAround_5th_Base"
-
 msgstr ""
 "4_Soldier_AngrySlashAround_5th_Base"
 
-msgid ""
+msgid "55"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

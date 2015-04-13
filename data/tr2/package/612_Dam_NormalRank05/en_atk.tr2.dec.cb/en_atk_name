@@ -1,222 +1,185 @@
-msgid ""
+msgid "0"
 "2_QueenPapilam_Default"
-
 msgstr ""
 "2_QueenPapilam_Default"
 
-msgid ""
+msgid "1"
 "2_QueenPapilam_Lunge_Base"
-
 msgstr ""
 "2_QueenPapilam_Lunge_Base"
 
-msgid ""
+msgid "2"
 "2_QueenPapilam_MeanderingLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_MeanderingLunge_Base"
 
-msgid ""
+msgid "3"
 "2_QueenPapilam_Oracle_Laser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Laser"
 
-msgid ""
+msgid "4"
 "2_QueenPapilam_Oracle_ShotGun"
-
 msgstr ""
 "2_QueenPapilam_Oracle_ShotGun"
 
-msgid ""
+msgid "5"
 "2_QueenPapilam_Oracle_DispelLaser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_DispelLaser"
 
-msgid ""
+msgid "6"
 "2_QueenPapilam_Oracle_HomingLaser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_HomingLaser"
 
-msgid ""
+msgid "7"
 "2_QueenPapilam_Oracle_PoisonScale"
-
 msgstr ""
 "2_QueenPapilam_Oracle_PoisonScale"
 
-msgid ""
+msgid "8"
 "2_QueenPapilam_Oracle_FastShineWall"
-
 msgstr ""
 "2_QueenPapilam_Oracle_FastShineWall"
 
-msgid ""
+msgid "9"
 "2_QueenPapilam_Oracle_SlowShineWall"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SlowShineWall"
 
-msgid ""
+msgid "10"
 "2_QueenPapilam_Oracle_SwayPoisonScale"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SwayPoisonScale"
 
-msgid ""
+msgid "11"
 "2_QueenPapilam_Oracle_SpotHomingLaser"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SpotHomingLaser"
 
-msgid ""
+msgid "12"
 "2_QueenPapilam_Oracle_Mine"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Mine"
 
-msgid ""
+msgid "13"
 "2_QueenPapilam_Oracle_SwayMine"
-
 msgstr ""
 "2_QueenPapilam_Oracle_SwayMine"
 
-msgid ""
+msgid "14"
 "2_QueenPapilam_Oracle_Lunge_ShockWave"
-
 msgstr ""
 "2_QueenPapilam_Oracle_Lunge_ShockWave"
 
-msgid ""
+msgid "15"
 "2_QueenPapilam_AngryLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_AngryLunge_Base"
 
-msgid ""
+msgid "16"
 "2_QueenPapilam_AngryMeanderingLunge_Base"
-
 msgstr ""
 "2_QueenPapilam_AngryMeanderingLunge_Base"
 
-msgid ""
+msgid "17"
 "3_Crocodile_Default"
-
 msgstr ""
 "3_Crocodile_Default"
 
-msgid ""
+msgid "18"
 "3_Crocodile_Oracle_ThunderTornado"
-
 msgstr ""
 "3_Crocodile_Oracle_ThunderTornado"
 
-msgid ""
+msgid "19"
 "3_Crocodile_Oracle_ThunderTornadoSmall"
-
 msgstr ""
 "3_Crocodile_Oracle_ThunderTornadoSmall"
 
-msgid ""
+msgid "20"
 "3_Crocodile_Oracle_ElectricBite"
-
 msgstr ""
 "3_Crocodile_Oracle_ElectricBite"
 
-msgid ""
+msgid "21"
 "3_Crocodile_Oracle_Lightning"
-
 msgstr ""
 "3_Crocodile_Oracle_Lightning"
 
-msgid ""
+msgid "22"
 "3_Crocodile_ShortDashBite_Base"
-
 msgstr ""
 "3_Crocodile_ShortDashBite_Base"
 
-msgid ""
+msgid "23"
 "3_Crocodile_TailHalfTurn_Base"
-
 msgstr ""
 "3_Crocodile_TailHalfTurn_Base"
 
-msgid ""
+msgid "24"
 "3_Crocodile_TailHalfTurn_Tail"
-
 msgstr ""
 "3_Crocodile_TailHalfTurn_Tail"
 
-msgid ""
+msgid "25"
 "3_Crocodile_SlidingBiteTurn__H_Base"
-
 msgstr ""
 "3_Crocodile_SlidingBiteTurn__H_Base"
 
-msgid ""
+msgid "26"
 "3_Crocodile_SlidingBiteTurn__M_Base"
-
 msgstr ""
 "3_Crocodile_SlidingBiteTurn__M_Base"
 
-msgid ""
+msgid "27"
 "3_Crocodile_SlidingBiteTurn__T_Base"
-
 msgstr ""
 "3_Crocodile_SlidingBiteTurn__T_Base"
 
-msgid ""
+msgid "28"
 "3_Crocodile_SlidingBiteTurn__T_Tail"
-
 msgstr ""
 "3_Crocodile_SlidingBiteTurn__T_Tail"
 
-msgid ""
+msgid "29"
 "3_Crocodile_ElectricBite_Base"
-
 msgstr ""
 "3_Crocodile_ElectricBite_Base"
 
-msgid ""
+msgid "30"
 "3_Crocodile_Bite_Base"
-
 msgstr ""
 "3_Crocodile_Bite_Base"
 
-msgid ""
+msgid "31"
 "3_Crocodile_SparkPounce__H_Base"
-
 msgstr ""
 "3_Crocodile_SparkPounce__H_Base"
 
-msgid ""
+msgid "32"
 "3_Crocodile_SparkPounce__M_Base"
-
 msgstr ""
 "3_Crocodile_SparkPounce__M_Base"
 
-msgid ""
+msgid "33"
 "3_Crocodile_SparkPounce__T_Base"
-
 msgstr ""
 "3_Crocodile_SparkPounce__T_Base"
 
-msgid ""
+msgid "34"
 "3_Crocodile_SparkPounce__M_Bite"
-
 msgstr ""
 "3_Crocodile_SparkPounce__M_Bite"
 
-msgid ""
+msgid "35"
 "3_Crocodile_Lightning_Base"
-
 msgstr ""
 "3_Crocodile_Lightning_Base"
 
-msgid ""
+msgid "36"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

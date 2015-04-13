@@ -1,216 +1,180 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Default"
-
 msgstr ""
 "2_CocoonMaiden_Default"
 
-msgid ""
+msgid "1"
 "2_CocoonMaiden_Oracle_ShotNeedle"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_CocoonMaiden_Oracle_Beam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_Beam"
 
-msgid ""
+msgid "3"
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ShotNeedle_Allround"
 
-msgid ""
+msgid "4"
 "2_CocoonMaiden_Oracle_ReflactBeam"
-
 msgstr ""
 "2_CocoonMaiden_Oracle_ReflactBeam"
 
-msgid ""
+msgid "5"
 "3_ManmosMan_Default"
-
 msgstr ""
 "3_ManmosMan_Default"
 
-msgid ""
+msgid "6"
 "3_ManmosMan_Oracle_Missile_Dash"
-
 msgstr ""
 "3_ManmosMan_Oracle_Missile_Dash"
 
-msgid ""
+msgid "7"
 "3_ManmosMan_Oracle_Stamp"
-
 msgstr ""
 "3_ManmosMan_Oracle_Stamp"
 
-msgid ""
+msgid "8"
 "3_ManmosMan_Oracle_Missile_Stamp"
-
 msgstr ""
 "3_ManmosMan_Oracle_Missile_Stamp"
 
-msgid ""
+msgid "9"
 "3_ManmosMan_Oracle_Tomahawk"
-
 msgstr ""
 "3_ManmosMan_Oracle_Tomahawk"
 
-msgid ""
+msgid "10"
 "3_ManmosMan_Oracle_Concentration_Missile"
-
 msgstr ""
 "3_ManmosMan_Oracle_Concentration_Missile"
 
-msgid ""
+msgid "11"
 "3_ManmosMan_Oracle_Diffusion_Missile"
-
 msgstr ""
 "3_ManmosMan_Oracle_Diffusion_Missile"
 
-msgid ""
+msgid "12"
 "3_ManmosMan_Oracle_Black_Napalm"
-
 msgstr ""
 "3_ManmosMan_Oracle_Black_Napalm"
 
-msgid ""
+msgid "13"
 "3_ManmosMan_Oracle_Black_Napalm_Tomahawk"
-
 msgstr ""
 "3_ManmosMan_Oracle_Black_Napalm_Tomahawk"
 
-msgid ""
+msgid "14"
 "3_ManmosMan_Oracle_Homing_Missile"
-
 msgstr ""
 "3_ManmosMan_Oracle_Homing_Missile"
 
-msgid ""
+msgid "15"
 "3_ManmosMan_Dash_Base"
-
 msgstr ""
 "3_ManmosMan_Dash_Base"
 
-msgid ""
+msgid "16"
 "3_ManmosMan_Oracle_Shock_Wave"
-
 msgstr ""
 "3_ManmosMan_Oracle_Shock_Wave"
 
-msgid ""
+msgid "17"
 "3_ManmosMan_First_Dash_Base"
-
 msgstr ""
 "3_ManmosMan_First_Dash_Base"
 
-msgid ""
+msgid "18"
 "3_ManmosMan_Second_Dash_Base"
-
 msgstr ""
 "3_ManmosMan_Second_Dash_Base"
 
-msgid ""
+msgid "19"
 "3_ManmosMan_Long_Dash_Base"
-
 msgstr ""
 "3_ManmosMan_Long_Dash_Base"
 
-msgid ""
+msgid "20"
 "3_ManmosMan_Missile_Dash_Base"
-
 msgstr ""
 "3_ManmosMan_Missile_Dash_Base"
 
-msgid ""
+msgid "21"
 "3_ManmosMan_Back_Kick_Base"
-
 msgstr ""
 "3_ManmosMan_Back_Kick_Base"
 
-msgid ""
+msgid "22"
 "3_ManmosMan_Stamp_Base"
-
 msgstr ""
 "3_ManmosMan_Stamp_Base"
 
-msgid ""
+msgid "23"
 "3_ManmosMan_Missile_Stamp_Base"
-
 msgstr ""
 "3_ManmosMan_Missile_Stamp_Base"
 
-msgid ""
+msgid "24"
 "3_ManmosMan_Tomahawk_Base"
-
 msgstr ""
 "3_ManmosMan_Tomahawk_Base"
 
-msgid ""
+msgid "25"
 "3_ManmosMan_Concentration_Missile_Base"
-
 msgstr ""
 "3_ManmosMan_Concentration_Missile_Base"
 
-msgid ""
+msgid "26"
 "3_ManmosMan_Diffusion_Missile_Base"
-
 msgstr ""
 "3_ManmosMan_Diffusion_Missile_Base"
 
-msgid ""
+msgid "27"
 "3_ManmosMan_Black_Napalm_Tomahawk_Base"
-
 msgstr ""
 "3_ManmosMan_Black_Napalm_Tomahawk_Base"
 
-msgid ""
+msgid "28"
 "3_ManmosMan_Homing_Missile_Base"
-
 msgstr ""
 "3_ManmosMan_Homing_Missile_Base"
 
-msgid ""
+msgid "29"
 "3_ManmosMan_Oracle_Angry_Tomahawk"
-
 msgstr ""
 "3_ManmosMan_Oracle_Angry_Tomahawk"
 
-msgid ""
+msgid "30"
 "3_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
-
 msgstr ""
 "3_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
 
-msgid ""
+msgid "31"
 "3_ManmosMan_Oracle_Back_Slide_Missile"
-
 msgstr ""
 "3_ManmosMan_Oracle_Back_Slide_Missile"
 
-msgid ""
+msgid "32"
 "3_ManmosMan_Move_Default"
-
 msgstr ""
 "3_ManmosMan_Move_Default"
 
-msgid ""
+msgid "33"
 "3_ManmosMan_Oracle_Super_LongRange_Tomahawk"
-
 msgstr ""
 "3_ManmosMan_Oracle_Super_LongRange_Tomahawk"
 
-msgid ""
+msgid "34"
 "3_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
-
 msgstr ""
 "3_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
 
-msgid ""
+msgid "35"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

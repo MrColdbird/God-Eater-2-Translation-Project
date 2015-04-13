@@ -1,294 +1,245 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_Hannibal_Default"
-
 msgstr ""
 "3_Hannibal_Default"
 
-msgid ""
+msgid "9"
 "3_Hannibal_Oracle_SpearGlide_ShockWave"
-
 msgstr ""
 "3_Hannibal_Oracle_SpearGlide_ShockWave"
 
-msgid ""
+msgid "10"
 "3_Hannibal_Oracle_Shot_PlasmaBall"
-
 msgstr ""
 "3_Hannibal_Oracle_Shot_PlasmaBall"
 
-msgid ""
+msgid "11"
 "3_Hannibal_Oracle_FireBreath_LtoR"
-
 msgstr ""
 "3_Hannibal_Oracle_FireBreath_LtoR"
 
-msgid ""
+msgid "12"
 "3_Hannibal_Oracle_FireBreath_RtoL"
-
 msgstr ""
 "3_Hannibal_Oracle_FireBreath_RtoL"
 
-msgid ""
+msgid "13"
 "3_Hannibal_Oracle_FireStorm"
-
 msgstr ""
 "3_Hannibal_Oracle_FireStorm"
 
-msgid ""
+msgid "14"
 "3_Hannibal_Oracle_Call_FirePillar"
-
 msgstr ""
 "3_Hannibal_Oracle_Call_FirePillar"
 
-msgid ""
+msgid "15"
 "3_Hannibal_LeftArmDispel_Base"
-
 msgstr ""
 "3_Hannibal_LeftArmDispel_Base"
 
-msgid ""
+msgid "16"
 "3_Hannibal_ArmDispel_Base"
-
 msgstr ""
 "3_Hannibal_ArmDispel_Base"
 
-msgid ""
+msgid "17"
 "3_Hannibal_ArmDispel_Move_Base"
-
 msgstr ""
 "3_Hannibal_ArmDispel_Move_Base"
 
-msgid ""
+msgid "18"
 "3_Hannibal_SpearGlide_Base"
-
 msgstr ""
 "3_Hannibal_SpearGlide_Base"
 
-msgid ""
+msgid "19"
 "3_Hannibal_HormingDashPounce_Base"
-
 msgstr ""
 "3_Hannibal_HormingDashPounce_Base"
 
-msgid ""
+msgid "20"
 "3_Hannibal_TailDispel_Base"
-
 msgstr ""
 "3_Hannibal_TailDispel_Base"
 
-msgid ""
+msgid "21"
 "3_Hannibal_BackJump_Base"
-
 msgstr ""
 "3_Hannibal_BackJump_Base"
 
-msgid ""
+msgid "22"
 "3_Hannibal_HalfTurn_Base"
-
 msgstr ""
 "3_Hannibal_HalfTurn_Base"
 
-msgid ""
+msgid "23"
 "3_Hannibal_WeaponCombo_Base"
-
 msgstr ""
 "3_Hannibal_WeaponCombo_Base"
 
-msgid ""
+msgid "24"
 "3_Hannibal_WeaponCombo_Move_Base"
-
 msgstr ""
 "3_Hannibal_WeaponCombo_Move_Base"
 
-msgid ""
+msgid "25"
 "3_Hannibal_LoopPunch_Base"
-
 msgstr ""
 "3_Hannibal_LoopPunch_Base"
 
-msgid ""
+msgid "26"
 "3_Hannibal_Call_LocalFirePillar_Base"
-
 msgstr ""
 "3_Hannibal_Call_LocalFirePillar_Base"
 
-msgid ""
+msgid "27"
 "3_Hannibal_Move_Base"
-
 msgstr ""
 "3_Hannibal_Move_Base"
 
-msgid ""
+msgid "28"
 "3_Hannibal_HormingDashPounce_Finish_Base"
-
 msgstr ""
 "3_Hannibal_HormingDashPounce_Finish_Base"
 
-msgid ""
+msgid "29"
 "4_Wani_Oracle_ThunderBombBall"
-
 msgstr ""
 "4_Wani_Oracle_ThunderBombBall"
 
-msgid ""
+msgid "30"
 "4_Wani_Default"
-
 msgstr ""
 "4_Wani_Default"
 
-msgid ""
+msgid "31"
 "4_Wani_Oracle_Splash_AcidFog"
-
 msgstr ""
 "4_Wani_Oracle_Splash_AcidFog"
 
-msgid ""
+msgid "32"
 "4_Wani_Oracle_Splash_AcidFog_Local"
-
 msgstr ""
 "4_Wani_Oracle_Splash_AcidFog_Local"
 
-msgid ""
+msgid "33"
 "4_Wani_Cling_Base"
-
 msgstr ""
 "4_Wani_Cling_Base"
 
-msgid ""
+msgid "34"
 "4_Wani_Cling_Arms_Base"
-
 msgstr ""
 "4_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "35"
 "4_Wani_Cling_Dash_Base"
-
 msgstr ""
 "4_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "36"
 "4_Wani_Forehead_Default"
-
 msgstr ""
 "4_Wani_Forehead_Default"
 
-msgid ""
+msgid "37"
 "4_Wani_Body_Default"
-
 msgstr ""
 "4_Wani_Body_Default"
 
-msgid ""
+msgid "38"
 "4_Wani_Mouth_Default"
-
 msgstr ""
 "4_Wani_Mouth_Default"
 
-msgid ""
+msgid "39"
 "4_Wani_Arm_Default"
-
 msgstr ""
 "4_Wani_Arm_Default"
 
-msgid ""
+msgid "40"
 "4_Wani_Back_Default"
-
 msgstr ""
 "4_Wani_Back_Default"
 
-msgid ""
+msgid "41"
 "4_Wani_Tail_Default"
-
 msgstr ""
 "4_Wani_Tail_Default"
 
-msgid ""
+msgid "42"
 "4_Wani_Oracle_Angry_Go_Berserk"
-
 msgstr ""
 "4_Wani_Oracle_Angry_Go_Berserk"
 
-msgid ""
+msgid "43"
 "4_Wani_Move_Default"
-
 msgstr ""
 "4_Wani_Move_Default"
 
-msgid ""
+msgid "44"
 "4_Wani_Oracle_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "4_Wani_Oracle_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "45"
 "4_Wani_Leap_EightShips_Base"
-
 msgstr ""
 "4_Wani_Leap_EightShips_Base"
 
-msgid ""
+msgid "46"
 "4_Wani_Oracle_Splash_SmallWaterBall"
-
 msgstr ""
 "4_Wani_Oracle_Splash_SmallWaterBall"
 
-msgid ""
+msgid "47"
 "4_Wani_Oracle_Shot_SmallWaterBall"
-
 msgstr ""
 "4_Wani_Oracle_Shot_SmallWaterBall"
 
-msgid ""
+msgid "48"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

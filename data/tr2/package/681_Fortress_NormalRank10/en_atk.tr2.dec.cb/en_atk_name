@@ -1,372 +1,310 @@
-msgid ""
+msgid "0"
 "2_AngelEgg_Default"
-
 msgstr ""
 "2_AngelEgg_Default"
 
-msgid ""
+msgid "1"
 "2_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "2_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "2"
 "2_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "2_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "3"
 "2_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "2_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "4"
 "2_AngelEgg_Cling_Base"
-
 msgstr ""
 "2_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "5"
 "2_AngelEgg_Tackle_Base"
-
 msgstr ""
 "2_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "6"
 "3_Gorilla_Default"
-
 msgstr ""
 "3_Gorilla_Default"
 
-msgid ""
+msgid "7"
 "3_Gorilla_Oracle_Shot"
-
 msgstr ""
 "3_Gorilla_Oracle_Shot"
 
-msgid ""
+msgid "8"
 "3_Gorilla_Oracle_AroundShockWave"
-
 msgstr ""
 "3_Gorilla_Oracle_AroundShockWave"
 
-msgid ""
+msgid "9"
 "3_Gorilla_Oracle_DirectedSound"
-
 msgstr ""
 "3_Gorilla_Oracle_DirectedSound"
 
-msgid ""
+msgid "10"
 "3_Gorilla_Punch_Base"
-
 msgstr ""
 "3_Gorilla_Punch_Base"
 
-msgid ""
+msgid "11"
 "3_Gorilla_Niou_Punch_Base"
-
 msgstr ""
 "3_Gorilla_Niou_Punch_Base"
 
-msgid ""
+msgid "12"
 "3_Gorilla_Arm_Stamp_Base"
-
 msgstr ""
 "3_Gorilla_Arm_Stamp_Base"
 
-msgid ""
+msgid "13"
 "3_Gorilla_Rolling_Attack_Base"
-
 msgstr ""
 "3_Gorilla_Rolling_Attack_Base"
 
-msgid ""
+msgid "14"
 "3_Gorilla_Double_Lariat_Base"
-
 msgstr ""
 "3_Gorilla_Double_Lariat_Base"
 
-msgid ""
+msgid "15"
 "3_Gorilla_Oracle_ArmStamp"
-
 msgstr ""
 "3_Gorilla_Oracle_ArmStamp"
 
-msgid ""
+msgid "16"
 "4_Vampire_Default"
-
 msgstr ""
 "4_Vampire_Default"
 
-msgid ""
+msgid "17"
 "4_Vampire_Pincer_Arms_Base"
-
 msgstr ""
 "4_Vampire_Pincer_Arms_Base"
 
-msgid ""
+msgid "18"
 "4_Vampire_Oracle_Jump_Kick"
-
 msgstr ""
 "4_Vampire_Oracle_Jump_Kick"
 
-msgid ""
+msgid "19"
 "4_Vampire_Oracle_Shot_Power_Charge"
-
 msgstr ""
 "4_Vampire_Oracle_Shot_Power_Charge"
 
-msgid ""
+msgid "20"
 "4_Vampire_Oracle_Loop_Shot_Power_Charge"
-
 msgstr ""
 "4_Vampire_Oracle_Loop_Shot_Power_Charge"
 
-msgid ""
+msgid "21"
 "4_Vampire_Oracle_Impact"
-
 msgstr ""
 "4_Vampire_Oracle_Impact"
 
-msgid ""
+msgid "22"
 "4_Vampire_Oracle_Shot_Homing"
-
 msgstr ""
 "4_Vampire_Oracle_Shot_Homing"
 
-msgid ""
+msgid "23"
 "4_Vampire_Oracle_Shock_Wave"
-
 msgstr ""
 "4_Vampire_Oracle_Shock_Wave"
 
-msgid ""
+msgid "24"
 "4_Vampire_Jump_Kick_Base"
-
 msgstr ""
 "4_Vampire_Jump_Kick_Base"
 
-msgid ""
+msgid "25"
 "4_Vampire_Jump_Turn_Arms_Base"
-
 msgstr ""
 "4_Vampire_Jump_Turn_Arms_Base"
 
-msgid ""
+msgid "26"
 "4_Vampire_Back_Jump_Base"
-
 msgstr ""
 "4_Vampire_Back_Jump_Base"
 
-msgid ""
+msgid "27"
 "4_Vampire_Side_Step_Base"
-
 msgstr ""
 "4_Vampire_Side_Step_Base"
 
-msgid ""
+msgid "28"
 "4_Vampire_Arms_Rot_Shock_Wave_Base"
-
 msgstr ""
 "4_Vampire_Arms_Rot_Shock_Wave_Base"
 
-msgid ""
+msgid "29"
 "4_Vampire_Gliding_Rush_Base"
-
 msgstr ""
 "4_Vampire_Gliding_Rush_Base"
 
-msgid ""
+msgid "30"
 "4_Vampire_Oracle_Arms_Rot_Shock_Wave"
-
 msgstr ""
 "4_Vampire_Oracle_Arms_Rot_Shock_Wave"
 
-msgid ""
+msgid "31"
 "4_Vampire_Oracle_Gliding_Rush"
-
 msgstr ""
 "4_Vampire_Oracle_Gliding_Rush"
 
-msgid ""
+msgid "32"
 "3_Gorilla_Oracle_RollingThunder"
-
 msgstr ""
 "3_Gorilla_Oracle_RollingThunder"
 
-msgid ""
+msgid "33"
 "4_Vampire_Oracle_Explosion_Back_Jump"
-
 msgstr ""
 "4_Vampire_Oracle_Explosion_Back_Jump"
 
-msgid ""
+msgid "34"
 "4_Vampire_Oracle_Chop_SideStep"
-
 msgstr ""
 "4_Vampire_Oracle_Chop_SideStep"
 
-msgid ""
+msgid "35"
 "3_Gorilla_Oracle_Angry_ArmStamp"
-
 msgstr ""
 "3_Gorilla_Oracle_Angry_ArmStamp"
 
-msgid ""
+msgid "36"
 "4_Vampire_Oracle_Angry_Gliding_Rush"
-
 msgstr ""
 "4_Vampire_Oracle_Angry_Gliding_Rush"
 
-msgid ""
+msgid "37"
 "3_Gorilla_Move_Default"
-
 msgstr ""
 "3_Gorilla_Move_Default"
 
-msgid ""
+msgid "38"
 "3_Gorilla_BackJump_Base"
-
 msgstr ""
 "3_Gorilla_BackJump_Base"
 
-msgid ""
+msgid "39"
 "4_Vampire_Move_Default"
-
 msgstr ""
 "4_Vampire_Move_Default"
 
-msgid ""
+msgid "40"
 "5_ZakoWalker_Default"
-
 msgstr ""
 "5_ZakoWalker_Default"
 
-msgid ""
+msgid "41"
 "5_ZakoWalker_Pounce_Base"
-
 msgstr ""
 "5_ZakoWalker_Pounce_Base"
 
-msgid ""
+msgid "42"
 "6_Truetail_Default"
-
 msgstr ""
 "6_Truetail_Default"
 
-msgid ""
+msgid "43"
 "6_Truetail_Oracle_SomersaultWave"
-
 msgstr ""
 "6_Truetail_Oracle_SomersaultWave"
 
-msgid ""
+msgid "44"
 "6_Truetail_Oracle_HorizontalRagingStorm"
-
 msgstr ""
 "6_Truetail_Oracle_HorizontalRagingStorm"
 
-msgid ""
+msgid "45"
 "6_Truetail_Oracle_CircularSawTackle"
-
 msgstr ""
 "6_Truetail_Oracle_CircularSawTackle"
 
-msgid ""
+msgid "46"
 "6_Truetail_Oracle_SpinTornado"
-
 msgstr ""
 "6_Truetail_Oracle_SpinTornado"
 
-msgid ""
+msgid "47"
 "6_Truetail_Oracle_RotateFire"
-
 msgstr ""
 "6_Truetail_Oracle_RotateFire"
 
-msgid ""
+msgid "48"
 "6_Truetail_Oracle_MultiLockLaser"
-
 msgstr ""
 "6_Truetail_Oracle_MultiLockLaser"
 
-msgid ""
+msgid "49"
 "6_Truetail_Oracle_StunFieldShot"
-
 msgstr ""
 "6_Truetail_Oracle_StunFieldShot"
 
-msgid ""
+msgid "50"
 "6_Truetail_Oracle_ReflectLaser"
-
 msgstr ""
 "6_Truetail_Oracle_ReflectLaser"
 
-msgid ""
+msgid "51"
 "6_Truetail_Oracle_DashSprayFire"
-
 msgstr ""
 "6_Truetail_Oracle_DashSprayFire"
 
-msgid ""
+msgid "52"
 "6_Truetail_Oracle_Pounce"
-
 msgstr ""
 "6_Truetail_Oracle_Pounce"
 
-msgid ""
+msgid "53"
 "6_Truetail_Oracle_BHLaser"
-
 msgstr ""
 "6_Truetail_Oracle_BHLaser"
 
-msgid ""
+msgid "54"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 
-msgid ""
+msgid "55"
 "6_Truetail_ShoulderTackle_Base"
-
 msgstr ""
 "6_Truetail_ShoulderTackle_Base"
 
-msgid ""
+msgid "56"
 "6_Truetail_SomersaultWave_Base"
-
 msgstr ""
 "6_Truetail_SomersaultWave_Base"
 
-msgid ""
+msgid "57"
 "6_Truetail_HorizontalRagingStorm_Base"
-
 msgstr ""
 "6_Truetail_HorizontalRagingStorm_Base"
 
-msgid ""
+msgid "58"
 "6_Truetail_CircularSawTackle_Base"
-
 msgstr ""
 "6_Truetail_CircularSawTackle_Base"
 
-msgid ""
+msgid "59"
 "6_Truetail_DashSprayFire_Base"
-
 msgstr ""
 "6_Truetail_DashSprayFire_Base"
 
-msgid ""
+msgid "60"
 "6_Truetail_Pounce_Base"
-
 msgstr ""
 "6_Truetail_Pounce_Base"
 
-msgid ""
+msgid "61"
 "6_Truetail_Move_Base"
-
 msgstr ""
 "6_Truetail_Move_Base"
 

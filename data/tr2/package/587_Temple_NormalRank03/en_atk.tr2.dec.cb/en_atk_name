@@ -1,240 +1,200 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_Gorilla_Default"
-
 msgstr ""
 "3_Gorilla_Default"
 
-msgid ""
+msgid "9"
 "3_Gorilla_Oracle_Shot"
-
 msgstr ""
 "3_Gorilla_Oracle_Shot"
 
-msgid ""
+msgid "10"
 "3_Gorilla_Oracle_AroundShockWave"
-
 msgstr ""
 "3_Gorilla_Oracle_AroundShockWave"
 
-msgid ""
+msgid "11"
 "3_Gorilla_Oracle_DirectedSound"
-
 msgstr ""
 "3_Gorilla_Oracle_DirectedSound"
 
-msgid ""
+msgid "12"
 "3_Gorilla_Punch_Base"
-
 msgstr ""
 "3_Gorilla_Punch_Base"
 
-msgid ""
+msgid "13"
 "3_Gorilla_Niou_Punch_Base"
-
 msgstr ""
 "3_Gorilla_Niou_Punch_Base"
 
-msgid ""
+msgid "14"
 "3_Gorilla_Arm_Stamp_Base"
-
 msgstr ""
 "3_Gorilla_Arm_Stamp_Base"
 
-msgid ""
+msgid "15"
 "3_Gorilla_Rolling_Attack_Base"
-
 msgstr ""
 "3_Gorilla_Rolling_Attack_Base"
 
-msgid ""
+msgid "16"
 "3_Gorilla_Double_Lariat_Base"
-
 msgstr ""
 "3_Gorilla_Double_Lariat_Base"
 
-msgid ""
+msgid "17"
 "3_Gorilla_Oracle_ArmStamp"
-
 msgstr ""
 "3_Gorilla_Oracle_ArmStamp"
 
-msgid ""
+msgid "18"
 "3_Gorilla_Move_Default"
-
 msgstr ""
 "3_Gorilla_Move_Default"
 
-msgid ""
+msgid "19"
 "3_Gorilla_BackJump_Base"
-
 msgstr ""
 "3_Gorilla_BackJump_Base"
 
-msgid ""
+msgid "20"
 "4_Ravana_Default"
-
 msgstr ""
 "4_Ravana_Default"
 
-msgid ""
+msgid "21"
 "4_Ravana_Oracle_Pounce"
-
 msgstr ""
 "4_Ravana_Oracle_Pounce"
 
-msgid ""
+msgid "22"
 "4_Ravana_Oracle_DashPounceTurn"
-
 msgstr ""
 "4_Ravana_Oracle_DashPounceTurn"
 
-msgid ""
+msgid "23"
 "4_Ravana_Oracle_FakePounce"
-
 msgstr ""
 "4_Ravana_Oracle_FakePounce"
 
-msgid ""
+msgid "24"
 "4_Ravana_Oracle_AroundHeatWaveWithJamming"
-
 msgstr ""
 "4_Ravana_Oracle_AroundHeatWaveWithJamming"
 
-msgid ""
+msgid "25"
 "4_Ravana_Oracle_AroundHeatWave"
-
 msgstr ""
 "4_Ravana_Oracle_AroundHeatWave"
 
-msgid ""
+msgid "26"
 "4_Ravana_Oracle_Local_HeatWave"
-
 msgstr ""
 "4_Ravana_Oracle_Local_HeatWave"
 
-msgid ""
+msgid "27"
 "4_Ravana_Oracle_ParallelFire"
-
 msgstr ""
 "4_Ravana_Oracle_ParallelFire"
 
-msgid ""
+msgid "28"
 "4_Ravana_Oracle_CirculateFire"
-
 msgstr ""
 "4_Ravana_Oracle_CirculateFire"
 
-msgid ""
+msgid "29"
 "4_Ravana_Oracle_PoisonScale"
-
 msgstr ""
 "4_Ravana_Oracle_PoisonScale"
 
-msgid ""
+msgid "30"
 "4_Ravana_Oracle_StunRailGun"
-
 msgstr ""
 "4_Ravana_Oracle_StunRailGun"
 
-msgid ""
+msgid "31"
 "4_Ravana_Scratch_Base"
-
 msgstr ""
 "4_Ravana_Scratch_Base"
 
-msgid ""
+msgid "32"
 "4_Ravana_Pounce_Base"
-
 msgstr ""
 "4_Ravana_Pounce_Base"
 
-msgid ""
+msgid "33"
 "4_Ravana_DashPounce_Base"
-
 msgstr ""
 "4_Ravana_DashPounce_Base"
 
-msgid ""
+msgid "34"
 "4_Ravana_DashPounceCircling_Base"
-
 msgstr ""
 "4_Ravana_DashPounceCircling_Base"
 
-msgid ""
+msgid "35"
 "4_Ravana_StunRailGun_Base"
-
 msgstr ""
 "4_Ravana_StunRailGun_Base"
 
-msgid ""
+msgid "36"
 "4_Ravana_BackJump_Base"
-
 msgstr ""
 "4_Ravana_BackJump_Base"
 
-msgid ""
+msgid "37"
 "4_Ravana_BackStep_Base"
-
 msgstr ""
 "4_Ravana_BackStep_Base"
 
-msgid ""
+msgid "38"
 "4_Ravana_Oracle_FakePounce_NpcWarning"
-
 msgstr ""
 "4_Ravana_Oracle_FakePounce_NpcWarning"
 
-msgid ""
+msgid "39"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

@@ -1,318 +1,265 @@
-msgid ""
+msgid "0"
 "2_CocoonMaiden_Misc_Default"
-
 msgstr ""
 "2_CocoonMaiden_Misc_Default"
 
-msgid ""
+msgid "1"
 "3_CocoonMaiden_Misc_Default"
-
 msgstr ""
 "3_CocoonMaiden_Misc_Default"
 
-msgid ""
+msgid "2"
 "4_Scorpion_Misc_Default"
-
 msgstr ""
 "4_Scorpion_Misc_Default"
 
-msgid ""
+msgid "3"
 "4_Scorpion_UpperBody_Default"
-
 msgstr ""
 "4_Scorpion_UpperBody_Default"
 
-msgid ""
+msgid "4"
 "4_Scorpion_Mouth_Default"
-
 msgstr ""
 "4_Scorpion_Mouth_Default"
 
-msgid ""
+msgid "5"
 "4_Scorpion_Arm_Default"
-
 msgstr ""
 "4_Scorpion_Arm_Default"
 
-msgid ""
+msgid "6"
 "4_Scorpion_LowerBody_Default"
-
 msgstr ""
 "4_Scorpion_LowerBody_Default"
 
-msgid ""
+msgid "7"
 "4_Scorpion_BackLeg_Default"
-
 msgstr ""
 "4_Scorpion_BackLeg_Default"
 
-msgid ""
+msgid "8"
 "4_Scorpion_Tail_Default"
-
 msgstr ""
 "4_Scorpion_Tail_Default"
 
-msgid ""
+msgid "9"
 "4_Scorpion_Needle_Default"
-
 msgstr ""
 "4_Scorpion_Needle_Default"
 
-msgid ""
+msgid "10"
 "4_Scorpion_Spear_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Base"
 
-msgid ""
+msgid "11"
 "4_Scorpion_ClingPounce_Base"
-
 msgstr ""
 "4_Scorpion_ClingPounce_Base"
 
-msgid ""
+msgid "12"
 "4_Scorpion_Spear_Combo_Base"
-
 msgstr ""
 "4_Scorpion_Spear_Combo_Base"
 
-msgid ""
+msgid "13"
 "4_Scorpion_ShotUmbos_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Base"
 
-msgid ""
+msgid "14"
 "4_Scorpion_SplashUmbos_Base"
-
 msgstr ""
 "4_Scorpion_SplashUmbos_Base"
 
-msgid ""
+msgid "15"
 "4_Scorpion_AttackTail_Base"
-
 msgstr ""
 "4_Scorpion_AttackTail_Base"
 
-msgid ""
+msgid "16"
 "4_Scorpion_Wildly_TypeA_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeA_Base"
 
-msgid ""
+msgid "17"
 "4_Scorpion_Wildly_TypeB_Base"
-
 msgstr ""
 "4_Scorpion_Wildly_TypeB_Base"
 
-msgid ""
+msgid "18"
 "4_Scorpion_Defense_Base"
-
 msgstr ""
 "4_Scorpion_Defense_Base"
 
-msgid ""
+msgid "19"
 "4_Scorpion_DefDash_Base"
-
 msgstr ""
 "4_Scorpion_DefDash_Base"
 
-msgid ""
+msgid "20"
 "4_Scorpion_DefSpear_Base"
-
 msgstr ""
 "4_Scorpion_DefSpear_Base"
 
-msgid ""
+msgid "21"
 "4_Scorpion_DefShot_Base"
-
 msgstr ""
 "4_Scorpion_DefShot_Base"
 
-msgid ""
+msgid "22"
 "4_Scorpion_DefAttack_Base"
-
 msgstr ""
 "4_Scorpion_DefAttack_Base"
 
-msgid ""
+msgid "23"
 "4_Scorpion_ShotUmbos_Local_Base"
-
 msgstr ""
 "4_Scorpion_ShotUmbos_Local_Base"
 
-msgid ""
+msgid "24"
 "4_Scorpion_Move_Default"
-
 msgstr ""
 "4_Scorpion_Move_Default"
 
-msgid ""
+msgid "25"
 "5_Ravana_Misc_Default"
-
 msgstr ""
 "5_Ravana_Misc_Default"
 
-msgid ""
+msgid "26"
 "5_Ravana_Head_Default"
-
 msgstr ""
 "5_Ravana_Head_Default"
 
-msgid ""
+msgid "27"
 "5_Ravana_Forefoot_Default"
-
 msgstr ""
 "5_Ravana_Forefoot_Default"
 
-msgid ""
+msgid "28"
 "5_Ravana_Body_Default"
-
 msgstr ""
 "5_Ravana_Body_Default"
 
-msgid ""
+msgid "29"
 "5_Ravana_Hindfoot_Default"
-
 msgstr ""
 "5_Ravana_Hindfoot_Default"
 
-msgid ""
+msgid "30"
 "5_Ravana_Cannon_Default"
-
 msgstr ""
 "5_Ravana_Cannon_Default"
 
-msgid ""
+msgid "31"
 "5_Ravana_Solarcore_Default"
-
 msgstr ""
 "5_Ravana_Solarcore_Default"
 
-msgid ""
+msgid "32"
 "5_Ravana_Generic_Default"
-
 msgstr ""
 "5_Ravana_Generic_Default"
 
-msgid ""
+msgid "33"
 "5_Ravana_Scratch_Base"
-
 msgstr ""
 "5_Ravana_Scratch_Base"
 
-msgid ""
+msgid "34"
 "5_Ravana_Pounce_Base"
-
 msgstr ""
 "5_Ravana_Pounce_Base"
 
-msgid ""
+msgid "35"
 "5_Ravana_DashPounce_Base"
-
 msgstr ""
 "5_Ravana_DashPounce_Base"
 
-msgid ""
+msgid "36"
 "5_Ravana_DashPounceCircling_Base"
-
 msgstr ""
 "5_Ravana_DashPounceCircling_Base"
 
-msgid ""
+msgid "37"
 "5_Ravana_StunRailGun_Base"
-
 msgstr ""
 "5_Ravana_StunRailGun_Base"
 
-msgid ""
+msgid "38"
 "5_Ravana_BackJump_Base"
-
 msgstr ""
 "5_Ravana_BackJump_Base"
 
-msgid ""
+msgid "39"
 "5_Ravana_BackStep_Base"
-
 msgstr ""
 "5_Ravana_BackStep_Base"
 
-msgid ""
+msgid "40"
 "6_Wani_Misc_Default"
-
 msgstr ""
 "6_Wani_Misc_Default"
 
-msgid ""
+msgid "41"
 "6_Wani_Cling_Base"
-
 msgstr ""
 "6_Wani_Cling_Base"
 
-msgid ""
+msgid "42"
 "6_Wani_Cling_Arms_Base"
-
 msgstr ""
 "6_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "43"
 "6_Wani_Cling_Dash_Base"
-
 msgstr ""
 "6_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "44"
 "6_Wani_Forehead_Default"
-
 msgstr ""
 "6_Wani_Forehead_Default"
 
-msgid ""
+msgid "45"
 "6_Wani_Body_Default"
-
 msgstr ""
 "6_Wani_Body_Default"
 
-msgid ""
+msgid "46"
 "6_Wani_Mouth_Default"
-
 msgstr ""
 "6_Wani_Mouth_Default"
 
-msgid ""
+msgid "47"
 "6_Wani_Arm_Default"
-
 msgstr ""
 "6_Wani_Arm_Default"
 
-msgid ""
+msgid "48"
 "6_Wani_Back_Default"
-
 msgstr ""
 "6_Wani_Back_Default"
 
-msgid ""
+msgid "49"
 "6_Wani_Tail_Default"
-
 msgstr ""
 "6_Wani_Tail_Default"
 
-msgid ""
+msgid "50"
 "6_Wani_Move_Default"
-
 msgstr ""
 "6_Wani_Move_Default"
 
-msgid ""
+msgid "51"
 "6_Wani_Leap_EightShips_Base"
-
 msgstr ""
 "6_Wani_Leap_EightShips_Base"
 
-msgid ""
+msgid "52"
 "1_BoxFish_Misc_Default"
-
 msgstr ""
 "1_BoxFish_Misc_Default"
 

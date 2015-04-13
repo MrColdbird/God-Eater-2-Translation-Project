@@ -1,1320 +1,1100 @@
-msgid ""
+msgid "0"
 "1_BoxFish_N_Idle"
-
 msgstr ""
 "1_BoxFish_N_Idle"
 
-msgid ""
+msgid "1"
 "1_BoxFish_N_Walk"
-
 msgstr ""
 "1_BoxFish_N_Walk"
 
-msgid ""
+msgid "2"
 "1_BoxFish_N_JumpToUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__H"
 
-msgid ""
+msgid "3"
 "1_BoxFish_N_JumpToUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__M"
 
-msgid ""
+msgid "4"
 "1_BoxFish_N_JumpToUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpToUpland__T"
 
-msgid ""
+msgid "5"
 "1_BoxFish_N_JumpFromUpland__H"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__H"
 
-msgid ""
+msgid "6"
 "1_BoxFish_N_JumpFromUpland__M"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__M"
 
-msgid ""
+msgid "7"
 "1_BoxFish_N_JumpFromUpland__T"
-
 msgstr ""
 "1_BoxFish_N_JumpFromUpland__T"
 
-msgid ""
+msgid "8"
 "1_BoxFish_N_TurnLeft"
-
 msgstr ""
 "1_BoxFish_N_TurnLeft"
 
-msgid ""
+msgid "9"
 "1_BoxFish_N_TurnRight"
-
 msgstr ""
 "1_BoxFish_N_TurnRight"
 
-msgid ""
+msgid "10"
 "1_BoxFish_N_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnLeft"
 
-msgid ""
+msgid "11"
 "1_BoxFish_N_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_N_LargeTurnRight"
 
-msgid ""
+msgid "12"
 "1_BoxFish_N_Eat"
-
 msgstr ""
 "1_BoxFish_N_Eat"
 
-msgid ""
+msgid "13"
 "1_BoxFish_Appear"
-
 msgstr ""
 "1_BoxFish_Appear"
 
-msgid ""
+msgid "14"
 "1_BoxFish_B_Idle"
-
 msgstr ""
 "1_BoxFish_B_Idle"
 
-msgid ""
+msgid "15"
 "1_BoxFish_B_Dash__H"
-
 msgstr ""
 "1_BoxFish_B_Dash__H"
 
-msgid ""
+msgid "16"
 "1_BoxFish_B_Dash__M"
-
 msgstr ""
 "1_BoxFish_B_Dash__M"
 
-msgid ""
+msgid "17"
 "1_BoxFish_B_Dash__T"
-
 msgstr ""
 "1_BoxFish_B_Dash__T"
 
-msgid ""
+msgid "18"
 "1_BoxFish_B_TurnLeft"
-
 msgstr ""
 "1_BoxFish_B_TurnLeft"
 
-msgid ""
+msgid "19"
 "1_BoxFish_B_TurnRight"
-
 msgstr ""
 "1_BoxFish_B_TurnRight"
 
-msgid ""
+msgid "20"
 "1_BoxFish_B_LargeTurnLeft"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnLeft"
 
-msgid ""
+msgid "21"
 "1_BoxFish_B_LargeTurnRight"
-
 msgstr ""
 "1_BoxFish_B_LargeTurnRight"
 
-msgid ""
+msgid "22"
 "1_BoxFish_B_FindComminate"
-
 msgstr ""
 "1_BoxFish_B_FindComminate"
 
-msgid ""
+msgid "23"
 "1_BoxFish_B_AngryComminate"
-
 msgstr ""
 "1_BoxFish_B_AngryComminate"
 
-msgid ""
+msgid "24"
 "1_BoxFish_B_ChagrinComminate"
-
 msgstr ""
 "1_BoxFish_B_ChagrinComminate"
 
-msgid ""
+msgid "25"
 "1_BoxFish_B_Giddy"
-
 msgstr ""
 "1_BoxFish_B_Giddy"
 
-msgid ""
+msgid "26"
 "1_BoxFish_Dead__H"
-
 msgstr ""
 "1_BoxFish_Dead__H"
 
-msgid ""
+msgid "27"
 "1_BoxFish_Dead__M"
-
 msgstr ""
 "1_BoxFish_Dead__M"
 
-msgid ""
+msgid "28"
 "1_BoxFish_Dead__T"
-
 msgstr ""
 "1_BoxFish_Dead__T"
 
-msgid ""
+msgid "29"
 "1_BoxFish_Escape"
-
 msgstr ""
 "1_BoxFish_Escape"
 
-msgid ""
+msgid "30"
 "2_Ravana_N_Idle"
-
 msgstr ""
 "2_Ravana_N_Idle"
 
-msgid ""
+msgid "31"
 "2_Ravana_N_Walk"
-
 msgstr ""
 "2_Ravana_N_Walk"
 
-msgid ""
+msgid "32"
 "2_Ravana_N_Walk_Caution"
-
 msgstr ""
 "2_Ravana_N_Walk_Caution"
 
-msgid ""
+msgid "33"
 "2_Ravana_N_JumpToUpland__H"
-
 msgstr ""
 "2_Ravana_N_JumpToUpland__H"
 
-msgid ""
+msgid "34"
 "2_Ravana_N_JumpToUpland__M"
-
 msgstr ""
 "2_Ravana_N_JumpToUpland__M"
 
-msgid ""
+msgid "35"
 "2_Ravana_N_JumpToUpland__T"
-
 msgstr ""
 "2_Ravana_N_JumpToUpland__T"
 
-msgid ""
+msgid "36"
 "2_Ravana_N_JumpFromUpland__H"
-
 msgstr ""
 "2_Ravana_N_JumpFromUpland__H"
 
-msgid ""
+msgid "37"
 "2_Ravana_N_JumpFromUpland__M"
-
 msgstr ""
 "2_Ravana_N_JumpFromUpland__M"
 
-msgid ""
+msgid "38"
 "2_Ravana_N_JumpFromUpland__T"
-
 msgstr ""
 "2_Ravana_N_JumpFromUpland__T"
 
-msgid ""
+msgid "39"
 "2_Ravana_N_TurnLeft"
-
 msgstr ""
 "2_Ravana_N_TurnLeft"
 
-msgid ""
+msgid "40"
 "2_Ravana_N_TurnRight"
-
 msgstr ""
 "2_Ravana_N_TurnRight"
 
-msgid ""
+msgid "41"
 "2_Ravana_N_LargeTurnLeft"
-
 msgstr ""
 "2_Ravana_N_LargeTurnLeft"
 
-msgid ""
+msgid "42"
 "2_Ravana_N_LargeTurnRight"
-
 msgstr ""
 "2_Ravana_N_LargeTurnRight"
 
-msgid ""
+msgid "43"
 "2_Ravana_N_Eat"
-
 msgstr ""
 "2_Ravana_N_Eat"
 
-msgid ""
+msgid "44"
 "2_Ravana_N_Appear"
-
 msgstr ""
 "2_Ravana_N_Appear"
 
-msgid ""
+msgid "45"
 "2_Ravana_B_Idle"
-
 msgstr ""
 "2_Ravana_B_Idle"
 
-msgid ""
+msgid "46"
 "2_Ravana_B_Dash__H"
-
 msgstr ""
 "2_Ravana_B_Dash__H"
 
-msgid ""
+msgid "47"
 "2_Ravana_B_Dash__M"
-
 msgstr ""
 "2_Ravana_B_Dash__M"
 
-msgid ""
+msgid "48"
 "2_Ravana_B_Dash__T"
-
 msgstr ""
 "2_Ravana_B_Dash__T"
 
-msgid ""
+msgid "49"
 "2_Ravana_B_JumpToBossUpland"
-
 msgstr ""
 "2_Ravana_B_JumpToBossUpland"
 
-msgid ""
+msgid "50"
 "2_Ravana_B_JumpFromBossUpland"
-
 msgstr ""
 "2_Ravana_B_JumpFromBossUpland"
 
-msgid ""
+msgid "51"
 "2_Ravana_B_MoveLongPath__H"
-
 msgstr ""
 "2_Ravana_B_MoveLongPath__H"
 
-msgid ""
+msgid "52"
 "2_Ravana_B_MoveLongPath__M"
-
 msgstr ""
 "2_Ravana_B_MoveLongPath__M"
 
-msgid ""
+msgid "53"
 "2_Ravana_B_MoveLongPath__T"
-
 msgstr ""
 "2_Ravana_B_MoveLongPath__T"
 
-msgid ""
+msgid "54"
 "2_Ravana_B_TurnLeft"
-
 msgstr ""
 "2_Ravana_B_TurnLeft"
 
-msgid ""
+msgid "55"
 "2_Ravana_B_TurnRight"
-
 msgstr ""
 "2_Ravana_B_TurnRight"
 
-msgid ""
+msgid "56"
 "2_Ravana_B_LargeTurnLeft"
-
 msgstr ""
 "2_Ravana_B_LargeTurnLeft"
 
-msgid ""
+msgid "57"
 "2_Ravana_B_LargeTurnRight"
-
 msgstr ""
 "2_Ravana_B_LargeTurnRight"
 
-msgid ""
+msgid "58"
 "2_Ravana_B_FindComminate"
-
 msgstr ""
 "2_Ravana_B_FindComminate"
 
-msgid ""
+msgid "59"
 "2_Ravana_B_AngryComminate"
-
 msgstr ""
 "2_Ravana_B_AngryComminate"
 
-msgid ""
+msgid "60"
 "2_Ravana_B_ChagrinComminate"
-
 msgstr ""
 "2_Ravana_B_ChagrinComminate"
 
-msgid ""
+msgid "61"
 "2_Ravana_B_Stagger"
-
 msgstr ""
 "2_Ravana_B_Stagger"
 
-msgid ""
+msgid "62"
 "2_Ravana_B_ForefootDown__H"
-
 msgstr ""
 "2_Ravana_B_ForefootDown__H"
 
-msgid ""
+msgid "63"
 "2_Ravana_B_ForefootDown__M"
-
 msgstr ""
 "2_Ravana_B_ForefootDown__M"
 
-msgid ""
+msgid "64"
 "2_Ravana_B_ForefootDown__T"
-
 msgstr ""
 "2_Ravana_B_ForefootDown__T"
 
-msgid ""
+msgid "65"
 "2_Ravana_B_HindfootDown__H"
-
 msgstr ""
 "2_Ravana_B_HindfootDown__H"
 
-msgid ""
+msgid "66"
 "2_Ravana_B_HindfootDown__M"
-
 msgstr ""
 "2_Ravana_B_HindfootDown__M"
 
-msgid ""
+msgid "67"
 "2_Ravana_B_HindfootDown__T"
-
 msgstr ""
 "2_Ravana_B_HindfootDown__T"
 
-msgid ""
+msgid "68"
 "2_Ravana_B_SympathyBind__H"
-
 msgstr ""
 "2_Ravana_B_SympathyBind__H"
 
-msgid ""
+msgid "69"
 "2_Ravana_B_SympathyBind__M"
-
 msgstr ""
 "2_Ravana_B_SympathyBind__M"
 
-msgid ""
+msgid "70"
 "2_Ravana_B_SympathyBind__T"
-
 msgstr ""
 "2_Ravana_B_SympathyBind__T"
 
-msgid ""
+msgid "71"
 "2_Ravana_B_Hold__H"
-
 msgstr ""
 "2_Ravana_B_Hold__H"
 
-msgid ""
+msgid "72"
 "2_Ravana_B_Hold__M"
-
 msgstr ""
 "2_Ravana_B_Hold__M"
 
-msgid ""
+msgid "73"
 "2_Ravana_B_Hold__T"
-
 msgstr ""
 "2_Ravana_B_Hold__T"
 
-msgid ""
+msgid "74"
 "2_Ravana_B_Giddy"
-
 msgstr ""
 "2_Ravana_B_Giddy"
 
-msgid ""
+msgid "75"
 "2_Ravana_B_AngryGiddy__H"
-
 msgstr ""
 "2_Ravana_B_AngryGiddy__H"
 
-msgid ""
+msgid "76"
 "2_Ravana_B_AngryGiddy__M"
-
 msgstr ""
 "2_Ravana_B_AngryGiddy__M"
 
-msgid ""
+msgid "77"
 "2_Ravana_B_AngryGiddy__T"
-
 msgstr ""
 "2_Ravana_B_AngryGiddy__T"
 
-msgid ""
+msgid "78"
 "2_Ravana_Dead__H"
-
 msgstr ""
 "2_Ravana_Dead__H"
 
-msgid ""
+msgid "79"
 "2_Ravana_Dead__M"
-
 msgstr ""
 "2_Ravana_Dead__M"
 
-msgid ""
+msgid "80"
 "2_Ravana_Dead__T"
-
 msgstr ""
 "2_Ravana_Dead__T"
 
-msgid ""
+msgid "81"
 "2_Ravana_B_Fumble__M"
-
 msgstr ""
 "2_Ravana_B_Fumble__M"
 
-msgid ""
+msgid "82"
 "2_Ravana_B_Fumble__T"
-
 msgstr ""
 "2_Ravana_B_Fumble__T"
 
-msgid ""
+msgid "83"
 "2_Ravana_B_AttackComminate"
-
 msgstr ""
 "2_Ravana_B_AttackComminate"
 
-msgid ""
+msgid "84"
 "2_Ravana_B_Scratch"
-
 msgstr ""
 "2_Ravana_B_Scratch"
 
-msgid ""
+msgid "85"
 "2_Ravana_B_ScratchAway_Scratch"
-
 msgstr ""
 "2_Ravana_B_ScratchAway_Scratch"
 
-msgid ""
+msgid "86"
 "2_Ravana_B_ScratchAway_BackJump__M"
-
 msgstr ""
 "2_Ravana_B_ScratchAway_BackJump__M"
 
-msgid ""
+msgid "87"
 "2_Ravana_B_ScratchAway_BackJump__T"
-
 msgstr ""
 "2_Ravana_B_ScratchAway_BackJump__T"
 
-msgid ""
+msgid "88"
 "2_Ravana_B_Pounce__H"
-
 msgstr ""
 "2_Ravana_B_Pounce__H"
 
-msgid ""
+msgid "89"
 "2_Ravana_B_Pounce__M"
-
 msgstr ""
 "2_Ravana_B_Pounce__M"
 
-msgid ""
+msgid "90"
 "2_Ravana_B_Pounce__T"
-
 msgstr ""
 "2_Ravana_B_Pounce__T"
 
-msgid ""
+msgid "91"
 "2_Ravana_B_DashPounce_Dash__H"
-
 msgstr ""
 "2_Ravana_B_DashPounce_Dash__H"
 
-msgid ""
+msgid "92"
 "2_Ravana_B_DashPounce_Dash__M"
-
 msgstr ""
 "2_Ravana_B_DashPounce_Dash__M"
 
-msgid ""
+msgid "93"
 "2_Ravana_B_DashPounce_Pounce__M"
-
 msgstr ""
 "2_Ravana_B_DashPounce_Pounce__M"
 
-msgid ""
+msgid "94"
 "2_Ravana_B_DashPounce_Pounce__T"
-
 msgstr ""
 "2_Ravana_B_DashPounce_Pounce__T"
 
-msgid ""
+msgid "95"
 "2_Ravana_B_DPT_Dash__H"
-
 msgstr ""
 "2_Ravana_B_DPT_Dash__H"
 
-msgid ""
+msgid "96"
 "2_Ravana_B_DPT_Dash__M"
-
 msgstr ""
 "2_Ravana_B_DPT_Dash__M"
 
-msgid ""
+msgid "97"
 "2_Ravana_B_DPT_Pounce__M"
-
 msgstr ""
 "2_Ravana_B_DPT_Pounce__M"
 
-msgid ""
+msgid "98"
 "2_Ravana_B_DPT_Turn__T"
-
 msgstr ""
 "2_Ravana_B_DPT_Turn__T"
 
-msgid ""
+msgid "99"
 "2_Ravana_B_FakePounce_Turn1"
-
 msgstr ""
 "2_Ravana_B_FakePounce_Turn1"
 
-msgid ""
+msgid "100"
 "2_Ravana_B_FakePounce_Pounce1"
-
 msgstr ""
 "2_Ravana_B_FakePounce_Pounce1"
 
-msgid ""
+msgid "101"
 "2_Ravana_B_FakePounce_Turn2"
-
 msgstr ""
 "2_Ravana_B_FakePounce_Turn2"
 
-msgid ""
+msgid "102"
 "2_Ravana_B_FakePounce_Pounce2__M"
-
 msgstr ""
 "2_Ravana_B_FakePounce_Pounce2__M"
 
-msgid ""
+msgid "103"
 "2_Ravana_B_FakePounce_Pounce2__T"
-
 msgstr ""
 "2_Ravana_B_FakePounce_Pounce2__T"
 
-msgid ""
+msgid "104"
 "2_Ravana_B_BodyHeatWaveJamming__H"
-
 msgstr ""
 "2_Ravana_B_BodyHeatWaveJamming__H"
 
-msgid ""
+msgid "105"
 "2_Ravana_B_BodyHeatWaveJamming__M"
-
 msgstr ""
 "2_Ravana_B_BodyHeatWaveJamming__M"
 
-msgid ""
+msgid "106"
 "2_Ravana_B_BodyHeatWaveJamming__T"
-
 msgstr ""
 "2_Ravana_B_BodyHeatWaveJamming__T"
 
-msgid ""
+msgid "107"
 "2_Ravana_B_BodyHeatWave__H"
-
 msgstr ""
 "2_Ravana_B_BodyHeatWave__H"
 
-msgid ""
+msgid "108"
 "2_Ravana_B_BodyHeatWave__M"
-
 msgstr ""
 "2_Ravana_B_BodyHeatWave__M"
 
-msgid ""
+msgid "109"
 "2_Ravana_B_BodyHeatWave__T"
-
 msgstr ""
 "2_Ravana_B_BodyHeatWave__T"
 
-msgid ""
+msgid "110"
 "2_Ravana_B_LocalHeatWave__H"
-
 msgstr ""
 "2_Ravana_B_LocalHeatWave__H"
 
-msgid ""
+msgid "111"
 "2_Ravana_B_LocalHeatWave__M"
-
 msgstr ""
 "2_Ravana_B_LocalHeatWave__M"
 
-msgid ""
+msgid "112"
 "2_Ravana_B_LocalHeatWave__T"
-
 msgstr ""
 "2_Ravana_B_LocalHeatWave__T"
 
-msgid ""
+msgid "113"
 "2_Ravana_B_ParallelFire__H"
-
 msgstr ""
 "2_Ravana_B_ParallelFire__H"
 
-msgid ""
+msgid "114"
 "2_Ravana_B_ParallelFire__M"
-
 msgstr ""
 "2_Ravana_B_ParallelFire__M"
 
-msgid ""
+msgid "115"
 "2_Ravana_B_ParallelFire__T"
-
 msgstr ""
 "2_Ravana_B_ParallelFire__T"
 
-msgid ""
+msgid "116"
 "2_Ravana_B_CircurateFire_Charge__H"
-
 msgstr ""
 "2_Ravana_B_CircurateFire_Charge__H"
 
-msgid ""
+msgid "117"
 "2_Ravana_B_CircurateFire_Charge__M"
-
 msgstr ""
 "2_Ravana_B_CircurateFire_Charge__M"
 
-msgid ""
+msgid "118"
 "2_Ravana_B_CircurateFire_Shot__M"
-
 msgstr ""
 "2_Ravana_B_CircurateFire_Shot__M"
 
-msgid ""
+msgid "119"
 "2_Ravana_B_CircurateFire_Shot__T"
-
 msgstr ""
 "2_Ravana_B_CircurateFire_Shot__T"
 
-msgid ""
+msgid "120"
 "2_Ravana_B_PoisonSmoke_Shot__H"
-
 msgstr ""
 "2_Ravana_B_PoisonSmoke_Shot__H"
 
-msgid ""
+msgid "121"
 "2_Ravana_B_PoisonSmoke_Shot__M"
-
 msgstr ""
 "2_Ravana_B_PoisonSmoke_Shot__M"
 
-msgid ""
+msgid "122"
 "2_Ravana_B_PoisonSmoke_BackJump__H"
-
 msgstr ""
 "2_Ravana_B_PoisonSmoke_BackJump__H"
 
-msgid ""
+msgid "123"
 "2_Ravana_B_PoisonSmoke_BackJump__M"
-
 msgstr ""
 "2_Ravana_B_PoisonSmoke_BackJump__M"
 
-msgid ""
+msgid "124"
 "2_Ravana_B_PoisonSmoke_BackJump__T"
-
 msgstr ""
 "2_Ravana_B_PoisonSmoke_BackJump__T"
 
-msgid ""
+msgid "125"
 "2_Ravana_B_StunRailGun__H"
-
 msgstr ""
 "2_Ravana_B_StunRailGun__H"
 
-msgid ""
+msgid "126"
 "2_Ravana_B_StunRailGun__M"
-
 msgstr ""
 "2_Ravana_B_StunRailGun__M"
 
-msgid ""
+msgid "127"
 "2_Ravana_B_StunRailGun__T"
-
 msgstr ""
 "2_Ravana_B_StunRailGun__T"
 
-msgid ""
+msgid "128"
 "2_Ravana_B_BackJump__H"
-
 msgstr ""
 "2_Ravana_B_BackJump__H"
 
-msgid ""
+msgid "129"
 "2_Ravana_B_BackJump__M"
-
 msgstr ""
 "2_Ravana_B_BackJump__M"
 
-msgid ""
+msgid "130"
 "2_Ravana_B_BackJump__T"
-
 msgstr ""
 "2_Ravana_B_BackJump__T"
 
-msgid ""
+msgid "131"
 "2_Ravana_B_BackStep__H"
-
 msgstr ""
 "2_Ravana_B_BackStep__H"
 
-msgid ""
+msgid "132"
 "2_Ravana_B_BackStep__M"
-
 msgstr ""
 "2_Ravana_B_BackStep__M"
 
-msgid ""
+msgid "133"
 "2_Ravana_B_BackStep__T"
-
 msgstr ""
 "2_Ravana_B_BackStep__T"
 
-msgid ""
+msgid "134"
 "2_Ravana_B_Idle_Caution"
-
 msgstr ""
 "2_Ravana_B_Idle_Caution"
 
-msgid ""
+msgid "135"
 "3_Yaksa_N_Idle"
-
 msgstr ""
 "3_Yaksa_N_Idle"
 
-msgid ""
+msgid "136"
 "3_Yaksa_N_Walk"
-
 msgstr ""
 "3_Yaksa_N_Walk"
 
-msgid ""
+msgid "137"
 "3_Yaksa_N_Walk_Caution"
-
 msgstr ""
 "3_Yaksa_N_Walk_Caution"
 
-msgid ""
+msgid "138"
 "3_Yaksa_N_JumpToUpland__H"
-
 msgstr ""
 "3_Yaksa_N_JumpToUpland__H"
 
-msgid ""
+msgid "139"
 "3_Yaksa_N_JumpToUpland__M"
-
 msgstr ""
 "3_Yaksa_N_JumpToUpland__M"
 
-msgid ""
+msgid "140"
 "3_Yaksa_N_JumpToUpland__T"
-
 msgstr ""
 "3_Yaksa_N_JumpToUpland__T"
 
-msgid ""
+msgid "141"
 "3_Yaksa_N_JumpFromUpland__H"
-
 msgstr ""
 "3_Yaksa_N_JumpFromUpland__H"
 
-msgid ""
+msgid "142"
 "3_Yaksa_N_JumpFromUpland__M"
-
 msgstr ""
 "3_Yaksa_N_JumpFromUpland__M"
 
-msgid ""
+msgid "143"
 "3_Yaksa_N_JumpFromUpland__T"
-
 msgstr ""
 "3_Yaksa_N_JumpFromUpland__T"
 
-msgid ""
+msgid "144"
 "3_Yaksa_N_TurnLeft"
-
 msgstr ""
 "3_Yaksa_N_TurnLeft"
 
-msgid ""
+msgid "145"
 "3_Yaksa_N_TurnRight"
-
 msgstr ""
 "3_Yaksa_N_TurnRight"
 
-msgid ""
+msgid "146"
 "3_Yaksa_N_LargeTurnLeft"
-
 msgstr ""
 "3_Yaksa_N_LargeTurnLeft"
 
-msgid ""
+msgid "147"
 "3_Yaksa_N_LargeTurnRight"
-
 msgstr ""
 "3_Yaksa_N_LargeTurnRight"
 
-msgid ""
+msgid "148"
 "3_Yaksa_N_Eat"
-
 msgstr ""
 "3_Yaksa_N_Eat"
 
-msgid ""
+msgid "149"
 "3_Yaksa_Appear"
-
 msgstr ""
 "3_Yaksa_Appear"
 
-msgid ""
+msgid "150"
 "3_Yaksa_B_Idle"
-
 msgstr ""
 "3_Yaksa_B_Idle"
 
-msgid ""
+msgid "151"
 "3_Yaksa_B_Idle_Caution"
-
 msgstr ""
 "3_Yaksa_B_Idle_Caution"
 
-msgid ""
+msgid "152"
 "3_Yaksa_B_Dash__H"
-
 msgstr ""
 "3_Yaksa_B_Dash__H"
 
-msgid ""
+msgid "153"
 "3_Yaksa_B_Dash__M"
-
 msgstr ""
 "3_Yaksa_B_Dash__M"
 
-msgid ""
+msgid "154"
 "3_Yaksa_B_Dash__T"
-
 msgstr ""
 "3_Yaksa_B_Dash__T"
 
-msgid ""
+msgid "155"
 "3_Yaksa_B_JumpToBossUpland"
-
 msgstr ""
 "3_Yaksa_B_JumpToBossUpland"
 
-msgid ""
+msgid "156"
 "3_Yaksa_B_JumpFromBossUpland"
-
 msgstr ""
 "3_Yaksa_B_JumpFromBossUpland"
 
-msgid ""
+msgid "157"
 "3_Yaksa_B_MoveLongPath__H"
-
 msgstr ""
 "3_Yaksa_B_MoveLongPath__H"
 
-msgid ""
+msgid "158"
 "3_Yaksa_B_MoveLongPath__M"
-
 msgstr ""
 "3_Yaksa_B_MoveLongPath__M"
 
-msgid ""
+msgid "159"
 "3_Yaksa_B_MoveLongPath__T"
-
 msgstr ""
 "3_Yaksa_B_MoveLongPath__T"
 
-msgid ""
+msgid "160"
 "3_Yaksa_B_TurnLeft"
-
 msgstr ""
 "3_Yaksa_B_TurnLeft"
 
-msgid ""
+msgid "161"
 "3_Yaksa_B_TurnRight"
-
 msgstr ""
 "3_Yaksa_B_TurnRight"
 
-msgid ""
+msgid "162"
 "3_Yaksa_B_LargeTurnLeft"
-
 msgstr ""
 "3_Yaksa_B_LargeTurnLeft"
 
-msgid ""
+msgid "163"
 "3_Yaksa_B_LargeTurnRight"
-
 msgstr ""
 "3_Yaksa_B_LargeTurnRight"
 
-msgid ""
+msgid "164"
 "3_Yaksa_B_FindComminate"
-
 msgstr ""
 "3_Yaksa_B_FindComminate"
 
-msgid ""
+msgid "165"
 "3_Yaksa_B_AngryComminate"
-
 msgstr ""
 "3_Yaksa_B_AngryComminate"
 
-msgid ""
+msgid "166"
 "3_Yaksa_B_ChagrinComminate"
-
 msgstr ""
 "3_Yaksa_B_ChagrinComminate"
 
-msgid ""
+msgid "167"
 "3_Yaksa_B_Stagger"
-
 msgstr ""
 "3_Yaksa_B_Stagger"
 
-msgid ""
+msgid "168"
 "3_Yaksa_B_FootDown__H"
-
 msgstr ""
 "3_Yaksa_B_FootDown__H"
 
-msgid ""
+msgid "169"
 "3_Yaksa_B_FootDown__M"
-
 msgstr ""
 "3_Yaksa_B_FootDown__M"
 
-msgid ""
+msgid "170"
 "3_Yaksa_B_FootDown__T"
-
 msgstr ""
 "3_Yaksa_B_FootDown__T"
 
-msgid ""
+msgid "171"
 "3_Yaksa_B_SympathyBind__H"
-
 msgstr ""
 "3_Yaksa_B_SympathyBind__H"
 
-msgid ""
+msgid "172"
 "3_Yaksa_B_SympathyBind__M"
-
 msgstr ""
 "3_Yaksa_B_SympathyBind__M"
 
-msgid ""
+msgid "173"
 "3_Yaksa_B_SympathyBind__T"
-
 msgstr ""
 "3_Yaksa_B_SympathyBind__T"
 
-msgid ""
+msgid "174"
 "3_Yaksa_B_Hold__H"
-
 msgstr ""
 "3_Yaksa_B_Hold__H"
 
-msgid ""
+msgid "175"
 "3_Yaksa_B_Hold__M"
-
 msgstr ""
 "3_Yaksa_B_Hold__M"
 
-msgid ""
+msgid "176"
 "3_Yaksa_B_Hold__T"
-
 msgstr ""
 "3_Yaksa_B_Hold__T"
 
-msgid ""
+msgid "177"
 "3_Yaksa_B_Giddy"
-
 msgstr ""
 "3_Yaksa_B_Giddy"
 
-msgid ""
+msgid "178"
 "3_Yaksa_Dead__H"
-
 msgstr ""
 "3_Yaksa_Dead__H"
 
-msgid ""
+msgid "179"
 "3_Yaksa_Dead__M"
-
 msgstr ""
 "3_Yaksa_Dead__M"
 
-msgid ""
+msgid "180"
 "3_Yaksa_Dead__T"
-
 msgstr ""
 "3_Yaksa_Dead__T"
 
-msgid ""
+msgid "181"
 "3_Yaksa_DawnHammer_Shot"
-
 msgstr ""
 "3_Yaksa_DawnHammer_Shot"
 
-msgid ""
+msgid "182"
 "3_Yaksa_DawnHammer_Reload"
-
 msgstr ""
 "3_Yaksa_DawnHammer_Reload"
 
-msgid ""
+msgid "183"
 "3_Yaksa_RippleMassDriver_Shot"
-
 msgstr ""
 "3_Yaksa_RippleMassDriver_Shot"
 
-msgid ""
+msgid "184"
 "3_Yaksa_RippleMassDriver_Reload"
-
 msgstr ""
 "3_Yaksa_RippleMassDriver_Reload"
 
-msgid ""
+msgid "185"
 "3_Yaksa_ShotBlast"
-
 msgstr ""
 "3_Yaksa_ShotBlast"
 
-msgid ""
+msgid "186"
 "3_Yaksa_JumpShotBlast_JumpShot__H"
-
 msgstr ""
 "3_Yaksa_JumpShotBlast_JumpShot__H"
 
-msgid ""
+msgid "187"
 "3_Yaksa_JumpShotBlast_JumpShot__M"
-
 msgstr ""
 "3_Yaksa_JumpShotBlast_JumpShot__M"
 
-msgid ""
+msgid "188"
 "3_Yaksa_JumpShotBlast_JumpShot__T"
-
 msgstr ""
 "3_Yaksa_JumpShotBlast_JumpShot__T"
 
-msgid ""
+msgid "189"
 "3_Yaksa_JumpShotBlast_Reload"
-
 msgstr ""
 "3_Yaksa_JumpShotBlast_Reload"
 
-msgid ""
+msgid "190"
 "3_Yaksa_BackJump__H"
-
 msgstr ""
 "3_Yaksa_BackJump__H"
 
-msgid ""
+msgid "191"
 "3_Yaksa_BackJump__M"
-
 msgstr ""
 "3_Yaksa_BackJump__M"
 
-msgid ""
+msgid "192"
 "3_Yaksa_BackJump__T"
-
 msgstr ""
 "3_Yaksa_BackJump__T"
 
-msgid ""
+msgid "193"
 "3_Yaksa_ShotLightBall_Shot"
-
 msgstr ""
 "3_Yaksa_ShotLightBall_Shot"
 
-msgid ""
+msgid "194"
 "3_Yaksa_ShotLightBall_Reload"
-
 msgstr ""
 "3_Yaksa_ShotLightBall_Reload"
 
-msgid ""
+msgid "195"
 "3_Yaksa_UpperDispel"
-
 msgstr ""
 "3_Yaksa_UpperDispel"
 
-msgid ""
+msgid "196"
 "3_Yaksa_Tackle__H"
-
 msgstr ""
 "3_Yaksa_Tackle__H"
 
-msgid ""
+msgid "197"
 "3_Yaksa_Tackle__M"
-
 msgstr ""
 "3_Yaksa_Tackle__M"
 
-msgid ""
+msgid "198"
 "3_Yaksa_Tackle__T"
-
 msgstr ""
 "3_Yaksa_Tackle__T"
 
-msgid ""
+msgid "199"
 "3_Yaksa_SerialDispel_Start"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Start"
 
-msgid ""
+msgid "200"
 "3_Yaksa_SerialDispel_Dispel0"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Dispel0"
 
-msgid ""
+msgid "201"
 "3_Yaksa_SerialDispel_Dispel1"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Dispel1"
 
-msgid ""
+msgid "202"
 "3_Yaksa_SerialDispel_Dispel2"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Dispel2"
 
-msgid ""
+msgid "203"
 "3_Yaksa_SerialDispel_Dispel3"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Dispel3"
 
-msgid ""
+msgid "204"
 "3_Yaksa_SerialDispel_Finish"
-
 msgstr ""
 "3_Yaksa_SerialDispel_Finish"
 
-msgid ""
+msgid "205"
 "3_Yaksa_RMDTackle_ShotRippleLaser"
-
 msgstr ""
 "3_Yaksa_RMDTackle_ShotRippleLaser"
 
-msgid ""
+msgid "206"
 "3_Yaksa_RMDTackle_Tackle__H"
-
 msgstr ""
 "3_Yaksa_RMDTackle_Tackle__H"
 
-msgid ""
+msgid "207"
 "3_Yaksa_RMDTackle_Tackle__M"
-
 msgstr ""
 "3_Yaksa_RMDTackle_Tackle__M"
 
-msgid ""
+msgid "208"
 "3_Yaksa_RMDTackle_Tackle__T"
-
 msgstr ""
 "3_Yaksa_RMDTackle_Tackle__T"
 
-msgid ""
+msgid "209"
 "3_Yaksa_SDJSB_DispelStart"
-
 msgstr ""
 "3_Yaksa_SDJSB_DispelStart"
 
-msgid ""
+msgid "210"
 "3_Yaksa_SDJSB_Dispel0"
-
 msgstr ""
 "3_Yaksa_SDJSB_Dispel0"
 
-msgid ""
+msgid "211"
 "3_Yaksa_SDJSB_Dispel1"
-
 msgstr ""
 "3_Yaksa_SDJSB_Dispel1"
 
-msgid ""
+msgid "212"
 "3_Yaksa_SDJSB_JumpShot__H"
-
 msgstr ""
 "3_Yaksa_SDJSB_JumpShot__H"
 
-msgid ""
+msgid "213"
 "3_Yaksa_SDJSB_JumpShot__M"
-
 msgstr ""
 "3_Yaksa_SDJSB_JumpShot__M"
 
-msgid ""
+msgid "214"
 "3_Yaksa_SDJSB_JumpShot__T"
-
 msgstr ""
 "3_Yaksa_SDJSB_JumpShot__T"
 
-msgid ""
+msgid "215"
 "3_Yaksa_YaksaCombo_Slam"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Slam"
 
-msgid ""
+msgid "216"
 "3_Yaksa_YaksaCombo_Jump__H"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Jump__H"
 
-msgid ""
+msgid "217"
 "3_Yaksa_YaksaCombo_Jump__M"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Jump__M"
 
-msgid ""
+msgid "218"
 "3_Yaksa_YaksaCombo_Jump__T"
-
 msgstr ""
 "3_Yaksa_YaksaCombo_Jump__T"
 
-msgid ""
+msgid "219"
 "3_Yaksa_Fumble"
-
 msgstr ""
 "3_Yaksa_Fumble"
 

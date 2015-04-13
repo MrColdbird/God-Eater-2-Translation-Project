@@ -1,330 +1,275 @@
-msgid ""
+msgid "0"
 "2_AngelEgg_Default"
-
 msgstr ""
 "2_AngelEgg_Default"
 
-msgid ""
+msgid "1"
 "2_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "2_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "2"
 "2_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "2_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "3"
 "2_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "2_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "4"
 "2_AngelEgg_Cling_Base"
-
 msgstr ""
 "2_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "5"
 "2_AngelEgg_Tackle_Base"
-
 msgstr ""
 "2_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "6"
 "3_Wani_Default"
-
 msgstr ""
 "3_Wani_Default"
 
-msgid ""
+msgid "7"
 "3_Wani_Oracle_Shot_SmallWaterBall"
-
 msgstr ""
 "3_Wani_Oracle_Shot_SmallWaterBall"
 
-msgid ""
+msgid "8"
 "3_Wani_Oracle_Splash_SmallWaterBall"
-
 msgstr ""
 "3_Wani_Oracle_Splash_SmallWaterBall"
 
-msgid ""
+msgid "9"
 "3_Wani_Oracle_Splash_AcidFog"
-
 msgstr ""
 "3_Wani_Oracle_Splash_AcidFog"
 
-msgid ""
+msgid "10"
 "3_Wani_Oracle_Splash_AcidFog_Local"
-
 msgstr ""
 "3_Wani_Oracle_Splash_AcidFog_Local"
 
-msgid ""
+msgid "11"
 "3_Wani_Cling_Base"
-
 msgstr ""
 "3_Wani_Cling_Base"
 
-msgid ""
+msgid "12"
 "3_Wani_Cling_Arms_Base"
-
 msgstr ""
 "3_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "13"
 "3_Wani_Cling_Dash_Base"
-
 msgstr ""
 "3_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "14"
 "3_Wani_Go_Berserk_Base"
-
 msgstr ""
 "3_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "15"
 "4_ManmosMan_Default"
-
 msgstr ""
 "4_ManmosMan_Default"
 
-msgid ""
+msgid "16"
 "4_ManmosMan_Oracle_Missile_Dash"
-
 msgstr ""
 "4_ManmosMan_Oracle_Missile_Dash"
 
-msgid ""
+msgid "17"
 "4_ManmosMan_Oracle_Stamp"
-
 msgstr ""
 "4_ManmosMan_Oracle_Stamp"
 
-msgid ""
+msgid "18"
 "4_ManmosMan_Oracle_Missile_Stamp"
-
 msgstr ""
 "4_ManmosMan_Oracle_Missile_Stamp"
 
-msgid ""
+msgid "19"
 "4_ManmosMan_Oracle_Tomahawk"
-
 msgstr ""
 "4_ManmosMan_Oracle_Tomahawk"
 
-msgid ""
+msgid "20"
 "4_ManmosMan_Oracle_Concentration_Missile"
-
 msgstr ""
 "4_ManmosMan_Oracle_Concentration_Missile"
 
-msgid ""
+msgid "21"
 "4_ManmosMan_Oracle_Diffusion_Missile"
-
 msgstr ""
 "4_ManmosMan_Oracle_Diffusion_Missile"
 
-msgid ""
+msgid "22"
 "4_ManmosMan_Oracle_Black_Napalm"
-
 msgstr ""
 "4_ManmosMan_Oracle_Black_Napalm"
 
-msgid ""
+msgid "23"
 "4_ManmosMan_Oracle_Black_Napalm_Tomahawk"
-
 msgstr ""
 "4_ManmosMan_Oracle_Black_Napalm_Tomahawk"
 
-msgid ""
+msgid "24"
 "4_ManmosMan_Oracle_Homing_Missile"
-
 msgstr ""
 "4_ManmosMan_Oracle_Homing_Missile"
 
-msgid ""
+msgid "25"
 "4_ManmosMan_Dash_Base"
-
 msgstr ""
 "4_ManmosMan_Dash_Base"
 
-msgid ""
+msgid "26"
 "4_ManmosMan_Oracle_Shock_Wave"
-
 msgstr ""
 "4_ManmosMan_Oracle_Shock_Wave"
 
-msgid ""
+msgid "27"
 "4_ManmosMan_First_Dash_Base"
-
 msgstr ""
 "4_ManmosMan_First_Dash_Base"
 
-msgid ""
+msgid "28"
 "4_ManmosMan_Second_Dash_Base"
-
 msgstr ""
 "4_ManmosMan_Second_Dash_Base"
 
-msgid ""
+msgid "29"
 "4_ManmosMan_Long_Dash_Base"
-
 msgstr ""
 "4_ManmosMan_Long_Dash_Base"
 
-msgid ""
+msgid "30"
 "4_ManmosMan_Missile_Dash_Base"
-
 msgstr ""
 "4_ManmosMan_Missile_Dash_Base"
 
-msgid ""
+msgid "31"
 "4_ManmosMan_Back_Kick_Base"
-
 msgstr ""
 "4_ManmosMan_Back_Kick_Base"
 
-msgid ""
+msgid "32"
 "4_ManmosMan_Stamp_Base"
-
 msgstr ""
 "4_ManmosMan_Stamp_Base"
 
-msgid ""
+msgid "33"
 "4_ManmosMan_Missile_Stamp_Base"
-
 msgstr ""
 "4_ManmosMan_Missile_Stamp_Base"
 
-msgid ""
+msgid "34"
 "4_ManmosMan_Tomahawk_Base"
-
 msgstr ""
 "4_ManmosMan_Tomahawk_Base"
 
-msgid ""
+msgid "35"
 "4_ManmosMan_Concentration_Missile_Base"
-
 msgstr ""
 "4_ManmosMan_Concentration_Missile_Base"
 
-msgid ""
+msgid "36"
 "4_ManmosMan_Diffusion_Missile_Base"
-
 msgstr ""
 "4_ManmosMan_Diffusion_Missile_Base"
 
-msgid ""
+msgid "37"
 "4_ManmosMan_Black_Napalm_Tomahawk_Base"
-
 msgstr ""
 "4_ManmosMan_Black_Napalm_Tomahawk_Base"
 
-msgid ""
+msgid "38"
 "4_ManmosMan_Homing_Missile_Base"
-
 msgstr ""
 "4_ManmosMan_Homing_Missile_Base"
 
-msgid ""
+msgid "39"
 "3_Wani_Forehead_Default"
-
 msgstr ""
 "3_Wani_Forehead_Default"
 
-msgid ""
+msgid "40"
 "3_Wani_Body_Default"
-
 msgstr ""
 "3_Wani_Body_Default"
 
-msgid ""
+msgid "41"
 "3_Wani_Mouth_Default"
-
 msgstr ""
 "3_Wani_Mouth_Default"
 
-msgid ""
+msgid "42"
 "3_Wani_Arm_Default"
-
 msgstr ""
 "3_Wani_Arm_Default"
 
-msgid ""
+msgid "43"
 "3_Wani_Back_Default"
-
 msgstr ""
 "3_Wani_Back_Default"
 
-msgid ""
+msgid "44"
 "3_Wani_Tail_Default"
-
 msgstr ""
 "3_Wani_Tail_Default"
 
-msgid ""
+msgid "45"
 "4_ManmosMan_Oracle_Angry_Tomahawk"
-
 msgstr ""
 "4_ManmosMan_Oracle_Angry_Tomahawk"
 
-msgid ""
+msgid "46"
 "4_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
-
 msgstr ""
 "4_ManmosMan_Oracle_Angry_Black_Napalm_Tomahawk"
 
-msgid ""
+msgid "47"
 "4_ManmosMan_Oracle_Back_Slide_Missile"
-
 msgstr ""
 "4_ManmosMan_Oracle_Back_Slide_Missile"
 
-msgid ""
+msgid "48"
 "3_Wani_Oracle_Angry_Go_Berserk"
-
 msgstr ""
 "3_Wani_Oracle_Angry_Go_Berserk"
 
-msgid ""
+msgid "49"
 "3_Wani_Move_Default"
-
 msgstr ""
 "3_Wani_Move_Default"
 
-msgid ""
+msgid "50"
 "4_ManmosMan_Move_Default"
-
 msgstr ""
 "4_ManmosMan_Move_Default"
 
-msgid ""
+msgid "51"
 "3_Wani_Oracle_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "3_Wani_Oracle_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "52"
 "4_ManmosMan_Oracle_Super_LongRange_Tomahawk"
-
 msgstr ""
 "4_ManmosMan_Oracle_Super_LongRange_Tomahawk"
 
-msgid ""
+msgid "53"
 "4_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
-
 msgstr ""
 "4_ManmosMan_Oracle_Super_LongRange_PinPoint_Missile"
 
-msgid ""
+msgid "54"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 

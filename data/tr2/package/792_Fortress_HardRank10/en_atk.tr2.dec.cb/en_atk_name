@@ -1,342 +1,285 @@
-msgid ""
+msgid "0"
 "2_OgreTail_Default"
-
 msgstr ""
 "2_OgreTail_Default"
 
-msgid ""
+msgid "1"
 "2_OgreTail_Oracle_ShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_ShotNeedle"
 
-msgid ""
+msgid "2"
 "2_OgreTail_Oracle_LobShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_LobShotNeedle"
 
-msgid ""
+msgid "3"
 "2_OgreTail_Cling_Base"
-
 msgstr ""
 "2_OgreTail_Cling_Base"
 
-msgid ""
+msgid "4"
 "2_OgreTail_RightTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_RightTailAttack_Base"
 
-msgid ""
+msgid "5"
 "2_OgreTail_Pounce_Base"
-
 msgstr ""
 "2_OgreTail_Pounce_Base"
 
-msgid ""
+msgid "6"
 "2_OgreTail_LeftTailAttack_Base"
-
 msgstr ""
 "2_OgreTail_LeftTailAttack_Base"
 
-msgid ""
+msgid "7"
 "2_OgreTail_Oracle_TailAttackShotNeedle"
-
 msgstr ""
 "2_OgreTail_Oracle_TailAttackShotNeedle"
 
-msgid ""
+msgid "8"
 "3_AngelEgg_Default"
-
 msgstr ""
 "3_AngelEgg_Default"
 
-msgid ""
+msgid "9"
 "3_AngelEgg_Oracle_WindShot"
-
 msgstr ""
 "3_AngelEgg_Oracle_WindShot"
 
-msgid ""
+msgid "10"
 "3_AngelEgg_Oracle_StinkGas"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGas"
 
-msgid ""
+msgid "11"
 "3_AngelEgg_Oracle_StinkGasLob"
-
 msgstr ""
 "3_AngelEgg_Oracle_StinkGasLob"
 
-msgid ""
+msgid "12"
 "3_AngelEgg_Cling_Base"
-
 msgstr ""
 "3_AngelEgg_Cling_Base"
 
-msgid ""
+msgid "13"
 "3_AngelEgg_Tackle_Base"
-
 msgstr ""
 "3_AngelEgg_Tackle_Base"
 
-msgid ""
+msgid "14"
 "4_Wani_Default"
-
 msgstr ""
 "4_Wani_Default"
 
-msgid ""
+msgid "15"
 "4_Wani_Oracle_Shot_SmallWaterBall"
-
 msgstr ""
 "4_Wani_Oracle_Shot_SmallWaterBall"
 
-msgid ""
+msgid "16"
 "4_Wani_Oracle_Splash_SmallWaterBall"
-
 msgstr ""
 "4_Wani_Oracle_Splash_SmallWaterBall"
 
-msgid ""
+msgid "17"
 "4_Wani_Oracle_Splash_AcidFog"
-
 msgstr ""
 "4_Wani_Oracle_Splash_AcidFog"
 
-msgid ""
+msgid "18"
 "4_Wani_Oracle_Splash_AcidFog_Local"
-
 msgstr ""
 "4_Wani_Oracle_Splash_AcidFog_Local"
 
-msgid ""
+msgid "19"
 "4_Wani_Cling_Base"
-
 msgstr ""
 "4_Wani_Cling_Base"
 
-msgid ""
+msgid "20"
 "4_Wani_Cling_Arms_Base"
-
 msgstr ""
 "4_Wani_Cling_Arms_Base"
 
-msgid ""
+msgid "21"
 "4_Wani_Cling_Dash_Base"
-
 msgstr ""
 "4_Wani_Cling_Dash_Base"
 
-msgid ""
+msgid "22"
 "4_Wani_Go_Berserk_Base"
-
 msgstr ""
 "4_Wani_Go_Berserk_Base"
 
-msgid ""
+msgid "23"
 "4_Wani_Forehead_Default"
-
 msgstr ""
 "4_Wani_Forehead_Default"
 
-msgid ""
+msgid "24"
 "4_Wani_Body_Default"
-
 msgstr ""
 "4_Wani_Body_Default"
 
-msgid ""
+msgid "25"
 "4_Wani_Mouth_Default"
-
 msgstr ""
 "4_Wani_Mouth_Default"
 
-msgid ""
+msgid "26"
 "4_Wani_Arm_Default"
-
 msgstr ""
 "4_Wani_Arm_Default"
 
-msgid ""
+msgid "27"
 "4_Wani_Back_Default"
-
 msgstr ""
 "4_Wani_Back_Default"
 
-msgid ""
+msgid "28"
 "4_Wani_Tail_Default"
-
 msgstr ""
 "4_Wani_Tail_Default"
 
-msgid ""
+msgid "29"
 "4_Wani_Oracle_Angry_Go_Berserk"
-
 msgstr ""
 "4_Wani_Oracle_Angry_Go_Berserk"
 
-msgid ""
+msgid "30"
 "4_Wani_Move_Default"
-
 msgstr ""
 "4_Wani_Move_Default"
 
-msgid ""
+msgid "31"
 "4_Wani_Oracle_Splash_AcidFog_SmallScale"
-
 msgstr ""
 "4_Wani_Oracle_Splash_AcidFog_SmallScale"
 
-msgid ""
+msgid "32"
 "5_Wolf_Default"
-
 msgstr ""
 "5_Wolf_Default"
 
-msgid ""
+msgid "33"
 "5_Wolf_Oracle_RightHandSlam"
-
 msgstr ""
 "5_Wolf_Oracle_RightHandSlam"
 
-msgid ""
+msgid "34"
 "5_Wolf_Oracle_DispelSlam"
-
 msgstr ""
 "5_Wolf_Oracle_DispelSlam"
 
-msgid ""
+msgid "35"
 "5_Wolf_Oracle_DashBrakePounce"
-
 msgstr ""
 "5_Wolf_Oracle_DashBrakePounce"
 
-msgid ""
+msgid "36"
 "5_Wolf_Oracle_ShotMoltenRock"
-
 msgstr ""
 "5_Wolf_Oracle_ShotMoltenRock"
 
-msgid ""
+msgid "37"
 "5_Wolf_Oracle_ShotMoltenRock_Broken"
-
 msgstr ""
 "5_Wolf_Oracle_ShotMoltenRock_Broken"
 
-msgid ""
+msgid "38"
 "5_Wolf_Oracle_BurningCombo_AttachedFlame"
-
 msgstr ""
 "5_Wolf_Oracle_BurningCombo_AttachedFlame"
 
-msgid ""
+msgid "39"
 "5_Wolf_Oracle_BurningCombo_LandingFlame"
-
 msgstr ""
 "5_Wolf_Oracle_BurningCombo_LandingFlame"
 
-msgid ""
+msgid "40"
 "5_Wolf_RightHandSlam_Base"
-
 msgstr ""
 "5_Wolf_RightHandSlam_Base"
 
-msgid ""
+msgid "41"
 "5_Wolf_DispelSlam_Base"
-
 msgstr ""
 "5_Wolf_DispelSlam_Base"
 
-msgid ""
+msgid "42"
 "5_Wolf_RightArmImpact_Base"
-
 msgstr ""
 "5_Wolf_RightArmImpact_Base"
 
-msgid ""
+msgid "43"
 "5_Wolf_DashBrakePounce_Base"
-
 msgstr ""
 "5_Wolf_DashBrakePounce_Base"
 
-msgid ""
+msgid "44"
 "5_Wolf_Pounce_Base"
-
 msgstr ""
 "5_Wolf_Pounce_Base"
 
-msgid ""
+msgid "45"
 "5_Wolf_BiteBehind_Base"
-
 msgstr ""
 "5_Wolf_BiteBehind_Base"
 
-msgid ""
+msgid "46"
 "5_Wolf_TurnAroundDispel_Base"
-
 msgstr ""
 "5_Wolf_TurnAroundDispel_Base"
 
-msgid ""
+msgid "47"
 "5_Wolf_ShotMoltenRock_Base"
-
 msgstr ""
 "5_Wolf_ShotMoltenRock_Base"
 
-msgid ""
+msgid "48"
 "5_Wolf_BurningCombo_Base"
-
 msgstr ""
 "5_Wolf_BurningCombo_Base"
 
-msgid ""
+msgid "49"
 "5_Wolf_JumpSlam_Base"
-
 msgstr ""
 "5_Wolf_JumpSlam_Base"
 
-msgid ""
+msgid "50"
 "5_Wolf_DispelSlam_RightArm_Base"
-
 msgstr ""
 "5_Wolf_DispelSlam_RightArm_Base"
 
-msgid ""
+msgid "51"
 "5_Wolf_DashBrakePounce_Run_Base "
-
 msgstr ""
 "5_Wolf_DashBrakePounce_Run_Base "
 
-msgid ""
+msgid "52"
 "5_Wolf_Move_Base"
-
 msgstr ""
 "5_Wolf_Move_Base"
 
-msgid ""
+msgid "53"
 "5_Wolf_Oracle_Discharge_Allround"
-
 msgstr ""
 "5_Wolf_Oracle_Discharge_Allround"
 
-msgid ""
+msgid "54"
 "5_Wolf_Oracle_FireStorm"
-
 msgstr ""
 "5_Wolf_Oracle_FireStorm"
 
-msgid ""
+msgid "55"
 "5_Wolf_Oracle_Pounce_Bomb_Base"
-
 msgstr ""
 "5_Wolf_Oracle_Pounce_Bomb_Base"
 
-msgid ""
+msgid "56"
 "1_BoxFish_Default"
-
 msgstr ""
 "1_BoxFish_Default"
 
